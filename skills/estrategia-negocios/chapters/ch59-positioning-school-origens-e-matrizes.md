@@ -1,0 +1,39 @@
+# Capítulo 59: A Escola do Posicionamento — Origens e Matrizes de Portfólio
+*(Fonte: Strategy Safari, Mintzberg, Ahlstrand & Lampel — Cap. 4, Parte 1)*
+
+## Core Idea
+No início dos anos 1980, um vento vindo da economia soprou pelo campo da gestão estratégica, varrendo boa parte da literatura prescritiva tradicional para um canto. A Escola do Posicionamento aceitou a maioria das premissas do Design e do Planejamento, mas acrescentou algo revolucionário: em vez de aceitar que estratégias possíveis são infinitas e sob medida para cada organização (premissa do Design), argumentou que apenas ALGUMAS posições-chave — defensáveis contra concorrentes existentes e futuros — são desejáveis em qualquer indústria dada. Essas posições foram chamadas de "genéricas". Ao dispensar a exigência de exclusividade, a Escola do Posicionamento pôde criar e refinar um conjunto de ferramentas analíticas dedicadas a combinar a estratégia certa com as condições certas — ambas tratadas como genéricas (maturidade ou fragmentação de uma indústria, por exemplo). O papel do analista mudou: em vez de desenhar estratégias, ele passou a SELECIONAR entre um número limitado de opções pré-catalogadas — "estratégias deveriam ser colhidas da árvore de oportunidades estratégicas genéricas".
+
+## Frameworks Introduced
+- **Os Máximos Militares como Primeira Onda (Sun Tzu e Clausewitz)**: a Escola do Posicionamento é, na verdade, a mais antiga de todas — os primeiros escritos registrados sobre estratégia (há mais de dois milênios) tratavam exatamente da seleção de posição ótima em contexto de batalha militar.
+  - When to use: para reconhecer que a lógica de "combinar estratégia genérica com condição genérica" tem raízes muito mais antigas que a consultoria moderna.
+  - How: Sun Tzu já classificava condições genéricas de terreno (dispersivo, de fronteira, focal, difícil) e amarrava máximas específicas a cada uma ("em terreno focal, alie-se a estados vizinhos; em terreno profundo, pilhe"), além de regras de proporção numérica de força ("dez vezes o inimigo, cerque-o; cinco vezes, ataque-o"). Crucialmente, o próprio Sun Tzu reconhecia os limites do pensamento genérico: "as notas musicais são apenas cinco, mas suas melodias são tantas que não conseguimos ouvi-las todas" — alerta que a Escola do Posicionamento moderna frequentemente esqueceu.
+- **A Matriz de Crescimento-Participação do BCG (Cash Cows, Dogs, Stars, Problem Children)**: ferramenta de "planejamento de portfólio" que aloca fundos entre diferentes negócios de uma empresa diversificada, plotando taxa de crescimento de mercado (eixo vertical) contra participação de mercado relativa (eixo horizontal).
+  - When to use: ao decidir como alocar capital entre múltiplas unidades de negócio dentro de um portfólio corporativo diversificado.
+  - How: **Vacas Leiteiras** (alta participação, baixo crescimento) geram excesso de caixa que não deveria ser reinvestido no próprio produto; **Cães** (baixa participação, baixo crescimento) são essencialmente sem valor, exceto em liquidação; **Crianças-Problema** (baixa participação, alto crescimento) exigem investimento pesado para se tornarem líderes, ou morrem; **Estrelas** (alta participação, alto crescimento) eventualmente se tornam vacas leiteiras quando o crescimento diminui. Um portfólio equilibrado precisa de estrelas (garantem o futuro), vacas leiteiras (financiam esse futuro) e crianças-problema convertíveis em estrelas — cães não são necessários, são evidência de fracasso em obter liderança durante a fase de crescimento.
+- **A Curva de Experiência e o PIMS — Dados Não São Ditames**: a curva de experiência (custo cai percentual constante a cada duplicação da produção cumulativa) levou a obsessão por volume e participação de mercado como fins em si mesmos; o PIMS (Profit Impact of Market Strategies) encontrou correlação entre participação de mercado e lucro — mas correlação não é causação.
+  - When to use: como alerta crítico contra qualquer "imperativo" estratégico derivado de correlação estatística sem verificação de causalidade real.
+  - How: pergunte "participação de mercado alta traz lucro, ou lucro alto permite comprar participação de mercado (empresas grandes podem se dar ao luxo de 'comprar' participação)? Ou será que outra coisa (como servir bem o cliente) causa ambos?" — "participação de mercado é uma recompensa, não uma estratégia!" Tanto o PIMS quanto o BCG tinham viés estrutural para empresas grandes e estabelecidas (que tinham dinheiro para comprar acesso às bases de dados), sendo incapazes de distinguir "chegar lá" de "estar lá" ou "permanecer lá".
+
+## Key Concepts
+- **A natureza redutora da matriz BCG**: pegou as duas categorias principais do modelo clássico da Escola do Design (ambiente externo e capacidades internas), selecionou UMA dimensão-chave para cada (crescimento de mercado e participação relativa), organizou-as em dois eixos, e inseriu rótulos de estratégias genéricas em cada quadrante — "realmente bastante simples — melhor até que um livro de receitas, que geralmente exige muitos ingredientes diferentes".
+- **A crítica de John Seeger**: "o que parece uma estrela pode já ser um buraco negro, enquanto um cão pode ser o melhor amigo de uma corporação" — a simplicidade sedutora da matriz esconde armadilhas de interpretação real.
+- **A obsessão americana por liderança de mercado**: como resultado da popularidade da curva de experiência e da matriz de crescimento-participação, "ser líder de mercado" tornou-se obsessão nos negócios americanos por um tempo — mesmo quando isso significava cortar preços agressivamente apenas para "andar mais rápido pela curva de experiência", ignorando se as condições reais justificavam essa corrida.
+
+## Mental Models
+- Antes de aplicar qualquer matriz de portfólio (BCG ou similar) para decidir alocação de capital, pergunte se a categorização de "estrela/vaca/cão/criança-problema" realmente captura a dinâmica competitiva real do negócio específico, ou se está mascarando um "buraco negro" disfarçado de estrela.
+- Diante de qualquer correlação estatística citada como "lei" estratégica (como "alta participação de mercado gera alto lucro"), investigue ativamente hipóteses alternativas de causalidade antes de tratá-la como imperativo a seguir.
+
+## Anti-patterns
+- **Perseguir participação de mercado ou volume como fim em si mesmo**, sem verificar se as condições reais (estrutura de custo, comportamento do cliente) justificam essa corrida.
+- **Tratar correlação estatística de bases de dados (PIMS) como lei causal universal aplicável a qualquer negócio**, ignorando viés de amostra e possíveis causas alternativas.
+- **Aplicar matriz de portfólio simplista sem verificar se ela captura a dinâmica competitiva real** de cada unidade de negócio específica.
+
+## Key Takeaways
+1. Reconheça a Escola do Posicionamento como a mais antiga do campo — suas raízes remontam a Sun Tzu e aos máximos militares, mas a versão moderna frequentemente esquece o alerta do próprio Sun Tzu contra pensamento genérico rígido.
+2. Use matrizes de portfólio (BCG) com ceticismo — a simplicidade da categorização em quadrantes esconde armadilhas reais de interpretação equivocada.
+3. Nunca trate correlação estatística (participação de mercado e lucro) como imperativo causal sem investigar hipóteses alternativas de causalidade.
+
+## Connects To
+- **Ch 1-13 (A Arte da Guerra — Sun Tzu)**: os próprios autores de Strategy Safari reconhecem Sun Tzu como fundador da linhagem de pensamento da Escola do Posicionamento — conectando diretamente ao Livro 1 desta skill.
+- **Ch 60 (A Escola do Posicionamento — Porter)**: aprofunda a terceira onda desta escola, iniciada por Michael Porter em 1980, no capítulo seguinte.

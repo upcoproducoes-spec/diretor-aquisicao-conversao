@@ -1,0 +1,39 @@
+# Capítulo 60: A Escola do Posicionamento — Porter e a Terceira Onda
+*(Fonte: Strategy Safari, Mintzberg, Ahlstrand & Lampel — Cap. 4, Parte 2)*
+
+## Core Idea
+1980 foi o ano decisivo: Michael Porter publicou "Competitive Strategy", cristalizando o descontentamento acumulado com as Escolas do Design e Planejamento numa "terceira onda" que passou a dominar toda a literatura e prática de gestão estratégica. Porter cursou doutorado em economia na Harvard entre um MBA e carreira docente na escola de negócios — e trouxe da economia da organização industrial ("uma abordagem sistemática e relativamente rigorosa, apoiada em testes empíricos") uma virada decisiva: estratégia de negócio deveria se basear na estrutura de mercado em que as firmas operam. Em essência, Porter pegou a abordagem básica da Escola do Design e a aplicou ao ambiente externo/industrial — construindo sobre a aceitação já disseminada de estratégia como design, mas com procedimentos no espírito da Escola do Planejamento, somados ao corpo estabelecido de conhecimento da organização industrial. A combinação foi poderosa e instantaneamente popular tanto em círculos acadêmicos quanto empresariais.
+
+## Frameworks Introduced
+- **O Modelo das Cinco Forças Competitivas**: (1) Ameaça de Novos Entrantes — barreiras de entrada altas (economia de escala, exigência de capital, lealdade à marca) criam "clube aconchegante" com competição amigável; barreiras baixas geram grupo altamente competitivo; (2) Poder de Barganha dos Fornecedores — vantagem vai para o lado com mais opções e menos a perder se a relação terminar; (3) Poder de Barganha dos Clientes — depende de quanto compram, quão informados são, e disposição de experimentar alternativas; (4) Ameaça de Produtos Substitutos — "ninguém é insubstituível"; competição depende do quanto produtos de uma indústria podem ser substituídos por outros de indústria diferente; (5) Intensidade da Rivalidade entre Concorrentes — "um cruzamento entre guerra ativa e diplomacia pacífica", convergindo os quatro fatores anteriores.
+  - When to use: como análise estrutural obrigatória de qualquer indústria antes de formular estratégia competitiva.
+  - How: mapeie sistematicamente as cinco forças para o setor específico — as peculiaridades de cada força explicam por que firmas adotam determinada estratégia (poder alto de fornecedores empurra para integração vertical retrógrada, por exemplo). Nunca analise as forças isoladamente — elas interagem (ameaça de substitutos pode levar firmas a se aliarem; competição severa pode explodir quando compradores e fornecedores têm poder relativamente igual).
+- **As Estratégias Genéricas de Porter (Liderança de Custo, Diferenciação, Foco)**: apenas dois tipos básicos de vantagem competitiva existem — custo baixo ou diferenciação — que combinados com o escopo (amplo ou restrito) produzem três estratégias genéricas para desempenho acima da média.
+  - When to use: como teste de coerência estratégica — "ser tudo para todos é receita para mediocridade estratégica e desempenho abaixo da média."
+  - How: escolha explicitamente entre Liderança de Custo (menor custo via experiência, produção em escala, monitoramento rigoroso de custo operacional), Diferenciação (produtos/serviços únicos apoiados em lealdade de marca, justificando preço mais alto), ou Foco (servir segmento estreito, seja com diferenciação focal ou liderança de custo focal). Uma firma que persegue múltiplas dessas simultaneamente sem conseguir nenhuma fica "presa no meio" (stuck in the middle) — nem barata nem diferenciada o suficiente para vencer.
+- **A Cadeia de Valor**: desagregação da firma em atividades primárias (logística de entrada, operações, logística de saída, marketing/vendas, serviço) e atividades de apoio (aquisição, desenvolvimento de tecnologia, gestão de recursos humanos, infraestrutura da firma) — a margem de lucro depende de como toda essa cadeia é gerenciada como sistema, não apenas de excelência isolada em uma atividade.
+  - When to use: para mapear onde exatamente uma empresa cria (ou destrói) valor ao longo de todo seu processo de negócio.
+  - How: examine sistematicamente todas as atividades e como elas interagem — ser excelente em marketing pode não ser vantagem estratégica se estiver mal combinado com operações; a totalidade da cadeia, não partes isoladas, determina vantagem competitiva real.
+
+## Key Concepts
+- **A crítica de Danny Miller ao "presos no meio"**: especialização estratégica rígida pode "causar inflexibilidade e restringir a visão de uma organização" — o caso Caterpillar ilustra: sua diferenciação obsessiva em precisão e durabilidade de equipamentos de terraplanagem a fez esquecer eficiência e economia, tornando-a vulnerável à concorrência japonesa.
+- **Resolvendo o "dilema dos opostos" (contra-exemplos a Porter)**: Baden-Fuller e Stopford apontam a Benetton, capaz de produzir moda de ponta a baixo custo e larga escala; Gilbert e Strebel discutem estratégias de "ultrapassagem" (outpacing), onde firmas como a Toyota entram como produtoras de baixo custo e depois se diferenciam para capturar ainda mais participação de mercado — sugerindo que a escolha rígida entre custo OU diferenciação de Porter nem sempre é a única via de sucesso.
+- **Quatro tipos de pesquisa da Escola do Posicionamento**: cruzamento entre fator único vs. cluster de fatores, e condição estática vs. dinâmica — a tendência real da pesquisa desta escola favoreceu as formas mais simples (fator único, condição estática), deixando o trabalho mais complexo e dinâmico relativamente subdesenvolvido.
+
+## Mental Models
+- Antes de formular estratégia competitiva para qualquer negócio, mapeie explicitamente as cinco forças do setor específico — não assuma estrutura genérica sem análise real.
+- Ao avaliar uma estratégia de "foco" ou "diferenciação" bem-sucedida, pergunte se ela está gerando rigidez perigosa (o padrão Caterpillar) que pode se tornar vulnerabilidade quando as condições do setor mudam.
+
+## Anti-patterns
+- **Tentar perseguir liderança de custo e diferenciação plena simultaneamente sem estratégia clara de sequenciamento** — risco genuíno de ficar "presa no meio", mas nem sempre impossível de resolver (ver contra-exemplos Benetton/Toyota).
+- **Analisar cadeia de valor por atividade isolada** sem considerar como as atividades interagem sistemicamente — excelência isolada não gera vantagem se mal combinada com o resto da cadeia.
+- **Ignorar a possibilidade de que rigidez estratégica excessiva** (mesmo bem-sucedida no momento) pode gerar vulnerabilidade estrutural de longo prazo.
+
+## Key Takeaways
+1. Mapeie sistematicamente as Cinco Forças de Porter para qualquer setor antes de formular estratégia competitiva — nunca analise as forças isoladamente, pois interagem entre si.
+2. Escolha explicitamente entre liderança de custo, diferenciação ou foco — evite ficar "presa no meio", mas reconheça que estratégias de "ultrapassagem" (outpacing) podem resolver o dilema em contextos específicos.
+3. Use a cadeia de valor para mapear onde valor real é criado ou destruído — vantagem competitiva depende da coerência sistêmica entre atividades, não de excelência isolada.
+
+## Connects To
+- **Ch 71-73 (Vantagem Competitiva — Porter, livro completo)**: aprofunda formalmente cada um dos conceitos aqui resumidos (Cinco Forças, estratégias genéricas, cadeia de valor) no livro dedicado de Porter.
+- **Ch 37 (Playing to Win — Como Vencer)**: as duas estratégias genéricas de Lafley & Martin (custo/diferenciação) são aplicação direta e simplificada do framework de Porter aqui descrito.
