@@ -2,6 +2,31 @@
 
 Técnicas de growth e funil formatadas para aplicação direta. Cada padrão indica quando usar, como executar, e os trade-offs a considerar.
 
+## Teste da Vaca Roxa antes de Investir em Mídia
+**When to use**: Antes de aprovar orçamento de campanha para um produto/oferta que ainda não foi validado como "digno de comentário" — especialmente quando a resposta padrão a vendas baixas é "precisamos de mais publicidade".
+**How**: Pergunte diretamente: se um cliente satisfeito contasse a um amigo sobre isto, o que exatamente ele diria de notável? Se a resposta for genérica ("é bom", "tem boa relação custo-benefício"), o produto ainda não é uma Vaca Roxa. Rode o Checklist de Bordas (ch40): o produto pode ser o mais rápido, mais simples, mais caro-com-justificativa, mais exclusivo, mais radicalmente diferente em algum eixo genuíno? Se não há resposta clara, redirecione o orçamento de mídia para engenharia de produto/oferta antes de comprar qualquer anúncio.
+**Trade-offs**: Atrasa a campanha e exige coragem organizacional para admitir que o produto, não a comunicação, é o problema — mas evita queimar orçamento de mídia amplificando algo que ninguém comentaria espontaneamente.
+
+## Definição da Menor Audiência Viável antes de Qualquer Lançamento
+**When to use**: Ao planejar qualquer lançamento, campanha ou novo produto, antes de definir canais, copy ou orçamento — especialmente quando o instinto é "quanto mais gente alcançarmos, melhor".
+**How**: Pergunte "qual é o menor número de pessoas que precisaríamos mudar para este esforço valer a pena?". Escolha esse grupo pelos extremos (quem tem o problema mais agudo, quem já demonstra otaku/paixão pela categoria), não pela facilidade de alcance. Escreva a promessa de marketing no template de 3 frases: "Meu produto é para pessoas que acreditam ___. Vou focar em pessoas que querem ___. Prometo que engajar com o que eu fiz vai ajudar você a obter ___." Tenha coragem de dizer "não é para você" a quem está fora desse grupo.
+**Trade-offs**: Reduz o alcance nominal da campanha no curto prazo e exige recusar clientes fora do perfil — mas concentra o orçamento de atenção onde ele converte tensão em ação real, em vez de diluí-lo tentando agradar a todos.
+
+## Diagnóstico Dominância vs. Afiliação antes de Desenhar Mensagem
+**When to use**: Ao escrever copy, desenhar oferta ou definir tom de comunidade para um público específico, quando testes A/B de mensagem não estão convergindo em um vencedor claro.
+**How**: Investigue se o público mede status predominantemente por dominância ("quem vence, quem tem mais poder, isto é meu") ou por afiliação ("quem me conhece, estou em sintonia com o grupo, pertenço"). Mensagens de escassez/competição/vitória funcionam para dominância; mensagens de comunidade/pertencimento/sintonia funcionam para afiliação. Teste ambos os enquadramentos separadamente antes de escalar qualquer um.
+**Trade-offs**: Exige pesquisa qualitativa direta com o público (entrevistas, observação) em vez de assumir por atalho demográfico — status não se infere só por renda ou idade.
+
+## Grid de Posicionamento XY para Escapar da Commoditização
+**When to use**: Quando um produto/serviço está preso em guerra de preço, competindo no mesmo quadrante popular que todos os concorrentes, sem diferenciação clara.
+**How**: Escolha dois eixos de atributo que o público-alvo genuinamente valoriza (não os mais populares — os mais negligenciados e verdadeiros para o seu produto). Plote todas as alternativas do mercado nesse grid. Se seu produto cai no quadrante lotado, mude os eixos ou mude o produto até encontrar um quadrante vazio onde você é a resposta óbvia. Construa a comunicação inteira em torno desse quadrante, mesmo que isso signifique abandonar o quadrante popular.
+**Trade-offs**: Abandonar o quadrante popular reduz o tamanho nominal do mercado endereçável de imediato — mas escapa da corrida ao fundo do poço em preço, que raramente tem vencedor sustentável para quem não é o líder de custo já estabelecido.
+
+## Tensão Deliberada para Vencer Pattern Interrupt
+**When to use**: Ao lançar um produto que exige que o público abandone um hábito arraigado (não um produto "novo para categoria sem hábito prévio"), e a adoção está mais lenta do que o esperado apesar de bom produto.
+**How**: Identifique a tensão social específica que vai superar a inércia — não medo (que paralisa), mas o desconforto genuíno de "ficar para trás", "não estar em sintonia com meus pares", ou "perder a chance de melhorar" — e certifique-se de que existe um caminho claro e imediato de alívio dessa tensão (a ação que se pede). Desenhe o produto para que o efeito de rede reforce essa tensão organicamente entre pares (quanto mais gente usa, mais dolorosa fica a ausência de quem não usa).
+**Trade-offs**: Tensão mal calibrada pode escorregar para medo/manipulação, o que destrói confiança de longo prazo — a tensão precisa ser genuína (relacionada a um benefício real) e a rota de alívio precisa ser imediatamente acessível.
+
 ## Pesquisa Must-Have antes de Escalar Aquisição
 **When to use**: Antes de qualquer decisão de aumentar orçamento de aquisição, mídia paga ou expansão de canais — especialmente quando o cliente/agência pede "mais tráfego" como primeira resposta a vendas baixas.
 **How**: Aplicar a pergunta "Como você se sentiria se não pudesse mais usar/comprar de [produto/marca]?" a uma amostra de clientes reais recentes. Segmentar respostas por perfil. Se menos de 40% responder "muito decepcionado", o problema é de oferta/produto, não de volume de topo de funil.

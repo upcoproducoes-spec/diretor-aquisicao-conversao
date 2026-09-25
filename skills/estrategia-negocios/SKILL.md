@@ -1,17 +1,17 @@
 ---
 name: estrategia-negocios
-description: "Base de conhecimento sintetizada de 7 obras clássicas de estratégia de negócios: A Arte da Guerra (Sun Tzu), Good Strategy Bad Strategy (Richard Rumelt), Playing to Win (A.G. Lafley & Roger Martin), Blue Ocean Strategy (Kim & Mauborgne), Good to Great (Jim Collins), Strategy Safari (Mintzberg, Ahlstrand & Lampel) e Competitive Advantage (Michael Porter). Use para diagnóstico de negócio, análise competitiva, vantagem competitiva sustentável, posicionamento, diferenciação, cadeia de valor, estratégia de custo, ataque/defesa competitiva, escolha de onde competir e como vencer, cultura e liderança organizacional, e para diagnosticar qual escola de pensamento estratégico está implícita em qualquer framework ou conselho de negócios."
+description: "Base de conhecimento sintetizada de 8 obras clássicas de estratégia de negócios: A Arte da Guerra (Sun Tzu), Good Strategy Bad Strategy (Richard Rumelt), Playing to Win (A.G. Lafley & Roger Martin), Blue Ocean Strategy (Kim & Mauborgne), Good to Great (Jim Collins), Strategy Safari (Mintzberg, Ahlstrand & Lampel), Competitive Advantage (Michael Porter) e Positioning: The Battle for Your Mind (Al Ries & Jack Trout). Use para diagnóstico de negócio, análise competitiva, vantagem competitiva sustentável, posicionamento (incluindo a obra fundadora que cunhou o termo), diferenciação, cadeia de valor, estratégia de custo, ataque/defesa competitiva, escolha de onde competir e como vencer, escolha e proteção de nome de marca/produto/empresa, armadilha de extensão de linha, cultura e liderança organizacional, e para diagnosticar qual escola de pensamento estratégico está implícita em qualquer framework ou conselho de negócios."
 ---
 
 <!-- argument-hint: [tópico, framework, autor, ou número de capítulo] -->
 
-# Estratégia de Negócios (7 Livros)
-**Autores**: Sun Tzu, Richard Rumelt, A.G. Lafley & Roger Martin, W. Chan Kim & Renée Mauborgne, Jim Collins, Henry Mintzberg/Bruce Ahlstrand/Joseph Lampel, Michael E. Porter | **Capítulos**: 79 | **Gerado**: 2026-09-12
+# Estratégia de Negócios (8 Livros)
+**Autores**: Sun Tzu, Richard Rumelt, A.G. Lafley & Roger Martin, W. Chan Kim & Renée Mauborgne, Jim Collins, Henry Mintzberg/Bruce Ahlstrand/Joseph Lampel, Michael E. Porter, Al Ries & Jack Trout | **Capítulos**: 95 | **Gerado**: 2026-09-25
 
 ## Como Usar Esta Skill
 
 - **Sem argumentos** — carregue os frameworks centrais abaixo para referência rápida
-- **Com um tópico** — pergunte sobre `cinco forças`, `cadeia de valor`, `oceano azul`, `hedgehog concept`, `kernel`, `escolas de estratégia`, `ataque a líder`, ou outro tópico indexado; localizo e leio o capítulo relevante
+- **Com um tópico** — pergunte sobre `cinco forças`, `cadeia de valor`, `oceano azul`, `hedgehog concept`, `kernel`, `escolas de estratégia`, `ataque a líder`, `posicionamento`, `escada mental`, `armadilha de extensão de linha`, `nome de marca`, ou outro tópico indexado; localizo e leio o capítulo relevante
 - **Com capítulo** — peça `ch19` ou `ch72`; carrego esse arquivo específico
 - **Navegar** — pergunte "quais capítulos você tem?" para ver o índice completo
 
@@ -47,6 +47,12 @@ Manter fé inabalável de que se vai prevalecer no final, combinada com confront
 
 ### As Dez Escolas de Pensamento Estratégico (Mintzberg, Ahlstrand & Lampel)
 Três Prescritivas (Design, Planejamento, Posicionamento — como estratégia DEVERIA ser formulada), seis Descritivas (Empreendedora, Cognitiva, Aprendizado, Poder, Cultural, Ambiental — como estratégia de fato SE FORMA), uma Integradora (Configuração — reconciliando as demais em estágios). Nenhuma escola isolada captura o processo completo; a maestria vem de saber quando cada lente ilumina mais.
+
+### Posicionamento e a Sociedade Supercomunicada (Ries & Trout)
+Positioning não é o que você faz ao produto — é o que você faz à MENTE do prospect. Numa sociedade supercomunicada (a mente humana rejeita a maior parte da informação que recebe, aceitando só o que já combina com conhecimento prévio), a única defesa eficaz é a mensagem radicalmente supersimplificada. A mente organiza cada categoria como uma **escada mental (product ladder)** — poucos degraus, uma marca por degrau — e recompensa desproporcionalmente quem chega primeiro ("second is nowhere"). Antes de qualquer decisão de comunicação, mapeie a escada: quem já ocupa cada degrau na cabeça do prospect-alvo.
+
+### A Regra do Não-Ataque-de-Frente (Ries & Trout)
+Nunca atacar de frente ("head-on") uma posição forte já estabelecida na mente do prospect — as vantagens intrínsecas de quem chegou primeiro normalmente esgotam os recursos do desafiante antes de qualquer progresso real (caso definitivo: os US$250 milhões perdidos pela RCA tentando competir de frente com a IBM em computadores). A alternativa correta nunca é imitar a estratégia do líder — é ir por baixo, por cima ou pela lateral: encontrar um creneau (buraco na mente ainda não ocupado), reposicionar a concorrência expondo uma vulnerabilidade real e verificável, ou construir a partir de uma posição adjacente já própria.
 
 ### Bons versus Ruins Concorrentes (Porter)
 Concorrentes certos fortalecem, não debilitam, a posição competitiva — absorvem flutuações de demanda, realçam capacidade de diferenciar, servem segmentos não-atrativos, fornecem guarda-chuva de custo, ajudam desenvolvimento de mercado, e bloqueiam avenidas de entrada. Diagnostique explicitamente se um concorrente é "bom" ou "ruim" antes de atacá-lo indiscriminadamente.
@@ -171,6 +177,26 @@ Complexidade, Integração, Genérico vs. Único, Controle (deliberado vs. emerg
 | [ch78](chapters/ch78-porter-produtos-complementares-e-cenarios.md) | Produtos Complementares e Cenários | Bundling, Subsídio Cruzado, Cenários de Indústria |
 | [ch79](chapters/ch79-porter-estrategia-defensiva-e-ataque-a-lideres.md) | Estratégia Defensiva e Ataque a Líderes | Táticas Defensivas, Três Condições de Ataque |
 
+### Livro 8 — Positioning: The Battle for Your Mind (Al Ries & Jack Trout)
+| # | Título | Frameworks-Chave |
+|---|---|---|
+| [ch80](chapters/ch80-conceito-de-posicionamento-sociedade-supercomunicada.md) | O Conceito de Posicionamento e a Sociedade Supercomunicada | Positioning = o que se faz à mente; Três Eras da Propaganda |
+| [ch81](chapters/ch81-entrando-na-mente-escadinhas-mentais.md) | Entrando na Mente e as Escadinhas Mentais | Ser o Primeiro; Product Ladder; Posição "Contra"/"Uncola" |
+| [ch82](chapters/ch82-voce-nao-pode-chegar-la-daqui.md) | Você Não Pode Chegar Lá Daqui | Regra do Não-Ataque-de-Frente; Caso RCA vs. IBM |
+| [ch83](chapters/ch83-posicionamento-do-lider.md) | Posicionamento do Líder | Cobertura de Apostas; Multimarcas; Princípio da Gangorra |
+| [ch84](chapters/ch84-posicionamento-do-seguidor.md) | Posicionamento do Seguidor | Cherchez le Creneau; Armadilha do Todo Mundo |
+| [ch85](chapters/ch85-reposicionando-a-concorrencia.md) | Reposicionando a Concorrência | Reposicionamento vs. Propaganda Comparativa; Caso Tylenol |
+| [ch86](chapters/ch86-o-poder-do-nome.md) | O Poder do Nome | Nome Quase-Genérico; Nomes Negativos que Viram Positivos |
+| [ch87](chapters/ch87-armadilha-sem-nome-e-carona-gratuita.md) | A Armadilha do Sem-Nome e a Carona Gratuita | Taquigrafia Fonética; Free-Ride Trap |
+| [ch88](chapters/ch88-armadilha-extensao-de-linha.md) | A Armadilha da Extensão de Linha | Step-Up/Step-Down; Cinco Regras da Estrada |
+| [ch89](chapters/ch89-estudos-de-caso-empresa-pais-ilha.md) | Estudos de Caso I — Empresa, País, Ilha | Estratégia da Terceira Perna; Conexão Havaí |
+| [ch90](chapters/ch90-estudos-de-caso-produto-servico.md) | Estudos de Caso II — Produto e Serviço | Reposicionar a Categoria; Teste de Mercado Controlado |
+| [ch91](chapters/ch91-estudos-de-caso-dois-bancos-regionais.md) | Estudos de Caso III — Dois Bancos Regionais | Diferencial Semântico; Ataque à Fraqueza Estrutural |
+| [ch92](chapters/ch92-estudos-de-caso-resort-e-instituicao.md) | Estudos de Caso IV — Resort e Instituição | Credibilidade de Especialista Externo; Crise de Identidade |
+| [ch93](chapters/ch93-posicionando-voce-mesmo-e-sua-carreira.md) | Posicionando Você Mesmo e Sua Carreira | Os Seis Cavalos Para Montar |
+| [ch94](chapters/ch94-posicionando-seu-negocio-seis-perguntas.md) | Posicionando Seu Negócio — As Seis Perguntas | Checklist das Seis Perguntas de Posicionamento |
+| [ch95](chapters/ch95-jogando-o-jogo-do-posicionamento.md) | Jogando o Jogo do Posicionamento | Palavras como Recipientes Vazios; Rolls-Royce Thinking |
+
 ## Índice de Tópicos
 
 - **Diagnóstico de negócio / análise de situação** → ch01, ch14, ch19, ch60, ch71
@@ -179,15 +205,23 @@ Complexidade, Integração, Genérico vs. Único, Controle (deliberado vs. emerg
 - **Vantagem de custo / direcionadores de custo** → ch60, ch73
 - **Diferenciação / valor do comprador** → ch60, ch74
 - **Estratégias genéricas (custo/diferenciação/foco)** → ch60, ch71
-- **Posicionamento / onde competir** → ch35-37, ch59-60
+- **Posicionamento / onde competir** → ch35-37, ch59-60, ch80-95 (Livro 8 completo é a fonte primária do conceito — ver especialmente ch80 para a definição fundadora "positioning é o que você faz à mente do prospect", ch94 para o checklist prático das seis perguntas, e ch95 para a síntese final e a regra do não-ataque-de-frente)
+- **Escada mental / product ladder / ser o primeiro** → ch81, ch83
+- **Creneau / encontrar espaço na mente / posicionamento de seguidor** → ch84, ch89-92
+- **Reposicionamento da concorrência / propaganda comparativa** → ch85, ch91
+- **Nome de marca/produto/empresa (escolha, proteção, armadilhas)** → ch86, ch87, ch93
+- **Armadilha de extensão de linha / diluição de marca** → ch88
+- **Ataque a líder de categoria (perceptual) / regra do não-ataque-de-frente** → ch82, ch95
+- **Posicionamento aplicado (estudos de caso: empresa, país, produto, serviço, banco, instituição)** → ch89-92
+- **Posicionamento pessoal / de carreira** → ch93
 - **Cascata de escolhas estratégicas** → ch23-42
 - **Oceano azul / inovação de valor** → ch43-46
 - **Segmentação de indústria / foco** → ch76
 - **Substituição / ameaças de produto substituto** → ch76
 - **Liderança / cultura organizacional** → ch47-55, ch66
 - **Kernel / o que é (não é) estratégia** → ch14-22
-- **Concorrentes / seleção de concorrentes / ataque e defesa** → ch06, ch75, ch79
-- **Interrelações corporativas / diversificação / sinergia** → ch77
+- **Concorrentes / seleção de concorrentes / ataque e defesa** → ch06, ch75, ch79, ch82, ch95
+- **Interrelações corporativas / diversificação / sinergia** → ch77, ch89
 - **Produtos complementares / bundling / subsídio cruzado** → ch78
 - **Incerteza / cenários de indústria** → ch78
 - **Tecnologia e vantagem competitiva** → ch53, ch75
@@ -197,12 +231,12 @@ Complexidade, Integração, Genérico vs. Único, Controle (deliberado vs. emerg
 - **Cultura como vantagem competitiva** → ch66
 - **Ambiente / ecologia organizacional** → ch67
 - **Configuração organizacional / transformação** → ch68-69
-- **Vitória sem batalha / vantagem posicional** → ch03, ch60
+- **Vitória sem batalha / vantagem posicional** → ch03, ch60, ch82
 - **Inteligência competitiva** → ch13
 
 ## Arquivos de Apoio
 
-- [glossary.md](glossary.md) — todos os termos-chave dos 7 livros com definições
+- [glossary.md](glossary.md) — todos os termos-chave dos 8 livros com definições
 - [patterns.md](patterns.md) — todos os frameworks e processos estruturados de decisão
 - [cheatsheet.md](cheatsheet.md) — regras de decisão e tabelas de referência rápida
 
@@ -217,8 +251,8 @@ Esta skill é **dona de três pontos do pipeline**: Fase 1 (Diagnóstico do Neg�
 - **Produz como output**: artefato **Diagnóstico do Negócio** — análise estrutural da indústria (Cinco Forças), posição de custo/diferenciação relativa da firma (Cadeia de Valor), diagnóstico do tipo real de desafio estratégico enfrentado (Kernel de Rumelt: sintoma vs. causa raiz), e mapeamento de concorrentes relevantes (bons vs. ruins). Este artefato alimenta diretamente a Fase 2 (Pesquisa de Mercado, de `marketing-digital-growth`) e a Fase 6 (Posicionamento).
 
 **Fase 6 — Posicionamento**
-- **Espera receber como input**: Dossiê de Pesquisa (Fase 2) e Mapa Psicológico do Consumidor (Fases 3-5, de `freud-psicanalise`).
-- **Produz como output**: artefato **Posicionamento e Big Idea** — resposta às perguntas Onde Jogar / Como Vencer (Cascata de Lafley & Martin), aplicação do Canvas Estratégico (Kim & Mauborgne) para identificar espaço de mercado não-contestado quando aplicável, e escolha explícita de estratégia genérica (custo/diferenciação/foco, Porter) com justificativa de sustentabilidade.
+- **Espera receber como input**: Dossiê de Pesquisa (Fase 2) e Mapa Psicológico do Consumidor (Fases 3-5, de `psicologia-consumidor`).
+- **Produz como output**: artefato **Posicionamento e Big Idea** — resposta às perguntas Onde Jogar / Como Vencer (Cascata de Lafley & Martin), aplicação do Canvas Estratégico (Kim & Mauborgne) para identificar espaço de mercado não-contestado quando aplicável, escolha explícita de estratégia genérica (custo/diferenciação/foco, Porter) com justificativa de sustentabilidade, e — a partir do Livro 8 (Ries & Trout), fonte primária conceitual desta própria fase — mapeamento da escada mental da categoria (ch81), definição da posição-alvo usando o checklist das seis perguntas de posicionamento (ch94), e validação contra a regra do não-ataque-de-frente (ch82, ch95). Positioning de Ries & Trout é quem dá o NOME e o mecanismo perceptual ("o que se faz à mente do prospect") a esta fase; os demais frameworks do Livro 8 (Cascata, Cinco Forças, Oceano Azul) fornecem a análise estrutural/econômica que sustenta a escolha.
 
 **Contribuição à Fase 7 — Engenharia da Oferta**
 - Contribui com fundamentação de **por que** a oferta específica é estrategicamente defensável (direcionadores de singularidade que sustentam preço premium, ou direcionadores de custo que sustentam preço baixo) — mas a construção final da oferta (garantias, bônus, gatilhos de persuasão) é responsabilidade conjunta com `persuasao-gatilhos` e `copywriting-publicidade`.
@@ -229,4 +263,4 @@ Esta skill é **dona de três pontos do pipeline**: Fase 1 (Diagnóstico do Neg�
 
 ## Escopo & Limites
 
-Esta skill cobre o conteúdo sintetizado dos 7 livros-fonte, com frameworks, exemplos reconstruídos e citações essenciais — nunca texto bruto copiado. Sun Tzu fornece a fundamentação clássica sobre posição/timing/inteligência; Rumelt fornece o teste rigoroso do que É e NÃO É estratégia real; Lafley & Martin fornecem a cascata executiva aplicável; Kim & Mauborgne fornecem o método de inovação de valor; Collins fornece a lente de liderança/cultura/disciplina de longo prazo; Mintzberg, Ahlstrand & Lampel fornecem o mapa integrador de todas as escolas de pensamento estratégico (incluindo como as ideias dos outros livros se encaixam entre si); Porter fornece o ferramental analítico mais granular e operacional (cadeia de valor, direcionadores de custo/singularidade, ataque e defesa competitiva). Onde os livros se sobrepõem (ex.: Cinco Forças aparece tanto em Strategy Safari quanto em Competitive Advantage; "onde competir/como vencer" ecoa entre Lafley & Martin e Porter), a skill preserva a riqueza de cada tratamento em vez de eliminar redundância — Strategy Safari trata Porter como uma das dez lentes possíveis, enquanto o livro de Porter aprofunda tecnicamente essa mesma lente. Para aplicação em projetos reais, combine com o contexto específico do negócio/cliente. Para tópicos além destes 7 livros, peça diretamente.
+Esta skill cobre o conteúdo sintetizado dos 8 livros-fonte, com frameworks, exemplos reconstruídos e citações essenciais — nunca texto bruto copiado. Sun Tzu fornece a fundamentação clássica sobre posição/timing/inteligência; Rumelt fornece o teste rigoroso do que É e NÃO É estratégia real; Lafley & Martin fornecem a cascata executiva aplicável; Kim & Mauborgne fornecem o método de inovação de valor; Collins fornece a lente de liderança/cultura/disciplina de longo prazo; Mintzberg, Ahlstrand & Lampel fornecem o mapa integrador de todas as escolas de pensamento estratégico (incluindo como as ideias dos outros livros se encaixam entre si); Porter fornece o ferramental analítico mais granular e operacional (cadeia de valor, direcionadores de custo/singularidade, ataque e defesa competitiva); Ries & Trout fornecem a lente PERCEPTUAL do posicionamento — o texto que literalmente cunhou o termo "positioning" em 1972 e é a fonte primária conceitual da Fase 6 (Posicionamento) do pipeline `diretor-aquisicao-conversao`, complementando a lente estrutural/analítica de Porter e Mintzberg com o mecanismo psicológico de como uma posição se estabelece (ou se perde) na mente do prospect. Onde os livros se sobrepõem (ex.: Cinco Forças aparece tanto em Strategy Safari quanto em Competitive Advantage; "onde competir/como vencer" ecoa entre Lafley & Martin e Porter; "posicionamento" aparece em Strategy Safari — ch59-60, como uma das dez escolas — e em Ries & Trout — ch80-95, como o texto fundador do próprio conceito), a skill preserva a riqueza de cada tratamento em vez de eliminar redundância — Strategy Safari trata "positioning" como escola analítica de seleção entre estratégias genéricas (Porter, BCG), enquanto Ries & Trout tratam "positioning" como o ato perceptual de ocupar espaço na mente do prospect; os dois sentidos se complementam mas não são idênticos, e um projeto de posicionamento completo tipicamente precisa de ambos. Para aplicação em projetos reais, combine com o contexto específico do negócio/cliente. Para tópicos além destes 8 livros, peça diretamente.

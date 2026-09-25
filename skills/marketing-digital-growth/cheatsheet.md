@@ -73,11 +73,35 @@ Referência rápida de decisão. Tabelas compactas para consulta durante diagnó
 | Uma mudança nela historicamente precedeu mudança em receita/retenção? | Reforça status de KPI | Provável métrica de vaidade |
 | A equipe agiria diferente dependendo do valor dela? | KPI útil | Métrica decorativa de dashboard |
 
-## Sequência de Validação Antes de Escalar (todos os 4 livros convergem aqui)
+## Sequência de Validação Antes de Escalar (todos os 6 livros convergem aqui)
 
 1. Product/market fit confirmado (ch02) →
 2. Alavanca de crescimento identificada por dados, não suposição (ch03) →
 3. Canal/mensagem testado pequeno (language/market fit, ch05) →
 4. Só então: escalar orçamento, JV Launch, tráfego pago (ch34)
 
-Pular qualquer etapa desta sequência é o padrão de falha mais citado, sob nomes diferentes, nos 4 livros-fonte desta skill.
+Pular qualquer etapa desta sequência é o padrão de falha mais citado, sob nomes diferentes, nos 6 livros-fonte desta skill — Godin chama a mesma sequência de "menor audiência viável antes de mercado de massa" (ch42).
+
+## Dominância vs. Afiliação — Diagnóstico Rápido de Mensagem
+
+| Sinal observado no público | Eixo provável | Mensagem que ressoa | Capítulo |
+|---|---|---|---|
+| Fala em "vencer", "ser o melhor", "meu vs. seu" | Dominância | Escassez, ranking, exclusividade competitiva | ch44 |
+| Fala em "pertencer", "estar em sintonia", "conhecer/ser conhecido" | Afiliação | Comunidade, pertencimento, efeito de rede | ch44 |
+| Ambíguo / público misto | Testar os dois separadamente | Não presumir por demografia — validar por linguagem real do público | ch44 |
+
+## Pattern Match vs. Pattern Interrupt — Diagnóstico de Lançamento
+
+| Situação | Tipo | O que fazer | Capítulo |
+|---|---|---|---|
+| Público sem hábito prévio na categoria (recém-casados, recém-mudados, categoria nova) | Pattern Match | Oferta se encaixa sem atrito — foco em descoberta, não em convencimento | ch44 |
+| Público com hábito arraigado a substituir | Pattern Interrupt | Exige tensão deliberada (não medo) + caminho claro de alívio + efeito de rede | ch44 |
+
+## Vaca Roxa — Checklist de Bordas (adaptado do Playbook de Godin)
+
+| Pergunta | Se a resposta é genérica → | Se a resposta é um extremo genuíno → |
+|---|---|---|
+| Isto é o mais rápido, mais barato, mais exclusivo, mais simples do mercado? | Ainda não é uma Vaca Roxa — redirecionar orçamento para produto, não mídia | Pronto para testar mensagem de notabilidade |
+| Um cliente satisfeito repetiria isto a um amigo em uma frase memorável? | Investir em diferenciação antes de investir em alcance | Construir o Ativo de Permissão (ch40, ch46) para escalar via sneezers |
+
+Fonte: ch36, ch38, ch40 (Purple Cow).

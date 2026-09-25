@@ -9,13 +9,15 @@ Inclui também um **Modo Revisão de Projeto**: 7 agentes revisores (um por espe
 ```
 skills/
   diretor-aquisicao-conversao/   orquestrador mestre
-  estrategia-negocios/           79 capítulos — Sun Tzu, Porter, Rumelt, Collins, Kim & Mauborgne, Lafley & Martin, Mintzberg
-  freud-psicanalise/             30 capítulos — Freud (Interpretação dos Sonhos, O Eu e o Id, Cinco Lições)
-  marketing-digital-growth/      35 capítulos — Hacking Growth, Marketing na Era Digital, Unbound Marketing, Jeff Walker
-  persuasao-gatilhos/            74 capítulos — Cialdini, Carnegie, Gustavo Ferreira
+  estrategia-negocios/           95 capítulos — Sun Tzu, Porter, Rumelt, Collins, Kim & Mauborgne, Lafley & Martin, Mintzberg, Ries & Trout (Positioning)
+  psicologia-consumidor/         52 capítulos — Freud (Interpretação dos Sonhos, O Eu e o Id, Cinco Lições) + Kahneman (Rápido e Devagar)
+  marketing-digital-growth/      48 capítulos — Hacking Growth, Marketing na Era Digital, Unbound Marketing, Jeff Walker, Seth Godin
+  persuasao-gatilhos/            94 capítulos — Cialdini (As Armas da Persuasão + Pré-Suasão), Carnegie, Gustavo Ferreira
   copywriting-publicidade/       159 capítulos — Ferreira, Maccedo, Ogilvy, Bencivenga, Carlton, Halbert, Schwartz, Makepeace, Sugarman, Collier, Kennedy
-  vendas-metodologia/            51 capítulos — Dixon & Adamson, Gitomer, Ross & Tyler, Rackham, Pink
+  vendas-metodologia/            61 capítulos — Dixon & Adamson, Gitomer, Ross & Tyler, Rackham, Pink, Chris Voss
   funil-vsl-thiago-roas/         metodologia de funil de VSL perpétuo
+
+  Total: 509 capítulos sintetizados de ~42 obras.
 
 agents/
   revisor-estrategia.md
@@ -50,6 +52,13 @@ Peça diretamente em português — não precisa citar o nome da skill:
 - **Pedido pontual**: "escreve uma headline", "como respondo essa objeção de preço" → vai direto na skill certa, sem passar pelo pipeline inteiro.
 - **Revisão de projeto**: "revisa esse projeto", "audita isso antes de eu lançar" → ativa o Modo Revisão (os 7 agentes revisores rodam em paralelo, leem os materiais, e devolvem uma tabela de correções sugeridas — nada é alterado sem sua aprovação explícita).
 
+## Ferramentas web (opcionais, fora deste repositório)
+
+- **Chat rápido** (sem precisar do Claude Code instalado): responde com base nos frameworks centrais das 6 skills.
+- **Painel de tarefas** (tipo Trello, por projeto, atualiza em tempo real para a equipe).
+
+Peça os links atualizados na conversa com o Diretor caso precise reenviar para alguém.
+
 ## Aviso sobre direitos autorais
 
-O conteúdo destas skills é **sintetizado** (frameworks, princípios e técnicas reescritos, nunca texto copiado literalmente) a partir de ~36 obras comerciais, a maioria ainda sob direitos autorais ativos (Ogilvy, Halbert, Schwartz, Kennedy, Cialdini, Porter, etc.). Isso torna este repositório adequado para **uso privado/interno** (você, sua equipe, colaboradores autorizados), mas não para distribuição pública livre. Mantenha este repositório **privado**.
+O conteúdo destas skills é **sintetizado** (frameworks, princípios e técnicas reescritos, nunca texto copiado literalmente) a partir de ~42 obras comerciais, a maioria ainda sob direitos autorais ativos (Ogilvy, Halbert, Schwartz, Kennedy, Cialdini, Porter, etc.). Isso torna este repositório adequado para **uso privado/interno** (você, sua equipe, colaboradores autorizados), mas não para distribuição pública livre. Mantenha este repositório **privado**.

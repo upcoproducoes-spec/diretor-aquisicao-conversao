@@ -1,8 +1,10 @@
-# Cheatsheet — freud-psicanalise
+# Cheatsheet — psicologia-consumidor
 
-Regras de decisão e tabelas de referência rápida para diagnosticar a motivação inconsciente real por trás de um desejo declarado de consumidor. Use como checklist durante pesquisa, briefing ou revisão de copy.
+Regras de decisão e tabelas de referência rápida para diagnosticar a motivação real por trás de um desejo declarado de consumidor — pela lente do desejo inconsciente (Freud, Parte 1) e pela lente do viés cognitivo (Kahneman, Parte 2). Use como checklist durante pesquisa, briefing ou revisão de copy.
 
 ---
+
+# Parte 1 — Freud (Livros 1-4)
 
 ## 10 Perguntas Diagnósticas Centrais
 
@@ -103,3 +105,84 @@ Regras de decisão e tabelas de referência rápida para diagnosticar a motivaç
 - [ ] Existe ambivalência genuína no público-alvo em relação a esta categoria que a peça está ignorando?
 - [ ] Estamos prometendo ação real (aloplástica) e entregando apenas alívio perceptivo (autoplástico), ou os dois estão alinhados?
 - [ ] A peça explora culpa/vergonha do consumidor para forçar conversão? (Se sim — parar; ver guardrail ético em `SKILL.md`.)
+
+---
+
+# Parte 2 — Kahneman (Livro 5)
+
+## 12 Perguntas Diagnósticas Centrais
+
+| # | Pergunta | O que revela | Capítulo |
+|---|---|---|---|
+| 1 | Estou pedindo várias decisões em sequência, esgotando o autocontrole antes da decisão que importa? | Esgotamento do ego afetando o funil | Ch32 |
+| 2 | Que elementos visuais/verbais ao redor da oferta estão primando algo que contradiz o posicionamento? | Priming ambiental não intencional | Ch33 |
+| 3 | Essa mensagem está fácil de ler e pronunciar, ou a tensão cognitiva está minando a credibilidade? | Fluência como base da ilusão de veracidade | Ch34 |
+| 4 | O que não foi mostrado ao cliente simplesmente não existe na decisão dele (WYSIATI) — o que estou deixando de fora? | Lacuna de informação que o Sistema 1 não pondera | Ch35 |
+| 5 | Que "pergunta mais fácil" essa resposta de pesquisa provavelmente respondeu de fato? | Substituição em research | Ch36 |
+| 6 | Essa amostra (teste A/B, período de vendas) é grande o suficiente para esse resultado significar algo? | Lei dos Pequenos Números | Ch37 |
+| 7 | Que número o cliente já viu antes deste, que pode estar ancorando a percepção de valor? | Efeito de ancoragem | Ch38 |
+| 8 | Esse resultado excepcional é sinal real de mudança, ou é regressão à média esperada? | Regressão à média | Ch41 |
+| 9 | Essa história de sucesso teria previsto o resultado antes de sabê-lo, ou só explica bem depois? | Falácia narrativa / viés retrospectivo | Ch42 |
+| 10 | Antes de prometer prazo/ROI: qual é a visão de fora (taxa-base de projetos comparáveis)? | Falácia do planejamento | Ch44 |
+| 11 | Qual é o ponto de referência que o cliente já está usando para julgar este preço/oferta? | Teoria da perspectiva | Ch46 |
+| 12 | Estou apresentando o mesmo fato em ganho ou em perda — e essa escolha reflete a realidade com honestidade? | Efeito de enquadramento | Ch50 |
+
+---
+
+## Sistema 1 vs. Sistema 2 na Comunicação
+
+| | Sistema 1 (rápido) | Sistema 2 (lento) |
+|---|---|---|
+| Como decide | Automático, associativo, por impressão | Deliberado, comparativo, exige esforço |
+| O que pesa | Coerência da história, fluência, emoção | Evidência, comparação estruturada, lógica |
+| Quando domina | Baixo envolvimento, pressa, esgotamento cognitivo, decisões de rotina | Alto envolvimento, decisão de risco/valor alto, tempo disponível |
+| O que converte | Clareza visual, familiaridade, prova social vívida, enquadramento certo | Comparativo técnico, garantia, especificação, dado estruturado |
+| Risco de mau uso | Explorar esgotamento/pressa para reduzir escrutínio | Sobrecarregar com dados sem gancho emocional, perder a venda por excesso de complexidade |
+
+*(Ch31, Ch32)*
+
+---
+
+## Padrão Quádruplo Aplicado a Garantias e Ofertas
+
+| Domínio | Probabilidade | Atitude do cliente | Implicação para oferta |
+|---|---|---|---|
+| Ganho | Alta (provável) | Avesso ao risco — prefere o seguro | Garantia/certeza convertem mais que "chance de ganhar mais" |
+| Ganho | Baixa (improvável) | Busca risco — atraído pela possibilidade | Sorteios, "prêmio grande e raro" atraem desproporcionalmente |
+| Perda | Alta (provável) | Busca risco — prefere apostar a aceitar perda certa | Cliente resiste a aceitar perda/corte certo, mesmo pior no valor esperado |
+| Perda | Baixa (improvável) | Avesso ao risco — paga para eliminar o risco | Seguro, garantia de devolução total convertem desproporcionalmente bem |
+
+*(Ch48)*
+
+---
+
+## Checklist: Antes de Prometer Prazo, Orçamento ou ROI
+
+- [ ] Qual é a visão de fora — quanto tempo/custo levaram os últimos projetos comparáveis da categoria (não deste cliente específico)?
+- [ ] A estimativa foi feita a partir do plano específico (visão de dentro, tende a ser otimista) ou ajustada pela taxa-base real?
+- [ ] Existem critérios objetivos de corte/revisão pré-acordados antes do início, para o caso de o otimismo inicial não se confirmar?
+- [ ] Estou comunicando a projeção com a confiança do "sei que vai dar certo" sem checagem estrutural contra a taxa-base de sucesso da categoria?
+
+*(Ch44, Ch45)*
+
+---
+
+## Checklist: Enquadramento e Aversão à Perda em Copy
+
+- [ ] Qual é o ponto de referência que o cliente já está usando (concorrente, plano anterior, expectativa própria) antes de eu apresentar preço/oferta?
+- [ ] Estou comunicando o mesmo fato como ganho ou como perda — e essa é a formulação mais honesta e forte, não só a mais confortável?
+- [ ] A perda que estou comunicando (escassez, prazo, "não perca") é real e verificável, ou estou fabricando uma perda para explorar aversão à perda? (Se fabricada — parar; ver guardrail ético em `SKILL.md`.)
+- [ ] Um trial/amostra grátis está gerando dotação genuína (o cliente experimenta de verdade antes de decidir), ou o cancelamento está sendo dificultado artificialmente para explorar essa dotação?
+- [ ] O pico de dor e o momento final da jornada do cliente foram desenhados com prioridade — sabendo que pesam mais do que a média da experiência na lembrança final (regra do pico-fim)?
+
+*(Ch46-Ch51)*
+
+---
+
+## As Três Grandes Distinções do Livro 5
+
+| Distinção | O que descreve | Onde aplicar |
+|---|---|---|
+| Sistema 1 / Sistema 2 | Modo automático vs. modo deliberado de pensar | Toda decisão de compra e toda peça de comunicação (Ch31) |
+| Econs / Humanos | Agente racional da teoria econômica vs. pessoa real, influenciada por WYSIATI, aversão à perda e contas mentais | Modelagem de comportamento de cliente em growth/pricing (Ch46-Ch49) |
+| Eu Experiencial / Eu Recordativo | Quem vive a experiência momento a momento vs. quem avalia e decide repetir/recomendar depois | Desenho de jornada de cliente e interpretação de reviews/NPS (Ch51-Ch52) |

@@ -407,7 +407,7 @@ Esta skill é a dona das **Fases 10–11** do pipeline (Copywriting e Criativos)
 **Espera receber como input** (se disponível — não bloqueie a entrega por falta deles, mas peça se fizerem falta real):
 - Posicionamento e Big Idea (Fase 6, de `estrategia-negocios`)
 - Engenharia da Oferta (Fase 7)
-- Mapa Psicológico do Consumidor (Fases 3–5, de `freud-psicanalise`) — em especial o desejo real por trás do desejo declarado
+- Mapa Psicológico do Consumidor (Fases 3–5, de `psicologia-consumidor`) — em especial o desejo real por trás do desejo declarado
 - Nível de consciência do público (inconsciente / consciente do problema / da solução / do produto / mais consciente)
 - Gatilhos de persuasão relevantes já mapeados (de `persuasao-gatilhos`), se o pedido pedir aplicação combinada
 

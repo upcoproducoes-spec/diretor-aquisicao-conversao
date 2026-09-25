@@ -1,12 +1,12 @@
 ---
 name: vendas-metodologia
-description: "Base de conhecimento sintetizada de 5 livros clássicos de metodologia de vendas: A Venda Desafiadora (Dixon & Adamson), A Bíblia de Vendas (Jeffrey Gitomer), Receita Previsível (Aaron Ross & Marylou Tyler), SPIN Selling (Neil Rackham) e Vender é Humano (Daniel Pink). Use ao estruturar processos de vendas B2B, treinar vendedores, montar times de prospecção outbound, investigar necessidades de clientes em vendas complexas, superar objeções, ou entender a psicologia moderna de persuasão e venda não comercial."
+description: "Base de conhecimento sintetizada de 6 livros clássicos de metodologia de vendas e negociação: A Venda Desafiadora (Dixon & Adamson), A Bíblia de Vendas (Jeffrey Gitomer), Receita Previsível (Aaron Ross & Marylou Tyler), SPIN Selling (Neil Rackham), Vender é Humano (Daniel Pink) e Nunca Divida a Diferença (Chris Voss). Use ao estruturar processos de vendas B2B, treinar vendedores, montar times de prospecção outbound, investigar necessidades de clientes em vendas complexas, superar objeções, negociar preço/prazo/condições, ou entender a psicologia moderna de persuasão e venda não comercial."
 ---
 
 <!-- argument-hint: [tópico, framework, autor, ou número de capítulo] -->
 
-# Vendas — Metodologia (5 Livros)
-**Autores**: Matthew Dixon & Brent Adamson, Jeffrey Gitomer, Aaron Ross & Marylou Tyler, Neil Rackham, Daniel H. Pink | **Capítulos**: 51 | **Gerado**: 2026-08-15
+# Vendas — Metodologia (6 Livros)
+**Autores**: Matthew Dixon & Brent Adamson, Jeffrey Gitomer, Aaron Ross & Marylou Tyler, Neil Rackham, Daniel H. Pink, Chris Voss (com Tahl Raz) | **Capítulos**: 61 | **Gerado**: 2026-09-25
 
 ## Como Usar Esta Skill
 
@@ -47,6 +47,9 @@ Primeiro sirva, depois venda. Teste central: se a pessoa concordar em comprar, a
 
 ### Caveat Emptor → Caveat Venditor
 A era de assimetria de informação (vendedor sabe mais, risco é do comprador) deu lugar à era de simetria de informação (compradores têm acesso equivalente, risco é do vendedor). Táticas de manipulação/ocultação de informação são estruturalmente obsoletas; transparência é estratégia pragmática, não apenas virtude moral.
+
+### Empatia Tática e Perguntas Calibradas (Voss)
+Reconhecer a perspectiva do interlocutor e verbalizá-la (rotulagem, espelhamento) desarma resistência emocional antes de qualquer argumento racional — o Sistema 1 emocional precisa ser afetado antes que o Sistema 2 racional siga. Perguntas calibradas ("Como" e "O quê", raramente "Por quê") removem agressão de qualquer exigência e devolvem ao interlocutor a ilusão de controle, enquanto quem pergunta mantém o controle real da conversa. Nunca divida a diferença: compromisso automático é atalho de má-fé, não solução justa por definição.
 
 ---
 
@@ -123,11 +126,25 @@ A era de assimetria de informação (vendedor sabe mais, risco é do comprador) 
 | [ch50](chapters/ch50-improvisar.md) | Improvisar | 3 Regras do Improviso |
 | [ch51](chapters/ch51-servir.md) | Servir | Tornar Pessoal + Propósito |
 
+### Livro 6 — Nunca Divida a Diferença (Chris Voss, com Tahl Raz, 2016)
+| # | Título | Frameworks-Chave |
+|---|---|---|
+| [ch52](chapters/ch52-novas-regras-nunca-divida-diferenca.md) | As Novas Regras | Sistema 1/2, Empatia Tática, "Nunca Divida a Diferença" |
+| [ch53](chapters/ch53-espelhamento-voz-dj-escuta-ativa.md) | Seja um Espelho | Espelhamento, Voz de DJ Noturno, Hipóteses vs. Suposições |
+| [ch54](chapters/ch54-rotulagem-empatia-tatica-auditoria-acusacao.md) | Não Sinta a Dor, Rotule-a | Rotulagem, Auditoria de Acusação |
+| [ch55](chapters/ch55-cuidado-com-sim-domine-nao.md) | Cuidado com o "Sim" — Domine o "Não" | 3 Tipos de "Sim", Perguntas Orientadas a "Não" |
+| [ch56](chapters/ch56-isso-mesmo-vs-voce-esta-certo.md) | "Isso Mesmo" vs. "Você Está Certo" | Escada de Mudança Comportamental, Resumo |
+| [ch57](chapters/ch57-dobre-realidade-ancoragem-justica-prospect-theory.md) | Dobre a Realidade Deles | Ancoragem, Teoria do Prospecto, A Palavra "Justo" |
+| [ch58](chapters/ch58-perguntas-calibradas-ilusao-de-controle.md) | Crie a Ilusão de Controle | Perguntas Calibradas, Suspender a Descrença |
+| [ch59](chapters/ch59-garanta-execucao-7-38-55-regra-dos-tres.md) | Garanta a Execução | 7-38-55, Regra dos Três, Efeito Pinóquio |
+| [ch60](chapters/ch60-negocie-duro-modelo-ackerman-3-tipos.md) | Negocie Duro | Modelo Ackerman, 3 Tipos de Negociador |
+| [ch61](chapters/ch61-cisne-negro-alavancagem-nao-e-loucura.md) | Encontre o Cisne Negro | Cisnes Negros, 3 Tipos de Alavancagem, "Não é Loucura, é Pista" |
+
 ## Índice de Tópicos
 
 - **Cold calling / prospecção outbound** → ch27, ch28, ch31
-- **Objeções (prevenção e resposta)** → ch15, ch16, ch40
-- **Fechamento** → ch17, ch36
+- **Objeções (prevenção e resposta)** → ch15, ch16, ch40, ch54 (auditoria de acusação), ch55 (perguntas orientadas a "Não")
+- **Fechamento** → ch17, ch36, ch56 ("Isso mesmo" vs. "Você está certo"), ch59 (Regra dos Três para validar compromisso real)
 - **SPIN (perguntas)** → ch37, ch38, ch39
 - **Personalização/segmentação** → ch5, ch29
 - **Gestão de time de vendas** → ch9, ch31, ch33, ch34
@@ -136,9 +153,11 @@ A era de assimetria de informação (vendedor sabe mais, risco é do comprador) 
 - **Atendimento ao cliente** → ch14, ch20
 - **Persuasão moderna / venda não comercial** → ch43-ch51
 - **Pitch e apresentação** → ch12, ch49
-- **Negociação** → ch8
-- **Escuta ativa** → ch21, ch22, ch50
+- **Negociação (mecânica tática, preço/prazo/condições)** → ch8, ch52-ch61 (Chris Voss — empatia tática, perguntas calibradas, ancoragem, Modelo Ackerman, Cisnes Negros)
+- **Escuta ativa** → ch21, ch22, ch50, ch53 (espelhamento), ch54 (rotulagem)
 - **Métricas e KPIs de vendas** → ch25, ch33
+- **Regateio de preço / bargaining** → ch57 (ancoragem e teoria do prospecto), ch60 (Modelo Ackerman)
+- **Sinais de mentira / congruência verbal-não verbal** → ch59 (7-38-55, Efeito Pinóquio, uso de pronomes)
 
 ## Arquivos de Apoio
 
@@ -159,7 +178,7 @@ Esta skill é a dona da **Fase 9** do pipeline (Estratégia de Vendas). Quando c
 
 **Produz como output**: Playbook de Vendas — script de abordagem, mapa de objeções (objeção → medo real por trás → resposta → prova que remove a objeção), critérios de qualificação de lead, estrutura de follow-up.
 
-**Tensões preservadas propositalmente**: como já registrado no Escopo & Limites abaixo, esta skill preserva divergências entre autores (ex. Gitomer recomenda fechamento ativo; Rackham mostra dados de que a mesma técnica prejudica vendas complexas). Ao usar via orquestrador, escolha a posição compatível com o porte/complexidade da venda diagnosticada na Fase 1, e diga qual escolheu e por quê.
+**Tensões preservadas propositalmente**: como já registrado no Escopo & Limites abaixo, esta skill preserva divergências entre autores (ex. Gitomer recomenda fechamento ativo; Rackham mostra dados de que a mesma técnica prejudica vendas complexas; Voss recomenda nunca buscar "Sim" cedo e sempre passar por "Não" primeiro). Ao usar via orquestrador, escolha a posição compatível com o porte/complexidade da venda diagnosticada na Fase 1, e diga qual escolheu e por quê.
 
 **Quando usada isoladamente** (pedido pontual do tipo "como responder essa objeção"): funcione normalmente sem exigir os artefatos acima.
 
@@ -167,4 +186,12 @@ Esta skill é a dona da **Fase 9** do pipeline (Estratégia de Vendas). Quando c
 
 ## Escopo & Limites
 
-Esta skill cobre o conteúdo sintetizado dos 5 livros-fonte, com frameworks, exemplos reconstruídos e citações essenciais — nunca texto bruto copiado. Alguns frameworks entre livros divergem propositalmente (ex.: Gitomer recomenda técnicas de fechamento ativas; Rackham mostra dados de que essas mesmas técnicas prejudicam vendas grandes) — a skill preserva essas tensões como reflexo de contextos diferentes (porte de venda, época, público), sem resolver artificialmente a favor de um único autor. Para aplicação em projetos reais (Pedro Sachet, MorfoGuide, etc.), combine com o contexto específico do produto/cliente. Para tópicos além destes 5 livros, peça diretamente.
+Esta skill cobre o conteúdo sintetizado dos 6 livros-fonte, com frameworks, exemplos reconstruídos e citações essenciais — nunca texto bruto copiado. Alguns frameworks entre livros divergem propositalmente (ex.: Gitomer recomenda técnicas de fechamento ativas; Rackham mostra dados de que essas mesmas técnicas prejudicam vendas grandes; Voss recomenda buscar "Não" antes de "Sim" e nunca comemorar um "Sim" prematuro) — a skill preserva essas tensões como reflexo de contextos diferentes (porte de venda, época, público, tipo de decisão — transacional vs. alto risco/alto comprometimento), sem resolver artificialmente a favor de um único autor. Para aplicação em projetos reais (Pedro Sachet, MorfoGuide, etc.), combine com o contexto específico do produto/cliente. Para tópicos além destes 6 livros, peça diretamente.
+
+### Tensões preservadas propositalmente (Livro 6 — Chris Voss)
+
+| Tema | Posição Voss | Posição divergente | Como reconciliar |
+|---|---|---|---|
+| Velocidade de fechamento | Nunca busque "Sim" cedo — vá atrás de "Não" primeiro; "Sim" prematuro costuma ser falso (Ch55) | Gitomer: reconheça sinal de compra e feche imediatamente (Ch17) | Gitomer opera em venda transacional de ciclo curto, onde o "Sim" de confirmação já basta; Voss opera em negociação de alto risco/alto comprometimento, onde só o "Sim" de compromisso (validado pela Regra dos Três, Ch59) sustenta mudança real |
+| Compromisso / meio-termo | "Nunca divida a diferença" — compromisso automático é atalho de má-fé, quase sempre pior que qualquer um dos extremos (Ch52, Ch57) | Senso comum de negociação ("Getting to Yes"/win-win): busque solução mutuamente aceitável, inclusive meio-termo | Voss não rejeita colaboração — rejeita compromisso *automático* sem investigação prévia de Cisnes Negros (Ch61); quando não há mais informação nova a descobrir, um meio-termo genuinamente calculado pode ser válido |
+| Estrutura de processo vs. imprevisibilidade | Cada negociação é nova; "conhecidos conhecidos" devem guiar mas nunca cegar; a mentalidade deve ser de caça a Cisnes Negros (Ch61) | SPIN (Rackham) e Venda Desafiadora (Dixon/Adamson): vendas complexas seguem etapas relativamente mapeáveis e planejáveis com antecedência | Complementar, não contraditório: os frameworks de processo estruturam o que fazer na ausência de informação nova; a mentalidade de Cisne Negro garante que o vendedor continue caçando a informação que tornaria esse processo obsoleto |

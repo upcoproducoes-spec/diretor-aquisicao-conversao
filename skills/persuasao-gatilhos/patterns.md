@@ -74,3 +74,38 @@
 **When to use**: no fechamento de comunicações de venda envolvendo transformação pessoal.
 **How**: apresente a decisão como escolha entre dois caminhos — continuar como está (resultado já conhecido) ou seguir o caminho comprovado oferecido. Combine com técnica de imaginar o futuro para maximizar contraste emocional.
 **Trade-offs**: simplifica a decisão lógica ao eliminar a ilusão de neutralidade da inação, mas pode soar manipulativo se a dor da situação atual for exagerada além do genuíno. (Ch 67, Ferreira)
+
+## Acionador de Autopercepção (Pré-Suasão)
+**When to use**: em pedidos de ajuda, colaboração ou adoção de comportamento novo/arriscado onde existe um traço de personalidade positivo genuinamente relevante ao pedido.
+**How**: segundos antes do pedido real, pergunte se a pessoa se considera [prestativa/aventureira/etc.] — quase todos respondem honestamente que sim, e a "estratégia do teste positivo" já os canaliza a favor do pedido seguinte.
+**Trade-offs**: dobrou taxas de cooperação em experimentos (29%→77%; 33%→76%) sem custo monetário, mas o traço ativado precisa ser genuinamente relevante ao pedido — usá-lo para induzir decisões contrárias ao interesse real da pessoa (ex.: táticas de recrutamento de seitas) é a linha ética que não deve ser cruzada. (Ch 76, Cialdini/Pré-Suasão)
+
+## Triunvirato da Reciprocidade (Significativo, Inesperado, Personalizado)
+**When to use**: ao planejar qualquer amostra grátis, favor ou concessão inicial de venda/negociação.
+**How**: maximize as três dimensões simultaneamente — o presente deve ser significativo (não precisa ser caro, mas notável), inesperado (surpresa multiplica o efeito) e personalizado às necessidades específicas do receptor (mais influente que as outras duas combinadas).
+**Trade-offs**: presentes personalizados e inesperados geram retorno desproporcional (até 4x mais que um presente genérico de mesmo valor), mas exigem mais esforço de planejamento que um brinde padrão. (Ch 87, Cialdini/Pré-Suasão)
+
+## Fraqueza Antes da Força
+**When to use**: ao apresentar uma proposta/produto/argumento com uma fraqueza genuína e já conhecida (ou facilmente descoberta) pelo público.
+**How**: revele a fraqueza primeiro, conectada por uma palavra de transição ("mas", "contudo", "no entanto") a uma força que a torne IRRELEVANTE, não apenas compensada. A força deve negar a relevância da fraqueza, não só somar um ponto positivo à lista.
+**Trade-offs**: aumenta credibilidade instantaneamente (documentado em contexto jurídico, político e publicitário), mas exige uma fraqueza genuína — fabricar uma fraqueza falsa para parecer honesto é o oposto do mecanismo e quebra a técnica se descoberto. (Ch 88, Cialdini/Pré-Suasão)
+
+## Ativação de Unidade ("Um de Nós")
+**When to use**: ao buscar cooperação, ajuda ou lealdade genuína e duradoura — não apenas conversão pontual.
+**How**: identifique ou construa (com genuinidade) uma categoria de identidade compartilhada — parentesco real ou fictício (linguagem de família/irmandade), lugar comum (lar, vizinhança, região), ou ação sincronizada/cocriação — e traga-a à consciência antes do pedido.
+**Trade-offs**: gera anuência de forma autossuficiente, mais poderosa que mera semelhança (afeição); mas fabricar identidade compartilhada falsa é facilmente descoberto e destrói confiança de forma mais grave que outras táticas, por explorar o mecanismo psicológico mais profundo dos 7 princípios. (Ch 89-92, Cialdini/Pré-Suasão)
+
+## Peça Conselho, Não Opinião
+**When to use**: ao buscar engajamento e lealdade de clientes, colegas ou até superiores hierárquicos.
+**How**: formule pedidos de feedback especificamente como "que conselho você me daria" em vez de "qual sua opinião/expectativa" — mesmo com conteúdo de resposta idêntico, pedir conselho ativa um estado mental de fusão/união; pedir opinião ativa um estado mental separado/introspectivo.
+**Trade-offs**: aumenta intenção de compra/engajamento mensuravelmente (testado em conceito de restaurante fictício) sem custo adicional; o medo comum de "parecer incompetente" ao pedir conselho a superiores não é sustentado pela evidência — o efeito predominante é de cumplicidade, não de fraqueza percebida. (Ch 92, Cialdini/Pré-Suasão)
+
+## Planos Se/Quando-Então
+**When to use**: ao definir qualquer meta pessoal ou instruir terceiros a executar uma ação futura condicional.
+**How**: formule sempre como "Se/quando [situação específica] acontecer, então farei [ação]" — nunca como intenção genérica ("vou tentar exercitar mais"). A especificidade do gatilho situacional é o que faz a diferença.
+**Trade-offs**: dramaticamente mais eficaz que declarações de intenção mesmo em contextos extremos (adesão a medicação epiléptica: 55%→79%; conclusão de tarefa por dependentes em desintoxicação: 0%→80%), mas exige identificar de antemão um sinal situacional específico e recorrente — planos vagos não funcionam. (Ch 85, Cialdini/Pré-Suasão)
+
+## Geografia Persuasiva (Ambiente Alinhado ao Público-Alvo)
+**When to use**: antes de qualquer tarefa de comunicação prolongada (escrever, negociar, criar um produto/programa) para um público específico.
+**How**: cerque-se fisicamente de sinais constantes do público-alvo real (fotos, objetos, ambiente) — não confie apenas em conhecimento abstrato/consciente sobre esse público. Quando o ambiente físico não pode ser escolhido, construa sinais substitutos deliberados.
+**Trade-offs**: melhora mensuravelmente a adequação e qualidade do trabalho produzido (caso pessoal de Cialdini escrevendo seu primeiro livro popular), mas exige disciplina de manter os sinais atualizados e genuinamente representativos do público, não apenas decorativos. (Ch 83, Cialdini/Pré-Suasão)

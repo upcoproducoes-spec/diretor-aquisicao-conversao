@@ -1,6 +1,6 @@
 # Patterns — vendas-metodologia
 
-Técnicas concretas extraídas dos 5 livros, prontas para aplicar em processo de vendas, treinamento de time ou script de abordagem. Cada padrão indica origem, quando usar, como aplicar e trade-offs.
+Técnicas concretas extraídas dos 6 livros, prontas para aplicar em processo de vendas, treinamento de time ou script de abordagem. Cada padrão indica origem, quando usar, como aplicar e trade-offs.
 
 ---
 
@@ -123,3 +123,45 @@ Técnicas concretas extraídas dos 5 livros, prontas para aplicar em processo de
 **Quando usar**: durante qualquer apresentação de vendas, para saber quando avançar para fechamento.
 **Como aplicar**: trate perguntas sobre preço, prazo, disponibilidade, ou repetição de informação como sinais de prontidão (não objeções); ao reconhecer o sinal, feche imediatamente em vez de continuar apresentando.
 **Trade-offs**: em vendas grandes e complexas, fechamento imediato após sinal pode ser prematuro e prejudicar (ver tensão com Ch36) — calibre pela sofisticação e porte da venda.
+
+## 21. Espelhamento (Mirroring)
+**Origem**: Ch53 (Chris Voss)
+**Quando usar**: em qualquer conversa em que se queira extrair mais informação ou aprofundar rapport, especialmente no início de uma negociação ou objeção pouco clara.
+**Como aplicar**: repita as últimas 1-3 palavras críticas do que a outra pessoa acabou de dizer, com tom levemente inquisitivo, e depois fique em silêncio por pelo menos 4 segundos. Nunca encerre o espelho com pergunta fechada (erro documentado do próprio Voss: "Você é o Chris Watts?" em vez de deixar o silêncio trabalhar).
+**Trade-offs**: parece artificial nas primeiras tentativas; funciona melhor combinado com voz calma (voz de DJ noturno) e nunca em sequência com perguntas fechadas.
+
+## 22. Rotulagem (Labeling)
+**Origem**: Ch54 (Chris Voss)
+**Quando usar**: quando o interlocutor demonstra tensão, medo ou resistência não verbalizada — objeção disfarçada, negociação travada, conflito emergente.
+**Como aplicar**: detecte a emoção (palavras, tom, linguagem corporal) e nomeie-a em voz alta com fórmula neutra ("Parece que...", nunca "Eu sinto que..."), depois fique em silêncio. Rotule o negativo para dissipá-lo, o positivo para reforçá-lo.
+**Trade-offs**: rotular a emoção errada não quebra a técnica — o interlocutor corrige e revela a emoção real; o erro real é preencher o silêncio depois do rótulo.
+
+## 23. Auditoria de Acusação (Accusation Audit)
+**Origem**: Ch54 (Chris Voss)
+**Quando usar**: antes de uma reunião de negociação tensa, cobrança de dívida, renegociação de contrato, ou qualquer situação com relação já desgastada.
+**Como aplicar**: liste antecipadamente cada acusação/medo pior que o interlocutor poderia levantar contra você; verbalize-as você mesmo, em ordem, antes que ele precise fazê-lo ("Você vai pensar que somos o grande contratante mau..."). Ensaie a sequência com um parceiro antes da reunião real.
+**Trade-offs**: exige coragem inicial — a maioria das pessoas resiste à ideia por parecer autodepreciativo; funciona melhor quando as acusações listadas são específicas, não genéricas.
+
+## 24. Perguntas Orientadas a "Não" / Sequência de 4 "Nãos" Sem a Palavra
+**Origem**: Ch55, Ch59 (Chris Voss)
+**Quando usar**: para reengajar contato ignorado, recusar um pedido sem quebrar rapport, ou reduzir uma exigência de preço/prazo sem confronto direto.
+**Como aplicar**: prefira perguntas que geram "Não" como resposta segura ("É má hora para falar?"). Para recusar algo, use a sequência crescente: (1) "Como sou suposto a fazer isso?"; (2) "Sua oferta é muito generosa, sinto muito, mas não funciona para mim"; (3) "Sinto muito, mas não posso fazer isso"; (4) "Sinto muito, não" — só depois, se necessário, "Não" direto.
+**Trade-offs**: exige tom de voz calibrado (deferência genuína, não sarcasmo); usado com raiva ou impaciência, perde todo o efeito.
+
+## 25. Perguntas Calibradas ("Como eu deveria fazer isso?")
+**Origem**: Ch58 (Chris Voss)
+**Quando usar**: para transformar qualquer exigência ou recusa em pergunta que devolve trabalho mental ao interlocutor, sem soar agressivo.
+**Como aplicar**: reformule afirmações/exigências como perguntas começando com "Como" ou "O quê" (evite "Por quê", que soa acusatório em qualquer idioma). Exemplos prontos: "Como posso ajudar a melhorar isso para nós?", "O que estamos tentando alcançar aqui?", "Como eu deveria fazer isso?".
+**Trade-offs**: não funciona sem autocontrole emocional — perguntas calibradas ditas com raiva soam sarcásticas e quebram o efeito de ilusão de controle.
+
+## 26. Modelo Ackerman de Contraoferta
+**Origem**: Ch60 (Chris Voss)
+**Quando usar**: em qualquer negociação de valor (salário, preço de serviço, aluguel, resgate) onde se espera regateio de várias rodadas.
+**Como aplicar**: (1) defina o preço-alvo real; (2) primeira oferta em 65% do alvo; (3) planeje três aumentos decrescentes até 85%, 95% e 100%; (4) use rótulos e perguntas calibradas para forçar contraoferta antes de cada aumento seu; (5) no número final, use valor quebrado (ex. R$ 4.751, não R$ 5.000); (6) inclua item não-monetário de baixo custo para você no fechamento.
+**Trade-offs**: exige preparação prévia detalhada — improvisar a sequência ao vivo tende a falhar; funciona melhor combinado com identificação do estilo do interlocutor (Ch60, Analista/Acomodador/Assertivo).
+
+## 27. Auditoria de Cisnes Negros (Preparação de Negociação)
+**Origem**: Ch61 (Chris Voss)
+**Quando usar**: na preparação de qualquer negociação de alto valor, antes de aceitar qualquer meio-termo ou fechar qualquer acordo.
+**Como aplicar**: presuma que existem ao menos três Cisnes Negros (informações desconhecidas que mudariam tudo) do lado do interlocutor; busque-os via presença física (não e-mail), atenção a momentos desguardados (início/fim de reuniões, interrupções), e perguntas calibradas/rótulos que investiguem por que o comportamento observado "não faz sentido" — quase sempre é informação ruim, restrição oculta ou interesse não revelado, nunca irracionalidade genuína.
+**Trade-offs**: exige tempo e presença (não escala bem para negociações rápidas e de baixo valor); o retorno é maior quanto maior o valor em jogo.

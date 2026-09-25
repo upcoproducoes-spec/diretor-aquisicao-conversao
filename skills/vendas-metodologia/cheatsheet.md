@@ -1,6 +1,6 @@
 # Cheatsheet — vendas-metodologia
 
-Regras de decisão, tabelas de referência rápida e limiares numéricos para aplicar os 5 livros desta skill. Use como checklist durante diagnóstico de processo de vendas, treinamento de time ou revisão de script.
+Regras de decisão, tabelas de referência rápida e limiares numéricos para aplicar os 6 livros desta skill. Use como checklist durante diagnóstico de processo de vendas, treinamento de time ou revisão de script.
 
 ---
 
@@ -12,6 +12,7 @@ Regras de decisão, tabelas de referência rápida e limiares numéricos para ap
 | Venda B2B complexa, multi-decisor, ciclo longo | Venda Desafiadora + SPIN Selling | Ensinar, personalizar, assumir controle (Desafiador) e investigar via SPIN superam fechamento/objeção tradicional nesse contexto |
 | Construção de motor de prospecção outbound | Receita Previsível | Especialização de função e Cold Calling 2.0 resolvem o problema estrutural de geração de leads previsível |
 | Persuasão sem transação comercial literal (gestão, educação, saúde, autopromoção) | Vender é Humano | Sintonização, Resiliência, Clareza e Servir se aplicam a qualquer forma de influência, não só venda de produto |
+| Negociação de preço/prazo/condições, cobrança, renegociação de contrato, situação de alto risco emocional | Nunca Divida a Diferença (Voss) | Empatia tática, perguntas calibradas e o Modelo Ackerman resolvem a mecânica psicológica da negociação em si — complementar, não substituto, aos frameworks de processo de venda |
 
 ## Tabela Central: Tamanho da Venda Muda Tudo
 
@@ -84,6 +85,10 @@ Regras de decisão, tabelas de referência rápida e limiares numéricos para ap
 | Correlação extroversão-desempenho em vendas | ~0,07 (quase nula) | Vender é Humano, Adam Grant (Ch46) |
 | Faixa ambivertida de melhor desempenho (escala 1-7) | 4 a 4,5 | Vender é Humano (Ch46) |
 | Queda em detecção de "achados incidentais" sem foto do paciente | 80% | Vender é Humano (Ch51) |
+| Regra 7-38-55: peso de palavras/tom/corpo na formação de atitude | 7% / 38% / 55% | Nunca Divida a Diferença, Mehrabian (Ch59) |
+| Modelo Ackerman: primeira oferta / aumentos progressivos | 65% → 85% → 95% → 100% do preço-alvo | Nunca Divida a Diferença (Ch60) |
+| Chance estatística de o interlocutor ter estilo de negociação diferente do seu | 66% (2 em 3 — Analista/Acomodador/Assertivo) | Nunca Divida a Diferença (Ch60) |
+| Cisnes Negros esperados por negociação | ao menos 3 por lado | Nunca Divida a Diferença (Ch61) |
 
 ## Checklist de Preparação de Visita (Venda Complexa)
 
@@ -113,6 +118,9 @@ Regras de decisão, tabelas de referência rápida e limiares numéricos para ap
 | Relacionamento/amizade | Gitomer: "mais vendas com amizade que com habilidades" (Ch11) | Venda Desafiadora: Construtor de Relacionamentos tem pior desempenho relativo em venda complexa (Ch02) | Amizade funciona melhor em venda de menor complexidade e expansão de conta já conquistada |
 | Tratamento de objeções | Gitomer: scripts de resposta por objeção (Ch16) | Rackham: prevenção via desenvolvimento de necessidade, tratar objeção é sintoma (Ch40) | Os dois concordam que prevenção > reação; divergem no mecanismo (ferramenta de apoio vs. perguntas de implicação) |
 | Extroversão em vendas | Senso comum/Gitomer (implícito): sociabilidade e humor como vantagem (Ch11-12) | Pink/Adam Grant: correlação quase nula, ambiversão vence (Ch46) | Sociabilidade ajuda em construção de vínculo, mas não substitui escuta e calibração — excesso pode prejudicar |
+| Velocidade de fechamento / busca por "Sim" | Gitomer: reconheça sinal de compra e feche imediatamente (Ch17) | Voss: busque "Não" antes de "Sim"; "Sim" prematuro costuma ser falso (Ch55) | Gitomer opera em venda transacional de ciclo curto (Sim de confirmação já basta); Voss opera em negociação de alto risco/comprometimento (só Sim de compromisso, validado pela Regra dos Três, sustenta mudança real) |
+| Compromisso / meio-termo em negociação de valor | Senso comum e "Getting to Yes": busque solução mutuamente aceitável, inclusive meio-termo | Voss: "nunca divida a diferença" — compromisso automático é atalho de má-fé (Ch52, Ch57) | Voss não rejeita colaboração — rejeita compromisso automático sem investigar Cisnes Negros antes (Ch61); com informação esgotada, meio-termo calculado pode ser válido |
+| Processo de venda estruturado vs. imprevisibilidade | SPIN e Venda Desafiadora: vendas complexas seguem etapas mapeáveis e planejáveis (Ch35-39, Ch02-05) | Voss: cada negociação é nova, "conhecidos conhecidos" devem guiar mas nunca cegar (Ch61) | Complementar: os frameworks de processo estruturam o que fazer na ausência de informação nova; a mentalidade de Cisne Negro garante busca contínua da informação que tornaria esse processo obsoleto |
 
 ## Guia Rápido: Qual Framework Aplicar a Cada Situação
 
@@ -127,3 +135,22 @@ Regras de decisão, tabelas de referência rápida e limiares numéricos para ap
 | Apresentação de vendas parece genérica demais | Ch03-05 (Didática Comercial + Personalização) |
 | Preciso decidir se contrato mais gente ou reestruturo processo | Ch27, Ch31, Ch33 (Receita Previsível) |
 | Cliente já pesquisou tudo sozinho antes de me procurar | Ch45 (Caveat Venditor) + Ch48 (Clareza — identificar problema, não resolver o óbvio) |
+| Preciso negociar preço/prazo com contraparte dura | Ch57 (Ancoragem) + Ch60 (Modelo Ackerman) |
+| Cliente sumiu, parou de responder e-mail | Ch55 (e-mail "Você desistiu deste projeto?") |
+| Cliente concordou rápido demais, desconfio do compromisso | Ch55 (3 Tipos de "Sim") + Ch59 (Regra dos Três) |
+| Preciso recusar um pedido sem quebrar a relação | Ch58-59 (Perguntas Calibradas + sequência de 4 "Nãos") |
+| Negociação travada, nada faz sentido no comportamento do outro lado | Ch61 (Cisne Negro — mal informado, restringido, ou outro interesse) |
+| Reunião tensa com relação já desgastada (cobrança, renegociação) | Ch54 (Auditoria de Acusação) |
+
+## Quick Reference — Chris Voss (Livro 6)
+
+| Ferramenta | Fórmula/Regra |
+|---|---|
+| Espelhamento | Repita as últimas 1-3 palavras + silêncio de 4+ segundos |
+| Rotulagem | "Parece que..." / "Parece que você..." (nunca "Eu sinto que...") + silêncio |
+| Perguntas Calibradas | Comece com "Como" ou "O quê"; evite "Por quê" (soa acusatório) |
+| Sequência de "Não" sem a palavra | (1) "Como sou suposto a fazer isso?" → (2) "Muito generoso, mas não funciona para mim" → (3) "Sinto muito, não posso" → (4) "Sinto muito, não" |
+| Modelo Ackerman | Oferta em 65% → aumentos até 85%, 95%, 100% → número quebrado final → item não-monetário |
+| Regra dos Três | Confirme o mesmo compromisso 3 vezes, de formas variadas, antes de confiar nele |
+| 3 Tipos de Negociador | Analista (dados, sem pressa) / Acomodador (relação, comunicativo) / Assertivo (direto, quer ser ouvido primeiro) |
+| 3 Tipos de Alavancagem | Positiva (dar/negar o que querem) / Negativa (ameaça — usar com cautela extrema) / Normativa (usar as normas deles) |
