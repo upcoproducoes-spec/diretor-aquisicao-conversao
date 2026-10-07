@@ -9,15 +9,15 @@ Inclui também um **Modo Revisão de Projeto**: 7 agentes revisores (um por espe
 ```
 skills/
   diretor-aquisicao-conversao/   orquestrador mestre
-  estrategia-negocios/           95 capítulos — Sun Tzu, Porter, Rumelt, Collins, Kim & Mauborgne, Lafley & Martin, Mintzberg, Ries & Trout (Positioning)
+  estrategia-negocios/           118 capítulos — Sun Tzu, Porter, Rumelt, Collins, Kim & Mauborgne, Lafley & Martin, Mintzberg, Ries & Trout (Positioning), Hormozi ($100M Offers + Lost Chapters)
   psicologia-consumidor/         52 capítulos — Freud (Interpretação dos Sonhos, O Eu e o Id, Cinco Lições) + Kahneman (Rápido e Devagar)
-  marketing-digital-growth/      48 capítulos — Hacking Growth, Marketing na Era Digital, Unbound Marketing, Jeff Walker, Seth Godin
+  marketing-digital-growth/      65 capítulos — Hacking Growth, Marketing na Era Digital, Unbound Marketing, Jeff Walker, Seth Godin, Hormozi ($100M Leads + Money Models)
   persuasao-gatilhos/            94 capítulos — Cialdini (As Armas da Persuasão + Pré-Suasão), Carnegie, Gustavo Ferreira
-  copywriting-publicidade/       159 capítulos — Ferreira, Maccedo, Ogilvy, Bencivenga, Carlton, Halbert, Schwartz, Makepeace, Sugarman, Collier, Kennedy
+  copywriting-publicidade/       180 capítulos — Ferreira, Maccedo, Ogilvy, Bencivenga, Carlton, Halbert, Schwartz, Makepeace, Sugarman, Collier, Kennedy, Thiago Filemon (aulas de VSL)
   vendas-metodologia/            61 capítulos — Dixon & Adamson, Gitomer, Ross & Tyler, Rackham, Pink, Chris Voss
   funil-vsl-thiago-roas/         metodologia de funil de VSL perpétuo
 
-  Total: 509 capítulos sintetizados de ~42 obras.
+  Total: 570 capítulos sintetizados de ~48 obras e aulas.
 
 agents/
   revisor-estrategia.md
@@ -61,4 +61,4 @@ Peça os links atualizados na conversa com o Diretor caso precise reenviar para 
 
 ## Aviso sobre direitos autorais
 
-O conteúdo destas skills é **sintetizado** (frameworks, princípios e técnicas reescritos, nunca texto copiado literalmente) a partir de ~42 obras comerciais, a maioria ainda sob direitos autorais ativos (Ogilvy, Halbert, Schwartz, Kennedy, Cialdini, Porter, etc.). Isso torna este repositório adequado para **uso privado/interno** (você, sua equipe, colaboradores autorizados), mas não para distribuição pública livre. Mantenha este repositório **privado**.
+O conteúdo destas skills é **sintetizado** (frameworks, princípios e técnicas reescritos, nunca texto copiado literalmente) a partir de ~48 obras e aulas, a maioria ainda sob direitos autorais ativos (Ogilvy, Halbert, Schwartz, Kennedy, Cialdini, Porter, etc.). Isso torna este repositório adequado para **uso privado/interno** (você, sua equipe, colaboradores autorizados), mas não para distribuição pública livre. Mantenha este repositório **privado**.

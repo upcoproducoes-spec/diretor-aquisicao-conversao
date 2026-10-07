@@ -1,12 +1,12 @@
 ---
 name: copywriting-publicidade
-description: "Base de conhecimento sintetizada de 12 livros/arquivos clássicos de copywriting e publicidade: Copywriting - Palavras que Vendem Milhões (Gustavo Ferreira), Copywriting Vol. 2 (Paulo Maccedo), Ogilvy on Advertising (David Ogilvy, 1983), Ogilvy on Advertising in the Digital Age (Miles Young, 2018), Marketing Bullets (Gary Bencivenga), Kick-Ass Copywriting Secrets of a Marketing Rebel (John Carlton), o arquivo pessoal de Gary Halbert (Boron Letters, How to Make Maximum Money in Minimum Time, e relatórios especiais selecionados), e os clássicos fundamentais de Eugene Schwartz (Breakthrough Advertising), Clayton Makepeace (Quick Start Copywriting System), Joseph Sugarman (The Adweek Copywriting Handbook e Triggers), Robert Collier (The Robert Collier Letter Book) e Dan Kennedy (The Ultimate Sales Letter). Use ao escrever headlines, cartas de vendas, e-mails, páginas de vendas, anúncios, roteiros de comercial, estratégia de conteúdo digital, ou ao estudar os frameworks dos autores."
+description: "Base de conhecimento sintetizada de 13 livros/arquivos/aulas de copywriting e publicidade: Copywriting - Palavras que Vendem Milhões (Gustavo Ferreira), Copywriting Vol. 2 (Paulo Maccedo), Ogilvy on Advertising (David Ogilvy, 1983), Ogilvy on Advertising in the Digital Age (Miles Young, 2018), Marketing Bullets (Gary Bencivenga), Kick-Ass Copywriting Secrets of a Marketing Rebel (John Carlton), o arquivo pessoal de Gary Halbert (Boron Letters, How to Make Maximum Money in Minimum Time, e relatórios especiais selecionados), e os clássicos fundamentais de Eugene Schwartz (Breakthrough Advertising), Clayton Makepeace (Quick Start Copywriting System), Joseph Sugarman (The Adweek Copywriting Handbook e Triggers), Robert Collier (The Robert Collier Letter Book), Dan Kennedy (The Ultimate Sales Letter) e duas aulas ao vivo de VSL do copywriter Thiago Filemon (transcrições de legenda automática): VSL para perpétuo, mapa/briefing, mecanismo único com apelido, tese de pontos lógicos, história, lead, fórmula de 5 blocos, oferta e formatos. Use ao escrever headlines, cartas de vendas, VSLs e roteiros de vídeo de vendas, e-mails, páginas de vendas, anúncios, roteiros de comercial, estratégia de conteúdo digital, ou ao estudar os frameworks dos autores."
 ---
 
 <!-- argument-hint: [tópico, framework, autor, ou número de capítulo] -->
 
-# Copywriting & Publicidade — Base de Conhecimento (12 Livros/Arquivos)
-**Autores**: Gustavo Ferreira, Paulo Maccedo, David Ogilvy, Miles Young, Gary Bencivenga, John Carlton, Gary Halbert, Eugene Schwartz, Clayton Makepeace, Joseph Sugarman, Robert Collier, Dan Kennedy | **Capítulos**: 159 | **Gerado**: 2026-09-23 | **Atualizado**: 2026-09-23
+# Copywriting & Publicidade — Base de Conhecimento (13 Livros/Arquivos/Aulas)
+**Autores**: Gustavo Ferreira, Paulo Maccedo, David Ogilvy, Miles Young, Gary Bencivenga, John Carlton, Gary Halbert, Eugene Schwartz, Clayton Makepeace, Joseph Sugarman, Robert Collier, Dan Kennedy, Thiago Filemon (aulas de VSL) | **Capítulos**: 180 | **Gerado**: 2026-09-23 | **Atualizado**: 2026-10-07
 
 ## Como Usar Esta Skill
 
@@ -101,6 +101,12 @@ A única função de cada frase é fazer o leitor ler a próxima. Revise toda co
 
 ### Sistema de 29 Passos da Carta de Vendas (Dan Kennedy)
 Sequência completa e testada da preparação à impressão: cliente/oferta/admissão prejudicial → entrega/abertura/leitura → vencer o preço/pressão de venda → rascunho/reescrita/buracos → PS/checklist/cosméticos/paixão/edição → pré-teste/armadilha da sofisticação/maquete/resfriamento/segundas opiniões → impressão e teste multivariável. Use como checklist de processo completo para qualquer carta de vendas de peso.
+
+### Fórmula de 5 Blocos do VSL + "Cada Bloco Vende Algo" (Thiago Filemon)
+Para VSL de público frio: **Lead → História → Mecanismo (tese) → Construção do produto → Oferta**, nessa ordem, produzidos **de trás para frente** (sistema reverso: oferta e mecanismo primeiro, lead por último) e **montados, não escritos**. Cada bloco vende uma coisa distinta: a lead vende atenção ("trailer, não filme"), a história conexão e credibilidade do especialista, o mecanismo a solução, a construção do produto a credibilidade do produto e a oferta o valor. Quem está começando não muda a ordem. Fonte: ch165, ch167, ch180. Afirmações de resultado do professor são "conferir" (legenda automática).
+
+### Mapa → Mecanismo com Apelido → One Belief → Tese de Pontos Lógicos (Thiago Filemon)
+Antes de escrever o VSL, monte o **mapa** (oferta, público/raio X, mecanismo, tese, história). O **mecanismo** é o método real do produto, com **apelido** curioso e verdadeiro; ele existe para levar a **uma única crença** (One Belief), construída por 7-10 **pontos lógicos** que partem de crenças que o público já tem e as estendem em degraus (gradualização), cada ponto com prova, benefício e conexão. Tensão registrada com Ogilvy/Makepeace (Big Idea) e com Schwartz (estágio 5): ver ch172 e ch175. Fonte: ch173-177.
 
 ---
 
@@ -313,13 +319,47 @@ Sequência completa e testada da preparação à impressão: cliente/oferta/admi
 | [ch156](chapters/ch156-kennedy-pre-teste-armadilha-sofisticacao-liga-principal.md) | Passos 19-29: Pré-Teste, Armadilha da Sofisticação, Liga Principal | Armadilha da Sofisticação, Matriz de Teste |
 | [ch157](chapters/ch157-kennedy-usos-de-negocio-sequencia-cartas-alta-tecnologia.md) | Usos de Negócio, Segredo da Sequência, Cartas Online | Segredo da Sequência, 5 Dicas Online |
 
+### Livro 13 — Thiago Filemon (aulas de VSL)
+*Proveniência*: duas aulas ao vivo transcritas por **legenda automática** (.srt), com ruído, trechos promocionais omitidos e possíveis erros de captação. O nome do professor aparece como "Filemon" ou "Filemão" nas legendas; usamos **Thiago Filemon** (grafia vinda da legenda automática, a confirmar). Todo número, caso e nome citado é **afirmação do próprio professor, a conferir**, não fato verificado. Não confundir com Thiago Roas (skill separada `funil-vsl-thiago-roas`: funil, tráfego, preço). Pela fala, a "Aula 1" parece ser o **segundo dia** de um treinamento de dois dias, e a "Aula 2" o **primeiro dia**; leia a Aula 2 antes se quiser seguir a ordem cronológica de construção.
+
+#### Aula 1 — VSL para perpétuo: lead, fórmula de 5 blocos, oferta, formatos e economia do funil (ch160-ch169)
+| # | Título | Frameworks-Chave |
+|---|---|---|
+| [ch160](chapters/ch160-filemon-perpetuo-vs-lancamento-conta-e-fundacao.md) | Perpétuo vs. Lançamento: a Conta e a Fundação | Conta do Lançamento, 5 "Mentiras" do Mercado, 3 Regras do Novo Jogo (afirmações do professor) |
+| [ch161](chapters/ch161-filemon-ascensao-ltv-design-de-produto-pre-compra.md) | Ascensão, LTV e Design de Produto de Pré-Compra | Janela de Ascensão de ~7 dias, Front Paga Tráfego/Back Paga Equipe |
+| [ch162](chapters/ch162-filemon-anatomia-vsl-que-escala-apelido-mecanismo.md) | Anatomia de VSLs Que Escalam: Mecanismo, Apelido e Estrutura Comum | Apelido do Mecanismo, Renomear Categoria Saturada, Abertura com Notícia |
+| [ch163](chapters/ch163-filemon-lead-trailer-9-elementos.md) | A Lead como Trailer: Função, 9 Elementos e Regras de Credibilidade | Pergunta-Filtro da Lead, 9 Elementos, "Dois Caras na Moto", Super-Estrutura |
+| [ch164](chapters/ch164-filemon-angulos-de-lead-teste-de-tres-leads.md) | Ângulos de Lead e o Teste de Três Aberturas | Problema/Segredo/Pergunta Paradoxal/Mecanismo, Retenção ≥60% no 1º Minuto |
+| [ch165](chapters/ch165-filemon-formula-5-blocos-vsl-o-que-cada-bloco-vende.md) | A Fórmula de 5 Blocos do VSL: o Que Cada Bloco Vende | Lead→História→Mecanismo→Construção→Oferta, "Cópia se Monta, Não se Escreve" |
+| [ch166](chapters/ch166-filemon-historia-e-construcao-do-produto-ponte.md) | História e Construção do Produto: a Ponte Antes da Oferta | História do Expert vs. Cliente, Jornada em 6 Elos, 30+ Tipos de Prova |
+| [ch167](chapters/ch167-filemon-estrutura-da-oferta-do-vsl.md) | A Estrutura da Oferta do VSL, Passo a Passo | 16 Etapas da Oferta, Módulos "Sexy", Ancoragem, Urgência Real, Encruzilhada |
+| [ch168](chapters/ch168-filemon-producao-do-vsl-com-ia-mapa-e-prompts.md) | Produzindo o VSL com IA: Mapa, Prompts por Bloco e Julgamento | Mapa como Briefing Mestre, Prompt por Bloco, "90% IA / 10% Humano" |
+| [ch169](chapters/ch169-filemon-formatos-de-vsl-que-nao-parecem-venda.md) | Formatos de VSL: Gravar a Mesma Copy de Jeitos Que Retêm Mais | Catálogo de Formatos, Orgânico Dita o Pago, Ressalva Ética de Identificação |
+
+#### Aula 2 — Construindo a VSL ao vivo: mapa, mecanismo, tese e história (ch170-ch180)
+| # | Título | Frameworks-Chave |
+|---|---|---|
+| [ch170](chapters/ch170-filemon-cinco-leis-do-direct-response.md) | As 5 Leis do Direct Response (Versão Filemon) | Monta/Peixe/Prova/Canaliza/Não Parece Venda |
+| [ch171](chapters/ch171-filemon-onde-o-vsl-entra-faixa-de-ticket-tres-tipos-de-produto.md) | Onde o VSL Entra: Faixa de Ticket e os 3 Tipos de Produto | Ticket R$197-497, Produto Resumo/Filé/Antídoto, Ascensão para High Ticket |
+| [ch172](chapters/ch172-filemon-sem-big-idea-mecanismo-e-sistema-reverso.md) | "Sem Big Idea": Mecanismo e Sistema Reverso | Substituição de Big Idea por Mecanismo (tensão), Sistema Reverso (McKee) |
+| [ch173](chapters/ch173-filemon-o-mapa-e-a-promessa-central.md) | O Mapa (Briefing Mestre) e a Promessa Central | Campos do Mapa, Promessa Curta de Resultado |
+| [ch174](chapters/ch174-filemon-raio-x-do-publico-e-analise-de-vsl-de-referencia.md) | O Raio X do Público e a Análise de VSLs de Referência | Raio X (dores, drives, soluções falhas, inimigo), Estrutura Invisível |
+| [ch175](chapters/ch175-filemon-o-mecanismo-definicao-perguntas-e-sofisticacao.md) | O Mecanismo: Definição, 4 Perguntas e Sofisticação | Mecanismo Lab, Escada de Sofisticação Segundo Filemon (tensão com Schwartz) |
+| [ch176](chapters/ch176-filemon-apelido-do-mecanismo-e-one-belief.md) | O Apelido do Mecanismo e a One Belief | Critérios de Apelido, One Belief (fórmula) |
+| [ch177](chapters/ch177-filemon-tese-de-marketing-e-pontos-logicos.md) | A Tese de Marketing e os Pontos Lógicos | Gradualização, 7-10 Pontos, Conclusão Inevitável, Prova+Benefício+Conexão |
+| [ch178](chapters/ch178-filemon-historia-7-bits-jornada-do-heroi-reduzida.md) | A História do VSL: os 7 Bits da Jornada do Herói Reduzida | 7 Bits, Áudio→IA, Herói Cliente, Credibilidade no Início |
+| [ch179](chapters/ch179-filemon-decisoes-de-campo-duracao-consciencia-nicho-roas.md) | Decisões de Campo: Duração, Consciência, Nicho, ROAS, Conversão | Consciência Baixa = Copy Maior, ROAS≤2, 2-3% de Conversão, Quiz (opiniões do professor) |
+| [ch180](chapters/ch180-filemon-exemplo-trabalhado-mapa-e-esqueleto-do-vsl.md) | Exemplo Trabalhado: o Mapa e o Esqueleto do VSL em Dois Dias | Template do Mapa, Esqueleto de 5 Blocos, Cronograma de 2 Sessões, Checklist |
+
 ## Índice de Tópicos
 
 - **AIDA/AIDAS** → ch73, ch100
+- **Apelido do Mecanismo / Mecanismo Único (Filemon)** → ch162, ch175-176 (ver também ch118 Mecanização, ch51 USP)
+- **Ascensão / LTV / Funil de Pré-Compra (VSL perpétuo)** → ch160-161, ch171 (ver skill `funil-vsl-thiago-roas`)
 - **Autogoverno/Disciplina Pessoal** → ch56, ch70, ch75, ch86, ch89, ch104
-- **Avatar/Público-alvo** → ch02, ch09, ch52, ch105
-- **Backend/Recorrência** → ch54, ch65, ch107, ch149
-- **Big Idea** → ch05, ch15, ch20
+- **Avatar/Público-alvo** → ch02, ch09, ch52, ch105, ch174 (Raio X do Público, Filemon)
+- **Backend/Recorrência** → ch54, ch65, ch107, ch149, ch160-161 (ascensão, LTV, perpétuo vs. lançamento; Filemon)
+- **Big Idea** → ch05, ch15, ch20, ch125 (Makepeace); **posição contrária**: ch172 (Filemon, "sem Big Idea, com mecanismo")
 - **Bonding/Retenção de Cliente** → ch103, ch131
 - **Branding (ondas/marca)** → ch20, ch39
 - **Bullets (escrita de)** → ch62, ch87, ch128
@@ -328,51 +368,59 @@ Sequência completa e testada da preparação à impressão: cliente/oferta/admi
 - **Clayton Makepeace** → ch95 (citação nominal via John Carlton, Técnica Fed Ex), ch122-131 (fonte primária completa: "Quick Start Copywriting System")
 - **Classificados (anúncios)** → ch94
 - **Concursos e Sorteios** → ch103
-- **Consciência do Prospecto / Estágios de Consciência (Eugene Schwartz)** → ch110 (fonte primária completa), ch03, ch17, ch126 (versões popularizadas/aplicadas)
+- **Consciência do Prospecto / Estágios de Consciência (Eugene Schwartz)** → ch110 (fonte primária completa), ch03, ch17, ch126 (versões popularizadas/aplicadas), ch179 (menor consciência = copy maior, Filemon)
 - **Contratação de Copywriter** → ch91, ch156
 - **CTA (Chamada para Ação)** → ch06, ch19, ch28, ch63
 - **Comércio digital/e-commerce** → ch45
-- **Conteúdo (estratégia)** → ch40, ch41
+- **Conteúdo (estratégia)** → ch40, ch41, ch160 (visão de Filemon: conteúdo não é para vender; contraponto a ch131)
 - **Cosméticos de Copy/Design Visual da Página** → ch100 (Double Readership Path), ch155 (27 Cosméticos de Copy, Kennedy)
-- **Criação de Produto do Zero** → ch66, ch78, ch97
+- **Criação de Produto do Zero** → ch66, ch78, ch97, ch171 (produto resumo/filé/antídoto)
 - **Dados/analytics** → ch42, ch43, ch48
 - **Delegação/Gestão de Negócio Próprio** → ch106
 - **Desejo Aquisitivo (Robert Collier)** → ch146
 - **Desejo de Massa e Intensificação (Eugene Schwartz)** → ch109 (Mass Desire), ch114-120 (7 Técnicas de Intensificação)
+- **Direct Response — 5 Leis (Filemon)** → ch170
 - **Eficácia vs. Eficiência de Canal** → ch99
 - **Envelope/Mala Direta (fazer abrir)** → ch28, ch60, ch72, ch77, ch94, ch101, ch152
-- **Escassez/Urgência** → ch63, ch94, ch96, ch153, ch154 (Antídoto da Procrastinação, 6 técnicas de resposta imediata)
+- **Escassez/Urgência** → ch63, ch94, ch96, ch153, ch154 (Antídoto da Procrastinação, 6 técnicas de resposta imediata), ch167 (urgência com razão real na oferta de VSL)
 - **Escrita — Processo e Mentalidade** → ch06, ch56, ch73, ch82, ch89, ch92, ch98, ch154 (Passo 9-10, primeiro rascunho e reescrita), ch158 (origem do "Gun to the Head" na voz de Halbert)
-- **Fechamento/Ordem de Compra** → ch19, ch63, ch76, ch129, ch153
+- **Fechamento/Ordem de Compra** → ch19, ch63, ch76, ch129, ch153, ch167 (sequência de oferta, encruzilhada, CTA final em VSL)
 - **Fog Index/Legibilidade (Sugarman)** → ch139
+- **Formatos de VSL** → ch169
 - **Gatilhos Nomeados de Sugarman (31 + 30)** → ch137-138 (Adweek Handbook), ch141-145 (Triggers)
-- **Garantia/Reversão de Risco** → ch08, ch54, ch63, ch93, ch96, ch101, ch129, ch143, ch153 (5 variações de apresentação, Kennedy) (ver Escada de Reversão de Risco no cheatsheet)
+- **Garantia/Reversão de Risco** → ch08, ch54, ch63, ch93, ch96, ch101, ch129, ch143, ch153 (5 variações de apresentação, Kennedy) (ver Escada de Reversão de Risco no cheatsheet), ch167 (posição da garantia na oferta de VSL)
 - **Goldmine Markets/Mercados Mais Lucrativos** → ch96
 - **Grabbers (isca de atenção física)** → ch60, ch72, ch76, ch93, ch94, ch102, ch152
 - **Heavy Ground vs. Deadly Ground (Sun Tzu via Mark Joyner)** → ch158
 - **Headlines** → ch03, ch16, ch24, ch50, ch61, ch87, ch100, ch112 (38 Formas, Schwartz), ch126 (Cheat Sheet de Makepeace), ch152 (11 estruturas "preencha a lacuna", Kennedy)
 - **Hot Buttons (gatilhos de benefício)** → ch96
-- **Infomerciais/Vídeo/Áudio/900-976** → ch95
-- **Lead (abertura de copy)** → ch17, ch100, ch127 (24 Iniciadores, Makepeace), ch152
+- **IA na produção de copy (mapa, prompts, agentes)** → ch168, ch174, ch177-178, ch180 (ressalvas éticas em cada um)
+- **Infomerciais/Vídeo/Áudio/900-976** → ch95, ch169 (formatos de VSL), ch160-180 (VSL)
+- **Lead (abertura de copy)** → ch17, ch100, ch127 (24 Iniciadores, Makepeace), ch152, ch163-164 (lead de VSL como trailer, 9 elementos, ângulos, teste de 3 leads)
 - **Legibilidade/Formatação** → ch100, ch133 (Slippery Slide), ch139 (Fog Index), ch155 (27 Cosméticos de Copy)
 - **Listas de Mala Direta (qualidade/RFM)** → ch71, ch78, ch81, ch158 (Engenharia de "Sweet Spot" por Frequência de Sobrenome)
-- **Mala direta / resposta direta** → ch01, ch10, ch28, ch72, ch94, ch101, ch146-150 (Collier), ch151-157 (Kennedy)
+- **Mala direta / resposta direta** → ch01, ch10, ch28, ch72, ch94, ch101, ch146-150 (Collier), ch151-157 (Kennedy), ch170 (direct response aplicado a VSL)
+- **Mapa/Briefing do VSL** → ch173, ch180
 - **Metáfora** → ch55
 - **Motivação do Consumidor** → ch52, ch68
 - **Negócio do Copywriter/Freelancer** → ch106, ch156
 - **Neurociência/economia comportamental** → ch48
-- **Objeções** → ch14, ch154 (Buracos/Potholes, "arejamento de objeções")
-- **Oferta irresistível** → ch08, ch14, ch54, ch63, ch96, ch123 (Makepeace), ch159 (precificação US$2/US$1 com efeito duplo receita+credibilidade)
+- **Objeções** → ch14, ch154 (Buracos/Potholes, "arejamento de objeções"), ch163 (reconhecer a descrença na lead)
+- **Oferta irresistível** → ch08, ch14, ch54, ch63, ch96, ch123 (Makepeace), ch159 (precificação US$2/US$1 com efeito duplo receita+credibilidade), ch167 (estrutura da oferta de VSL), ch171 (faixa de ticket e tipos de produto)
+- **One Belief (crença única) e Gradualização** → ch176-177 (ver ch116 Schwartz)
 - **Parcerias/JV Comissionado** → ch106
 - **Personalização (mala direta)** → ch158-159 (Multiplicador de Personalização sobre Lucro Líquido, regra "nem de menos nem de mais")
 - **Persuasão/gatilhos** → ch11, ch12, ch49, ch104, ch114-120 (Intensificação, Schwartz), ch137-138, ch141-145 (Sugarman)
-- **Pesquisa de mercado** → ch21, ch30, ch42, ch78, ch97, ch122 (Makepeace)
-- **Preço/Precificação** → ch54, ch63, ch96, ch153 (Beat the Bugaboo, 6 técnicas), ch159 (unidade adicional com desconto como reforço de credibilidade)
+- **Pesquisa de mercado** → ch21, ch30, ch42, ch78, ch97, ch122 (Makepeace), ch174 (Raio X, análise de VSLs de referência)
+- **Pontos Lógicos / Tese de Marketing** → ch177
+- **Preço/Precificação** → ch54, ch63, ch96, ch153 (Beat the Bugaboo, 6 técnicas), ch159 (unidade adicional com desconto como reforço de credibilidade), ch171 (faixa R$197-497 para VSL, opinião do professor)
 - **Pressão de Venda (Sales Pressure)** → ch153 (4 técnicas, Kennedy)
+- **Promessa (central, simples)** → ch173, ch167 (promessa conectada ao mecanismo), ch164 (ângulo vs. promessa)
 - **Proteção de Lista/Segurança de Dados** → ch106
-- **Prova/Credibilidade** → ch49, ch59, ch102, ch108, ch124 (13 Estratégias, Makepeace), ch148 (Collier), ch159 (Fabricação de Prova Fotográfica em Escala via impressão em ganga)
+- **Prova/Credibilidade** → ch49, ch59, ch102, ch108, ch124 (13 Estratégias, Makepeace), ch148 (Collier), ch159 (Fabricação de Prova Fotográfica em Escala via impressão em ganga), ch163 e ch166 (provas na lead e na ponte, 30+ tipos), ch170 (Lei: prova vale mais que promessa), ch177 (prova em cada ponto lógico)
 - **Publicação de Livros/Info-produtos** → ch96
 - **Publicidade institucional/causas** → ch26, ch29, ch46
+- **Raio X do Público (pesquisa)** → ch174
 - **Redes sociais** → ch45
 - **Relações Públicas (PR)** → ch94, ch102
 - **Reciprocidade/Paradigma de Mudança** → ch104
@@ -380,16 +428,20 @@ Sequência completa e testada da preparação à impressão: cliente/oferta/admi
 - **Robert Collier (fonte primária)** → ch146-150
 - **Seminários** → ch96, ch107
 - **Sequência de Cartas (Power of a Sequence, Kennedy)** → ch157
-- **Sofisticação de Mercado (Eugene Schwartz)** → ch111
-- **Starving Crowd/Validação de Mercado** → ch51, ch66, ch71, ch76, ch78, ch96
-- **Storytelling** → ch08, ch41, ch64
+- **Sistema Reverso (construir de trás para frente)** → ch165, ch172, ch180
+- **Sofisticação de Mercado (Eugene Schwartz)** → ch111, ch175 (releitura e discordância de Filemon sobre o estágio 5)
+- **Starving Crowd/Validação de Mercado** → ch51, ch66, ch71, ch76, ch78, ch96, ch174, ch179 (escolha de nicho, Filemon)
+- **Storytelling** → ch08, ch41, ch64, ch166, ch178 (história do VSL, 7 bits)
 - **Sistema de 29 Passos (Dan Kennedy, fonte primária)** → ch151-157
 - **Teleseminar/Telefone Automatizado** → ch102
 - **Telemarketing** → ch95
-- **Testes A/B (split-run)** → ch28, ch30, ch76, ch91, ch99, ch156 (matriz de teste multivariável)
+- **Testes A/B (split-run)** → ch28, ch30, ch76, ch91, ch99, ch156 (matriz de teste multivariável), ch164 (teste de 3 leads por retenção)
+- **Thiago Filemon (aulas de VSL)** → ch160-180 (grafia do nome vem de legenda automática; não confundir com Thiago Roas)
+- **Tipos de Produto de Entrada (resumo, filé, antídoto)** → ch171
 - **TV/comerciais** → ch25, ch37, ch84, ch95
 - **USP/Posicionamento de Produto** → ch20, ch51, ch105
 - **Vendas Online/Cartas de Alta Tecnologia** → ch157
+- **VSL (estrutura, fórmula de 5 blocos, produção)** → ch165, ch167, ch180 (ver também ch06, ch18)
 - **Gestão de agência** → ch21, ch22, ch23
 
 ## Arquivos de Apoio
@@ -410,8 +462,9 @@ Esta skill é a dona das **Fases 10–11** do pipeline (Copywriting e Criativos)
 - Mapa Psicológico do Consumidor (Fases 3–5, de `psicologia-consumidor`) — em especial o desejo real por trás do desejo declarado
 - Nível de consciência do público (inconsciente / consciente do problema / da solução / do produto / mais consciente)
 - Gatilhos de persuasão relevantes já mapeados (de `persuasao-gatilhos`), se o pedido pedir aplicação combinada
+- **Para pedidos de VSL (Livro 13, Filemon)**: o **mapa** do VSL, ou seja, produto/promessa central, raio X do público, mecanismo **real** com apelido, One Belief, pontos lógicos da tese com provas verificadas e história com fatos confirmados pelo especialista; o tipo de produto de entrada e a esteira de ascensão (de `estrategia-negocios` e `funil-vsl-thiago-roas`). Se faltarem, esta skill constrói o mapa primeiro (ch173-180) e sinaliza o que precisa de verificação, em vez de escrever a lead "no escuro"
 
-**Produz como output**: peça(s) de copy finalizada(s) — headline, VSL, página, e-mail, anúncio, roteiro — seguindo a hierarquia Atenção → Interesse → Desejo → Crença → Segurança → Ação.
+**Produz como output**: peça(s) de copy finalizada(s) — headline, VSL, página, e-mail, anúncio, roteiro — seguindo a hierarquia Atenção → Interesse → Desejo → Crença → Segurança → Ação. Para VSL, o entregável é o **mapa + o roteiro nos 5 blocos** (lead com 3 ângulos para teste, história, mecanismo/tese, construção do produto, oferta), mais o **registro de provas/fatos a verificar** e a sugestão de formato; o upsell/downsell, a página, o tráfego e as métricas de retenção ficam com `funil-vsl-thiago-roas` e `marketing-digital-growth` (Fases de Funil e Escala). **Regra permanente**: nenhum depoimento, cliente, número, estudo, vilão, urgência, preço de referência ou "mecanismo" inventado entra em peça real; os dados fictícios dos exercícios do Livro 13 servem apenas como ensaio.
 
 **Quando usada isoladamente** (fora do pipeline, pedido pontual do tipo "escreva uma headline"): funcione normalmente sem exigir os artefatos acima — apenas mencione brevemente se a ausência de posicionamento/oferta definidos for limitar a qualidade da peça.
 
@@ -420,6 +473,10 @@ Esta skill é a dona das **Fases 10–11** do pipeline (Copywriting e Criativos)
 ## Escopo & Limites
 
 Esta skill cobre o conteúdo sintetizado dos livros-fonte, com frameworks, exemplos reconstruídos e citações essenciais — nunca texto bruto copiado. Para aplicação em projetos reais (Pedro Sachet, MorfoGuide, etc.), combine com o contexto específico do produto/cliente. Para tópicos além destes livros-fonte, peça diretamente.
+
+**Livro 13 (ch160-180, Thiago Filemon, aulas de VSL) — proveniência e limites**: o material vem de **duas transcrições de legenda automática (.srt)** de aulas ao vivo (~2h43 e ~2h15), com ruído de fala, pausas, perguntas do chat, erros de captação (ex.: "mão de copo" por "mundo de copy") e longos trechos promocionais de mentoria e produto, **omitidos de propósito** (mais de um terço da Aula 1 é pitch comercial e não foi sintetizado). O nome do professor aparece como "Filemon" ou "Filemão" nas legendas; usamos **Thiago Filemon**, grafia vinda da legenda automática (a confirmar), e ele **não deve ser confundido com Thiago Roas** (skill separada `funil-vsl-thiago-roas`). Todo número (faturamentos, taxas de ascensão, conversão, ROAS, faixas de ticket), caso e nome de terceiros é **afirmação do próprio professor, a conferir**; trechos ininteligíveis foram sinalizados nos capítulos em vez de adivinhados. A "Aula 1" parece ser o **segundo dia** e a "Aula 2" o **primeiro dia** de um treinamento de dois dias; ambas foram sintetizadas por unidade de ensino, não por cronologia, e o professor usa produtos fictícios (ex.: produtividade/dopamina) como exemplo, **que não são fatos**. Os prompts e "agentes" dele não são divulgados nas aulas: descrevemos o método, não o prompt. Onde o professor discorda de autores já presentes (Big Idea, estágio 5 de Schwartz, mecanismo sempre presente, formatos que "não parecem venda"), a tensão está registrada nos Anti-patterns dos capítulos relevantes (ch169, ch172, ch175) em vez de escolher um lado em silêncio; qualquer tática de escassez/urgência falsa, depoimento fabricado, mecanismo inventado ou formato que esconda a natureza publicitária foi mantida apenas na sua versão honesta, conforme a regra permanente de `persuasao-gatilhos`.
+
+**Regra de peso do Livro 13 (decisão do operador)**: as aulas do Livro 13 são fonte **complementar, de peso menor** que os Livros 1-12 (livros e arquivos de autores consolidados). Quando Filemon divergir de um autor dos Livros 1-12, **nenhum dos dois é apagado nem corrigido**: apresente as duas posições, diga qual se aplica ao caso concreto, e na dúvida prevaleça a posição dos Livros 1-12, a menos que o operador decida o contrário. As divergências ficam registradas (ex.: ch172 sobre Big Idea, ch175 sobre o estágio 5 de Schwartz) como contraponto para estudo, não como correção do restante da skill.
 
 **Nota de proveniência sobre ch94-96 (Relatório "20 Clicks", John Carlton)**: o PDF-fonte original deste relatório foi perdido (apagado por engano) após sua extração inicial numa sessão anterior de curadoria, antes de ser processado corretamente. O texto integral já havia sido capturado no momento da extração, foi recuperado do histórico dessa sessão, verificado quanto à fidelidade e completude, e só então usado para gerar ch94-96. Por isso a fonte consultada para esses três capítulos é uma reconstrução em `.md` (não o PDF original) — ver nota completa ao final de ch96.
 

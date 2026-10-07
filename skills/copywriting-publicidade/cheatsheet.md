@@ -330,3 +330,57 @@ Pular qualquer etapa desta sequência é o padrão de falha mais citado, sob nom
 | Venda final do negócio (à Ancestry.com, décadas depois) | US$70-75 milhões |
 
 **Nota de proveniência**: estes números vêm de uma entrevista falada (transcrição ASR, ver nota no `SKILL.md`), não de um documento escrito revisado — trate como ordem de grandeza citada de memória por Halbert décadas depois do fato, não como registro contábil auditado.
+
+## Diagnóstico Rápido: VSL de Público Frio (extensão Livro 13, Filemon)
+
+| Situação | Onde ir primeiro | Capítulo |
+|---|---|---|
+| Vou escrever um VSL e não tenho briefing | Montar o Mapa (oferta, raio X, mecanismo, One Belief, tese, história) antes de qualquer frase | ch173, ch180 |
+| Lead com retenção baixa no 1º minuto | Testar 3 aberturas de ângulos diferentes com o mesmo corpo | ch164 |
+| Mecanismo "não convence" | Escrever a tese em 7-10 pontos lógicos com prova verificada | ch177 |
+| Mercado saturado de promessas | Mecanismo novo com apelido real e específico (mas ver tensão com Schwartz) | ch175-176, ch111 |
+| Cliente só vende high ticket | Criar produto de entrada (resumo, filé ou antídoto) e desenhar a ascensão | ch171, ch161 |
+| Expert não viveu o problema | Contar a história de um aluno/cliente/paciente (um herói só, fatos reais) | ch166, ch178 |
+| VSL pronto, atenção cai cedo | Rever "cheiro de venda" na lead e testar outro formato | ch163, ch169 |
+| Dúvida sobre duração, nicho, ROAS | Ver as hipóteses de campo do professor (a testar) | ch179 |
+
+## VSL: Esqueleto de 5 Blocos e o Que Cada Bloco Vende (Filemon)
+
+| Bloco | O que vende | Conteúdo mínimo | Capítulo |
+|---|---|---|---|
+| 1. Lead | Atenção e visualização | Ângulo, problema, promessa, spoiler do mecanismo (apelido), bullets de curiosidade, reconhecer descrença, qualificador, depoimento do método, credibilidade; sem cheiro de venda | ch163-164 |
+| 2. História | Conexão e credibilidade do especialista | 7 bits: credenciais, "eu era como você", tentativas, fundo do poço, busca, fonte, descoberta do método | ch178 |
+| 3. Mecanismo/Tese | A solução | 7-10 pontos lógicos com prova, benefício e conexão; conclusão inevitável = One Belief | ch175-177 |
+| 4. Construção do produto | Credibilidade do produto | Ponte em 6 elos: aplicou, resultado, compartilhou, demanda, criou, nome | ch166 |
+| 5. Oferta | Valor, depois a decisão | Produto, bullets, promessa ligada ao mecanismo, módulos, ancoragem, preço, garantia, bônus, urgência real, stack, encruzilhada, CTA | ch167 |
+
+**Regras**: construir de trás para frente (oferta/mecanismo/tese/história primeiro, lead por último); quem está começando não muda a ordem; cada bloco precisa responder "o que esta seção vende?". Ch165, ch172.
+
+**Checklist de revisão do rascunho de VSL**: [ ] mapa completo e revisado; [ ] lead sem cheiro de venda; [ ] 3 aberturas para teste; [ ] mecanismo descreve método real; [ ] cada prova conferida na fonte; [ ] história e ponte com os mesmos fatos reais; [ ] oferta cita o mecanismo; [ ] urgência, preço de referência, bônus e garantia reais; [ ] ascensão definida; [ ] formato identificável como apresentação comercial. Ch180.
+
+## Ângulos de Lead de VSL: Quando Usar Cada Um (Filemon)
+
+| Ângulo | Use quando | Risco |
+|---|---|---|
+| Problema → Solução | Mercado de consciência do problema; ponto de partida simples | Retenção cai se o espectador não quer ouvir sobre o problema (testar) |
+| Segredo | Há algo verdadeiro e surpreendente a revelar | Isca vazia se o segredo não existir |
+| Pergunta paradoxal + autoridades | Nicho com referências conhecidas e método relacionado a elas | Endosso fabricado se a relação for falsa |
+| Mecanismo do problema (causa raiz) | Saúde, bem-estar, mercados em que "nada funcionou" | Causa-raiz sem prova |
+| Confirmando a suspeita | Público já desconfia da causa real | Ser genérico |
+| Notícia | Quebra de padrão; renda extra/atualidade | Direitos e sugestão de endosso |
+
+Alvo de retenção no 1º minuto citado: ~60% ou mais (afirmação do professor; coincide com `funil-vsl-thiago-roas`). Ch164, ch162.
+
+## Hipóteses de Campo do Professor (Filemon): Usar Como Ponto de Partida, Testar
+
+| Tema | Hipótese (afirmação dele, a conferir) | Capítulo |
+|---|---|---|
+| Faixa de ticket do VSL de entrada | R$ 197-497 (297 como padrão); acima disso, ascensão | ch171 |
+| Taxa de ascensão | ~10-12% em ~7 dias | ch161 |
+| Conversão do VSL | 2-3% boa, até 5% | ch179 |
+| Duração | Renda extra até ~20-25 min; outros ~30; saúde maior | ch179 |
+| Consciência vs. tamanho | Menor consciência, copy maior | ch179, ch110 |
+| ROAS | ≤ 2 para escalar, se houver back end | ch179, ch160 |
+
+**Nota**: números vindos de aula transcrita por legenda automática; confrontar com `funil-vsl-thiago-roas` (que adverte contra comparar conversão com valor fixo) e com os seus próprios dados.
+

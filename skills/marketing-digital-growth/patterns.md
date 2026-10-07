@@ -76,3 +76,49 @@ Técnicas de growth e funil formatadas para aplicação direta. Cada padrão ind
 **When to use**: Quando a produção de conteúdo está desequilibrada — só campanhas grandes esporádicas (Hero) ou só conteúdo reativo de SEO (Help), sem consistência de marca.
 **How**: Classificar cada peça planejada do calendário editorial como Help, Hub ou Hero. Garantir presença mínima sustentável dos três tipos, com Hero em cadência esporádica e Help/Hub em cadência recorrente.
 **Trade-offs**: Exige capacidade de produção suficiente para sustentar as três cadências simultaneamente — equipes pequenas podem precisar sacrificar Hero (mais caro) em favor de Help/Hub constantes.
+
+
+## Diagnóstico Anúncio vs. Modelo de Negócio vs. Vendas (Hormozi)
+**When to use**: Quando alguém diz "os anúncios não funcionam" ou "o CAC está alto" antes de qualquer mudança de criativo ou de mídia.
+**How**: (1) Confirme que o tracking existe do clique à venda. (2) Pergunte "os leads engajados têm o problema *e* o dinheiro?" — se não, é problema de publicidade/segmentação; se sim e não compram, é problema de vendas (comparecimento, fechamento, oferta no call), não de anúncio. (3) Se o público é qualificado e compra mas o CAC é alto, compare o CAC com a média do setor: abaixo de ~3x a média, o gargalo é o LTGP (modelo de monetização, ch59-ch65); acima, o gargalo é a mídia (ch54). (4) Só depois escolha o teste.
+**Trade-offs**: Exige dados de funil completos e benchmark de setor (nem sempre disponível); o limiar de 3x e a razão LTGP:CAC ≥ 3:1 são observações empíricas do autor, não regras universais.
+
+## Money Model em Estágios (um estágio por vez)
+**When to use**: Ao projetar ou reformular a monetização de um funil/negócio que hoje vende uma única oferta e depende de margem lenta para pagar o CAC.
+**How**: Estágio I — um Attraction Offer que traga clientes de forma confiável (ch60). Estágio II — um upsell no momento de maior necessidade, depois downsells para os "nãos" (ch61-ch63), até a margem de 30 dias superar CAC + custo de entrega. Estágio III — só então a oferta de continuidade, seguida de upsell de bloco pré-pago (ch64). Só avance quando o estágio atual for estável e repetível; use um log de testes (ch55).
+**Trade-offs**: Mais lento do que "lançar tudo de uma vez", mas implementar o modelo completo de uma vez costuma quebrar a operação e o caixa; exige capacidade de entrega proporcional ao crescimento de clientes.
+
+## Recuperação de CAC em 30 Dias (Client Financed Acquisition)
+**When to use**: Quando o LTGP:CAC é saudável no papel, mas o caixa não permite escalar porque o lucro do primeiro mês é menor que o CAC.
+**How**: Calcule o lucro bruto de 30 dias por cliente (front + upsells aceitos + downsells). Se for menor que CAC + custo de entrega, adicione/ajuste upsell imediato, order bump e downsell (payment plan, feature downsell) até cobrir; depois reinvista o caixa em mídia (ch54, ch59). Exemplo do livro: upsell de US$100 aceito por 1 em 5 compra adiciona US$20 por cliente.
+**Trade-offs**: Pode forçar upsells prematuros; só vale se a oferta seguinte resolve um problema real do cliente (ch61), caso contrário gera reembolso. Funil de VSL com front barato precisa verificar essa conta antes de elevar orçamento diário (ver `funil-vsl-thiago-roas`).
+
+## Lead Magnet que Reduz o CAC (Teste de Matemática)
+**When to use**: Quando oferecer a core offer direto a público frio gera poucos leads engajados e custo alto por cliente.
+**How**: Escolha um problema estreito cuja solução revele o problema que a core offer resolve; crie variações (3 tipos x 4 formatos, ch50); teste headline > imagem > subheadline; compare CAC com e sem magnet (exemplo: US$100 por ligação agendada e 1 em 10 compra = CAC US$1.000, contra US$3.000 sem magnet).
+**Trade-offs**: O magnet tem custo de entrega e exige qualidade (precisa valer o preço); se leads consomem o magnet e não compram, o problema escolhido não conecta com a core offer.
+
+## Warm Outreach de 100 por Dia antes de Escalar Mídia Paga
+**When to use**: Ao lançar um produto/serviço novo sem clientes, sem prova social ou sem caixa para testar anúncios.
+**How**: Liste todos os contatos (telefone, e-mail, redes); contate ~100 por dia com personalização e A-C-A (ch51); faça uma oferta que peça indicação em vez de compra; ofereça os primeiros cinco grátis em troca de uso, feedback e depoimento; suba o preço por lote de cinco quando houver indicações. Registre a cascata contatos → respostas → aceites → pagantes. Só então adicione conteúdo (ch52), cold outreach (ch53) e mídia paga (ch54), reaproveitando os depoimentos reais.
+**Trade-offs**: Gasta tempo (cerca de 4 horas/dia no início) e depende do tamanho da rede; os benchmarks de resposta (~1 em 5) são do autor. Requer consentimento e opt-out (ch17-ch18).
+
+## Teste Semanal no Gargalo (Constraint) com Log de Testes
+**When to use**: Quando já existe volume em um canal e a eficiência piora ou estagna.
+**How**: Meça a conversão de cada etapa (opt-in, candidatura, agendamento, comparecimento, fechamento); escolha a etapa de maior queda; rode um único split test por plataforma por semana; no fim da semana, escolha o vencedor, registre no log e defina o próximo teste; se 4 tentativas não superarem a versão atual, passe ao próximo gargalo (ch55). Alterne com "More": aumente volume até quebrar, depois conserte o novo gargalo.
+**Trade-offs**: Uma variável por vez é mais lento que testes múltiplos e exige volume suficiente para leitura semanal; em contas pequenas pode ser necessário esticar a janela.
+
+## Payment Plan em Degraus sem Canibalizar o Pagamento à Vista
+**When to use**: Quando a objeção principal é "não tenho esse valor agora" e a taxa de fechamento está baixa.
+**How**: Apresente o preço cheio e o desconto por pagamento à vista; se recusado, ofereça cartão/financiamento de terceiros/layaway, depois metade agora e metade na data do salário, divida em três e, por fim, parcelas iguais; pergunte "de 1 a 10, quanto você quer isto?" e só continue com ≥8 (ch63). Alinhe cobranças a dias de pagamento e reprocesse no mesmo dia as recusas. Monitore se o percentual de pagamentos à vista **não caiu** depois de introduzir o plano.
+**Trade-offs**: Parcelamento adiciona risco de inadimplência e reduz o caixa de 30 dias se canibaliza o pagamento à vista; confirme a capacidade de pagamento do cliente e evite empurrar compra que ele não consegue sustentar.
+
+## Rollover antes do Reembolso (e Winback de Ex-Clientes)
+**When to use**: Quando há clientes insatisfeitos pedindo reembolso, ou uma base inativa há 6+ meses.
+**How**: Para o cliente insatisfeito, entenda a causa e ofereça creditar o valor pago em algo mais adequado (preço da nova oferta ≥4x o crédito); se ainda quiser reembolso, conceda. Para ex-clientes, envie mensagem personalizada com crédito proporcional ao histórico (ch62). Mantenha a oferta honesta e com prazo real.
+**Trade-offs**: Não substitui corrigir o produto (se reembolsos >5%, revise a oferta); não é recuperação de carrinho — trabalha clientes que já compraram (ver ch13 para carrinho).
+
+## Programa de Afiliados com Payout em Tiers
+**When to use**: Quando já existe oferta com economia provada e se deseja ampliar a distribuição por parceiros com audiência quente.
+**How**: Defina o CAC máximo permitido (ex.: 1/3 do lucro bruto para meta 3:1); pague em três níveis (25% por cumprir termos, 50% por ativar, 100% por manter desempenho); qualifique afiliados por investimento (compra ou certificação a 10-20% do ganho anual médio); ative com launch Whisper-Tease-Shout e material pronto; integre via lead magnet dado de brinde ou vendido (ch57). Comece com 10-20 parceiros.
+**Trade-offs**: Alta complexidade operacional (tecnologia de tracking, pagamentos pontuais, suporte); exige divulgação clara da relação comercial ao público e promessas de renda não enganosas.

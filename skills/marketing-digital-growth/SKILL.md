@@ -1,20 +1,21 @@
 ---
 name: marketing-digital-growth
-description: Base de conhecimento sintetizada de 6 livros sobre growth e marketing digital — Hacking Growth (Sean Ellis & Morgan Brown), Marketing na Era Digital (Martha Gabriel & Rafael Kiso), Unbound Marketing (Rafael Kiso), Launch (Jeff Walker), Purple Cow e This Is Marketing (Seth Godin). Use para pesquisa de mercado e voz do cliente, arquitetura de funil (incluindo diagnóstico de abandono/recuperação de carrinho), growth hacking e ciclos de teste, métricas de funil e KPIs (CTR/CAC/LTV/ARPU), otimização de conversão, estratégia multi-canal (SEO/SEM/SMM/e-mail/afiliados/omnichannel), desenho de lançamentos com Product Launch Formula, e diferenciação/notabilidade de produto com menor audiência viável (Seth Godin).
+description: Base de conhecimento sintetizada de 8 livros sobre growth e marketing digital — Hacking Growth (Sean Ellis & Morgan Brown), Marketing na Era Digital (Martha Gabriel & Rafael Kiso), Unbound Marketing (Rafael Kiso), Launch (Jeff Walker), Purple Cow e This Is Marketing (Seth Godin), $100M Leads e $100M Money Models (Alex Hormozi). Use para pesquisa de mercado e voz do cliente, arquitetura de funil (incluindo diagnóstico de abandono/recuperação de carrinho), growth hacking e ciclos de teste, métricas de funil e KPIs (CTR/CAC/LTV/ARPU/LTGP:CAC e recuperação de CAC em 30 dias), otimização de conversão, estratégia multi-canal (SEO/SEM/SMM/e-mail/afiliados/omnichannel), geração de leads com o Core Four de Hormozi (outreach quente/frio, conteúdo, mídia paga, lead getters), modelos de monetização por sequência de ofertas (attraction, upsell, downsell, continuidade), desenho de lançamentos com Product Launch Formula, e diferenciação/notabilidade de produto com menor audiência viável (Seth Godin).
 ---
 
 <!-- argument-hint: [tópico, framework, autor, ou número de capítulo] -->
 
 # marketing-digital-growth
 
-**Autores/Capítulos:** Sean Ellis & Morgan Brown (Hacking Growth, ch01-ch09) · Martha Gabriel & Rafael Kiso (Marketing na Era Digital, ch10-ch23) · Rafael Kiso (Unbound Marketing, ch24-ch29) · Jeff Walker (Launch, Updated & Expanded Edition 2021, ch30-ch35) · Seth Godin (Purple Cow + This Is Marketing, ch36-ch48)
-**Gerado:** 2026-09-11 · **Atualizado:** 2026-09-25
+**Autores/Capítulos:** Sean Ellis & Morgan Brown (Hacking Growth, ch01-ch09) · Martha Gabriel & Rafael Kiso (Marketing na Era Digital, ch10-ch23) · Rafael Kiso (Unbound Marketing, ch24-ch29) · Jeff Walker (Launch, Updated & Expanded Edition 2021, ch30-ch35) · Seth Godin (Purple Cow + This Is Marketing, ch36-ch48) · Alex Hormozi ($100M Leads, 2023, ch49-ch58 + $100M Money Models, 2025, ch59-ch65)
+**Livros:** 8 · **Capítulos:** 65
+**Gerado:** 2026-09-11 · **Atualizado:** 2026-10-07
 
 ## Como Usar Esta Skill
 
-Invoque por tópico ("recuperação de carrinho", "North Star Metric", "menor audiência viável"), por framework ("ICE Score", "3Hs", "Product Launch Formula", "Vaca Roxa"), por autor ("o que Jeff Walker diz sobre escassez", "o que Seth Godin diz sobre notabilidade"), ou por número de capítulo (ch01-ch48). Cada capítulo em `chapters/` segue a estrutura Core Idea → Frameworks Introduzidos → Key Concepts → Mental Models → Anti-patterns → Key Takeaways → Connects To — leia o capítulo específico para profundidade, ou use `glossary.md`/`patterns.md`/`cheatsheet.md` para consulta rápida sem abrir capítulos individuais.
+Invoque por tópico ("recuperação de carrinho", "North Star Metric", "menor audiência viável", "como gerar leads", "upsell e downsell"), por framework ("ICE Score", "3Hs", "Product Launch Formula", "Vaca Roxa", "Core Four", "Money Model"), por autor ("o que Jeff Walker diz sobre escassez", "o que Seth Godin diz sobre notabilidade", "o que Hormozi diz sobre recuperar o CAC em 30 dias"), ou por número de capítulo (ch01-ch65). Cada capítulo em `chapters/` segue a estrutura Core Idea → Frameworks Introduzidos → Key Concepts → Mental Models → Anti-patterns → Key Takeaways → Connects To — leia o capítulo específico para profundidade, ou use `glossary.md`/`patterns.md`/`cheatsheet.md` para consulta rápida sem abrir capítulos individuais.
 
-Esta skill sintetiza; nunca copia texto bruto dos livros-fonte. Onde os 6 livros convergem no mesmo princípio com nomenclaturas diferentes (ex.: ciclo de growth hacking ↔ 5 fases do Unbound ↔ Product Launch Formula ↔ Ciclo Mágico da Vaca (Godin) — todos são ciclos de teste-aprendizado-ajuste; ou Fator K (Ellis/Brown) ↔ Sneezers/Ideavirus (Godin) — ambos descrevem o mesmo mecanismo de propagação boca a boca), isso é sinalizado explicitamente nas seções "Connects To".
+Esta skill sintetiza; nunca copia texto bruto dos livros-fonte. Onde os 8 livros convergem no mesmo princípio com nomenclaturas diferentes (ex.: ciclo de growth hacking ↔ 5 fases do Unbound ↔ Product Launch Formula ↔ Ciclo Mágico da Vaca (Godin) ↔ More/Better/New com teste semanal (Hormozi) — todos são ciclos de teste-aprendizado-ajuste; Fator K (Ellis/Brown) ↔ Sneezers/Ideavirus (Godin) ↔ equação indicações-menos-churn (Hormozi) — todos descrevem o mesmo mecanismo de propagação boca a boca; matemática de LTV/CAC (Godin) ↔ LTGP:CAC e Client Financed Acquisition (Hormozi) — mesma regra de gastar em aquisição só quando o retorno cobre o custo, com Hormozi acrescentando a *velocidade* do retorno), isso é sinalizado explicitamente nas seções "Connects To".
 
 ## Core Frameworks & Modelos Mentais
 
@@ -32,6 +33,9 @@ Esta skill sintetiza; nunca copia texto bruto dos livros-fonte. Onde os 6 livros
 - **Funil da Comunidade / Megafone** — Use para desenhar a etapa de recomendação como amplificação orgânica pós-venda (clientes satisfeitos como canal de aquisição), distinguindo essa mecânica da urgência de Open Cart e da recuperação de carrinho de e-commerce. (ch28, ch33)
 - **Vaca Roxa (Purple Cow) / Notabilidade** — Use como filtro permanente antes de investir em qualquer campanha: o produto/oferta em si é notável o bastante para ser comentado espontaneamente? Se a resposta é não, nenhuma execução de marketing ou mídia paga resolve — o investimento precisa migrar de mídia recorrente para engenharia de produto/oferta. (ch36, ch38)
 - **Menor Audiência Viável (Smallest Viable Market)** — Use ao definir público-alvo de qualquer lançamento ou campanha: em vez de mirar o maior público possível, escolha deliberadamente o menor grupo que torna o esforço viável, vá para os extremos do mapa de posicionamento, e deixe essa base concentrada (via efeito de rede e "pessoas como nós fazem coisas como esta") expandir organicamente para o mercado mais amplo. (ch42)
+- **Core Four (Hormozi) + More/Better/New + Rule of 100** — Use como mapa-mestre de *geração de leads*: só existem 4 formas de dar a conhecer uma oferta (warm outreach, conteúdo grátis, cold outreach, mídia paga — cruzamento de público quente/frio x um-a-um/um-a-muitos) e, quando faltam leads, o diagnóstico é sempre pouco volume ou pouca habilidade em uma das quatro células; escale na ordem Mais (volume) → Melhor (testar o gargalo, um teste por semana) → Novo (novo placement, plataforma ou método), e depois por lead getters (clientes, funcionários, agências, afiliados). Meça "lead engajado", não apenas lead. (ch49, ch51-ch58)
+- **Money Model (sequência Attraction → Upsell → Downsell → Continuity) + regra do caixa de 30 dias** — Use ao desenhar a arquitetura de monetização de um funil ou negócio: uma sequência deliberada de ofertas cuja margem bruta nos primeiros 30 dias cubra o custo de adquirir *e* entregar ao cliente (idealmente 2+ clientes novos), para que o caixa deixe de limitar o crescimento; construa um estágio por vez (cada estágio financia o seguinte) e deixe a continuidade por último. (ch59-ch65)
+- **LTGP:CAC e Client Financed Acquisition (Hormozi)** — Use para decidir se o problema é de anúncio ou de modelo de negócio: compare lucro bruto vitalício por cliente com o custo de adquiri-lo (observação do autor: ≥3:1 para escalar), e compare o CAC com a média do setor — se o CAC está dentro de ~3x da média, o gargalo é monetização (LTGP), não mídia; priorize recuperar o CAC em 30 dias via upsell/downsell. (ch54, ch59)
 
 ## Índice de Capítulos
 
@@ -108,36 +112,80 @@ Esta skill sintetiza; nunca copia texto bruto dos livros-fonte. Onde os 6 livros
 | ch47 | [Confiança, o Funil e a Cauda Longa](chapters/ch47-confianca-funil-cauda-longa.md) | Funil de Confiança, Matemática de LTV, Cauda Longa, Cruzando o Abismo |
 | ch48 | [Liderando uma Tribo e a Ética do Marketing](chapters/ch48-liderando-tribo-etica-do-marketing.md) | História do Eu/Nós/Agora, Regras de Alinsky Invertidas, Bom o Bastante vs. Perfeito |
 
+### Livro 7 — Alex Hormozi ($100M Leads, 2023 + $100M Money Models, 2025)
+
+*(Numeração por livro-fonte: os Livros 5-6 são Purple Cow e This Is Marketing, agrupados acima sob o heading "Livro 5", exatamente como aqui $100M Leads e $100M Money Models ficam sob um único heading.)*
+
+**$100M Leads** — como conseguir leads engajados (ch49-ch58)
+
+| # | Título | Frameworks-Chave |
+|---|---|---|
+| ch49 | [Leads Não Bastam: o Problema de Fundo e o Lead Engajado](chapters/ch49-leads-nao-bastam-leads-engajados.md) | Cadeia Oferta→Leads→Vendas→Dinheiro, Lead vs. Lead Engajado, Mais/Melhores/Mais Baratos/Confiáveis |
+| ch50 | [Engajar Leads: Ofertas e Lead Magnets](chapters/ch50-engajar-leads-lead-magnets.md) | Lead Magnet em 7 Passos, Problem-Solution Cycle, 3 Tipos x 4 Formatos, CTA + razão (escassez/urgência reais) |
+| ch51 | [O Core Four e o Warm Outreach](chapters/ch51-core-four-e-warm-outreach.md) | Core Four (2x2), Warm Outreach em 10 passos, A-C-A, e-mail de 9 palavras, Primeiros 5 Grátis |
+| ch52 | [Post Free Content: Construir e Monetizar Audiência](chapters/ch52-conteudo-gratuito-audiencia-e-monetizacao.md) | Content Unit (Hook-Retain-Reward), Give:Ask Ratio, "Give until they ask", depth-then-width |
+| ch53 | [Cold Outreach: Falar Um-a-Um com Estranhos](chapters/ch53-cold-outreach.md) | Lista em 3 camadas, Personalização, Big Fast Value, Volume e Follow-up, aritmética reversa |
+| ch54 | [Run Paid Ads: Como Fazer o Anúncio e a Economia da Mídia Paga](chapters/ch54-paid-ads-anuncio-e-economia.md) | Callout+Valor+CTA, What-Who-When, 3 Fases (Track/Lose/Print), LTGP:CAC, Client Financed Acquisition |
+| ch55 | [Core Four On Steroids: More, Better, New e a Rule of 100](chapters/ch55-more-better-new-regra-de-100.md) | More/Better/New, Rule of 100, Constraint, Size of the Pie Fallacy, log de testes semanal |
+| ch56 | [Lead Getters: Indicação de Clientes, Funcionários e Agências](chapters/ch56-lead-getters-indicacao-funcionarios-agencias.md) | Matriz de Alavancagem, Equação de Indicação, Goodwill, 7 formas de pedir indicação, Treinamento 3D, agência como escola |
+| ch57 | [Afiliados e Parceiros: o Exército de Lead Getters](chapters/ch57-afiliados-parceiros-army-launch-integracao.md) | Afiliados em 6 passos, Payout em 3 tiers sobre CAC máximo, Whisper-Tease-Shout, integração via lead magnet |
+| ch58 | [Open to Goal, o Roadmap de 7 Níveis e o Plano de Uma Página](chapters/ch58-open-to-goal-roadmap-e-plano-de-uma-pagina.md) | Open to Goal, One-Page Advertising Checklist, 7 Níveis do Anunciante, orçamento de aprendizado |
+
+**$100M Money Models** — como monetizar com uma sequência de ofertas (ch59-ch65)
+
+| # | Título | Frameworks-Chave |
+|---|---|---|
+| ch59 | [O que É um Money Model: Sequência de Ofertas e a Regra dos 30 Dias](chapters/ch59-money-model-sequencia-de-ofertas-e-regra-dos-30-dias.md) | Money Model, 4 Tipos de Oferta, Regra do Caixa de 30 Dias, Efeito Composto (2x·2x·2x = 8x) |
+| ch60 | [Attraction Offers: Transformar Estranhos em Clientes com Caixa Antecipado](chapters/ch60-attraction-offers-ofertas-de-atracao.md) | Win Your Money Back, Giveaways, Decoy Offer, Buy X Get Y Free, Pay Less Now or Pay More Later |
+| ch61 | [Upsell Offers (I): Classic Upsell e Menu Upsell](chapters/ch61-upsell-offers-classico-e-menu.md) | Classic Upsell, Menu Upsell (Unselling, Prescription, A/B, Card on File), BAMFAM, Hyper Buying Cycle |
+| ch62 | [Upsell Offers (II): Anchor Upsell e Rollover Upsell](chapters/ch62-upsell-offers-anchor-e-rollover.md) | Anchor Upsell (5 passos), Rollover Upsell (Quem/O quê/Como), Winback, Gift Card Play |
+| ch63 | [Downsell Offers: Payment Plan, Trial With Penalty e Feature Downsell](chapters/ch63-downsell-offers-pagamento-trial-e-features.md) | Payment Plan em 7 passos, Trial With Penalty, Feature Downsell, temperatura 1-10, DIY/DWY/DFY |
+| ch64 | [Continuity Offers: Bônus, Desconto e Taxa Dispensada (Waived Fee)](chapters/ch64-continuity-offers-bonus-desconto-taxa-dispensada.md) | Continuity Bonus, Continuity Discount, Waived Fee, tabela avulso x assinatura, churn por cadência |
+| ch65 | [Montando o Seu Money Model: 3 Estágios, 4 Passos e Exemplos Completos](chapters/ch65-montando-seu-money-model-3-estagios.md) | 3 Estágios (Get Cash / More / Most), receita de 4 passos, Money Models de Gym Launch/newsletter/ração |
+
 ## Índice de Tópicos
 
+- **3Hs (Help/Hub/Hero)** — ch26 (ver também Content Unit/Hook-Retain-Reward, ch52, para o nível micro de cada peça)
 - **Acessibilidade digital (WCAG)** — ch16
 - **Afiliação vs. Dominância (papéis de status)** — ch44 (ver também Status)
-- **Afiliados (marketing de)** — ch05, ch21, ch34
-- **Aquisição (hackeando a)** — ch05
+- **Afiliados (marketing de)** — ch05, ch21, ch34, ch57 (Hormozi: afiliados como lead getters, payout em 3 tiers, launch Whisper-Tease-Shout, integração)
+- **Agências (como escola de habilidades, não dependência)** — ch56
+- **Âncora de preço (Anchor Upsell) / Decoy de preços** — ch62, ch61, ch60 (Hormozi; ver também Preço como história, ch46)
+- **Aquisição (hackeando a)** — ch05 (ver também Geração de leads / Core Four, ch49-ch58)
 - **Ativação** — ch06
 - **Atribuição (modelos de)** — ch23
+- **Attraction offers (Win Your Money Back, Giveaways, Decoy, Buy X Get Y Free, Pay Less Now or Pay More Later)** — ch60
 - **Automação de marketing** — ch17
 - **Big Domino / crença central de oferta** — ch02, ch30 (nota: termo de mercado associado a Jeff Walker; não localizado literalmente nesta edição do livro — ver observação em ch30)
 - **Bordas (checklist das) / Grid de Posicionamento XY** — ch40, ch43 (Godin: escolher extremos genuínos em vez de competir no centro do mercado)
 - **Business Model Canvas** — ch24
-- **Carrinho — abandono e diagnóstico** — ch13
-- **Carrinho — recuperação (cart recovery/win-back)** — ch07, ch13 (tema de forte interesse do usuário; ver também a nota de adjacência abaixo)
+- **Cadência de cobrança, churn e cancelamento** — ch63, ch64 (Hormozi: mensal vs. trimestral vs. anual; cancelamento fácil e entrevista de saída)
+- **Carrinho — abandono e diagnóstico** — ch13 (ver também Payment Plan Downsell, ch63: "caro à vista" como causa de abandono)
+- **Carrinho — recuperação (cart recovery/win-back)** — ch07, ch13, ch62 (winback/rollover de clientes inativos), ch63 (tema de forte interesse do usuário; ver também a nota de adjacência abaixo)
 - **Carrinho — urgência de Open Cart (não confundir com recuperação)** — ch33 (nota de adjacência explícita: urgência de lançamento pressiona uma decisão ainda não tomada; recuperação de carrinho reengaja uma decisão já tomada mas não finalizada — mecanismos de e-mail podem se sobrepor operacionalmente, mas a causa raiz e o objetivo são diferentes)
 - **Cauda Longa (Long Tail)** — ch47
-- **Coeficiente viral / Fator K** — ch05 (ver também Sneezers/Ideavirus, mesmo mecanismo em Godin)
+- **Client Financed Acquisition / recuperação de CAC em 30 dias** — ch54, ch59, ch65 (Hormozi; ver também LTGP:CAC e Money Model)
+- **Coeficiente viral / Fator K** — ch05 (ver também Sneezers/Ideavirus, mesmo mecanismo em Godin; e Equação de Indicação, ch56)
+- **Cold outreach (outreach frio)** — ch53 (Hormozi; limites de LGPD em ch17-ch18)
 - **Commodity (armadilha da)** — ch43
 - **Confiança (funil de/escassez de)** — ch47
-- **Conteúdo (marketing de)** — ch18, ch26, ch27
-- **CTA (call-to-action)** — ch18
+- **Conteúdo (marketing de)** — ch18, ch26, ch27, ch52 (Hormozi: Content Unit, give:ask, monetização de audiência)
+- **Continuidade / assinatura (Continuity Offers)** — ch64 (Bonus, Discount, Waived Fee); ver também Retenção, ch07
+- **Core Four (warm outreach, conteúdo, cold outreach, mídia paga)** — ch51-ch54, ch55 (More/Better/New), ch58 (Hormozi)
+- **CTA (call-to-action)** — ch18, ch50, ch54 (CTA = o que fazer + razão real para agir agora)
 - **Data-driven marketing** — ch23
+- **Decoy Offer / oferta isca** — ch60 (ver também Âncora de preço)
 - **Dominância vs. Afiliação (papéis de status)** — ch44
+- **Downsell (Payment Plan, Trial With Penalty, Feature Downsell)** — ch63 (ver também a skill `funil-vsl-thiago-roas` para o downsell do funil 418)
 - **E-commerce (funil de)** — ch13
 - **Efeito de Rede (Lei de Metcalfe)** — ch47
-- **E-mail marketing** — ch18
-- **Escassez (gatilho)** — ch32, ch33
-- **Ética do marketing (é evil?)** — ch48
+- **E-mail marketing** — ch18 (ver também e-mail de 9 palavras, ch51; cold e-mail, ch53)
+- **Equipe/funcionários como lead getters (treinamento 3D)** — ch56
+- **Escassez (gatilho)** — ch32, ch33, ch50 (escassez e urgência *reais* em CTAs), ch57 (launch), ch60 (giveaways)
+- **Ética do marketing (é evil?)** — ch48 (ver também as ressalvas éticas em Anti-patterns de ch50, ch53, ch60-ch64: escassez/prova social reais, termos de cobrança claros, cancelamento fácil)
 - **Gatilhos mentais (os 9 de Walker)** — ch32
-- **Growth hacking (ciclo e método)** — ch01, ch04
+- **Geração de leads (lead gen / lead engajado)** — ch49-ch58 (Hormozi, $100M Leads)
+- **Growth hacking (ciclo e método)** — ch01, ch04 (ver também More/Better/New e teste semanal no gargalo, ch55)
 - **ICE Score** — ch04
 - **Ideavirus** — ch37 (ver também Coeficiente viral / Fator K)
 - **Inbound marketing** — ch22
@@ -145,32 +193,40 @@ Esta skill sintetiza; nunca copia texto bruto dos livros-fonte. Onde os 6 livros
 - **Jornada do cliente (mapa)** — ch12
 - **Jornada ON-LIFE** — ch25
 - **KPIs vs. métricas** — ch23
-- **Lançamento (Product Launch Formula)** — ch30-ch35
+- **Lançamento (Product Launch Formula)** — ch30-ch35 (ver também Whisper-Tease-Shout para ativar afiliados, ch57)
 - **Launch Sequence** — ch33
+- **Lead getters (clientes, funcionários, agências, afiliados)** — ch56-ch57
+- **Lead magnets** — ch50 (ver também Ativo de Permissão, ch40/ch46, e Sideways Sales Letter, ch31)
 - **Lead scoring** — ch17
-- **LGPD** — ch17, ch18
+- **LGPD** — ch17, ch18, ch53 (cold outreach), ch62 (dados de clientes de concorrentes)
+- **LTGP:CAC (lifetime gross profit : custo de aquisição)** — ch54, ch57, ch59 (ver também Matemática de LTV, ch47)
 - **Menor Audiência Viável (Smallest Viable Market)** — ch42 (Godin; ver também Otaku, ch39)
-- **Métricas de funil** — ch03, ch23, ch47 (matemática de LTV e funil de confiança), cheatsheet.md (tema de forte interesse do usuário — ver tabela de diagnóstico de gargalo no cheatsheet)
+- **Métricas de funil** — ch03, ch23, ch47 (matemática de LTV e funil de confiança), ch54 (LTGP:CAC), ch55 (gargalo/constraint), ch59 (caixa de 30 dias), cheatsheet.md (tema de forte interesse do usuário — ver tabela de diagnóstico de gargalo no cheatsheet)
+- **Mídia paga (paid ads)** — ch54 (callouts, What-Who-When, 3 fases de gasto, CFA); ver também ch19 (SEM) e a skill `funil-vsl-thiago-roas`
 - **Mil Fãs Verdadeiros (Kevin Kelly, via Godin)** — ch42
 - **Mobile marketing** — ch14, ch19
-- **Monetização** — ch08
+- **Modelos de monetização (Money Model)** — ch59-ch65 (Hormozi: sequência Attraction → Upsell → Downsell → Continuity; 3 estágios)
+- **Monetização** — ch08, ch59-ch65
 - **Netnografia** — ch12
 - **Neuromarketing** — ch11
 - **North Star Metric** — ch03
 - **Notabilidade / Vaca Roxa (Purple Cow)** — ch36, ch38, ch40
 - **Omnichannel** — ch21
+- **Open to Goal / Rule of 100** — ch55, ch58 (Hormozi)
 - **Otaku** — ch39 (Godin; ver também Menor Audiência Viável, ch42)
+- **Outreach quente (warm outreach)** — ch51 (A-C-A, e-mail de 9 palavras, primeiros 5 grátis)
 - **Performance (marketing de)** — ch22
-- **Permissão (marketing de)** — ch40, ch46 (ver também Renda Sob Demanda / A Lista como Ativo, ch30)
+- **Permissão (marketing de)** — ch40, ch46 (ver também Renda Sob Demanda / A Lista como Ativo, ch30, e lista quente / outreach quente, ch51)
 - **"Pessoas Como Nós Fazem Coisas Como Esta" (identidade cultural)** — ch42
 - **Posicionamento (Grid XY de)** — ch43
-- **Preço (como história/sinal de status)** — ch46
-- **Programas de indicação / referral** — ch05, ch29
-- **Prova social** — ch32
+- **Preço (como história/sinal de status)** — ch46 (ver também Âncora de preço, ch62, e Payment Plan/Feature Downsell, ch63)
+- **Programas de indicação / referral** — ch05, ch29, ch56 (Hormozi: equação indicações − churn, 6 formas de gerar valor, 7 formas de pedir)
+- **Prova social** — ch32 (ver também a regra de prova social real, ch52, ch56)
 - **Product/market fit** — ch02
 - **Redes sociais** — ch15, ch20, ch35
 - **Relançamento (relaunch)** — ch35
-- **Retenção** — ch07
+- **Retenção** — ch07 (ver também Continuidade, ch64)
+- **Rollover Upsell / winback** — ch62
 - **SEM (Search Engine Marketing)** — ch19
 - **SEO / busca** — ch16
 - **Sideways Sales Letter** — ch31
@@ -180,37 +236,41 @@ Esta skill sintetiza; nunca copia texto bruto dos livros-fonte. Onde os 6 livros
 - **SWOT** — ch10
 - **Tensão (vs. medo, motor de mudança)** — ch44
 - **Tribo (liderança de)** — ch48
-- **3Hs (Help/Hub/Hero)** — ch26
+- **Trial / garantia condicional (Trial With Penalty, Pay Less Now)** — ch60, ch63 (divulgar termos antes de capturar o cartão)
+- **Upsell (Classic, Menu, Anchor, Rollover)** — ch61-ch62 (ver também a skill `funil-vsl-thiago-roas` para upsell em funil de VSL)
+- **Win Your Money Back** — ch60
 
 ## Arquivos de Apoio
 
-- [`glossary.md`](glossary.md) — glossário alfabético de todos os termos e frameworks dos 6 livros.
-- [`patterns.md`](patterns.md) — 10 padrões táticos de growth/funil no formato When to use / How / Trade-offs.
-- [`cheatsheet.md`](cheatsheet.md) — tabelas de diagnóstico de funil, interpretação de scores, benchmarks citados pelos autores, e o teste rápido métrica-vs-KPI.
+- [`glossary.md`](glossary.md) — glossário alfabético de todos os termos e frameworks dos 8 livros-fonte.
+- [`patterns.md`](patterns.md) — 24 padrões táticos de growth, funil e monetização (inclui geração de leads e Money Model de Hormozi) no formato When to use / How / Trade-offs.
+- [`cheatsheet.md`](cheatsheet.md) — tabelas de diagnóstico de funil, interpretação de scores, benchmarks citados pelos autores, o teste rápido métrica-vs-KPI e, de Hormozi, a tabela do Core Four, o diagnóstico anúncio/modelo/vendas e o funil de monetização (Money Model).
 
 ## Contrato de Handoff (uso via `diretor-aquisicao-conversao`)
 
 **Fases do pipeline que esta skill possui:**
-- **Fase 2 — Pesquisa de Mercado / Voz do Cliente**: netnografia (ch12), pesquisa must-have (ch02), mapa de jornada do cliente (ch12), Jornada ON-LIFE (ch25), Business Model Canvas/Brand Persona (ch24), Menor Audiência Viável e Canvas de Sonhos e Desejos (ch42-ch43).
+- **Fase 2 — Pesquisa de Mercado / Voz do Cliente**: netnografia (ch12), pesquisa must-have (ch02), mapa de jornada do cliente (ch12), Jornada ON-LIFE (ch25), Business Model Canvas/Brand Persona (ch24), Menor Audiência Viável e Canvas de Sonhos e Desejos (ch42-ch43). **Hormozi acrescenta as fontes de lead e a pesquisa de campo por canal**: o Core Four (warm outreach, conteúdo, cold outreach, mídia paga — ch51-ch54) e os lead getters (indicação, equipe, agências, afiliados — ch56-ch57) como mapa de *onde obter leads/voz do cliente* antes de investir em mídia; as 100 primeiras conversas de warm outreach e as respostas ao e-mail de 9 palavras (ch51) são pesquisa qualitativa barata; o Lead Magnet em 7 passos (ch50) parte de um problema estreito que a pesquisa deve revelar; o diagnóstico "lead engajado" (ch49) define o que contar como lead.
 - **Fase 4/6 — Posicionamento e Oferta**: Vaca Roxa/notabilidade como filtro de viabilidade de oferta (ch36, ch38, ch40), Grid de Posicionamento XY (ch43), preço como história (ch46).
-- **Fase 8 — Arquitetura do Funil**: funil AARRR (ch09), funil de e-commerce e diagnóstico de carrinho (ch13), Product Launch Formula como arquitetura alternativa de funil por picos (ch30-ch35), omnichannel (ch21), funil de confiança e matemática de LTV (ch47).
-- **Fases 12-14 — Métricas, Otimização, Escala**: diferença métrica/KPI (ch23), ciclo de growth hacking e ICE score (ch04), análise de coortes (ch07), Fase 5 Controle do Unbound/megafone (ch28), variações de lançamento para escalar (ch34), Ciclo Mágico da Vaca (ch40).
+- **Fase 8 — Arquitetura do Funil**: funil AARRR (ch09), funil de e-commerce e diagnóstico de carrinho (ch13), Product Launch Formula como arquitetura alternativa de funil por picos (ch30-ch35), omnichannel (ch21), funil de confiança e matemática de LTV (ch47). **Hormozi acrescenta a arquitetura de monetização do funil**: o Money Model (Attraction → Upsell → Downsell → Continuity, ch59-ch65) como esqueleto para decidir front-end, upsells, downsells e recorrência, com a regra do caixa de 30 dias (margem bruta de 30 dias ≥ CAC + entrega) como critério de desenho; Payment Plan e Trial With Penalty (ch63) como alternativas à objeção "caro à vista" (ver também o diagnóstico de abandono em ch13); e Win Your Money Back/Decoy/Giveaway/Pay Less Now (ch60) como variações do front. Para funis de VSL perpétuo com front/upsell/downsell, ver `funil-vsl-thiago-roas` (precificação, estrutura de páginas e tráfego daquela metodologia continuam valendo; esta skill fornece o raciocínio de sequência e de payback).
+- **Fases 12-14 — Métricas, Otimização, Escala**: diferença métrica/KPI (ch23), ciclo de growth hacking e ICE score (ch04), análise de coortes (ch07), Fase 5 Controle do Unbound/megafone (ch28), variações de lançamento para escalar (ch34), Ciclo Mágico da Vaca (ch40). **Hormozi acrescenta as métricas de payback e a disciplina de escala**: LTGP:CAC (≥3:1 como observação do autor), Client Financed Acquisition e recuperação de CAC em 30 dias (ch54, ch59), as 3 fases de gasto Track/Lose/Print Money e o orçamento reverso a partir da meta de clientes (ch54), More/Better/New com teste semanal no gargalo e log de testes (ch55), Rule of 100/Open to Goal (ch55, ch58), diagnóstico anúncio vs. modelo de negócio vs. vendas (ch54, cheatsheet.md) e churn por cadência de cobrança (ch63-ch64).
 
 **Input esperado de fases anteriores do pipeline** (Diagnóstico, Psicologia, Posicionamento, Oferta — de outras skills): perfil de cliente ideal, posicionamento de marca já definido, oferta e precificação já estruturadas. Esta skill assume que essas decisões upstream já foram tomadas; se não foram, o Diagnóstico (ch24) e a Pesquisa Must-Have (ch02) desta skill podem ser usados para gerar esse input, mas o ideal é que venham de `estrategia-negocios` e das fases de Diagnóstico/Oferta do orquestrador.
 
 **Artefatos que esta skill produz:**
 - **Dossiê de Pesquisa** — via netnografia, pesquisa must-have, mapa de jornada (ON-LIFE ou tradicional).
 - **Arquitetura do Funil** — via AARRR, funil de e-commerce, ou Product Launch Formula, conforme o modelo de negócio.
-- **Plano de Métricas e Otimização** — via distinção métrica/KPI, ICE score, análise de coortes, ciclo de Controle do Unbound.
+- **Plano de Métricas e Otimização** — via distinção métrica/KPI, ICE score, análise de coortes, ciclo de Controle do Unbound; com Hormozi, também LTGP:CAC, caixa de 30 dias por cliente, cascata de lead engajado e log de testes semanais por gargalo.
 
 **Regras permanentes (aplicam-se a todo output desta skill):**
 - "Métrica não é resposta, é sintoma" — nunca tratar uma métrica de superfície (conversão, tráfego, cliques) como causa raiz; sempre decompor o funil impressão→clique→página→checkout→compra (ou o funil AARRR/ON-LIFE equivalente) até isolar a etapa real antes de recomendar qualquer ação.
 - Nunca escalar aquisição/orçamento antes de confirmar product/market fit (pesquisa must-have, ch02) — sequência de validação obrigatória descrita no cheatsheet.md.
 - Nunca confundir urgência de Open Cart (Launch, ch33) com recuperação de carrinho de e-commerce (ch13) — são gatilhos e funis diferentes, mesmo quando operacionalmente adjacentes.
-- Toda automação/coleta de dados de lead deve respeitar consentimento explícito (LGPD, opt-in/opt-out, ch17-ch18).
+- Toda automação/coleta de dados de lead deve respeitar consentimento explícito (LGPD, opt-in/opt-out, ch17-ch18) — vale também para cold outreach, scraping de listas e abordagem de clientes de concorrentes (ch53, ch62).
+- Escassez, urgência, prova social e garantias devem ser **reais** (regra permanente do sistema, ver `persuasao-gatilhos`): nenhuma tática de Hormozi (giveaways, launches de afiliados, "win your money back", trials, rollover "só hoje") autoriza escassez fabricada, depoimentos forjados, preços de referência fictícios ou exploração de vulnerabilidade; termos de cobrança, penalidades e cancelamento devem ser divulgados **antes** da captura do cartão e o cancelamento deve ser fácil (ch60, ch63-ch64).
+- Números de Hormozi (retornos, taxas de resposta, múltiplos, receitas do portfólio dele) são relatos do autor, não benchmarks auditados: use como hipótese de teste e nunca como promessa de resultado a cliente.
 
 ## Escopo & Limites
 
-Esta skill cobre growth hacking, estratégia de marketing digital multi-canal, a metodologia de lançamento de produtos via Product Launch Formula, e a filosofia de diferenciação/notabilidade e menor audiência viável de Seth Godin, com base nos 6 livros-fonte listados. Não cobre em profundidade: copywriting linha a linha (ver skill `copywriting-publicidade`), gatilhos mentais de persuasão em detalhe teórico (ver skill `persuasao-gatilhos`, com a qual há overlap intencional nos capítulos ch11, ch32, ch44 — esta skill aponta a conexão em vez de duplicar o conteúdo), diferenciação e vantagem competitiva em nível de estratégia corporativa (ver skill `estrategia-negocios`, com a qual há overlap intencional nos capítulos ch36-ch40 sobre notabilidade — esta skill trata a Vaca Roxa pela lente de marketing/boca a boca, `estrategia-negocios` trata diferenciação pela lente de posicionamento competitivo), metodologia de vendas B2B (ver skill `vendas-metodologia`), ou a metodologia específica de VSL de Thiago Roas (ver skill `funil-vsl-thiago-roas`, referenciada mas não duplicada). Para decisões de negócio/estratégia corporativa de nível mais alto que marketing, ver skill `estrategia-negocios`.
+Esta skill cobre growth hacking, estratégia de marketing digital multi-canal, a metodologia de lançamento de produtos via Product Launch Formula, a filosofia de diferenciação/notabilidade e menor audiência viável de Seth Godin, e — com Alex Hormozi ($100M Leads e $100M Money Models) — geração de leads (Core Four, lead magnets, lead getters), economia de aquisição (LTGP:CAC, caixa de 30 dias) e desenho de sequências de monetização (attraction, upsell, downsell, continuidade), com base nos 8 livros-fonte listados. Não cobre em profundidade: copywriting linha a linha (ver skill `copywriting-publicidade`), gatilhos mentais de persuasão em detalhe teórico (ver skill `persuasao-gatilhos`, com a qual há overlap intencional nos capítulos ch11, ch32, ch44 — esta skill aponta a conexão em vez de duplicar o conteúdo), diferenciação e vantagem competitiva em nível de estratégia corporativa (ver skill `estrategia-negocios`, com a qual há overlap intencional nos capítulos ch36-ch40 sobre notabilidade — esta skill trata a Vaca Roxa pela lente de marketing/boca a boca, `estrategia-negocios` trata diferenciação pela lente de posicionamento competitivo), metodologia de vendas B2B (ver skill `vendas-metodologia`), ou a metodologia específica de VSL de Thiago Roas (ver skill `funil-vsl-thiago-roas`, referenciada mas não duplicada — os capítulos ch54 e ch59-ch65 dão o raciocínio geral de payback, upsell e downsell, mas precificação, estrutura de páginas, orçamento diário, estrutura de campanhas e métrica mestre de custo por finalização de compra seguem a metodologia de Roas). Fica fora do escopo desta skill a *construção da oferta* de Hormozi ($100M Offers: Value Equation, Grand Slam Offer, bônus e garantias), tratada em `estrategia-negocios` (Livro 9) e apenas referenciada aqui por nome; e a persuasão/vendas ao vivo (o livro de vendas de Hormozi não está incluído), para a qual ver `vendas-metodologia` e `persuasao-gatilhos`. Os capítulos ch49-ch65 têm overlap intencional com `vendas-metodologia` (cold outreach, treinamento de equipe), `copywriting-publicidade` (callouts, headlines, CTAs) e `persuasao-gatilhos` (ancoragem, escassez, reciprocidade); esta skill aponta a conexão em vez de duplicar. Os números e casos de Hormozi são relatos do autor (portfólio próprio), não dados auditados, e as táticas devem ser aplicadas respeitando a legislação local de consumidor, sorteios, dados e publicidade (ver regras permanentes). Para decisões de negócio/estratégia corporativa de nível mais alto que marketing, ver skill `estrategia-negocios`.
 
 Nota de transparência: as skills irmãs consultadas como referência estrutural (`persuasao-gatilhos`, `copywriting-publicidade`, `vendas-metodologia`) não possuem, no momento da criação desta skill, uma pasta `chapters/` própria em disco — apenas SKILL.md. A estrutura de capítulos aqui adotada segue a especificação original da tarefa de construção desta skill.

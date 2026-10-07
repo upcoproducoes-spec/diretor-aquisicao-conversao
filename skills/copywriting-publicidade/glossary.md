@@ -24,6 +24,8 @@ Termos e frameworks centrais dos livros-fonte, em ordem alfabética. Cada entrad
 
 **4U's (Único, Urgente, Ultraespecífico, Útil)** — fórmula de Mark Ford para avaliar força de headline; pontue 0-1 cada, some 3-4 para headline forte. Ch03, Ch16, Ch19.
 
+**7 Bits da História (Filemon)** — estrutura reduzida da jornada do herói para a história do VSL: apresentação e credenciais; "eu era como você" (só a dor); tentativas frustradas concretas; fundo do poço; busca pela verdade; fonte da revelação (opcional); descoberta do método (sem citar a oferta). Vem antes da tese, porque "ninguém aceita a verdade de um estranho". Ch178.
+
 **7 Passos da Carta de Vendas** — chamar atenção → interesse → crença → prova → produto/benefícios → como pedir → pedir agora. Ch06.
 
 **7 Passos Para o Sucesso em Mala Direta (Halbert)** — mercado quente → produto → promoção → teste (1-5 mil peças) → análise → expansão (20-100 mil) → rollout completo; erro mais comum é complicar demais, não falta de sofisticação. Ch76.
@@ -47,6 +49,10 @@ Termos e frameworks centrais dos livros-fonte, em ordem alfabética. Cada entrad
 **18 Milagres da Pesquisa** — catálogo de Ogilvy de usos concretos de pesquisa, do teste de nome ao teste de promessa via split-run. Ch30.
 
 **20 Princípios da Procter & Gamble** — disciplina, amostragem massiva, dominância de categoria, múltiplas marcas competindo entre si, pesquisa constante, produto comprovadamente superior, publicidade pesada sustentada, test-marketing paciente, estratégia imutável por décadas, promessa única, entre outros. Ch29.
+
+**Ancoragem e Future Pacing (oferta de VSL, Filemon)** — na oferta, o **future pacing** pinta o futuro desejado ("imagine acordar daqui a semanas...") e a **ancoragem** toca emoção, urgência e propósito e contrasta com um valor de referência antes do preço. Só é honesta se o valor de referência for real. Ch167.
+
+**Apelido do Mecanismo (Filemon)** — nome curioso, simples e verdadeiro dado ao mecanismo ("nomezinho que gruda como chiclete"), usado na lead para gerar curiosidade antes de o mecanismo ser explicado. Não precisa ser o nome do produto; deve descrever um método real. Ch162, ch176.
 
 **A-Pile / B-Pile** — divisão instintiva que todo destinatário faz de sua correspondência: a pilha "pessoal" (sempre aberta) e a pilha "comercial" (frequentemente descartada sem abrir). Todo esforço de mala direta deve mirar entrar na pilha A — envelope simples, selo real, sem teaser copy. Ch72, Ch77.
 
@@ -72,19 +78,21 @@ Termos e frameworks centrais dos livros-fonte, em ordem alfabética. Cada entrad
 
 **Arquitetura da Escolha (Choice Architecture)** — sistema pelo qual se estruturam nudges. Ch48.
 
+**Ascensão (Filemon)** — conversão de compradores do produto de entrada (R$ 197-497) para o produto principal ou mais caro, ideal em ~7 dias (ou no mesmo dia); o professor cita 10-12% como taxa (afirmação dele, a conferir). É a razão econômica do VSL de pré-compra. Ch161, ch171.
+
 **Atalho do "Empresário Preguiçoso" (3 Passos)** — técnica de Gary Halbert, popularizada por John Carlton: gravar um discurso de vendas real → transcrever e limpar → formatar como carta pessoal. Transforma habilidade de venda comprovada em copy escrita sem exigir talento literário. Ch58, Ch82.
 
 **Autenticidade (Marca)** — "moeda do reino" na era digital pós-transparência; documento "The Authentic Enterprise" (2007). Ch39.
 
 **Avatar** — perfil psicológico e comportamental detalhado do cliente ideal, base de toda copy. Ch02, Ch09.
 
-**Backend** — produto/serviço adicional vendido à mesma base de clientes já convertida (front-end); geralmente a parte mais lucrativa de qualquer negócio de resposta direta. Ch65.
+**Backend** — produto/serviço adicional vendido à mesma base de clientes já convertida (front-end); geralmente a parte mais lucrativa de qualquer negócio de resposta direta. Ch65. Ver também ch160-161 (Filemon): ascensão em ~7 dias e a regra "front paga o tráfego, back paga a equipe" (afirmações do professor, a conferir).
 
 **Beat the Bugaboo / Vencer o Papão do Preço (Dan Kennedy)** — Passo 7 do sistema de Kennedy: conjunto de técnicas para minimizar a resistência de preço antes de recorrer a desconto direto — vender volume, discutir o custo de desenvolvimento da oferta, tornar as partes somadas mais valiosas que o todo, esconder o preço em parcelas. Ch153.
 
 **Beleza Comercializável (Marketable Beauty, Halbert)** — não é a beleza física pura que vende, é a combinação de atratividade + simpatia/acessibilidade; use foto sexy como grabber avulso anexado, nunca impressa no corpo da carta. Ch102.
 
-**Big Idea** — conceito central e inimitável de uma campanha; checklist de Ogilvy de 5 perguntas. Ch05, Ch15, Ch20.
+**Big Idea** — conceito central e inimitável de uma campanha; checklist de Ogilvy de 5 perguntas. Ch05, Ch15, Ch20. Contraponto em ch172 (Filemon): para VSL de resposta direta o professor substitui a Big Idea por mecanismo com apelido e One Belief; tensão registrada, não resolvida.
 
 **Big IdeaL™** — evolução da Big Idea: visão de mundo ou propósito que a marca defende, além do benefício funcional; fórmula "A Marca X acredita que o mundo seria melhor se...". Ch39.
 
@@ -101,6 +109,12 @@ Termos e frameworks centrais dos livros-fonte, em ordem alfabética. Cada entrad
 **Camuflagem (7ª Técnica de Intensificação de Desejo, Eugene Schwartz)** — técnica final de Schwartz: disfarçar a estrutura de venda (repetitiva por natureza) sob variações constantes de superfície — novo ângulo, novo formato, nova prova — para que o mercado nunca perceba que está sendo exposto à mesma mensagem central repetidas vezes. Ch120.
 
 **Carta do Dólar (Dollar Bill Letter)** — carta de mala direta de Gary Halbert com dólar real anexado, selo verdadeiro (nunca indicia) e endereçamento impresso direto; tem 10 variantes documentadas (penny, celebridade, personalizada, endossada, gimmick, photo-enclosed, headline-only, envelope selado, postcard). Ch94.
+
+**Cinco Leis do Direct Response (Filemon)** — (1) o VSL se monta, não se escreve; (2) pense como um peixe, não como um pescador (como o público, não como marqueteiro); (3) prova vale mais que promessa; (4) desejo não se cria, se canaliza; (5) o ser humano odeia ser vendido, mas ama comprar. Ch170.
+
+**Conclusão Inevitável (Filemon)** — a última frase da cadeia de pontos lógicos, em que o espectador conclui sozinho a One Belief ("eu preciso do [apelido]"); marca o fim do mecanismo e o começo da ponte para o produto. Ch177.
+
+**Construção do Produto / Ponte (Filemon)** — bloco do VSL entre o mecanismo e a oferta que narra como o método virou produto (aplicou, teve resultado, compartilhou, houve demanda, decidiu criar o produto); vende a credibilidade do produto. Exige fatos reais em cada elo. Ch166.
 
 **CTO (Contribuição para Overhead)** — matemática de Gary Halbert para calcular quantos pedidos por mil peças enviadas são necessários para empatar (break-even) antes de escalar uma campanha nova. Ch99.
 
@@ -142,6 +156,8 @@ Termos e frameworks centrais dos livros-fonte, em ordem alfabética. Cada entrad
 
 **Desvio Incidental (Indirection)** — técnica de atrasar a revelação do assunto/produto para evitar o "imperativo categórico" (leitor reconhece "isso é propaganda" e descarta). Ch19.
 
+**"Dois Caras na Moto" (Filemon)** — metáfora para o "cheiro de venda": como numa rua escura à noite, ao perceber a aproximação de uma venda o espectador "põe a mão no bolso" e sai; a lead e o formato não devem parecer pitch. Ch163, ch170.
+
 **Dopamina** — neurotransmissor liberado em momentos de prazer e antecipação de recompensa; mecanismo fisiológico do compartilhamento e do prazer narrativo. Ch40, Ch41.
 
 **Double Readership Path (Dan Kennedy)** — desenhar dois caminhos de leitura simultâneos na mesma carta: um "impulsivo" (headlines grandes, legendas, boxes destacados, escaneável) e um "analítico" (corpo completo, fatos e números) — o caminho impulsivo funciona como marcos que conduzem ao caminho analítico completo. O termo já aparecia mencionado (sem nome formal) na masterclass de Halbert em Ch108; Kennedy é quem o nomeia e formaliza explicitamente. Ch108, Ch154.
@@ -154,6 +170,8 @@ Termos e frameworks centrais dos livros-fonte, em ordem alfabética. Cada entrad
 
 **Eficiência vs. Efetividade (Halbert)** — nunca confundir canal barato/rápido (eficiente) com canal que realmente vende (efetivo); "Não Multiplique Zeros" — baixíssimo custo × resposta próxima de zero ainda dá zero. Ch99.
 
+**Encruzilhada (Filemon)** — fechamento da oferta de VSL que apresenta dois caminhos (seguir como está ou adotar o método), antes do CTA final. Ch167.
+
 **Engineered Paradigm Change (Mudança de Paradigma Projetada, Halbert)** — usar reciprocidade deliberadamente, como arquitetura de campanha inteira, para eliminar ceticismo do prospect antes de vender qualquer coisa. Ch104.
 
 **Escola da Resposta Direta vs. Escola da Publicidade** — duas tradições de copy: "strong call-to-action" vs. "soft sell". Ch10.
@@ -161,6 +179,8 @@ Termos e frameworks centrais dos livros-fonte, em ordem alfabética. Cada entrad
 **Especificidade (2 tipos)** — do passado (ultraespecífica, prova) vs. do futuro (específica, não ultra; promessa). Ch19.
 
 **Estrela, História, Solução** — um dos "10 Temas Comprovados" de John Carlton: um protagonista (celebridade ou pessoa comum) vive um drama compartilhado pelo público-alvo e chega à solução, que é o produto anunciado; Halbert usava celebridade real (checando o TVQ antes) ou criava sua própria "celebridade" via história com potencial de buzz de PR. Ch64, Ch94.
+
+**Estrutura Invisível (Filemon)** — conceito anunciado pelo professor: a ordem dos argumentos que faz uma copy vender é específica de cada nicho, por isso não se deve copiar a estrutura de um VSL de outro nicho. Não desenvolvido nas transcrições. Ch174.
 
 **Estrutura Universal de Histórias** — protagonista, tentativa, dificuldade, resolução; ingredientes inalterados desde Beowulf. Ch41.
 
@@ -182,7 +202,11 @@ Termos e frameworks centrais dos livros-fonte, em ordem alfabética. Cada entrad
 
 **Folha de Fatos (Gary Halbert) / Folha de Fatos e Benefícios** — exercício de listar exaustivamente fatos objetivos e benefícios subjetivos do produto antes de escrever. Ch08, Ch15.
 
+**Formato (de VSL)** — a forma de gravar/mostrar a mesma copy (especialista na câmera, notícia na abertura, podcast, aula/receita, documentário); decide-se depois da copy, olhando o que funciona no orgânico. Deve manter a identificação do conteúdo como apresentação comercial. Ch169.
+
 **Fórmula Borden (4 Perguntas)** — "Ho-hum!" → "Why bring that up?" → "For instance?" → "So what?"; checklist para garantir que qualquer discurso, headline ou abertura sobrevive ao teste de indiferença inicial do público. Ch50.
+
+**Fórmula de 5 Blocos do VSL (Filemon)** — Lead, História, Mecanismo (tese), Construção do produto, Oferta, em ordem fixa para quem está começando; cada bloco "vende" algo diferente (atenção, conexão, solução, credibilidade do produto, valor). Ch165, ch180.
 
 **Fórmula Universal da Resposta Direta** — Oferta + Informação + Resposta; os 3 elementos que toda comunicação de resposta direta precisa ter. Ch10.
 
@@ -194,7 +218,7 @@ Termos e frameworks centrais dos livros-fonte, em ordem alfabética. Cada entrad
 
 **Goldmine Markets / Mercados Goldmine (Halbert)** — os 5 mercados historicamente mais lucrativos em resposta direta, em ordem aproximada de prioridade: Dieta, Parecer mais jovem, Ficar rico rápido, Oportunidades de negócio, Alívio de dor. Ch96.
 
-**Gradualização de Crença / Gradualization (3ª Técnica de Intensificação de Desejo, Eugene Schwartz)** — quando uma alegação é grande demais para ser aceita de imediato, construa a crença do leitor em etapas graduais e cumulativas, cada uma pequena o bastante para ser aceita sem resistência, até chegar à alegação completa. Ch116.
+**Gradualização de Crença / Gradualization (3ª Técnica de Intensificação de Desejo, Eugene Schwartz)** — quando uma alegação é grande demais para ser aceita de imediato, construa a crença do leitor em etapas graduais e cumulativas, cada uma pequena o bastante para ser aceita sem resistência, até chegar à alegação completa. Ch116. Aplicação a VSL em ch176-177 (Filemon): "crenças não se mudam, só se estendem", base dos pontos lógicos da tese.
 
 **Grande Ideia (ver Big Idea)**
 
@@ -208,7 +232,7 @@ Termos e frameworks centrais dos livros-fonte, em ordem alfabética. Cada entrad
 
 **HALT (Hungry, Angry, Lonely, Tired)** — acrônimo de autogoverno de Gary Halbert: nunca tomar decisões importantes (pessoais ou de negócio) estando faminto, com raiva, solitário ou cansado. Ch75.
 
-**Hero's Journey / Jornada do Herói (Campbell)** — estrutura narrativa de 12 passos aplicada a copy; usar como ponto de partida, nunca fórmula fixa. Ch08, Ch41.
+**Hero's Journey / Jornada do Herói (Campbell)** — estrutura narrativa de 12 passos aplicada a copy; usar como ponto de partida, nunca fórmula fixa. Ch08, Ch41. Versão reduzida (7 "bits") para a história do VSL em ch178 (Filemon).
 
 **Hot Buttons (Halbert)** — os 5 gatilhos de benefício que vendem de forma confiável: Ganância, Popularidade, Sexo, Desejo de estar acima da multidão, Saúde e conforto; base da técnica de renomeação de produtos/negócios. Ch96.
 
@@ -224,7 +248,9 @@ Termos e frameworks centrais dos livros-fonte, em ordem alfabética. Cada entrad
 
 **Karbo, Anúncios "Blind" tipo (Joe Karbo)** — formato de anúncio que esconde o produto/serviço real até o prospect estar "programado" a querer o resultado, nomeado por Joe Karbo ("The Lazy Man's Way To Riches"); usado em mercados de oportunidade, ganhar-dinheiro-rápido e multinível; combina com a Teoria do Rebocador para conduzir o prospect gradualmente até a venda de ticket alto. Ch94.
 
-**Lead** — as linhas/parágrafos de abertura de uma carta de vendas; 6 tipos (Oferta, Promessa, Solução de Problemas, Grande e Secreto, Proclamação, História). Ch05, Ch17.
+**Lead** — as linhas/parágrafos de abertura de uma carta de vendas; 6 tipos (Oferta, Promessa, Solução de Problemas, Grande e Secreto, Proclamação, História). Ch05, Ch17. Em VSL (Filemon): ch163-164, lead como "trailer", 9 elementos, ângulos e teste de 3 aberturas.
+
+**Lead como Trailer (Filemon)** — a lead não vende o produto, vende a vontade de continuar assistindo; tem 9 elementos (problema, promessa, spoiler do mecanismo, bullets de curiosidade, reconhecer a descrença, qualificadores, depoimento do método, credibilidade e, opcionalmente, spoiler da história). Ch163.
 
 **Logical Hinge (Gancho Lógico, Halbert)** — técnica de abertura de copy com uma afirmação tão obviamente verdadeira que o leitor concorda automaticamente; essa concordância inicial vira a base de apoio para toda a argumentação seguinte. Ch108.
 
@@ -232,9 +258,15 @@ Termos e frameworks centrais dos livros-fonte, em ordem alfabética. Cada entrad
 
 **LUST (Framework de Benefícios, Clayton Makepeace)** — acrônimo para estruturar benefícios de máximo impacto emocional; usado por Makepeace como filtro de qualidade para toda alegação de benefício antes de entrar na copy. Ch124.
 
+**Mapa do VSL (Filemon)** — documento-briefing que reúne oferta, público (raio X), mecanismo e apelido, One Belief, tese e história antes de escrever a copy; segundo o professor, permite prever se o VSL vende. Ch173, ch180.
+
 **Matriz de Conteúdo** — 2 eixos (amplitude/personalização, utilidade/entretenimento) gerando 4 tipos: Magnético, Imersivo, Inteligente, Prático. Ch40.
 
 **Matrioska (princípio de contratação)** — "contrate pessoas maiores que você, ou vira empresa de anões". Ch22.
+
+**Mecanismo (Filemon)** — a metodologia real por trás do produto, o "como" que entrega a promessa, o maior reason why da copy; deve ser expresso de modo curioso e explicado por uma tese. Ch175.
+
+**Mecanismo Lab (Filemon)** — prompt do professor que, a partir de 4 perguntas (produto e promessa, público e desejo, diferencial e por que funciona, como funciona), devolve nome, explicação e etapas do mecanismo. O prompt não é divulgado; o método está descrito em ch175.
 
 **Mecanização (5ª Técnica de Intensificação de Desejo, Eugene Schwartz)** — traduzir um processo/benefício abstrato num mecanismo concreto e visualizável (uma "máquina" mental que o leitor consegue enxergar funcionando), tornando a alegação mais crível e mais fácil de lembrar. Ch118.
 
@@ -264,6 +296,8 @@ Termos e frameworks centrais dos livros-fonte, em ordem alfabética. Cada entrad
 
 **Ondas de Branding (5)** — Trademark, Rational, Emotional, Cultural, Behavioural ("Brands that DO"); cada onda se acumula sobre a anterior. Ch20, Ch39.
 
+**One Belief (Crença Única, Filemon)** — a única crença que, se o espectador a aceitar, o leva a comprar; estrutura sugerida: "[ação] em vez de [abordagem comum] é a chave para [desejo], através do [apelido]". Orienta toda a tese. Ch176.
+
 **Operação Moneysuck** — princípio de disciplina radical de foco (testemunhado por John Carlton em Gary Halbert): a única função que gera receita real é prioridade absoluta do dia; toda distração administrativa deve ser delegada, adiada ou simplesmente ignorada. Ch67.
 
 **Palavras Mágicas de Headline (Halbert, via Haldeman-Julius)** — lista testada: "How To", "The Art Of", "A Little Secret That", "The Truth About", "The Facts About", "The History Of", "The Story Of", "The Key To". Ch100.
@@ -274,13 +308,19 @@ Termos e frameworks centrais dos livros-fonte, em ordem alfabética. Cada entrad
 
 **Penny Letter + Bribe Letter (Halbert)** — nomeação formal de dois formatos combináveis: Penny Letter (anexar moeda real como grabber) e Bribe Letter (múltiplos relatórios grátis como incentivo); combinados, é "o formato de maior probabilidade de sucesso" segundo Halbert. Ch102.
 
+**Pergunta Paradoxal (lead, Filemon)** — abertura que cria um "buraco na cabeça" ao perguntar o que pessoas improváveis ou de referência têm em comum para conseguir algo aparentemente impossível; muitas vezes combinada com autoridades do nicho. Ch164.
+
 **Players Only (Positioning)** — estratégia deliberada de filtrar audiência via preço alto e condições rígidas de acesso, preferindo poucos clientes genuinamente qualificados a muitos clientes diluídos. Ch92.
 
 **Poetas e Assassinos** — dicotomia de Ogilvy: poetas veem anúncio como fim, assassinos como meio; "se você é os dois, fica rico". Ch09, Ch21.
 
 **POE (Paid, Owned, Earned)** — os 3 tipos de mídia que compõem qualquer estratégia de conexão com o consumidor digital. Ch40.
 
+**Pontos Lógicos / Tese de Marketing (Filemon)** — cadeia de 7-10 argumentos, cada um partindo de uma crença que o público já tem e a estendendo em degraus até a One Belief, com prova, benefício e conexão por ponto. Ch177.
+
 **Posicionamento (definição de Ogilvy)** — "o que o produto faz, e para quem é". Ch20.
+
+**Produto Resumo, Filé e Antídoto (Filemon)** — três formas de criar o produto de entrada do VSL: resumo (essência de um curso/mentoria caro), filé (um módulo vira produto autônomo) e antídoto (solução direta para a maior dor que o mercado já paga para resolver). Ch171.
 
 **Proteção Contra Roubo de Lista (Halbert)** — salgar a própria lista com 50+ nomes-isca por 100 mil, adicionando novos mensalmente; salgar listas de concorrentes como pesquisa de mercado gratuita; revisar cláusulas de contratos de aluguel de lista. Ch106.
 
@@ -289,6 +329,8 @@ Termos e frameworks centrais dos livros-fonte, em ordem alfabética. Cada entrad
 **Precificação em Camadas (Halbert)** — tabela de referência de preços para produtos de informação por correspondência, em faixas psicológicas (ex.: US$19,95, US$39,95, US$69,95, US$99,95, US$199+); âncora histórica de Halbert foi US$24 + US$1,88 de frete, e de Dan Kennedy US$49 + US$4 para ofertas abaixo de US$99. Valores nominais defasados; lógica de faixas permanece framework de referência. Ch96.
 
 **Quadros de Palavras (Word Pictures, Robert Collier)** — técnica de descrição sensorial vívida: em vez de afirmar um benefício abstratamente, pinte uma cena concreta que o leitor pode ver, sentir e viver mentalmente — precursora direta das técnicas de "visualização de benefício" documentadas em autores posteriores desta skill. Ch147.
+
+**Raio X do Público (Filemon)** — pesquisa estruturada do público (descrição, dores e emoções, drives emocionais, desejos, soluções falhas, inimigo comum, preconceitos/crença atual), gerada por prompt/agente; requer verificação, pois citações de IA podem ser inventadas. Ch174.
 
 **Redefinição (4ª Técnica de Intensificação de Desejo, Eugene Schwartz)** — reformular um benefício ou produto já conhecido sob um ângulo/nome completamente novo, revitalizando o interesse de um mercado que já se cansou da apresentação original do mesmo desejo. Ch117.
 
@@ -314,15 +356,19 @@ Termos e frameworks centrais dos livros-fonte, em ordem alfabética. Cada entrad
 
 **Sistema 1 / Sistema 2 (Daniel Kahneman)** — inconsciente adaptativo (rápido, automático, emocional) vs. raciocínio deliberado (lento, esforçado, racional); "publicidade é um negócio de Sistema 1". Ch11, Ch48.
 
+**Sistema Reverso (Filemon)** — construir o VSL de trás para frente (oferta, mecanismo/tese, história, ponte e oferta, lead), porque só se abre bem sabendo o que vem depois; atribuído pelo professor a Robert McKee. Ch172.
+
 **Slippery Slide / Tobogã Escorregadio (Joseph Sugarman)** — princípio central de Sugarman: a única função de cada frase/parágrafo é fazer o leitor ler a próxima frase/parágrafo — a copy inteira deve funcionar como um tobogã untado do qual o leitor não consegue "descer" (parar de ler) até chegar à oferta. Ch133.
 
-**Sofisticação de Mercado (5 Estágios, Eugene Schwartz)** — quinto framework central de Schwartz: à medida que um mercado amadurece, alegações diretas de benefício param de funcionar e a estratégia precisa evoluir por 5 estágios — da alegação direta simples até a identificação pura com o mercado, passando por ampliação de alegação, mecanismo único, e mecanismo aprimorado. Determina COMO dizer o que você tem a dizer, complementando os Estágios de Consciência (que determinam O QUE dizer). Ch111.
+**Sofisticação de Mercado (5 Estágios, Eugene Schwartz)** — quinto framework central de Schwartz: à medida que um mercado amadurece, alegações diretas de benefício param de funcionar e a estratégia precisa evoluir por 5 estágios — da alegação direta simples até a identificação pura com o mercado, passando por ampliação de alegação, mecanismo único, e mecanismo aprimorado. Determina COMO dizer o que você tem a dizer, complementando os Estágios de Consciência (que determinam O QUE dizer). Ch111. Releitura de Filemon (promessa, promessa expandida, mecanismo único, mecanismo expandido; rejeita o estágio 5): ch175.
 
 **Split-Run** — técnica de teste A/B de headline em anúncios reais (não em entrevista), inventada por Richard Stanton. Ch24, Ch30.
 
 **Starving Crowd (A Multidão Faminta)** — parábola central de Gary Halbert: a única vantagem competitiva que realmente importa, antes de qualquer produto ou técnica, é encontrar um mercado já comprovadamente faminto por algo específico. Ch71.
 
 **Storytelling / 4 Ingredientes de Big Idea (Mike Palmer)** — Originalidade, Intriga, Benefício, Afirmação. Ch15.
+
+**Super-estrutura (Filemon)** — apoiar o argumento em figuras de autoridade do nicho (ex.: grandes empresários numa lead de produtividade) para ganhar credibilidade imediata, desde que o método tenha relação real com elas. Ch163.
 
 **Sweet Spot de Sobrenome / Engenharia de Lista por Frequência (Halbert)** — refinamento quantitativo de Starving Crowd/RFM aplicado a listas genéricas (ex. lista telefônica): sobrenomes muito comuns (Smith, Jones) convertem mal porque o leitor não acredita/interessa no próprio nome banal; sobrenomes raríssimos custam caro demais para individualizar; a faixa lucrativa fica entre um piso mínimo e ~15.000 pessoas com o mesmo sobrenome no país, com o ideal até ~7.500. Descoberta via relatório de frequência da Social Security Administration dos EUA (~1 milhão de sobrenomes distintos, média de ~200 pessoas por sobrenome). Ch158.
 

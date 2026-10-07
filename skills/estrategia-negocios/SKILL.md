@@ -1,18 +1,18 @@
 ---
 name: estrategia-negocios
-description: "Base de conhecimento sintetizada de 8 obras clássicas de estratégia de negócios: A Arte da Guerra (Sun Tzu), Good Strategy Bad Strategy (Richard Rumelt), Playing to Win (A.G. Lafley & Roger Martin), Blue Ocean Strategy (Kim & Mauborgne), Good to Great (Jim Collins), Strategy Safari (Mintzberg, Ahlstrand & Lampel), Competitive Advantage (Michael Porter) e Positioning: The Battle for Your Mind (Al Ries & Jack Trout). Use para diagnóstico de negócio, análise competitiva, vantagem competitiva sustentável, posicionamento (incluindo a obra fundadora que cunhou o termo), diferenciação, cadeia de valor, estratégia de custo, ataque/defesa competitiva, escolha de onde competir e como vencer, escolha e proteção de nome de marca/produto/empresa, armadilha de extensão de linha, cultura e liderança organizacional, e para diagnosticar qual escola de pensamento estratégico está implícita em qualquer framework ou conselho de negócios."
+description: "Base de conhecimento sintetizada de 9 obras de estratégia de negócios e engenharia de oferta: A Arte da Guerra (Sun Tzu), Good Strategy Bad Strategy (Richard Rumelt), Playing to Win (A.G. Lafley & Roger Martin), Blue Ocean Strategy (Kim & Mauborgne), Good to Great (Jim Collins), Strategy Safari (Mintzberg, Ahlstrand & Lampel), Competitive Advantage (Michael Porter), Positioning: The Battle for Your Mind (Al Ries & Jack Trout) e $100M Offers + $100M Lost Chapters (Alex Hormozi). Use para engenharia da oferta (Grand Slam Offer, Equação de Valor, precificação premium, empilhar e cortar entregáveis, bônus, garantia, escassez e urgência reais, nome da oferta/fórmula MAGIC, métricas CAC/LTGP/payback, avatar de cliente ideal), diagnóstico de negócio, análise competitiva, vantagem competitiva sustentável, posicionamento (incluindo a obra fundadora que cunhou o termo), diferenciação, cadeia de valor, estratégia de custo, ataque/defesa competitiva, escolha de onde competir e como vencer, escolha e proteção de nome de marca/produto/empresa, armadilha de extensão de linha, cultura e liderança organizacional, e para diagnosticar qual escola de pensamento estratégico está implícita em qualquer framework ou conselho de negócios. Posicionamento e estratégia decidem ONDE competir; Hormozi decide O QUE exatamente oferecer."
 ---
 
 <!-- argument-hint: [tópico, framework, autor, ou número de capítulo] -->
 
-# Estratégia de Negócios (8 Livros)
-**Autores**: Sun Tzu, Richard Rumelt, A.G. Lafley & Roger Martin, W. Chan Kim & Renée Mauborgne, Jim Collins, Henry Mintzberg/Bruce Ahlstrand/Joseph Lampel, Michael E. Porter, Al Ries & Jack Trout | **Capítulos**: 95 | **Gerado**: 2026-09-25
+# Estratégia de Negócios (9 Livros)
+**Autores**: Sun Tzu, Richard Rumelt, A.G. Lafley & Roger Martin, W. Chan Kim & Renée Mauborgne, Jim Collins, Henry Mintzberg/Bruce Ahlstrand/Joseph Lampel, Michael E. Porter, Al Ries & Jack Trout, Alex Hormozi | **Capítulos**: 118 (inclui 1 capítulo de guia derivado de terceiros, ch118) | **Gerado**: 2026-09-25 | **Atualizado**: 2026-10-07
 
 ## Como Usar Esta Skill
 
 - **Sem argumentos** — carregue os frameworks centrais abaixo para referência rápida
-- **Com um tópico** — pergunte sobre `cinco forças`, `cadeia de valor`, `oceano azul`, `hedgehog concept`, `kernel`, `escolas de estratégia`, `ataque a líder`, `posicionamento`, `escada mental`, `armadilha de extensão de linha`, `nome de marca`, ou outro tópico indexado; localizo e leio o capítulo relevante
-- **Com capítulo** — peça `ch19` ou `ch72`; carrego esse arquivo específico
+- **Com um tópico** — pergunte sobre `cinco forças`, `cadeia de valor`, `oceano azul`, `hedgehog concept`, `kernel`, `escolas de estratégia`, `ataque a líder`, `posicionamento`, `escada mental`, `armadilha de extensão de linha`, `nome de marca`, `grand slam offer`, `equação de valor`, `garantia`, `bônus`, `trim & stack`, `CAC/LTGP`, ou outro tópico indexado; localizo e leio o capítulo relevante
+- **Com capítulo** — peça `ch19`, `ch72` ou `ch100`; carrego esse arquivo específico
 - **Navegar** — pergunte "quais capítulos você tem?" para ver o índice completo
 
 Quando você perguntar sobre um tópico não coberto no índice abaixo, eu vou ler o arquivo de capítulo relevante antes de responder.
@@ -65,6 +65,15 @@ Primeiro obtenha as pessoas certas "no barco" (e as erradas fora dele) — apena
 
 ### As Oito Questões Transversais (Mintzberg)
 Complexidade, Integração, Genérico vs. Único, Controle (deliberado vs. emergente), Coletivo (quem é o estrategista), Mudança (padrão e fonte), Escolha (quanta liberdade estratégica existe), Pensamento (quanto e como). Nenhuma resposta correta é um extremo puro — está sempre em "quando e onde".
+
+### A Equação de Valor (Hormozi)
+Valor percebido = (**Resultado dos Sonhos** × **Probabilidade Percebida de Alcançá-lo**) ÷ (**Atraso Percebido** × **Esforço e Sacrifício**). Aumente o numerador e reduza o denominador; os maiores prêmios de preço (e a menor concorrência) estão em reduzir tempo e esforço, não em inflar a promessa. É divisão, não soma: se o denominador tendesse a zero, o valor tenderia ao infinito. Percepção é realidade: só vale o que o prospect percebe. Cada problema que trava a compra cai numa das quatro variáveis. (ch100)
+
+### A Grand Slam Offer (Hormozi)
+Oferta tão boa que o prospect se sentiria idiota dizendo não: combina promoção atraente, valor imbatível, preço premium e garantia incontestável com um money model que permite ser pago para adquirir clientes. Faz o prospect decidir por **valor** (categoria de um, "vender no vácuo") e não por preço (commodity). Método em ordem: mercado faminto (mercado > oferta > persuasão) → preço premium → Dream Outcome → listar problemas → transformar em soluções nomeadas → veículos de entrega → Trim & Stack → reforçar com escassez/urgência reais, bônus, garantia e nome (MAGIC). Cresce-se só de três formas: mais clientes, ticket maior, mais compras. (ch96-ch110)
+
+### Trim & Stack e Customer Financed Acquisition (Hormozi)
+Liste todas as formas de entregar cada solução, **corte** o que é de alto custo e baixo valor (depois baixo/baixo), mantenha baixo custo/alto valor e alto custo/alto valor (priorize veículos um-para-muitos), e **empilhe** em produtos nomeados com valor justificável. Depois verifique a economia: lucro bruto de 30 dias ≥ 2x CAC (CFA nível 3) torna o cliente o financiador do crescimento. (ch103-ch104, ch113-ch114)
 
 ---
 
@@ -197,32 +206,59 @@ Complexidade, Integração, Genérico vs. Único, Controle (deliberado vs. emerg
 | [ch94](chapters/ch94-posicionando-seu-negocio-seis-perguntas.md) | Posicionando Seu Negócio — As Seis Perguntas | Checklist das Seis Perguntas de Posicionamento |
 | [ch95](chapters/ch95-jogando-o-jogo-do-posicionamento.md) | Jogando o Jogo do Posicionamento | Palavras como Recipientes Vazios; Rolls-Royce Thinking |
 
+### Livro 9 — Alex Hormozi ($100M Offers + $100M Lost Chapters)
+| # | Título | Frameworks-Chave |
+|---|---|---|
+| [ch96](chapters/ch96-hormozi-grand-slam-offer-o-que-e-uma-oferta.md) | Grand Slam Offer — O Que É uma Oferta | Grand Slam Offer, Escada da Oferta, Dois Problemas-Raiz |
+| [ch97](chapters/ch97-hormozi-problema-da-commodity-e-matematica-da-oferta.md) | O Problema da Commodity e a Matemática da Oferta | Três Alavancas de Crescimento, LTV, Categoria de Um, Efeito Multiplicativo |
+| [ch98](chapters/ch98-hormozi-starving-crowd-escolha-de-mercado.md) | Starving Crowd — Escolha de Mercado | 4 Indicadores de Mercado, Mercado > Oferta > Persuasão, Niche Slap, Niche Pricing |
+| [ch99](chapters/ch99-hormozi-cobre-o-que-vale-preco-premium-e-ciclo-virtuoso.md) | Cobre o Que Vale — Preço Premium | Discrepância Preço-Valor, Ciclo Virtuoso do Preço, Valor antes do Preço |
+| [ch100](chapters/ch100-hormozi-equacao-de-valor-value-equation.md) | A Equação de Valor | Dream Outcome, Probabilidade Percebida, Time Delay, Esforço e Sacrifício |
+| [ch101](chapters/ch101-hormozi-pensamento-divergente-e-exercicio-do-tijolo.md) | Pensamento Divergente — Exercício do Tijolo | Convergente vs. Divergente, Free Goodwill |
+| [ch102](chapters/ch102-hormozi-grand-slam-offer-problemas-e-solucoes.md) | Criando a Grand Slam Offer I — Problemas e Soluções | Dream Outcome → Problemas (16 centrais) → Soluções Nomeadas |
+| [ch103](chapters/ch103-hormozi-veiculos-de-entrega-e-cubo-de-entrega.md) | Criando a Grand Slam Offer II — Veículos de Entrega | Contínuo Vendas–Entrega, Cheat Codes (1:1/grupo/1:N, DIY/DWY/DFY, 10x–1/10) |
+| [ch104](chapters/ch104-hormozi-trim-and-stack-montando-o-pacote-final.md) | Trim & Stack — Montando o Pacote Final | Matriz Custo×Valor, Passo Atrás, Pacote Nomeado com Valor |
+| [ch105](chapters/ch105-hormozi-aprimorando-a-oferta-oferta-demanda-e-escassez.md) | Aprimorando a Oferta — Dança do Desejo e Escassez | Delicate Dance of Desire, Total/Growth/Cohort Cap, Honest Scarcity |
+| [ch106](chapters/ch106-hormozi-urgencia-quatro-formas-honestas.md) | Urgência — Quatro Formas Honestas | Turmas Rotativas, Sazonal, Preço/Bônus, Oportunidade que se Deteriora |
+| [ch107](chapters/ch107-hormozi-bonus-empilhar-valor-sem-descontar.md) | Bônus — Empilhar Valor em Vez de Descontar | 11 Bonus Bullets, Bônus > Desconto, Cofre de Bônus |
+| [ch108](chapters/ch108-hormozi-garantias-quatro-tipos-e-reversao-de-risco.md) | Garantias — Quatro Tipos e Reversão de Risco | Incondicional, Condicional, Antigarantia, Implícita; Conta de Vendas Líquidas |
+| [ch109](chapters/ch109-hormozi-nomeando-a-oferta-formula-magic.md) | Nomeando a Oferta — Fórmula MAGIC | Magnet-Avatar-Goal-Interval-Container, Escada de Fadiga de Oferta |
+| [ch110](chapters/ch110-hormozi-execucao-primeiros-100k-e-sintese-da-oferta.md) | Execução e Síntese da Oferta | 11 Passos do Método, Checklist de Verificação da Grand Slam Offer |
+| [ch111](chapters/ch111-hormozi-lost-chapters-seu-primeiro-avatar.md) | Lost Chapters — Seu Primeiro Avatar | Survey Top 20%, Qualificadores em Comum, Engenharia Reversa da Compra |
+| [ch112](chapters/ch112-hormozi-lost-chapters-atrair-premium-gratis-desconto.md) | Lost Chapters — Atrair: Premium, Grátis e Desconto | Promoção Premium/Free/Discount, Atrito, Quatro Formas de Exibir Desconto |
+| [ch113](chapters/ch113-hormozi-lost-chapters-cliente-caro-cfa-cac-ltgp-payback.md) | Lost Chapters — Cliente Caro: CFA, CAC, LTGP, Payback | Customer Financed Acquisition, 30D Cash, Três Níveis de CFA |
+| [ch114](chapters/ch114-hormozi-lost-chapters-value-grid-e-advanced-offer-stacking.md) | Lost Chapters — Value Grid e Offer Stacking | Value Grid, Attract→Cash→Upsell→Continuidade, Right Stage/Problem/Way/Time |
+| [ch115](chapters/ch115-hormozi-lost-chapters-ofertas-de-atracao-e-upsell-avancadas.md) | Lost Chapters — Atração e Upsell Avançadas | Apresentações Grátis, Freemium, Pick Your Price, Grátis + Fluxo Alternativo |
+| [ch116](chapters/ch116-hormozi-lost-chapters-ofertas-de-continuidade-reter-clientes.md) | Lost Chapters — Ofertas de Continuidade | Bônus Quando+O Quê, Desconto Vitalício, Desconto + Taxa Única |
+| [ch117](chapters/ch117-hormozi-lost-chapters-funcionarios-lead-getters-e-maker-vs-manager.md) | Lost Chapters — Funcionários e Maker vs. Manager | Treinamento 3D, Performance Diamond, Maker vs. Manager |
+| [ch118](chapters/ch118-terceiros-aplicacao-passo-a-passo-pontuacao-da-equacao-de-valor.md) | Aplicação Passo a Passo — Pontuação da Equação de Valor (guia derivado de terceiros, Preston) | Índice da Oferta (convenção de terceiros) |
+
 ## Índice de Tópicos
 
 - **Diagnóstico de negócio / análise de situação** → ch01, ch14, ch19, ch60, ch71
 - **Cinco Forças / estrutura de indústria** → ch60, ch71
 - **Cadeia de valor** → ch60, ch72, ch73, ch74
 - **Vantagem de custo / direcionadores de custo** → ch60, ch73
-- **Diferenciação / valor do comprador** → ch60, ch74
+- **Diferenciação / valor do comprador** → ch60, ch74 (estrutural, Porter); ch97, ch99, ch100 (empacotamento perceptual de valor, Hormozi)
 - **Estratégias genéricas (custo/diferenciação/foco)** → ch60, ch71
 - **Posicionamento / onde competir** → ch35-37, ch59-60, ch80-95 (Livro 8 completo é a fonte primária do conceito — ver especialmente ch80 para a definição fundadora "positioning é o que você faz à mente do prospect", ch94 para o checklist prático das seis perguntas, e ch95 para a síntese final e a regra do não-ataque-de-frente)
 - **Escada mental / product ladder / ser o primeiro** → ch81, ch83
 - **Creneau / encontrar espaço na mente / posicionamento de seguidor** → ch84, ch89-92
 - **Reposicionamento da concorrência / propaganda comparativa** → ch85, ch91
-- **Nome de marca/produto/empresa (escolha, proteção, armadilhas)** → ch86, ch87, ch93
+- **Nome de marca/produto/empresa (escolha, proteção, armadilhas)** → ch86, ch87, ch93 (para nome de OFERTA/promoção descartável e renovável, ver Fórmula MAGIC em ch109)
 - **Armadilha de extensão de linha / diluição de marca** → ch88
 - **Ataque a líder de categoria (perceptual) / regra do não-ataque-de-frente** → ch82, ch95
 - **Posicionamento aplicado (estudos de caso: empresa, país, produto, serviço, banco, instituição)** → ch89-92
 - **Posicionamento pessoal / de carreira** → ch93
 - **Cascata de escolhas estratégicas** → ch23-42
 - **Oceano azul / inovação de valor** → ch43-46
-- **Segmentação de indústria / foco** → ch76
+- **Segmentação de indústria / foco** → ch76; escolha de mercado/nicho por dor, poder de compra, alcance e crescimento → ch98; escolha do cliente ideal por dados → ch111
 - **Substituição / ameaças de produto substituto** → ch76
 - **Liderança / cultura organizacional** → ch47-55, ch66
 - **Kernel / o que é (não é) estratégia** → ch14-22
 - **Concorrentes / seleção de concorrentes / ataque e defesa** → ch06, ch75, ch79, ch82, ch95
 - **Interrelações corporativas / diversificação / sinergia** → ch77, ch89
-- **Produtos complementares / bundling / subsídio cruzado** → ch78
+- **Produtos complementares / bundling / subsídio cruzado** → ch78; empacotamento de entregáveis (Trim & Stack) → ch104; empilhamento de ofertas e comissões de parceiros → ch107, ch114
 - **Incerteza / cenários de indústria** → ch78
 - **Tecnologia e vantagem competitiva** → ch53, ch75
 - **Escolas de pensamento estratégico (mapa geral)** → ch56, ch70
@@ -233,10 +269,28 @@ Complexidade, Integração, Genérico vs. Único, Controle (deliberado vs. emerg
 - **Configuração organizacional / transformação** → ch68-69
 - **Vitória sem batalha / vantagem posicional** → ch03, ch60, ch82
 - **Inteligência competitiva** → ch13
+- **Oferta / Grand Slam Offer / Engenharia da Oferta (Fase 7)** → ch96-ch110 (fonte primária: Hormozi); ch110 traz a síntese em 11 passos e o checklist de verificação; ch114-ch116 trazem o empilhamento de ofertas
+- **Commodity / competição por preço / categoria de um** → ch97 (com Porter ch74 e Ries & Trout ch81-84 como contrapartes estrutural e perceptual)
+- **Starving Crowd / mercado faminto / nicho / niche pricing** → ch98 (confira também `copywriting-publicidade` ch71, Halbert)
+- **Preço premium / como cobrar mais / ciclo virtuoso do preço** → ch99
+- **Equação de Valor (Dream Outcome, probabilidade, tempo, esforço)** → ch100; pontuação comparativa (convenção de terceiros) → ch118
+- **Problemas → soluções → veículos de entrega / DIY-DWY-DFY** → ch102, ch103
+- **Trim & Stack / pacote final / valor atribuído** → ch104
+- **Escassez real (vagas, bônus, "nunca mais")** → ch105 (ética e regra permanente em `persuasao-gatilhos` ch52)
+- **Urgência real (turmas, sazonal, preço/bônus, oportunidade que se deteriora)** → ch106 (e `persuasao-gatilhos` ch53)
+- **Bônus / bônus vs. desconto / cofre de bônus / bônus de parceiros** → ch107, ch116
+- **Garantia / reversão de risco / antigarantia / garantia de performance** → ch108 (e `persuasao-gatilhos` ch71)
+- **Nome da oferta / fórmula MAGIC / fadiga de oferta e escada de variação** → ch109
+- **Avatar de cliente ideal / análise do top 20% de clientes** → ch111
+- **Oferta de entrada: premium, grátis, desconto, atrito, pick-your-price, freemium** → ch112, ch115
+- **CAC / LTGP / payback / 30D cash / Customer Financed Acquisition** → ch113 (versão principal em `marketing-digital-growth` ch54 e ch59)
+- **Value Grid / empilhamento de ofertas / upsell-downsell-continuidade** → ch114-ch116 (catálogo principal em `marketing-digital-growth` ch59-ch65)
+- **Retenção / desconto vitalício / taxa de adesão / bônus de continuidade** → ch116
+- **Gestão de equipe para escalar a oferta (treinamento 3D, Performance Diamond, maker vs. manager)** → ch117
 
 ## Arquivos de Apoio
 
-- [glossary.md](glossary.md) — todos os termos-chave dos 8 livros com definições
+- [glossary.md](glossary.md) — todos os termos-chave dos 9 livros com definições
 - [patterns.md](patterns.md) — todos os frameworks e processos estruturados de decisão
 - [cheatsheet.md](cheatsheet.md) — regras de decisão e tabelas de referência rápida
 
@@ -244,7 +298,7 @@ Complexidade, Integração, Genérico vs. Único, Controle (deliberado vs. emerg
 
 ## Contrato de Handoff (uso via `diretor-aquisicao-conversao`)
 
-Esta skill é **dona de três pontos do pipeline**: Fase 1 (Diagnóstico do Negócio), Fase 6 (Posicionamento), e contribui à Fase 7 (Engenharia da Oferta, junto com `persuasao-gatilhos` e `copywriting-publicidade`).
+Esta skill é **dona de três pontos do pipeline**: Fase 1 (Diagnóstico do Negócio), Fase 6 (Posicionamento), e **co-dona da Fase 7 (Engenharia da Oferta)**, onde é a **fonte primária da mecânica da oferta** (Livro 9, Hormozi), junto com `persuasao-gatilhos` (lente psicológica e limites éticos de escassez/urgência/garantia) e `copywriting-publicidade` (como a oferta é comunicada).
 
 **Fase 1 — Diagnóstico do Negócio**
 - **Espera receber como input**: informação básica do usuário sobre produto, mercado atual, e objetivo comercial (via intake do orquestrador).
@@ -254,8 +308,21 @@ Esta skill é **dona de três pontos do pipeline**: Fase 1 (Diagnóstico do Neg�
 - **Espera receber como input**: Dossiê de Pesquisa (Fase 2) e Mapa Psicológico do Consumidor (Fases 3-5, de `psicologia-consumidor`).
 - **Produz como output**: artefato **Posicionamento e Big Idea** — resposta às perguntas Onde Jogar / Como Vencer (Cascata de Lafley & Martin), aplicação do Canvas Estratégico (Kim & Mauborgne) para identificar espaço de mercado não-contestado quando aplicável, escolha explícita de estratégia genérica (custo/diferenciação/foco, Porter) com justificativa de sustentabilidade, e — a partir do Livro 8 (Ries & Trout), fonte primária conceitual desta própria fase — mapeamento da escada mental da categoria (ch81), definição da posição-alvo usando o checklist das seis perguntas de posicionamento (ch94), e validação contra a regra do não-ataque-de-frente (ch82, ch95). Positioning de Ries & Trout é quem dá o NOME e o mecanismo perceptual ("o que se faz à mente do prospect") a esta fase; os demais frameworks do Livro 8 (Cascata, Cinco Forças, Oceano Azul) fornecem a análise estrutural/econômica que sustenta a escolha.
 
-**Contribuição à Fase 7 — Engenharia da Oferta**
-- Contribui com fundamentação de **por que** a oferta específica é estrategicamente defensável (direcionadores de singularidade que sustentam preço premium, ou direcionadores de custo que sustentam preço baixo) — mas a construção final da oferta (garantias, bônus, gatilhos de persuasão) é responsabilidade conjunta com `persuasao-gatilhos` e `copywriting-publicidade`.
+**Fase 7 — Engenharia da Oferta (co-dona; fonte primária: Livro 9, Hormozi — $100M Offers + Lost Chapters)**
+- **Espera receber como input**: o artefato **Posicionamento e Big Idea** (Fase 6: onde competir, para quem, qual espaço perceptual ocupar), o **Dossiê de Pesquisa** (Fase 2: dores, objeções, linguagem do cliente, o que já tentaram) e o **Mapa Psicológico** (Fases 3-5). Se faltar o mercado/avatar validado, a Fase 7 começa pelo ch98 (mercado) e ch111 (avatar por dados), porque "mercado > oferta > persuasão". Precisa também de dados econômicos mínimos: preço atual (se houver), custo de entrega, margem bruta, CAC e reembolso — ou a decisão explícita de testar sem eles.
+- **Produz como output**: artefato **Engenharia da Oferta**, com estes componentes (cada um mapeado a um capítulo):
+  1. **Mercado e avatar** (4 indicadores: dor, poder de compra, alcance, crescimento; qualificadores do cliente ideal) — ch98, ch111.
+  2. **Dream Outcome** formulado como destino, não como veículo — ch102.
+  3. **Lista de problemas do prospect** organizada nas quatro variáveis da Equação de Valor e **lista de soluções nomeadas** — ch100, ch102.
+  4. **Veículos de entrega** (um-a-um/grupo/um-para-muitos; DIY/DWY/DFY) e a decisão de superentregar no início e produtizar depois — ch103.
+  5. **Pacote final (Trim & Stack)** com matriz custo × valor, itens nomeados e valor atribuído **justificável** — ch104.
+  6. **Preço** (premium, ancorado no valor, nunca "média do mercado menos um pouco") e a economia da oferta (LTGP, CAC, payback, 30D cash ≥ 2x CAC quando possível) — ch99, ch113.
+  7. **Reforços honestos**: escassez e urgência **reais** (limites de capacidade e prazos de fato aplicados), bônus nomeados que respondem a objeções, **garantia** sustentável (formato "se não X em Y, então Z"), com conta de vendas líquidas — ch105-ch108.
+  8. **Nome da oferta** (MAGIC) e plano de variação de fadiga (criativo → copy → título → duração → enhancer → estrutura) — ch109.
+  9. **Sequência de ofertas** (front-end, upsell, downsell, continuidade) em grade de valor, a ser detalhada na Fase 8 (Arquitetura do Funil) — ch114-ch116 e `marketing-digital-growth` ch59-ch65.
+  10. **Checklist de verificação de saída** (ch110): comparabilidade, quatro variáveis, todos os problemas resolvidos, custo sustentável, limites/prazos reais, bônus, garantia que o negócio honra, nome, plano de fadiga.
+- **Como se divide com as outras skills**: `estrategia-negocios` entrega a **mecânica da oferta** e a justificativa estratégica (por que a oferta é defensável: direcionadores de singularidade de Porter ch74 sustentam preço premium; direcionadores de custo ch73 sustentam preço baixo); `persuasao-gatilhos` valida escassez, urgência, prova social, ancoragem e garantia contra a **regra ética permanente** (nunca escassez/urgência falsa, prova social forjada ou exploração de vulnerabilidade); `copywriting-publicidade` transforma o pacote em promessa, headline e VSL (Fase 10); `marketing-digital-growth` define o funil e as métricas em torno da sequência de ofertas (Fase 8).
+- **Regra ética herdada do próprio Hormozi e reforçada aqui**: onde o texto original fala em "inventar um motivo" para promoção, taxa ou antigarantia, esta skill adota somente **razões verdadeiras**; limites de vagas e prazos precisam existir de fato; valores atribuídos a bônus precisam ser defensáveis; garantias precisam ser cumpridas e não podem violar a lei do consumidor local (ex.: direito de arrependimento).
 
 **Quando usada isoladamente** (pedido pontual do tipo "que estratégia genérica devo seguir?" ou "explique o Kernel de Rumelt"): funcione normalmente sem exigir os artefatos acima.
 
@@ -263,4 +330,6 @@ Esta skill é **dona de três pontos do pipeline**: Fase 1 (Diagnóstico do Neg�
 
 ## Escopo & Limites
 
-Esta skill cobre o conteúdo sintetizado dos 8 livros-fonte, com frameworks, exemplos reconstruídos e citações essenciais — nunca texto bruto copiado. Sun Tzu fornece a fundamentação clássica sobre posição/timing/inteligência; Rumelt fornece o teste rigoroso do que É e NÃO É estratégia real; Lafley & Martin fornecem a cascata executiva aplicável; Kim & Mauborgne fornecem o método de inovação de valor; Collins fornece a lente de liderança/cultura/disciplina de longo prazo; Mintzberg, Ahlstrand & Lampel fornecem o mapa integrador de todas as escolas de pensamento estratégico (incluindo como as ideias dos outros livros se encaixam entre si); Porter fornece o ferramental analítico mais granular e operacional (cadeia de valor, direcionadores de custo/singularidade, ataque e defesa competitiva); Ries & Trout fornecem a lente PERCEPTUAL do posicionamento — o texto que literalmente cunhou o termo "positioning" em 1972 e é a fonte primária conceitual da Fase 6 (Posicionamento) do pipeline `diretor-aquisicao-conversao`, complementando a lente estrutural/analítica de Porter e Mintzberg com o mecanismo psicológico de como uma posição se estabelece (ou se perde) na mente do prospect. Onde os livros se sobrepõem (ex.: Cinco Forças aparece tanto em Strategy Safari quanto em Competitive Advantage; "onde competir/como vencer" ecoa entre Lafley & Martin e Porter; "posicionamento" aparece em Strategy Safari — ch59-60, como uma das dez escolas — e em Ries & Trout — ch80-95, como o texto fundador do próprio conceito), a skill preserva a riqueza de cada tratamento em vez de eliminar redundância — Strategy Safari trata "positioning" como escola analítica de seleção entre estratégias genéricas (Porter, BCG), enquanto Ries & Trout tratam "positioning" como o ato perceptual de ocupar espaço na mente do prospect; os dois sentidos se complementam mas não são idênticos, e um projeto de posicionamento completo tipicamente precisa de ambos. Para aplicação em projetos reais, combine com o contexto específico do negócio/cliente. Para tópicos além destes 8 livros, peça diretamente.
+Esta skill cobre o conteúdo sintetizado dos 9 livros-fonte (mais um capítulo curto de guia derivado de terceiros, ch118, rotulado como tal), com frameworks, exemplos reconstruídos e citações essenciais — nunca texto bruto copiado. Sun Tzu fornece a fundamentação clássica sobre posição/timing/inteligência; Rumelt fornece o teste rigoroso do que É e NÃO É estratégia real; Lafley & Martin fornecem a cascata executiva aplicável; Kim & Mauborgne fornecem o método de inovação de valor; Collins fornece a lente de liderança/cultura/disciplina de longo prazo; Mintzberg, Ahlstrand & Lampel fornecem o mapa integrador de todas as escolas de pensamento estratégico (incluindo como as ideias dos outros livros se encaixam entre si); Porter fornece o ferramental analítico mais granular e operacional (cadeia de valor, direcionadores de custo/singularidade, ataque e defesa competitiva); Ries & Trout fornecem a lente PERCEPTUAL do posicionamento — o texto que literalmente cunhou o termo "positioning" em 1972 e é a fonte primária conceitual da Fase 6 (Posicionamento) do pipeline `diretor-aquisicao-conversao`, complementando a lente estrutural/analítica de Porter e Mintzberg com o mecanismo psicológico de como uma posição se estabelece (ou se perde) na mente do prospect. Onde os livros se sobrepõem (ex.: Cinco Forças aparece tanto em Strategy Safari quanto em Competitive Advantage; "onde competir/como vencer" ecoa entre Lafley & Martin e Porter; "posicionamento" aparece em Strategy Safari — ch59-60, como uma das dez escolas — e em Ries & Trout — ch80-95, como o texto fundador do próprio conceito), a skill preserva a riqueza de cada tratamento em vez de eliminar redundância — Strategy Safari trata "positioning" como escola analítica de seleção entre estratégias genéricas (Porter, BCG), enquanto Ries & Trout tratam "positioning" como o ato perceptual de ocupar espaço na mente do prospect; os dois sentidos se complementam mas não são idênticos, e um projeto de posicionamento completo tipicamente precisa de ambos. **Hormozi (Livro 9) e a relação com os demais frameworks**: os livros 1-8 respondem **ONDE competir e COMO ganhar vantagem** — Cascata (Lafley & Martin), Cinco Forças e estratégias genéricas (Porter), Canvas e ERRC (Kim & Mauborgne), escada mental e creneau (Ries & Trout), Kernel (Rumelt). O Livro 9 (Hormozi, $100M Offers + Lost Chapters) responde **O QUE exatamente oferecer, a que preço, com que pacote, garantia, bônus e nome** — a mecânica que transforma uma posição escolhida em uma oferta que o mercado compara por valor e não por preço. Ordem de uso recomendada: diagnóstico e posicionamento (Fases 1 e 6) decidem mercado e espaço; só então a Engenharia da Oferta (Fase 7) desenha o pacote. Sobreposições preservadas: o "starving crowd" de Hormozi (ch98) é a mesma ideia do Halbert em `copywriting-publicidade` (ch71) e filtra a "atratividade do onde jogar" de Lafley & Martin (ch36) e a segmentação de Porter (ch76); a "categoria de um" (ch97) é o equivalente de oferta do creneau perceptual (ch84) e do oceano azul (ch43); a Equação de Valor (ch100) é a versão perceptual/operacional do valor do comprador de Porter (ch74); o empilhamento de ofertas e o CFA (ch113-ch116) se sobrepõem em parte a `marketing-digital-growth` (ch54, ch59-ch65), que cobre o $100M Leads e o $100M Money Models — aqui ficam os capítulos cortados (Lost Chapters), com a visão em grade e a matemática expandida. Limites: os resultados numéricos citados por Hormozi são autodeclarados, de um autor com interesse comercial; use-os como ilustração e teste com seus próprios dados. As técnicas de escassez, urgência, bônus e garantia só valem se verdadeiras (ver `persuasao-gatilhos`).
+
+Para aplicação em projetos reais, combine com o contexto específico do negócio/cliente. Para tópicos além destes 9 livros, peça diretamente.

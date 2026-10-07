@@ -94,3 +94,53 @@
 **When to use**: sempre que a tentação for competir diretamente contra o líder de uma categoria já fortemente estabelecido na mente do prospect.
 **How**: nunca imite a estratégia do líder de frente — escolha uma das avenidas alternativas: (a) encontre um creneau vago; (b) reposicione a concorrência expondo uma vulnerabilidade real; (c) construa a partir de uma posição adjacente já própria (a "estratégia da terceira perna"); (d) aceite e amplifique o único atributo que o prospect já concede de bom grado (como fez o Long Island Trust ao aceitar a "posição regional" em vez de competir em capital/agências).
 **Trade-offs**: mesmo com recursos financeiros muito superiores, o ataque de frente contra uma posição bem estabelecida historicamente fracassa (RCA vs. IBM, US$250 milhões perdidos) — recursos abundantes tendem a encorajar justamente o erro que está fadado ao fracasso. (Ch 82, 83, 89, 91, 95, Ries & Trout)
+
+## Construção de uma Grand Slam Offer em Cinco Passos (Hormozi)
+**When to use**: ao criar ou reformular qualquer oferta (front-end, upsell, downsell, continuidade) — Fase 7 do pipeline.
+**How**: (1) formule o **Dream Outcome** como destino ("perder 20 libras em 6 semanas"), não como veículo ("mensalidade"); (2) **liste todos os problemas** que o prospect enfrenta, na sequência em que os vive, organizados nas quatro variáveis da Equação de Valor (resultado, probabilidade, esforço, tempo) — de 16 problemas centrais a 64 subproblemas; (3) **reverta cada problema em solução nomeada** ("Como...") para ter o checklist do que será resolvido; (4) liste **veículos de entrega** para cada solução usando os cheat codes (nível de atenção 1:1/grupo/1:N, esforço DIY/DWY/DFY, meio, formato, velocidade de resposta, teste 10x/1/10); (5) **Trim & Stack**: corte alto custo/baixo valor e baixo/baixo, mantenha baixo/alto e alto/alto, priorize ativos um-para-muitos e empilhe em produtos nomeados com valor justificável. Depois aplique escassez e urgência reais, bônus, garantia e nome.
+**Trade-offs**: resolver todo problema percebido maximiza conversão, mas aumenta complexidade e custo de entrega — por isso o corte; na primeira versão superentregue para gerar fluxo e só depois produtize ("crie fluxo, monetize o fluxo, depois adicione atrito"). Os números de sucesso do autor são autodeclarados. (Ch 102-104, 110, Hormozi)
+
+## Diagnóstico de Oferta pela Equação de Valor
+**When to use**: quando uma oferta não vende pelo preço desejado, ou ao comparar duas versões/dois produtos que atendem ao mesmo desejo.
+**How**: dê nota (alta/baixa ou 0/1) a **Dream Outcome** e **Probabilidade Percebida** (quanto maiores, melhor) e a **Atraso** e **Esforço e Sacrifício** (quanto menores, melhor). Se os dois produtos satisfazem o mesmo desejo, o Dream Outcome se cancela e a diferença de preço vem das outras três variáveis. Para cada variável fraca, aja: probabilidade → prova, garantia, o que incluir/excluir; tempo → vitória rápida nos primeiros dias, velocidade ("fast beats free"); esforço → templates, DFY/DWY, passos simples; resultado → traduza em status e em como os outros perceberão a conquista. Priorize o denominador (tempo e esforço): é onde a concorrência é menor.
+**Trade-offs**: percepção é realidade — só vale o que o prospect percebe; mexer em percepção sem entregar de fato destrói garantias e reputação. A pontuação numérica de terceiros (ch118) é só convenção comparativa. (Ch 100, 118, Hormozi/derivado)
+
+## Escolha de Mercado: Starving Crowd e Ordem de Importância
+**When to use**: antes de investir em oferta, funil ou copy; ao diagnosticar por que uma boa oferta não vende.
+**How**: confirme os **quatro indicadores** — dor intensa, poder de compra, fácil de alcançar, em crescimento — dentro de saúde, riqueza ou relacionamentos; aplique a ordem **mercado > oferta > persuasão** (mercado ruim trava tudo; mercado normal passa o peso para a oferta); depois **comprometa-se com o nicho** (niche slap) até esgotar um número definido de ofertas; afunile enquanto o TAM comportar (abaixo de ~US$10M/ano, segundo o autor); refine o avatar pelo top 20% de clientes em valor e permanência (ch111).
+**Trade-offs**: nicho estreito demais pode exceder o TAM; trocar de nicho a cada fracasso zera o aprendizado. (Ch 98, 111, Hormozi)
+
+## Precificação Premium: Valor Primeiro, Preço Depois
+**When to use**: ao definir preço de um produto novo ou ao tentar aumentar o ticket sem perder conversão.
+**How**: (1) aumente o valor percebido (Equação de Valor, Trim & Stack); (2) só então suba o preço, mantendo a discrepância preço-valor (ex.: US$100.000 de valor por US$10.000); (3) não precifique pela média do mercado nem fique "o segundo mais barato"; (4) use o ciclo virtuoso: preço maior → mais compromisso → melhores resultados → melhores clientes → margem para reinvestir; (5) comunique ganho do cliente vs. preço; (6) nunca desconte o núcleo — adicione bônus.
+**Trade-offs**: premium exige entrega comprovada (convicção) e processo de venda que demonstre valor; "preço como sinal" não substitui resultado. (Ch 99, 107, Hormozi)
+
+## Seleção e Teste de Garantia
+**When to use**: ao desenhar a reversão de risco de qualquer oferta; ao decidir tipo e prazo de garantia por ticket.
+**How**: identifique os maiores medos do prospect e reverta-os no formato "se não X em Y, então Z"; escolha o tipo — **incondicional** (ticket baixo/B2C, entrega confiável), **condicional** (ações-chave do cliente como condições; "melhor que dinheiro de volta"), **antigarantia** (somente com razão verdadeira), **implícita/performance** (revshare, pagamento por resultado, com medição transparente); considere empilhar garantias; **faça a conta de vendas líquidas** (ex.: 100 vendas e 5% de reembolso = 95; 130 vendas e 10% = 117 → +23%); em alto custo de entrega, prefira condicional ou antigarantia; nomeie a garantia com imagem forte.
+**Trade-offs**: garantia amplifica um bom produto e não salva um ruim; compradores motivados só por garantia podem ser maus clientes; respeite a lei do consumidor local. (Ch 108, Hormozi)
+
+## Escassez e Urgência Reais (Decisão de Uso)
+**When to use**: para acelerar decisões e sustentar preço em ofertas que já têm valor.
+**How**: **escassez** = quantidade (limite de vagas/bônus/"nunca mais", com teto de capacidade real: total, taxa de entrada ou por coorte; esgote de fato e anuncie o esgotamento; "honest scarcity"); **urgência** = tempo (turmas rotativas, janelas sazonais, validade de preço/bônus, oportunidade que se deteriora; avise com antecedência o aumento de preço). Teste: "o que realmente muda na data X?" — se nada muda, não use. Mantenha a demanda ligeiramente acima da oferta para ter desejo reprimido nos próximos ciclos.
+**Trade-offs**: escassez/urgência amplificam demanda existente, não criam valor; o falso destrói credibilidade e viola a regra ética permanente do sistema (ver `persuasao-gatilhos` ch52-53). (Ch 105-106, Hormozi)
+
+## Nomeação de Oferta (MAGIC) e Escada de Fadiga
+**When to use**: ao batizar front-end, upsell, bônus, garantia e promoções; quando os anúncios cansam.
+**How**: monte o nome com 3-5 de **Magnet** (razão-porquê verdadeira), **Avatar**, **Goal** (resultado), **Interval** (prazo — só onde permitido por plataforma/lei), **Container** (Desafio, Blueprint, Sprint...); rima ou aliteração são opcionais; escreva vários nomes, rode 2-3 em paralelo e guarde o vencedor como controle. Quando fadigar, varie na ordem: criativo → texto → título/embrulho → duração → enhancer (grátis/desconto) → estrutura de monetização (último recurso).
+**Trade-offs**: curto vs. específico; claims quantificados com prazo exigem conformidade; nome de oferta é descartável, nome de marca não (ver ch86-88). (Ch 109, Hormozi)
+
+## Verificação Econômica da Oferta (CFA: CAC, LTGP, Payback)
+**When to use**: antes de escalar tráfego e ao desenhar a sequência front-end + upsell + continuidade.
+**How**: calcule **CAC real por canal** (anúncios + folha + software + comissões ÷ novos clientes); **LTGP** (GP × transações, ou GP mensal ÷ churn sobre a base original); **payback** (tempo para GP > CAC); **30D cash** (GP dos primeiros 30 dias por cliente). Metas: 30D GP > CAC (nível 2) e idealmente > 2x CAC (nível 3, o cliente financia o crescimento); LTGP:CAC saudável ≥ 3:1 (diretriz de outro volume do autor, ver `marketing-digital-growth`). Se o 30D cash não cobre o CAC, aumente a receita inicial (upsell, ticket, entrada) antes de aumentar o gasto.
+**Trade-offs**: as simulações exponenciais ignoram churn, capacidade e saturação; considere reembolso, taxa e chargeback no GP. (Ch 113, Hormozi)
+
+## Grade de Valor e Empilhamento de Ofertas
+**When to use**: para elevar o valor de vida do cliente e a capacidade de gastar em aquisição; ao revisar upsells/downsells.
+**How**: monte a **grade** (linhas: prospects/coortes; colunas: front-end, downsells, upsells, continuidade) e some a receita por prospect (LTV e 30D cash); desenhe o fluxo **Atrair → Caixa à vista → Upsell/Downsell → Continuidade → repetir**; para cada oferta nova, verifique **estágio certo, problema certo, jeito certo, momento certo**; adicione uma oferta por vez começando pela que acrescenta mais dinheiro por menor custo/complexidade; use o take rate do upsell como preditor de retenção.
+**Trade-offs**: cada oferta aumenta complexidade; downsells em cascata sem critério viram pressão indevida. (Ch 114-116, Hormozi; catálogo principal em `marketing-digital-growth` ch59-65)
+
+## Escolha da Oferta de Entrada: Premium, Grátis ou Desconto
+**When to use**: quando há pouca resposta à oferta ou ao entrar num mercado novo.
+**How**: premium (alto ticket, menor volume, exige copy/venda fortes e preço proporcional ao custo do lead); grátis (maior volume, menor custo por lead, regule a qualidade com atrito: qualificações, perguntas, passos, consumo forçado, anúncio longo); desconto (≥50%, parcial, em quatro formas de exibição; viabiliza venda em duas etapas e reduz não comparecimento). Em todos, a regra "crie fluxo, monetize, depois adicione atrito" e a razão-porquê verdadeira para a generosidade.
+**Trade-offs**: não misture estruturas (preço de grátis com custo de premium); descontar o núcleo treina o mercado. (Ch 112, 115, Hormozi)

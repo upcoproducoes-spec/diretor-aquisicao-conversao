@@ -1,6 +1,6 @@
 # Cheatsheet — estrategia-negocios
 
-## Decisão rápida: qual dos 7 livros aplicar?
+## Decisão rápida: qual dos 9 livros aplicar?
 | Situação | Use |
 |---|---|
 | Diagnóstico geral de força competitiva, terreno, timing de conflito | Sun Tzu (A Arte da Guerra) |
@@ -11,6 +11,7 @@
 | Entender QUAL escola de pensamento estratégico está implícita numa ferramenta/conselho | Mintzberg et al. (Strategy Safari) |
 | Análise estrutural de indústria, cadeia de valor, custo, diferenciação, defesa/ataque competitivo | Porter (Competitive Advantage) |
 | Posicionamento perceptual — como uma marca/empresa/pessoa ocupa espaço na MENTE do prospect, escolha de nome, armadilha de extensão de linha | Ries & Trout (Positioning) |
+| Engenharia da oferta — o que exatamente oferecer, a que preço, com que pacote, bônus, garantia, escassez/urgência reais e nome; economia da oferta (CAC/LTGP/payback) | Hormozi ($100M Offers + Lost Chapters), ch96-ch118 |
 
 ## Regras de ouro (decision rule: "Quando X, faça Y, porque Z")
 - Quando avaliar uma "estratégia" proposta → verifique se tem diagnóstico + política orientadora + ações coerentes (Kernel), porque sem os três é apenas lista de metas, não estratégia real.
@@ -32,6 +33,17 @@
 - Quando lançar um produto novo sob uma marca já estabelecida → aplique o teste da lista de compras e o teste do bartender antes de aprovar, porque a lógica interna quase sempre favorece a extensão de linha, mas a percepção do prospect quase sempre não.
 - Quando escolher um nome de produto/marca/empresa → leia-o em voz alta e teste se já comunica o benefício central sozinho, porque a mente processa nomes primeiro por som, e um nome que precisa de "explicação" já fracassou.
 
+- Quando o prospect compara sua oferta com a do concorrente mais barato → pare de discutir preço e reconstrua a oferta (Equação de Valor, Trim & Stack), porque a comparação por preço é sintoma de commoditização (Hormozi, ch97).
+- Quando uma boa oferta não vende → verifique primeiro o mercado (dor, poder de compra, alcance, crescimento), porque a ordem de importância é mercado > oferta > persuasão e mercado ruim trava tudo (Hormozi, ch98).
+- Quando quiser aumentar preço → aumente o valor percebido antes (resultado, probabilidade, tempo, esforço) e nunca precifique pela média do mercado, porque preço e valor precisam manter discrepância positiva (Hormozi, ch99-100).
+- Quando precisar fechar uma venda → adicione um bônus nomeado que responda à objeção em vez de dar desconto no núcleo, porque desconto ensina que o preço é negociável (Hormozi, ch107).
+- Quando criar a oferta → liste todos os problemas do prospect (nas quatro variáveis da Equação de Valor), transforme em soluções nomeadas, liste veículos de entrega e só então corte (Trim & Stack), porque um único problema não resolvido pode ser o motivo da não-compra (Hormozi, ch102-104).
+- Quando usar escassez ou urgência → exija um limite ou prazo realmente existente e aplicado (capacidade, turma, validade de bônus/preço), porque o falso destrói confiança e viola a regra ética do sistema (Hormozi ch105-106; `persuasao-gatilhos` ch52).
+- Quando desenhar garantia → use o formato "se não X em Y, então Z", escolha o tipo pelo ticket e pelo custo de entrega e faça a conta de vendas líquidas, porque garantia forte costuma elevar o resultado líquido mesmo com mais reembolsos, mas não salva produto ruim (Hormozi, ch108).
+- Quando nomear uma oferta ou renovar uma campanha cansada → use M-A-G-I-C (3-5 componentes) e varie na ordem criativo → copy → título → duração → enhancer → estrutura, porque renomear é barato e mudar a máquina é caro (Hormozi, ch109).
+- Quando for escalar tráfego → confirme que o lucro bruto de 30 dias cobre o CAC (idealmente 2x), porque assim o cliente financia o crescimento e o caixa deixa de ser o gargalo (Hormozi, ch113).
+- Quando houver base de clientes → analise o top 20% por valor e permanência e extraia 3-5 qualificadores, porque o avatar certo aumenta preço, retenção e conversão (Hormozi, ch111).
+
 ## Thresholds e defaults
 - Cinco Forças: nenhuma força isolada determina atratividade — sempre mapeie as cinco antes de concluir.
 - Teste de Rumelt para estratégia (4 critérios): Consistência, Consonância, Vantagem, Viabilidade — falhar em qualquer um invalida a estratégia proposta.
@@ -45,6 +57,16 @@
 - Seis Perguntas de Posicionamento (Ries & Trout): que posição já possui + que posição quer possuir + quem precisa superar + tem dinheiro suficiente + consegue manter disciplina de longo prazo + sua execução combina com a posição — responda as seis, em ordem, antes de qualquer execução.
 - Cinco Regras da Estrada para Nome da Casa vs. Nome Novo (Ries & Trout): volume esperado, concorrência, orçamento de propaganda, significância do produto, canal de distribuição — quanto mais critérios apontarem para "pequeno/commodity/vendido por representante", mais seguro usar o nome da casa.
 - Dez Escolas de Pensamento Estratégico (Mintzberg): 3 Prescritivas (Design, Planejamento, Posicionamento) + 6 Descritivas (Empreendedora, Cognitiva, Aprendizado, Poder, Cultural, Ambiental) + 1 Integradora (Configuração) — nenhuma escola isolada captura o processo completo de formação de estratégia.
+
+- Equação de Valor (Hormozi): Valor = (Dream Outcome × Probabilidade Percebida) ÷ (Atraso × Esforço e Sacrifício) — mexa primeiro no denominador.
+- Ordem de importância (Hormozi): Starving Crowd (mercado) > força da oferta > persuasão; quatro indicadores de mercado: dor, poder de compra, fácil de alcançar, em crescimento.
+- Três alavancas de crescimento (Hormozi): mais clientes, ticket maior, mais compras por cliente.
+- Descontos (Hormozi): evite 5-25% (só corroem margem); use ≥50% e sobre um componente da oferta, não sobre o núcleo.
+- CFA (Hormozi): nível 1 = GP de 30 dias < CAC; nível 2 = GP de 30 dias ≈ CAC; nível 3 = GP de 30 dias > 2x CAC (mínimo de "vida real" do autor).
+- Conta de garantia (Hormozi): vendas líquidas = vendas × (1 − taxa de reembolso); ex.: 130 vendas com 10% de reembolso (117 líquidas) vencem 100 vendas com 5% (95).
+- Fórmula de nome (Hormozi): M-A-G-I-C = Magnet (razão-porquê verdadeira), Avatar, Goal, Interval, Container; 3 a 5 componentes.
+- Escada de fadiga de oferta (Hormozi): criativo → texto do anúncio → título/embrulho → duração → enhancer (grátis/desconto) → estrutura de monetização.
+- Todos os números de resultado do autor (ex.: 22,4x, 36:1, 4.095 clientes) são autodeclarados ou ilustrativos: use-os como estrutura de simulação, nunca como previsão.
 
 ## Sinais de alerta (quando parar e reconsiderar)
 - Perceber que uma "estratégia" é apenas uma lista de metas/aspirações sem diagnóstico ou ação coerente → provavelmente é fluff (Bad Strategy), reformule usando o Kernel.
@@ -60,3 +82,12 @@
 - Perceber que um nome de produto/marca precisa ser "explicado" na propaganda para fazer sentido → o nome já fracassou; volte e escolha um nome que comunique sozinho.
 - Detectar pressão para lançar um produto novo usando o nome de uma marca-mãe forte sem passar pelas cinco regras da estrada → risco de armadilha de extensão de linha; aplique o teste da lista de compras antes de aprovar.
 - Perceber uma proposta de posicionamento "ampla demais para deixar alguém de fora" → sinal da armadilha do todo mundo (Rheingold); force uma escolha mais estreita e defensável.
+
+- Perceber que os prospects "comparam por preço" ou pedem desconto com frequência → sinal de commoditização; reconstrua valor e pacote antes de mexer em preço (ch97, ch99).
+- Notar que a oferta é boa mas o mercado encolhe, não tem dinheiro ou é difícil de alcançar → problema de mercado, não de oferta ou copy (ch98).
+- Ver um contador regressivo, "últimas vagas" ou bônus "que expira hoje" sem consequência real na data → escassez/urgência falsa; remova ou torne real (ch105-106; `persuasao-gatilhos` ch52).
+- Detectar valores atribuídos a bônus que o time não consegue justificar → valor inflado; reduza ao que é defensável (ch104, ch107).
+- Perceber garantia usada para cobrir produto ou time de vendas fraco, ou antigarantia com motivo inventado → pare e corrija a causa (ch108).
+- Notar CAC calculado só com gasto em anúncios ou LTV calculado sobre receita → números enganosos; refaça com CAC completo e lucro bruto (ch113).
+- Perceber crescimento de leads com queda de lucro após remover etapas de qualificação → qualidade sacrificada por volume (ch111).
+- Ver desconto vitalício, taxa de adesão ou cobrança recorrente sem clareza sobre perda no cancelamento → risco de prática enganosa e de chargeback (ch116).

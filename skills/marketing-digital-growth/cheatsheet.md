@@ -105,3 +105,66 @@ Pular qualquer etapa desta sequência é o padrão de falha mais citado, sob nom
 | Um cliente satisfeito repetiria isto a um amigo em uma frase memorável? | Investir em diferenciação antes de investir em alcance | Construir o Ativo de Permissão (ch40, ch46) para escalar via sneezers |
 
 Fonte: ch36, ch38, ch40 (Purple Cow).
+
+
+## Core Four — Qual Método de Lead Usar Agora? (Hormozi)
+
+| Situação | Método do Core Four | Por quê | Capítulo |
+|---|---|---|---|
+| Zero clientes, zero caixa | Warm outreach (~100 contatos/dia, primeiros 5 grátis) | Sem custo de mídia; gera depoimentos e indicações | ch51 |
+| Mais tempo que dinheiro | Conteúdo grátis (hook-retain-reward) | Audiência é o ativo que compõe | ch52 |
+| Mais dinheiro/equipe que tempo, quer previsibilidade | Cold outreach (lista + personalização + big fast value) | Insumo → resultado confiável e privado | ch53 |
+| Já tem tracking, caixa de teste e magnet/oferta provados | Mídia paga | Alcance garantido; exige LTGP:CAC ≥ 3:1 | ch54 |
+| Canal que "funciona um pouco" | More → Better → New | Falta volume ou gargalo, não canal | ch55 |
+| Esgotou o que uma pessoa faz sozinha | Lead getters (indicação, equipe, agência, afiliados) | Alavancagem | ch56-ch57 |
+
+Todas as taxas de resposta e retorno de Hormozi são relatos do autor; use como hipótese a validar, nunca como promessa a cliente.
+
+## Diagnóstico — O Problema é Anúncio, Modelo de Negócio ou Vendas?
+
+| Sintoma | Pergunta-chave | Se "sim" → | Se "não" → |
+|---|---|---|---|
+| CAC alto | Os leads engajados têm o problema *e* o dinheiro? | Qualificados mas não compram = vendas (comparecimento, fechamento) | Leads errados = publicidade/segmentação |
+| CAC dentro de ~3x da média do setor | O LTGP:CAC é < 3:1? | Foque o modelo de monetização (upsell, downsell, continuidade) | Escale com gasto reverso da meta de clientes |
+| CAC > 3x a média do setor | A mídia está medindo o funil completo? | Otimize criativo, oferta, gargalo | Instale tracking antes de qualquer mudança |
+| Lucro positivo mas sem caixa para escalar | O lucro bruto de 30 dias cobre CAC + entrega? | Já pode escalar (CFA) | Adicione upsell imediato/downsell/prepago |
+
+Fonte: ch54, ch59 (Hormozi). A regra permanente da skill continua valendo: isole a etapa do funil antes de agir.
+
+## Funil de Monetização — Money Model (Attraction → Upsell → Downsell → Continuity)
+
+| Etapa | Oferta | Quando usar | Métrica de controle | Cuidado ético/legal | Capítulo |
+|---|---|---|---|---|---|
+| Atração | Win Your Money Back | Resultado exige esforço contínuo do cliente | Reembolso < 5%, uso do crédito | Condições claras e rastreáveis | ch60 |
+| Atração | Giveaway | Ticket alto, quer leads qualificados | Leads/ligações em 7 dias | Ganhador real; lei de sorteios | ch60 |
+| Atração | Decoy | Existe versão premium e versão enxuta | % que escolhe a premium | Decoy entrega valor real | ch60 |
+| Atração | Buy X Get Y Free | Baixa recompra ou serviço por tempo | Caixa antecipado vs. custo de entrega | Preço de tabela *real* | ch60 |
+| Atração | Pay Less Now / Pay More Later | Digital/serviço curto | Cancelamento < 10% | Termos antes do cartão | ch60 |
+| Upsell | Classic / Menu | Logo após o problema surgir | Taxa de aceite por upsell | Só vender o que resolve problema real | ch61 |
+| Upsell | Anchor | Quando há premium real a vender | % premium e lucro incremental | Âncora real, sem preço fictício | ch62 |
+| Upsell | Rollover | Clientes inativos/insatisfeitos | Preço ≥ 4x o crédito | Dados e consentimento (LGPD) | ch62 |
+| Downsell | Payment Plan | "Caro à vista" | % à vista mantido | Capacidade de pagamento | ch63 |
+| Downsell | Trial With Penalty | Recorrente com trabalho do cliente | Cumprimento dos termos | Divulgar penalidade antes do cartão | ch63 |
+| Downsell | Feature Downsell | Quer pagar menos no total | Fechamento total vs. preço cheio | Nunca "a mesma coisa por menos" | ch63 |
+| Continuidade | Bonus / Discount / Waived Fee | Depois dos 30 dias de caixa protegido | Churn por cadência, cancelamentos | Cancelamento fácil, termos claros | ch64 |
+
+Regra de ouro (ch59, ch65): construa um estágio de cada vez; caixa de 30 dias ≥ CAC + custo de entrega antes de escalar a mídia.
+
+## Benchmarks e Heurísticas Citados por Hormozi (relatos do autor, não universais)
+
+| Métrica/Heurística | Valor de referência | Fonte |
+|---|---|---|
+| LTGP:CAC para escalar | ≥ 3:1 (observação empírica em portfólio) | ch54 |
+| Diagnóstico por média do setor | CAC ≤ ~3x a média → foco em LTGP | ch54 |
+| Orçamento de teste de anúncio | 2x o lucro bruto de 30 dias por cliente; desligar sem leads em 1x | ch54 |
+| Orçamento de escala | Meta de clientes x CAC + ~20% de folga | ch54 |
+| Warm outreach | ~1 em 5 responde; ~1 em 5 aceita o grátis; ~1 cliente por 100 | ch51 |
+| Cold e-mail | ~3% da lista vira lead engajado (30% abrem x 10% respondem) | ch53 |
+| Rule of 100 | 100 ações/dia por 100 dias | ch55 |
+| Give:ask | TV ~3,5:1; Facebook ~4:1; plataformas em crescimento muito mais | ch52 |
+| Churn por cadência (Profitwell, via Hormozi) | Mensal 10,7% · Trimestral 5% · Anual 2% ao mês | ch63 |
+| Reembolso para usar Win Your Money Back | < 5% | ch60 |
+| Cancelamento em Pay Less Now | > 10% = promessa/condições/preço errados | ch60 |
+| Waived Fee | Taxa 3-5x a mensalidade; > 5% cancelando cedo = revisar produto | ch64 |
+| Preço do avulso vs. assinatura para ~70% escolherem assinatura | ~2x | ch64 |
+| Indicação saudável | Indicações > churn; meta ≥ 25% dos clientes por indicação | ch56, ch58 |
