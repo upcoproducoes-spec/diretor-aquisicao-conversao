@@ -122,3 +122,33 @@ Técnicas de growth e funil formatadas para aplicação direta. Cada padrão ind
 **When to use**: Quando já existe oferta com economia provada e se deseja ampliar a distribuição por parceiros com audiência quente.
 **How**: Defina o CAC máximo permitido (ex.: 1/3 do lucro bruto para meta 3:1); pague em três níveis (25% por cumprir termos, 50% por ativar, 100% por manter desempenho); qualifique afiliados por investimento (compra ou certificação a 10-20% do ganho anual médio); ative com launch Whisper-Tease-Shout e material pronto; integre via lead magnet dado de brinde ou vendido (ch57). Comece com 10-20 parceiros.
 **Trade-offs**: Alta complexidade operacional (tecnologia de tracking, pagamentos pontuais, suporte); exige divulgação clara da relação comercial ao público e promessas de renda não enganosas.
+
+## Escada de Valor Completa antes de Mexer em Tráfego (Brunson)
+**When to use**: Quando o CAC não fecha, o tráfego caiu ou o negócio tem um único produto/serviço.
+**How**: Desenhe os eixos valor x preço; posicione tudo o que você vende (isca, front-end, meio, back-end, continuidade); crie o que falta (um front-end atraente e um degrau acima do que já vende); calcule o valor por cliente ao longo da escada para saber quanto pode gastar em mídia.
+**Trade-offs**: Cada degrau precisa entregar valor real (em saúde, correspondência com indicação clínica); mais produtos aumentam a complexidade operacional. Ver ch66, ch67.
+
+## Ponte por Temperatura de Tráfego (Brunson)
+**When to use**: Ao direcionar tráfego a uma landing page ou oferta.
+**How**: Classifique a fonte (quente/morna/fria); quente: e-mail curto; morno: endosso de quem eles confiam; frio: página-ponte, artigo, quiz ou vídeo no idioma do cliente (sem jargão) antes da oferta; uma landing por temperatura quando possível.
+**Trade-offs**: Pontes longas custam produção; sites ou "notícias" falsas como ponte são antiéticos e arriscados. Ver ch72, ch73.
+
+## Qualificar em Camadas (inscrito, comprador, hiperativo) (Brunson)
+**When to use**: Em qualquer funil de entrada de baixo ticket.
+**How**: Capture e-mail → imediatamente ofereça algo barato (free-plus-shipping, SLO ou tripwire) → no mesmo checkout, bump → logo depois, OTO e downsell com plano de pagamento; trate cada lista (inscritos, compradores, hiperativos) de modo diferente.
+**Trade-offs**: Free-plus-shipping exige conta de frete, custo e devoluções; "grátis" deve informar condições (CDC); teste um bloco alternativo se os números não fecharem. Ver ch73-ch75.
+
+## Sequência de Boas-vindas Soap Opera + Seinfeld (Brunson)
+**When to use**: Depois da captura, para criar vínculo e vender a lista.
+**How**: 5 e-mails em 5 dias (palco, alto drama, epifania, benefícios ocultos, urgência real), cada um abrindo um loop; depois, e-mails curtos de entretenimento com uma história por e-mail sempre ligada a uma oferta; use o Personagem Atraente com backstory e falhas.
+**Trade-offs**: Frequência diária pode gerar descadastros e exige consentimento claro; urgência apenas se real. Ver ch69, ch70.
+
+## Webinar Perfeito com Pilha (Brunson)
+**When to use**: Para vender ofertas de US$297-2.997 a públicos mornos ou frios por apresentação.
+**How**: Declare o Grande Dominó; escreva a história de origem; defina 3 segredos que quebrem as falsas crenças (veículo/interna/externa); apresente a oferta empilhando os 6 elementos com valor justificado; use fechamentos legítimos; rode ao vivo semanalmente e ajuste pelas perguntas do chat.
+**Trade-offs**: Os fechamentos de pressão financeira, vergonha ou estatística inventada são rejeitados; webinar "automatizado" não pode fingir ser ao vivo. Ver ch81-ch87.
+
+## Dream 100 (Brunson)
+**When to use**: Para gerar tráfego previsível a partir de relacionamento com quem já tem a atenção do seu público.
+**How**: Liste 25 donos de lista, 25 blogueiros, 25 podcasters, 25 influenciadores; siga, compre, entreviste, ajude com o projeto mais importante deles; só depois peça promoção, anuncie para os seguidores deles ou integre ofertas.
+**Trade-offs**: Demora meses e exige valor real ao parceiro; divulgue parcerias como publicidade quando for o caso. Ver ch88.

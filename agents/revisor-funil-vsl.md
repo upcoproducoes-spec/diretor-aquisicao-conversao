@@ -24,6 +24,8 @@ Leia o Briefing de Revisão. Se o projeto **não** envolve funil de VSL, funil p
 - **Criativos**: rotina de teste, critérios para pausar e escalar, diversidade de ângulos.
 - **Escala**: em qual das fases de escala o projeto está e se as regras da fase estão sendo respeitadas.
 - **Métrica mestre**: a decisão é tomada por custo por finalização de compra/CPA e ticket médio, ou por ROAS/CTR isolados?
+- **Leitura de criativos e campanhas (atualização do evento de 4 dias)**: a decisão olha frequência e gasto (funil de criativos) além do ROAS? Há critério 7-3-1 (7 dias, 3 dias, hoje) antes de desligar? Criativos validados sobem à escala mantendo o ID? Evita desligar à noite e pausar criativo isolado? O CPA do limite de custo vem do ticket médio do funil?
+- **Ascensão e pitch de evento (quando houver)**: a escada de produtos tem dono e capacidade de entrega? Cashback, sinal, garantia e escassez estão por escrito e são verdadeiros? (Ver `copywriting-publicidade` ch207-ch214.)
 
 ## Formato de saída (obrigatório)
 ```

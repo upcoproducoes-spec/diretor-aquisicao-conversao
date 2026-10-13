@@ -1,6 +1,6 @@
 # Glossário — marketing-digital-growth
 
-Termos e frameworks centrais dos 8 livros-fonte (Livros 1-7, incluindo Hormozi), em ordem alfabética. Cada entrada indica o(s) capítulo(s) onde o conceito é desenvolvido em profundidade.
+Termos e frameworks centrais dos 10 livros-fonte (Livros 1-9, incluindo Hormozi e Brunson), em ordem alfabética. Cada entrada indica o(s) capítulo(s) onde o conceito é desenvolvido em profundidade.
 
 **3D (Document, Demonstrate, Duplicate)** — Modelo de treinamento de Hormozi: documentar a tarefa num checklist, demonstrar passo a passo e fazer o funcionário duplicar enquanto você observa; se ele erra, corrija o checklist, não a pessoa. ch56.
 
@@ -271,3 +271,54 @@ Termos e frameworks centrais dos 8 livros-fonte (Livros 1-7, incluindo Hormozi),
 
 **Winback** — Campanha de reengajamento de ex-clientes (6+ meses) com crédito de rollover; distinto de recuperação de carrinho (decisão já iniciada). ch62.
 
+**Ambiente de Venda (Selling Environment) (Brunson)** — canal em que a oferta é apresentada; para alto ticket, muda-se de página para telefone, evento ou apresentação ao vivo. Ch72, ch77.
+
+**Aplicação (Application Funnel) (Brunson)** — funil de alto ticket em 3 passos: estudo de caso, formulário que pré-qualifica e pré-enquadra, e página de "tarefa" com vídeos; só depois a conversa de vendas. Ch77.
+
+**Attractive Character / Personagem Atraente (Brunson)** — persona com backstory, parábolas, falhas e polaridade; 4 identidades (líder, aventureiro, repórter, herói relutante) e 6 storylines. Ch69.
+
+**Big Domino / Grande Dominó (Brunson)** — a única crença que, se aceita, torna as demais objeções irrelevantes; declarada como "se eu conseguir fazer acreditarem que [nova oportunidade] é a chave para [desejo] e só alcançável pelo [veículo]...". Ch81.
+
+**Bump (Order Form Bump) (Brunson)** — oferta de duas linhas com caixa de seleção no formulário de pedido, após o cartão e antes do botão. Ch73, ch74.
+
+**Campanha Ask (Brunson)** — pergunta única ("qual é a sua pergunta nº 1 sobre ___?") a ~100 pessoas do mercado; as 8-10 perguntas mais comuns viram módulos e bullets de venda. Ch80.
+
+**Congregação (Brunson)** — grupo que já se reúne em torno de um interesse ou crença (fórum, grupo, newsletter); é onde se encontra o tráfego. Ch68.
+
+**Dream 100 (Brunson, via Chet Holmes)** — lista de 100 detentores da atenção do público (donos de lista, blogueiros, podcasters, influenciadores) com quem se constrói relacionamento antes de pedir promoção. Ch88.
+
+**Enquirer Interrupt (Brunson)** — interromper o padrão com imagem estranha e manchete curta (estilo tabloide) para tirar o público da congregação. Ch68.
+
+**Epiphany Bridge / Ponte da Epifania (Brunson)** — história que leva o ouvinte pela experiência emocional que levou o autor a acreditar; script de 8 perguntas (backstory, desejos externo e interno, muro, epifania, plano, conflito, conquista, transformação). Ch81, ch82.
+
+**Free-Plus-Shipping (Brunson)** — oferta de produto físico grátis com o cliente pagando o frete; qualifica o comprador e viabiliza upsell de um clique. Ch73, ch74, ch75.
+
+**Hiperativo (Hyperactive Buyer) (Brunson)** — comprador em dor que adquire mais de uma coisa de uma vez; identificado por upsells e downsells logo após a primeira compra. Ch72.
+
+**Invisible Funnel Webinar (Brunson, de Daegan Smith)** — webinar premium de 3-4 h cobrado só se o participante gostar (cartão registrado, sem cobrança). Ch76.
+
+**Magic Bullet (Brunson)** — resultado tangível prometido num prazo curto ("obtenha ___ em ___ ou não pague"). Ch76.
+
+**Nova Oportunidade x Melhoria (Brunson)** — oferecer um veículo novo (e não uma versão melhorada do existente) evita admitir erro, dor de desconexão e preço de commodity. Ch79.
+
+**Opportunity Switch / Stack (Brunson)** — troca do veículo atual do cliente pelo seu; depois, degraus dentro da nova oportunidade. Ch79.
+
+**Perfect Webinar (Brunson)** — apresentação em 4 partes (introdução, A Única Coisa, Os 3 Segredos, A Pilha) com uma só crença-alvo. Ch76, ch84-ch86.
+
+**Pré-frame (Brunson)** — estado mental com que alguém entra na próxima etapa; cada etapa do funil é o pré-frame da seguinte. Ch72.
+
+**Self-Liquidating Offer (SLO) (Brunson)** — produto de US$27-97 cujo objetivo é pagar o custo do tráfego, tornando os upsells lucro. Ch73, ch75, ch87.
+
+**Soap Opera Sequence / Seinfeld Emails (Brunson)** — 5 e-mails de boas-vindas com loops abertos; depois e-mails diários de entretenimento sempre ligados a uma oferta. Ch70.
+
+**Squeeze Page (Brunson)** — página de captura com uma única ação e sem distração. Ch68, ch73.
+
+**Stack (Pilha) (Brunson, via Armand Morin)** — acúmulo da oferta item a item num slide, só então o preço; valor total ≈ 10x o preço. Ch84, ch86.
+
+**Status (Brunson, via Perry Belcher)** — "a única coisa que faz as pessoas se moverem ou não": a pergunta subconsciente "isto aumenta ou diminui meu status?". Ch79.
+
+**Temperatura do Tráfego (Brunson)** — quente (conhece você), morno (conhece quem conhece você), frio (não conhece); define a ponte e a linguagem. Ch72.
+
+**Value Ladder / Escada de Valor (Brunson)** — sequência de produtos de valor e preço crescentes (isca, front-end, meio, back-end, continuidade). Ch67.
+
+**Zona Prolífica (Brunson)** — posicionamento de ideias entre o mainstream (sem dinheiro) e a "zona maluca" (sem público). Ch78.

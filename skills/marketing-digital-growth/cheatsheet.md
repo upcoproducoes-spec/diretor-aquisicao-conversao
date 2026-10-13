@@ -168,3 +168,21 @@ Regra de ouro (ch59, ch65): construa um estágio de cada vez; caixa de 30 dias �
 | Waived Fee | Taxa 3-5x a mensalidade; > 5% cancelando cedo = revisar produto | ch64 |
 | Preço do avulso vs. assinatura para ~70% escolherem assinatura | ~2x | ch64 |
 | Indicação saudável | Indicações > churn; meta ≥ 25% dos clientes por indicação | ch56, ch58 |
+
+
+## Funis e Venda por Apresentação (Brunson) — Decisões Rápidas
+
+| Situação | Ferramenta | Capítulo |
+|---|---|---|
+| CAC não fecha | Aumentar o valor por cliente (escada completa), antes de mexer em tráfego | ch66, ch67 |
+| Tráfego frio converte mal | Ponte de pré-frame na linguagem do cliente; oferta de entrada barata | ch72, ch73 |
+| Tráfego morno/quente | Webinar, funil de lançamento de 4 vídeos ou e-mail | ch76, ch88 |
+| Quero vender alto ticket | Aplicação + homework + conversa de qualificação (4 perguntas), sem pressão | ch77, ch87 |
+| Lista não abre/clica/compra | Personagem Atraente e Soap Opera + Seinfeld | ch69, ch70 |
+| Objeções travam a venda | Grande Dominó, 3 falsas crenças (veículo/interna/externa), histórias | ch81-ch83 |
+| Oferta parece cara | Pilha com valor honesto, garantia, plano de pagamento | ch84, ch86 |
+| Preciso de tráfego sem pagar sempre | Dream 100 e tráfego próprio (lista) | ch88, ch68 |
+| Mercado saturado | Nova oportunidade (novo nicho), não melhoria | ch78, ch79 |
+| Começar do zero | Grupo beta gratuito + Campanha Ask + masterclass de 6 semanas | ch80 |
+
+**Metas de referência do autor (a validar no seu mercado, EUA 2013-2017)**: custo por inscrito de webinar US$3-5; comparecimento ~25% (ao vivo) ; fechamento 5-15%; valor médio por nome de lista ≈ US$1/mês; bump com adesão de 30-40%; downsell com plano de pagamento recupera até ~20% dos que recusam o upsell.

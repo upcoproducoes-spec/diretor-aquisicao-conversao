@@ -360,6 +360,40 @@ lançamento (CPL1 → CPL2 → CPL3 → preço no final) aplicada a qualquer pá
   simplesmente batendo no teto natural do nicho dele — nesse caso, a alavanca é ticket médio/LTV
   (ascensões, webinars, recuperação), não mais investimento bruto de tráfego.
 
+## Atualização: evento pago de 4 dias (Dia 1 funil, Dia 2 criativos, Dia 3 copy, Dia 4 tráfego)
+
+*Proveniência:* quatro transcrições de legenda automática do evento de 4 dias (adicionadas em 2026-10-09; o arquivo do Dia 4 começa no meio de uma frase). Tudo aqui é afirmação do professor, **não verificado**. Complementa (não substitui) as seções acima; onde diverge, as duas versões ficam registradas. A análise do evento como lançamento está em `copywriting-publicidade` ch211-ch214; a copy ensinada pelo Mateus, em ch215-ch216; os criativos da Prisciane, em ch217. **Os vídeos do evento (adicionados em 2026-10-12) mostram que o evento se chama "Imersão 100K/Dia"; o curso vendido no Dia 4 chama-se "Funil 100K/Dia" (a legenda grafou "funil sem cadia") e a análise visual (slides, provas, área de membros) está em ch218.** Os slides do evento trazem as faixas **"em torno de 15%" para o upsell e "5 a 10%" para o downsell** (a fala citou 10-20% e 5-15%), "funil de recuperação de upsell: até 30%" e o **ticket médio de R$778** do caso com webinários empilhados.
+
+### Funil e precificação (Dia 1)
+- **Mix de pagamento do front R$297**: ~60-70% cartão e ~30% Pix; só quem paga no cartão avança no upsell com *one click buy*. **Hack do Pix**: abaixo do upsell, um botão "comprei no Pix e quero parcelar o upsell no cartão" leva a um checkout alternativo.
+- **Ticket médio imediato alvo: ≥ R$400** (front + upsell + downsell); com **webinários empilhados** pode passar de R$700 e chegar perto de R$1.000. Caso narrado: R$297 → 381 → 443 → 548 → 628 → 778 (upsell de R$597 com 14% + quatro webinários de 6-9% cada).
+- **Faixas informadas**: upsell 1 (R$597/697) **10-20%**; downsell (~metade do preço) **5-15%** (o "mesmo produto com metade do preço e metade do acesso" rende ~5-8%). *Divergência registrada:* a seção de upsell acima fala em 15% e 5-10%; use as faixas como intervalo e meça.
+- **Testes do upsell/downsell, em ordem**: preço; página aberta ou fechada; botão *one click* ou página inteira; vídeo de upsell (~8 min); formato/ângulo; **produto por último**.
+- **Webinários gravados**: recuperação de upsell **diária**; produtos mais caros **semanal ou quinzenal**; **o tempo de tela acompanha o preço** (R$697 → ~1 h; R$2.000 → 2-2,5 h).
+- **Página**: a headline vende o **play**; a subheadline quebra objeções, mas **cuidado para não criar objeções que a pessoa não tinha** (ex.: "você não tem tempo? só 2 horas por dia"); o CTA "**acesso imediato e vitalício**" foi validado por A/B.
+- **VSL**: 20-25 min (há de 40); **PIT aos ~19-20 min, com ~5 min depois**; ~25-30% chega ao preço; **72 h** de veiculação mostram se escala (*divergência:* a seção acima diz 48 h). Metas: play rate ≥60%, 1º minuto ≥60% (trocar o primeiro minuto quando cair abaixo de ~65%), retenção no PIT ≥30%, queda forte no preço; quatro leads em A/B para a primeira VSL.
+- **Checkout limpo** no início; **order bump** só se medir quatro coisas (conversão do checkout, do upsell, ticket médio e reembolso); **pop-up de pré-checkout** só para high ticket.
+- **Front em outras faixas**: R$197 (nichos de renda mais baixa), R$397-497 e até R$697 (nichos como médico) são possíveis; renda extra é a persona de menor renda e ainda aceita R$297.
+- **Prazo e custo para entrar no ar**: ~15 dias; edição ~R$1.500 + verba de tráfego. Plataformas citadas: Hotmart (preferida à Kiwify por conversão e reembolso), VTurb, VK Metrics.
+- **Lucro no front**: quem começa precisa de lucro no front; quem escala pesado pode aceitar prejuízo no front e até no upsell se a ascensão paga. **Recorrência mensal** vai no upsell, não no front.
+- **Melhor época**: 1º semestre (janeiro); exceção: Black Friday.
+
+### Tráfego e escala (Dia 4)
+- **Só se testa criativo.** Público de interesse e semelhante estão obsoletos; públicos personalizados só em casos específicos. *Divergência registrada:* a seção "Sem remarketing manual" acima diz que a metodologia não usa remarketing separado; neste evento ele relata **um** remarketing com público personalizado (quem caiu na VSL e não comprou) com página aberta que vendeu 150+ vezes; trate como exceção.
+- **Estrutura de teste**: **1×1** (CBO, um criativo por conjunto, **valor mínimo por conjunto** e orçamento da campanha ≥ o **dobro** da soma dos mínimos; mais assertivo e mais caro) ou **1×N** (um conjunto com todos; mais barato e rápido, menos assertivo). Ele **usa mais a 1×N** pela velocidade e cria **campanhas de repescagem** para criativos que não gastaram.
+- **Funil de criativos**: o Meta trata os criativos como um funil; olhe **frequência e valor gasto** junto com o ROAS. Frequência alta (≈3) = criativo de **remarketing**; gasto alto e frequência baixa (≈1,2) = **público frio**. **Nunca pause criativo isolado** por CPA alto (só como último passo antes de matar a campanha).
+- **Criativo validado**: ROAS ≥2 e **≥10 vendas** no teste; na escala, ROAS ≈2 (1,9 serve). Subir para a escala **mantendo o ID da publicação** (post ID) para levar a prova social acumulada; só validados vão; a campanha de teste **continua** rodando.
+- **Etapas**: (1) teste; (2) **escala 1** (Advantage/CBO com todos os validados); (3) **escala 2 em limite de custo** (média, não *bid cap*, que é trava), com orçamento agressivo (R$10-40 mil/dia); (4) **manutenção** (contas têm estabilidade; não passe do orçamento em que a campanha costuma morrer); (5) **fadiga** (reduzir 20-50%, jogar em novo funil de criativos ou deixar morrer).
+- **CPA do limite de custo**: baseado no **ticket médio do funil, não no front**; na fala, algo entre ~30% e 50% do ticket médio (a legenda é ambígua; exemplos: ticket médio R$850 com CPA R$300-400; front R$297 com CPA R$400).
+- **Regras operacionais**: teste ≥24 h (de preferência 48 h); **nunca desligar à noite** (desligue de manhã, não nas primeiras horas); aumento de orçamento **uma vez por dia, no máximo 20%**.
+- **Regra 7-3-1**: olhar **7 dias** (período longo), **3 dias** (tendência) e **hoje**; nunca desligar por um único dia. Caso: campanha com ROAS 3,7 → 1,7 → 0,9 → 0,4 que depois voltou a 2-3 e rendeu semanas de lucro.
+- **Métrica-guia: custo de *initiate checkout*** em ~**10-20% do ticket** do produto (ex.: ~R$29-30 para R$297); o ROAS engana. Não existe média de mercado; existe média de nicho.
+- **Exclusão de compradores**: é decisão (economiza verba x acumula prova social no criativo). **Rodar dois funis ao mesmo tempo é exceção**; valide um, depois escale.
+- **Estrutura prática nomeada**: **TC** (teste de criativo), **ESC** (escala 1), **LC** (limite de custo).
+
+### Criativos (Dia 2) e copy (Dia 3)
+Ver `copywriting-publicidade`: **ch217** (método VIRAL, formato x copy, espionagem de formatos, lateralização, call semanal) e **ch215-ch216** (LHTCO, lead nativa, tese em 3 mecanismos, bloco de oferta com bônus e garantia pós-PIT).
+
 ## Como aplicar esta skill em diferentes pedidos do usuário
 
 - **Pergunta pontual** ("que ticket usar no downsell?", "por que meu CPA não escala?"): responda

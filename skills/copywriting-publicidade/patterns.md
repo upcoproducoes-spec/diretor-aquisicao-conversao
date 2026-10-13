@@ -317,3 +317,54 @@ Técnicas de copywriting e publicidade formatadas para aplicação direta. Cada 
 **How**: Escolha o mais fácil de executar: **resumo** (essência dos módulos críticos, congruente com o produto caro), **filé** (um módulo que o público pede separadamente vira produto autônomo) ou **antídoto** (solução direta, ex. protocolo de 14 dias, para a maior dor pela qual o mercado já paga). Defina em seguida a esteira de ascensão para o produto principal. Fonte: ch171.
 **Trade-offs**: A faixa de preço é opinião de campo do professor (coincide com R$ 297 de `funil-vsl-thiago-roas`); teste com sua margem e CAC. Para treinamentos clínicos de alto valor, avalie aquecimento antes do produto caro em vez de empurrá-lo ao frio.
 
+## Anúncio com Chave e Custo por Cliente (Hopkins/Caples)
+**When to use**: Antes de rodar qualquer campanha de resposta direta, em qualquer canal (cupom, telefone, WhatsApp, anúncio de pesquisa, e-mail).
+**How**: Dê um código único a cada peça (URL com UTM, telefone ou WhatsApp distinto, "Dept." no endereço); mantenha uma ficha por peça (headline, canal, data, custo, respostas, vendas); calcule **custo por cliente** (não só por lead) e ordene da melhor à pior; pare de gastar nos fracos e repita o campeão.
+**Trade-offs**: Exige disciplina de registro; em canais sem rastreio direto (rádio, boca a boca) use códigos de oferta e perguntas de origem. Ver ch181, ch189, ch199, ch204.
+
+## Split-Run com Controle (Caples)
+**When to use**: Quando há várias headlines/apelos candidatos e é preciso escolher rápido e com precisão.
+**How**: Escolha um controle (seu melhor anúncio); rode cada candidato contra ele, na mesma tiragem, dia, posição e público (A/B nativo nas plataformas); compare por % de diferença; promova o vencedor a novo controle; repita (eliminatória). Mude **uma** variável por vez.
+**Trade-offs**: Exige volume mínimo (≥100 respostas por variante); o desgaste afeta ambos igualmente, mas confirme repetindo um par no fim da série. Ver ch190, ch204, ch205.
+
+## Teste de Apelos antes da Execução (Caples)
+**When to use**: Antes de investir em criação (vídeo, página, VSL) de um produto ou público novos.
+**How**: Liste 5-10 apelos (dinheiro, tempo, status, vergonha, saúde, segurança, pechincha); escreva uma headline simples para cada; teste em anúncios pequenos com oferta escondida ou mesma oferta; escolha o vencedor e repita o apelo em todos os formatos; só então produza o ativo caro.
+**Trade-offs**: Teste de opinião erra (ver ch204): prefira resposta real; apelos de medo ou promessa exigem limites éticos e legais. Ver ch193, ch203.
+
+## Headline: Interesse Próprio + Notícia + Clareza (Caples)
+**When to use**: Para toda headline de anúncio, e-mail (assunto), página ou VSL.
+**How**: Escreva 25 versões; pelo menos uma por fórmula (Anunciando/Novo/Agora, "Como...", preço/oferta, teste, "Não compre...", dirigida a um público); cada uma deve prometer um benefício específico, selecionar o público e ser entendida num relance; mostre a alguém de fora; teste as 3 melhores.
+**Trade-offs**: Só curiosidade falha; "esperta" engana; promessa de "rápido e fácil" sem credibilidade perde força. Ver ch191, ch192, ch203.
+
+## Amostra, Teste ou Serviço em vez de "Compre" (Hopkins)
+**When to use**: Para tráfego frio e produtos que pedem prova.
+**How**: Ofereça informação útil, amostra, período de teste ou demonstração a quem demonstrou interesse **depois** de contar sua história; use o canal mais simples para o cliente; combine com garantia/"pague depois" quando o risco for o freio principal.
+**Trade-offs**: Amostra distribuída a esmo não paga; "grátis" sem condições claras fere o CDC. Ver ch182, ch184, ch187.
+
+## Anúncio Pequeno e Classificado de Resposta (Caples)
+**When to use**: Produtos de nicho com intenção imediata (calos, contabilidade, empréstimos) e verbas pequenas; equivalentes digitais: anúncio de pesquisa e texto curto.
+**How**: Headline de uma palavra que seleciona o público; linguagem telegráfica; oferta clara ("Livreto grátis"); chave; rode com frequência em várias mídias; "ferva" um anúncio grande até o essencial.
+**Trade-offs**: Não gera volume rápido nem permite imagem apetitosa ou técnica editorial. Ver ch202.
+
+
+## Imersão Paga de 2 Dias: Entregáveis, Pré-Pitch e Oferta (Filemon, análise de lançamento)
+**When to use**: Produto de entrada vendido por tráfego pago que precisa provar um método em poucas horas e converter parte do público num produto de implementação/acompanhamento (serviços de agência, consultoria, formação).
+**How**: (1) Promessa temporal e mensurável; (2) 5-7 entregáveis, um a cada 30-45 min, com demonstração em caso fictício contínuo, exercício e checagem no chat; (3) teaser leve da oferta no começo do Dia 1; (4) no fim do Dia 2, pré-pitch (gargalo, crenças com dados verificáveis, custo de não mudar, caminho, decisão); (5) oferta com o que está incluso, preço único, bônus reais, garantia por escrito e prazo/vagas verdadeiros; (6) follow-up em 24-72 h e medição por hora de presença, conclusão de entregáveis e taxa de compra.
+**Trade-offs**: Exige produto real e capacidade de entrega; depoimentos e números de terceiros precisam de verificação; escassez falsa, preço de referência inflado e promessa absoluta de resultado violam as regras do sistema. Ver ch207-ch210; comparar com Walker (growth ch30-ch35) e Brunson (growth ch83-ch88).
+
+
+## Pitch Duplo com Cashback de Upgrade (Roas, análise de lançamento)
+**When to use**: Evento ou lançamento com um produto de ticket alto e público que hesita por preço ou momento.
+**How**: (1) Dia A: pitch do produto principal (curto, apoiado em prova acumulada), com sinal de entrada e conversa comercial; bônus de velocidade real. (2) Dia B (24 h depois): pitch para quem não entrou, com produto menor (curso gravado, imersões, calls) que **credita 100% se o cliente subir** em um prazo definido; prazo real de encerramento. (3) FAQ ao vivo após cada pitch. (4) Políticas de reembolso e cashback por escrito.
+**Trade-offs**: Exige equipe comercial e de entrega; o cashback sem condições vira disputa; mudar a oferta ao vivo sem registrar gera risco. Ver ch213-ch214.
+
+## Lead Nativa com Quatro Versões em A/B (Mateus)
+**When to use**: Primeira VSL ou VSL com queda forte no primeiro minuto.
+**How**: Escreva a lead por último; produza quatro versões (25% do tráfego cada); use uma das três formas (modelar estrutura invisível, expandir anúncio validado, modelar o começo de um vídeo de YouTube); grave a lead em formato de conteúdo e o corpo em formato neutro; depoimentos na lead sem citar curso ou aluno; troque só o primeiro minuto quando a retenção ficar abaixo de ~65%.
+**Trade-offs**: A lead nativa só é ética se o vídeo entregar valor real e a oferta for transparente; modelar exige originalidade. Ver ch215.
+
+## Espionagem de Formatos e Lateralização (Prisciane)
+**When to use**: Time de criativos que precisa de volume e novidade sem copiar concorrente.
+**How**: Conta nova de Instagram que segue criadores globais; salvar formatos que sua equipe consegue gravar; casar uma narrativa validada com um formato novo; validar a copy com IA/edição antes de gravar; analisar o vencedor por microfunil (gancho, corpo, CTA) e lateralizar cada bloco; call semanal de criativos.
+**Trade-offs**: Voz e imagem por IA exigem consentimento e aviso; promessas de ganho nos anúncios precisam ser verdadeiras. Ver ch217.

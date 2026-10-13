@@ -401,3 +401,83 @@ Termos e frameworks centrais dos livros-fonte, em ordem alfabética. Cada entrad
 **UX (User Experience) — Ciclo** — Pesquisa → Design → Desenvolvimento → Deploy → Mensuração, em loop contínuo. Ch44.
 
 **Vanity Radio (Halbert)** — comprar um bloco de tempo de rádio para ser entrevistado sobre o próprio produto: ajuda a escrever a copy (transcreva a gravação), gera pedidos diretos, e credencia como "especialista" para reenvio posterior a prospects. Ch102.
+
+**Anúncio com Chave / Número-Chave (Hopkins, Caples)** — código único em cada peça (cupom, departamento no endereço, URL, telefone, UTM) que permite saber qual anúncio, mídia, posição ou estação gerou cada resposta; base de toda publicidade testada. Ch181, ch189, ch199, ch204.
+
+**Apelo (Appeal) (Caples)** — a razão de compra que o anúncio apresenta; deve estar na headline e é a variável de maior efeito (diferenças de até 19,5x entre anúncios). Ch193.
+
+**As 29 Fórmulas de Headline (Caples)** — notícia (Anunciando, Novo, Agora, Finalmente, data), preço e oferta (preço, redução, oferta especial, pagamento fácil, grátis, informação, história), palavras-chave (Como, Por que, Qual, Quem mais, Procura-se, Este, Conselho) e formatos especiais (depoimento, teste, uma/duas palavras, "Não compre", fala direta, dirigida a um público). Ch192.
+
+**As 4 Qualidades da Headline (Caples)** — interesse próprio, notícia, curiosidade e "caminho rápido e fácil"; a quinta, essencial, é a credibilidade. Ch190, ch191.
+
+**Campanha-Teste (Hopkins)** — lançar um projeto em poucas cidades por US$3-5 mil para conhecer custo por cliente, venda por cliente e tempo de retorno antes de escalar. Ch188.
+
+**Controle (Control Ad) (Caples)** — anúncio-régua rodado em metade da tiragem enquanto cada candidato roda na outra; ranqueia dezenas de anúncios por % de diferença em poucos dias. Ch205.
+
+**Custo por Cliente (Hopkins)** — métrica final da publicidade científica (não custo por resposta). Ch181.
+
+**Escreva Longo, Depois Ferva (Caples)** — redigir mais texto do que o espaço comporta e cortar até sobrar "osso e músculo"; o copy melhora ao ser cortado. Ch197, ch202.
+
+**Oferta Escondida (Caples)** — oferta de amostra/livreto inserida no corpo do texto (sem subtítulo nem cupom) para medir o poder do copy sem atrair curiosos. Ch204.
+
+**Princípio do Serviço (Hopkins)** — os melhores anúncios não pedem a compra: oferecem informação, amostra ou teste sem risco. Ch182.
+
+**Split-Run (Caples)** — dois anúncios rodando na mesma tiragem (cada um em metade dos exemplares), no mesmo dia, área e posição; a única variável é a testada. Ch190, ch204, ch205.
+
+**Teste do Vendedor (Hopkins)** — "isto ajudaria um vendedor a vender se eu estivesse diante do comprador?"; filtra slogans, "criatividade" e layouts. Ch181.
+
+**Valor de Atenção (Caples)** — capacidade de um anúncio de parar o leitor; necessário, mas não suficiente (pode haver atenção sem venda). Ch194, ch201.
+
+
+---
+
+## Adendo — Análise de lançamento pago (Filemon, ch207-ch210)
+
+**Ativo retido** — parte do método (agentes, swipe file, revisão individual) que o evento mostra funcionando mas não entrega a todos; é o objeto natural do pitch. Use só se for de fato oferecido depois e se o que foi ensinado for utilizável sem ele. ch207-ch209.
+
+**Barra de progresso verbal** — afirmar a cada bloco quanto do entregável final já está pronto ("40%, 60%, 80%") para sustentar a presença do público. ch207.
+
+**Entregável por bloco** — cada bloco de um evento termina com um artefato que o participante leva consigo (promessa, raio X, mecanismo, tese, história, lead, oferta). ch207.
+
+**Escassez em três camadas** — posição (5/10 primeiros), prazo (hoje até 23:59) e quantidade (vagas anunciadas antes); só é legítima se cada camada for verdadeira e cumprida. ch209-ch210.
+
+**Gargalo → Crença → Custo → Caminho → Decisão → Oferta** — sequência de pré-pitch do Dia 2 do Filemon para preparar a venda de ticket alto. ch209.
+
+**Loop-pagamento** — curiosidade aberta com hora marcada para ser fechada (teaser das vagas, "amanhã termina a VSL"); os loops que nunca fecham sustentam a oferta. ch208.
+
+**Pergunta de justiça** — pedir ao público que concorde publicamente que um preço de referência é justo antes de revelar o preço real. Funciona como compromisso; evite quando o preço de referência não for praticado. ch209.
+
+**Pré-pitch** — o trecho anterior à oferta em que se nomeia o gargalo, se quebram crenças e se mostra o custo de não mudar; é a parte mais copiável com menor risco ético. ch209-ch210.
+
+**Taxa × razão de preços da ascensão** — a ascensão dobra a receita quando (% que sobe) × (preço alto ÷ preço de entrada) = 100%; ex.: 10% × 10 = 100%. Use números do negócio real. ch209.
+
+
+---
+
+## Adendo — Evento de 4 dias do Roas (ch211-ch217)
+
+**Bônus surpresa** — bônus que não se revela na oferta ("não é curso nem e-book"); gera curiosidade. Só é legítimo se existir e entregar valor real. ch216.
+
+**Cashback de upgrade** — crédito ou devolução do que o cliente pagou no produto menor se ele subir para o produto maior em um prazo (6 meses no evento do Roas). Exige condições escritas. ch213.
+
+**Efeito tsunami** — curva de retenção da VSL que se sustenta até o PIT e despenca no preço porque as pessoas vão comprar. ch215.
+
+**Estrutura invisível** — efeito psicológico por trás de cada frase de uma cópia; permite modelar a estrutura de uma VSL escalada em outro nicho sem copiar o texto. ch215 (ver ch174).
+
+**Funil de criativos** — leitura do Meta segundo a qual criativos formam um funil (frio → remarketing); decide-se por frequência e gasto, não só por ROAS. Ver `funil-vsl-thiago-roas`.
+
+**Lateralização** — contar a mesma história (narrativa validada) em formatos diferentes, mantendo o efeito de cada bloco. ch217.
+
+**Lead nativa** — lead cujo formato parece conteúdo (Reels, vlog, caixinha de perguntas) antes de passar ao formato neutro; só é ética se entregar valor real. ch215.
+
+**LHTCO** — Lead, História, Tese, Construção de produto e Oferta: a estrutura de VSL do Mateus (equivale aos 5 blocos de Filemon). ch215-ch216.
+
+**Mecanismo de problema / função / veículo** — três camadas da tese: por que os outros caminhos falham, qual é o caminho, qual é o jeito único de percorrê-lo. ch216.
+
+**Método VIRAL (Prisciane)** — Vantagem, Intenção, Rapidez, Ação, Lateralização: método de criativos; vantagem = formato, intenção = copy. ch217.
+
+**Narrativa validada** — ângulo ou história de anúncio que já vendeu; é a base para trocar de formato. ch217.
+
+**Pitch duplo** — um pitch de ticket alto num dia e um segundo, de ticket menor com ponte de volta, no dia seguinte. ch213.
+
+**Regra 7-3-1** — decidir por 7 dias (período longo), 3 dias (tendência) e hoje; nunca desligar por um dia. Ver `funil-vsl-thiago-roas`.

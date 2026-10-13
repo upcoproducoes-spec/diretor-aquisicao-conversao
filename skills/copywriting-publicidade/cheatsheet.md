@@ -384,3 +384,42 @@ Alvo de retenção no 1º minuto citado: ~60% ou mais (afirmação do professor;
 
 **Nota**: números vindos de aula transcrita por legenda automática; confrontar com `funil-vsl-thiago-roas` (que adverte contra comparar conversão com valor fixo) e com os seus próprios dados.
 
+
+## Publicidade Testada (Hopkins e Caples) — Decisões Rápidas
+
+| Situação | Ferramenta | Capítulo |
+|---|---|---|
+| Não sei qual promessa usar | Testar 5-10 apelos com headlines simples e escolher por resposta | ch193 |
+| Preciso de uma headline agora | Percorrer as 29 fórmulas e escrever 25 versões | ch192, ch191 |
+| A headline "pega"? | Interesse próprio + notícia + clareza + credibilidade; evite só curiosidade | ch190, ch203 |
+| Muitas peças para comparar | Split-run contra um controle (eliminatória) | ch204, ch205 |
+| Quero mais respostas/leads | Oferta na headline, "grátis" com condições claras, cupom/telefone, registro | ch199 |
+| Primeiro parágrafo fraco | Continuar o pensamento da headline, ser curto, dar o maior benefício | ch195 |
+| Texto longo demais / "difícil" | Palavras curtas, frases curtas, "ferver" o texto | ch197, ch200 |
+| Verba pequena, nicho | Anúncio pequeno com headline de uma palavra e chave | ch202 |
+| Produto "sem graça" | Dramatizar (vergonha, medo, drama doméstico, "pensamentos ocultos") com cuidado ético | ch198 |
+| Imagem ou ilustração | Produto, uso, recompensa; foto = prova; teste imagem x sem imagem | ch185, ch201 |
+| Cliente quer decidir por gosto | Teste do vendedor; teste de opinião é só pista | ch181, ch204 |
+| Lançar algo novo | Campanha-teste em pequena escala antes de escalar | ch188 |
+
+**Nota**: números de resposta (19,5x, +81%, +20%) são relatos de época de Caples/Hopkins; use como hipótese e valide com seus dados.
+
+
+## Lançamento Pago de 2 Dias — Roteiro de Análise e Construção (Filemon, ch207-ch210)
+- **Analisar um evento/lançamento**: linha do tempo por dia → função de cada bloco → ganchos de abertura → loops abertos e quando pagam → gatilhos usados → história e prova → pré-pitch → oferta (preço, âncora, bônus, garantia, escassez) → fechamento → objeções tratadas → ritmo → alertas éticos.
+- **Construir um evento**: promessa com prazo → 5-7 entregáveis → caso fictício contínuo → compromisso leve no chat → teaser da oferta cedo → recap com ganho percebido → loop para o dia seguinte → pré-pitch → pitch de 25-30 min → follow-up.
+- **Pitch seguro**: um preço dito uma vez; garantia com condições por escrito; bônus descritos pelo que são; prazo e vagas reais; sem resultado prometido em nome do cliente; prova com consentimento e data.
+- **Conta da ascensão**: (% que sobe) × (preço alto ÷ preço de entrada) = quanto soma à receita; 100% = dobra.
+- **Perigos de cópia**: números do Filemon (preço, ROAS, ascensão) são afirmações dele, não metas.
+
+
+## Lançamento Pago de 4 Dias (Roas) e Copy LHTCO — Atalhos (ch211-ch217)
+- **Escada de evento**: ingresso → gravação opcional → produto gravado → mentoria; cada degrau com dono e capacidade de entrega.
+- **Elenco**: um convidado por noite, apresentado com um caso verificável; volta ao palco no pitch.
+- **Loops**: agenda pública no dia 1; cada noite fecha um loop e abre outro; ativos prometidos com data.
+- **Pitch duplo**: noite 3 = principal (sinal + comercial); noite 4 = menor, com cashback e prazo real.
+- **Ordem de escrita da VSL (Mateus)**: oferta primeiro, lead por último; 4 leads em A/B; lead nativa; oferta com bônus e garantia pós-PIT na primeira VSL.
+- **Tese em 3 mecanismos**: problema → função → veículo.
+- **Criativo (Prisciane)**: transformação em big nicho → narrativa validada → formato com vantagem → lateralizar.
+- **Divergências a lembrar**: bônus e garantia antes do preço (Filemon, ch167) x depois do PIT (Mateus, ch216); histórias de 7 bits x 3 estágios.
+- **Alertas**: cashback e sinal por escrito; sem voz clonada sem consentimento; sem benchmark de números de terceiros.
