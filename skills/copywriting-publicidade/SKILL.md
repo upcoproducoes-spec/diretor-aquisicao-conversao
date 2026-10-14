@@ -6,7 +6,7 @@ description: "Base de conhecimento sintetizada de 15 livros/arquivos/aulas de co
 <!-- argument-hint: [tópico, framework, autor, ou número de capítulo] -->
 
 # Copywriting & Publicidade — Base de Conhecimento (16 Livros/Arquivos/Aulas)
-**Autores**: Gustavo Ferreira, Paulo Maccedo, David Ogilvy, Miles Young, Gary Bencivenga, John Carlton, Gary Halbert, Eugene Schwartz, Clayton Makepeace, Joseph Sugarman, Robert Collier, Dan Kennedy, Thiago Filemon (aulas de VSL), Claude Hopkins, John Caples | **Capítulos**: 219 | **Gerado**: 2026-09-23 | **Atualizado**: 2026-10-09
+**Autores**: Gustavo Ferreira, Paulo Maccedo, David Ogilvy, Miles Young, Gary Bencivenga, John Carlton, Gary Halbert, Eugene Schwartz, Clayton Makepeace, Joseph Sugarman, Robert Collier, Dan Kennedy, Thiago Filemon (aulas de VSL), Claude Hopkins, John Caples | **Capítulos**: 220 | **Gerado**: 2026-09-23 | **Atualizado**: 2026-10-13
 
 ## Como Usar Esta Skill
 
@@ -417,6 +417,7 @@ Publicidade é **salesmanship multiplicada**: toda dúvida se resolve com "isto 
 | [ch216](chapters/ch216-roas-mateus-historia-tese-construcao-de-produto-e-bloco-de-oferta.md) | Mateus: História, Tese, Construção de Produto e Bloco de Oferta | História em 3 estágios, 3 mecanismos, Construção em 3 fases, Bônus e garantia pós-PIT, Divergências com Filemon |
 | [ch217](chapters/ch217-roas-prisciane-criativos-que-escalam-metodo-viral-formato-copy-e-lateralizacao.md) | Prisciane: Criativos que Escalam | Método VIRAL, Formato x copy, Espionagem de formatos, Lateralização, Call semanal |
 | [ch218](chapters/ch218-roas-analise-visual-slides-provas-e-design-do-pitch.md) | Análise Visual dos Vídeos: Slides, Provas, Ambiente e Design do Pitch | Três temas de slide, Prova em formato fixo, Pitch como VSL em slides, Demonstração do produto, Retenção até o pitch |
+| [ch220](chapters/ch220-roas-hotmart-sessions-palestra-de-autoridade-estrutura-ganchos-e-persuasao.md) | Hotmart Sessions: a Palestra de Autoridade (Estrutura, Ganchos, Slides e Persuasão) | Resultado→quebra de crença→demonstração→reciprocidade, Conta do R$418, Fases de tráfego (slides), Pontos críticos |
 
 ## Índice de Tópicos
 
@@ -523,6 +524,7 @@ Publicidade é **salesmanship multiplicada**: toda dúvida se resolve com "isto 
 - **Tese em 3 mecanismos (problema, função, veículo) / One Belief / construção de produto / bloco de oferta / bônus e garantia pós-PIT** → ch216 (divergências com Filemon registradas)
 - **Criativos (método VIRAL, formato x copy, lateralização, espionagem de formatos)** → ch217
 - **Slides de pitch / sequência de provas / design visual do evento / demonstração do produto no pitch** → ch218 (e ch209 para o pitch do Filemon)
+- **Palestra de autoridade sem pitch (estrutura, ganchos, Q&A como prova)** → ch220 (ver também ch211-ch214)
 - **Prova social como troca (marcações por slides) / enquetes e votos** → ch212
 - **Tipos de Produto de Entrada (resumo, filé, antídoto)** → ch171
 - **TV/comerciais** → ch25, ch37, ch84, ch95
@@ -579,3 +581,4 @@ Esta skill cobre o conteúdo sintetizado dos livros-fonte, com frameworks, exemp
 
 **Livros 14-15 (ch181-ch206, Hopkins e Caples) — proveniência e limites**: adicionados em 2026-10-08. **Livro 14 (Claude C. Hopkins, "Scientific Advertising", 1923)** foi lido integralmente a partir de um PDF com camada de texto (edição Sanage Publishing House, 21 capítulos curtos), sintetizado em 8 capítulos agrupados por tema; os exemplos (preços, marcas como Pepsodent, Palmolive, Puffed Grains, números de resposta) são de época e valem como ilustração do método, não como benchmark. **Livro 15 (John Caples, "Tested Advertising Methods", 4ª edição, 1974, com prefácio de David Ogilvy)** estava num **PDF escaneado** (164 páginas-imagem, cada imagem com duas páginas do livro, sem camada de texto; o OCR automático teve qualidade ruim e foi descartado): foi **lido página a página como imagem** e sintetizado em 18 capítulos (ch189-ch206) cobrindo os 18 capítulos do livro, o prefácio e os 15 anúncios famosos, além do índice remissivo (não sintetizado). Nenhuma imagem de anúncio foi reproduzida: só o que o autor diz e os dados de resultado que ele relata. Todos os números de resposta, de vendas e de custo (ex.: "19,5 vezes", "+81%", "US$120 para US$0,65") são **relatos do autor, de mercado e época específicos (EUA, décadas de 1930-1970)**, a validar com teste próprio. **Ressalvas éticas e legais**: alguns exemplos históricos incluem alegações de saúde (cigarro filtrado "melhor para a saúde", remédios para emagrecer, tratamentos capilares, aparelho de oxigênio) e técnicas de pressão que **hoje seriam ilegais, antiéticas ou reguladas** (no Brasil: CDC, CONAR, ANVISA); estão registradas só como evidência histórica e marcadas nos capítulos; a regra permanente de honestidade (nenhum depoimento, número, urgência ou promessa inventados) vale integralmente. **Convergências e tensões**: Hopkins e Caples **reforçam** a linha de Ogilvy (ch33-ch34: "publicidade é venda impressa"), Halbert (ch99, eficiência x efetividade) e Kennedy (ch156, matriz de teste); a tensão principal é com os **autores que valorizam a "grande ideia" criativa** (Ogilvy Livro 3, Maccedo ch15): aqui o critério é **resultado rastreado**, e a "criatividade" deve ser testada, não presumida. Quando Caples ("copy longo vende mais") e Hopkins ("conte a história completa") divergem de práticas atuais de atenção curta, valem como **hipóteses a testar** (ver ch204-ch205).
 
+**Livro 16 — acréscimo (ch220, Hotmart Sessions, 2026-10-13)**: palestra do Thiago Roas na Comunidade Hotmart (29/04/2026), a mesma masterclass que originou `funil-vsl-thiago-roas`. Analisada em vídeo (transcrição local + ~190 quadros). Não é lançamento pago nem tem pitch direto: o capítulo trata da **estrutura de uma palestra de autoridade** e traz verificações e correções para a skill do funil. Números são do palestrante e **não verificados**; o trecho final (segmento comercial da Hotmart) não foi analisado.

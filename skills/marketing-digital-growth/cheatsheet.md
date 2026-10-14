@@ -186,3 +186,29 @@ Regra de ouro (ch59, ch65): construa um estágio de cada vez; caixa de 30 dias �
 | Começar do zero | Grupo beta gratuito + Campanha Ask + masterclass de 6 semanas | ch80 |
 
 **Metas de referência do autor (a validar no seu mercado, EUA 2013-2017)**: custo por inscrito de webinar US$3-5; comparecimento ~25% (ao vivo) ; fechamento 5-15%; valor médio por nome de lista ≈ US$1/mês; bump com adesão de 30-40%; downsell com plano de pagamento recupera até ~20% dos que recusam o upsell.
+
+## Lançamento pago (ch89-ch95) — diagnóstico rápido
+
+| Sintoma | Primeira hipótese | Onde |
+|---|---|---|
+| Comparecimento baixo no evento | Evento longo demais (3-4 dias/aulas), ticket muito baixo, sem follow-up humano | ch90, ch92, ch93 |
+| Ingresso barato, venda baixa do principal | Público frio sem consciência; falta de repeat e remarketing | ch91, ch94 |
+| Público quente não compra | Narrativa/oferta, não tráfego | ch94, ch95 |
+| CAC do ingresso acima do ticket | Simular back-end (bump, upsell, conversão do evento) antes de pausar | ch91, ch94, ch95 |
+| Gerenciador mostra poucas vendas, caixa cresce | Vendas invisíveis; comparar CPA global | ch95 |
+| Poucos criativos, escala travada | Volume de criativos nativos e especialista que grava pouco | ch91 |
+
+**Referências citadas pelos professores (a validar no seu mercado, Brasil 2019-2025)**: comparecimento pago 60-75% (gratuito 10-18% em 2025, 30-35% em 2019); conversão do evento ao produto principal 7-17% (caso); bump 20-30%; ticket 27-77 (R$47 "número mágico"); CAC até ~4x o ingresso; verba 15% atração / 10% distribuição / 65% ingresso / 10% remarketing (caso).
+
+## Tráfego (ch96-ch99) — diagnóstico rápido
+
+| Sintoma | Primeira hipótese | Onde |
+|---|---|---|
+| CTR baixo (~0,6%) | Hook, criativo longo, saturação (frequência 8), público | ch96, ch99 |
+| Hook rate < 30% | Primeiros 3 s fracos; formato errado para o público | ch96 |
+| CPL alto na captura | Quiz, dobras, promessa fria x quente, público | ch97 |
+| Conversão de captura < 30% | Primeira dobra, H1 e depoimento; mapa de calor | ch97 |
+| Teste sem conclusão | Mais de uma variável mudou ao mesmo tempo | ch98 |
+| Verba de teste curta | Teste em lotes, não reduzir orçamento por conjunto | ch98 |
+
+**Referências citadas (a validar no seu mercado)**: hook rate ~30%, hold rate ~15%, CTR ~1%; orçamento de teste 2-3x CPL por conjunto (captura) ou 30-40% do CPA (perpétuo); 72 h mínimo e 7 dias ideal; aumento de 15-20% por semana; ROAS ≥ ~2,2 para subir em perpétuo.

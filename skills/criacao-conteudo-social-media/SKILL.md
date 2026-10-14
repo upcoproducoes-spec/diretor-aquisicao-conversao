@@ -7,11 +7,11 @@ description: "Playbook de criação de conteúdo e social media (Reels, vídeos 
 
 # Criação de Conteúdo e Social Media — Playbook Aplicado
 
-Esta skill **não tem livros próprios**: ela organiza, em um fluxo de trabalho para criar conteúdo, o conhecimento que já existe nas outras skills. Cada passo aponta para os capítulos certos. **Leia o capítulo apontado antes de aplicar** (os números abaixo são ponteiros, não resumos).
+Esta skill organiza, em um fluxo de trabalho para criar conteúdo, o conhecimento que já existe nas outras skills (ponteiros `chNNN` sem prefixo = `copywriting-publicidade`, salvo quando indicado) e tem **uma série própria de 14 capítulos** em `chapters/` (ch01-ch14, orgânico em vídeo curto, ver abaixo). **Leia o capítulo apontado antes de aplicar** (os números são ponteiros, não resumos).
 
 ## Proveniência e limites (leia primeiro)
 - **O que está aqui**: síntese do próprio sistema (Hopkins, Caples, Schwartz, Filemon, Roas, Prisciane e Mateus no evento do Roas, Brunson, Hormozi, Godin, Cialdini, Freud/Kahneman). As afirmações de Filemon e Roas são **opiniões e resultados dos professores, não verificados**.
-- **O que NÃO está aqui**: o conteúdo do curso licenciado de terceiros. O contrato desse curso proíbe copiar, transformar e usar com IA sem autorização escrita expressa. **Não incorporar** esse conteúdo sem confirmar que a autorização cobre uso com IA. Esta skill está pronta para receber esse material depois, em capítulos próprios, com a proveniência registrada.
+- **Série própria `chapters/ch01-ch14`**: síntese, em palavras próprias, de material de estudo do usuário sobre crescimento orgânico em vídeo curto. Alegações sobre a plataforma e resultados de terceiros são **não verificadas**. Novas aulas ainda podem ser incorporadas (o usuário vai enviar transcrições em palavras próprias).
 - **Plataformas mudam**: números de alcance, formatos e regras do algoritmo citados nas aulas (Meta, TikTok etc.) são **hipóteses a testar**, não fatos. Verifique a documentação oficial atual antes de afirmar algo sobre uma plataforma.
 - **Regra permanente do sistema**: nada de escassez falsa, prova social forjada, promessa de ganho individual, nem uso de voz/imagem de pessoa sem consentimento.
 
@@ -78,6 +78,21 @@ Negócio e **oferta** (o que se vende e por qual preço/ticket), **público** (q
 - **Analisar o que funcionou** (não só o que falhou): quebrar o vencedor em gancho, corpo e CTA e **lateralizar** cada bloco (ch217).
 - **Rotina**: uma **call semanal de criativos** para analisar o vencedor da semana (assistir ~20 vezes) com quem cria, edita e roda tráfego (ch217).
 
+## Série própria: orgânico em vídeo curto (chapters/ch01-ch14)
+Manual de operação para **orgânico em vídeo curto**, em 12 padrões. Use junto com o fluxo acima:
+| Passo do fluxo | Capítulos desta skill |
+|---|---|
+| 1 Público e proposta | ch02 (humano: o perfil serve a quem assiste) |
+| 2 Estratégia e alinhamento com a oferta | ch09 (alinhamento), ch03 (regra 50/50, tema amplo e ponte) |
+| 3 Ângulo, tema e promessa | ch07 (criatividade sintética, banco de ideias), ch08 (assunto do momento) |
+| 5 Gancho | ch04 (gancho viral, enquadramento, banco de estruturas) |
+| 6 Corpo e retenção | ch05 (retenção, duração, linguagem simples), ch10 (utilidade que traz seguidor) |
+| 7 CTA e pedidos | ch06 (três pedidos por vídeo), ch13 (bio, fixados, direct) |
+| 8 Teste e iteração | ch03 (três sinais), ch11 (ritmo, volume, republicação), ch12 (omnichannel), ch14 (desafio de 30 dias, kit, erros por nicho) |
+Visão geral, proveniência e advertências: **ch01**. Cada capítulo traz **cuidados** próprios (prova real, setor regulado, regras de plataforma).
+
+**Pontos de divergência a registrar quando relevante:** esta série põe a oferta no **meio** do vídeo orgânico e o fechamento no direct/WhatsApp; o Roas trabalha anúncio pago com funil de VSL e o professor Filemon diz que conteúdo não é para vender (ch160 da copy). Escolha pelo objetivo e canal.
+
 ## Entregáveis padrão
 Veja `templates.md` para os modelos de **calendário editorial**, **roteiro de vídeo curto**, **carrossel**, **sequência de stories**, **legenda**, **plano de teste** e **checklist de revisão**.
 
@@ -96,6 +111,6 @@ Veja `templates.md` para os modelos de **calendário editorial**, **roteiro de v
 - **Saída**: peças prontas + plano de teste + riscos e itens a verificar. Para revisão, acione `revisor-conteudo` (e `revisor-copy` / `revisor-persuasao` quando fizer sentido).
 
 ## Pendências desta skill
-- Incorporar o conteúdo do curso licenciado de terceiros **somente** com autorização escrita que cubra uso com IA e com as notas autorizadas.
-- Adicionar capítulos próprios por plataforma (Instagram, TikTok, YouTube, LinkedIn, X) com **fontes oficiais** e data de verificação.
+- Incorporar novas aulas (formatos de vídeo, ferramentas, introdução) quando o usuário enviar as transcrições em palavras próprias, com análise de estrutura, ganchos e gatilhos.
+- Adicionar capítulos próprios por plataforma (Instagram, TikTok, YouTube, LinkedIn, X) com **fontes oficiais** e data de verificação; verificar as alegações de plataforma da série ch01-ch14.
 - Banco de ganchos e formatos validados por cliente (no repositório do cliente, não aqui).

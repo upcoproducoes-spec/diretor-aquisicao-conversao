@@ -1,6 +1,6 @@
 # Glossário — marketing-digital-growth
 
-Termos e frameworks centrais dos 10 livros-fonte (Livros 1-9, incluindo Hormozi e Brunson), em ordem alfabética. Cada entrada indica o(s) capítulo(s) onde o conceito é desenvolvido em profundidade.
+Termos e frameworks centrais dos 10 livros-fonte (Livros 1-9, incluindo Hormozi e Brunson) e da masterclass de lançamento pago (Livro 10), em ordem alfabética (os termos do Livro 10 estão no final). Cada entrada indica o(s) capítulo(s) onde o conceito é desenvolvido em profundidade.
 
 **3D (Document, Demonstrate, Duplicate)** — Modelo de treinamento de Hormozi: documentar a tarefa num checklist, demonstrar passo a passo e fazer o funcionário duplicar enquanto você observa; se ele erra, corrija o checklist, não a pessoa. ch56.
 
@@ -322,3 +322,37 @@ Termos e frameworks centrais dos 10 livros-fonte (Livros 1-9, incluindo Hormozi 
 **Value Ladder / Escada de Valor (Brunson)** — sequência de produtos de valor e preço crescentes (isca, front-end, meio, back-end, continuidade). Ch67.
 
 **Zona Prolífica (Brunson)** — posicionamento de ideias entre o mainstream (sem dinheiro) e a "zona maluca" (sem público). Ch78.
+
+## Acréscimos — Lançamento Pago (Livro 10, ch89-ch95)
+
+**Arrastão (Ferrari)** — sequência de stories do especialista dedicada a vender ingresso durante a campanha. Ch92.
+
+**CAC máximo aceitável (Ferrari/Lima)** — teto de custo por ingresso definido por simulação do back-end; regra de bolso citada: até ~4x o valor do ingresso. Ch91, ch94.
+
+**Corredor Polonês** — distribuição de 5 vídeos de objeções e oportunidades, trocada a cada 5-7 dias, para público quente inscrito; também usado como "fase 1" (atração) antes do ingresso. Ch92, ch94.
+
+**Hot seat (pré-retorno)** — tira-dúvidas com o especialista antes da volta do almoço para encher a sala. Ch90.
+
+**Intercalar (gratuito↔pago)** — alternar lançamentos gratuitos e pagos para ter base quente e estímulos diferentes. Ch89.
+
+**Lote zero / virada de lote** — primeiro lote de ingressos a preço baixo para grupos antigos e subida semanal de preço; funciona se a mudança for real. Ch92.
+
+**Pitch + repeat** — oferta no meio da tarde do primeiro dia e segunda janela de compra no fim do evento ou no dia seguinte. Ch90.
+
+**Timing product** — alinhar a narrativa do lançamento a um assunto quente do nicho. Ch93.
+
+**Vendas invisíveis** — compras influenciadas por anúncio que aparecem como orgânico no checkout e não no gerenciador. Ch95.
+
+## Acréscimos — Masterclass de Tráfego (Livro 11, ch96-ch99)
+
+**3 S (Carneiro)** — estabilize, escale, empilhe: domine um funil, coloque verba e só então rode outro em paralelo. Ch96.
+
+**Hold rate** — pessoas que viram 75% do vídeo ÷ pessoas que viram 3 s; referência ~15%. Ch96.
+
+**Hook rate** — pessoas que viram 3 s ÷ impressões; referência ~30%. Ch96.
+
+**Pirâmide da Escala (Carneiro)** — teste de ativos → teste de escala → escala avançada. Ch96.
+
+**Público mix** — combinação de público quente, semelhante e interesse em uma única segmentação. Ch97.
+
+**Regra 5-2-1** — testar por semana 5 criativos, 2 públicos e 1 página. Ch96.

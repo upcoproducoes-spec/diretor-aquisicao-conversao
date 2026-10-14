@@ -1,15 +1,15 @@
 ---
 name: marketing-digital-growth
-description: Base de conhecimento sintetizada de 10 livros sobre growth e marketing digital — Hacking Growth (Sean Ellis & Morgan Brown), Marketing na Era Digital (Martha Gabriel & Rafael Kiso), Unbound Marketing (Rafael Kiso), Launch (Jeff Walker), Purple Cow e This Is Marketing (Seth Godin), $100M Leads e $100M Money Models (Alex Hormozi), e DotCom Secrets e Expert Secrets (Russell Brunson — escada de valor, funis de front-end/meio/back-end, Personagem Atraente, e-mails Soap Opera e Seinfeld, Webinar Perfeito, Stack, Grande Dominó, Ponte da Epifania, falsas crenças, modelo de webinar semanal e Dream 100). Use para pesquisa de mercado e voz do cliente, arquitetura de funil (incluindo diagnóstico de abandono/recuperação de carrinho), growth hacking e ciclos de teste, métricas de funil e KPIs (CTR/CAC/LTV/ARPU/LTGP:CAC e recuperação de CAC em 30 dias), otimização de conversão, estratégia multi-canal (SEO/SEM/SMM/e-mail/afiliados/omnichannel), geração de leads com o Core Four de Hormozi (outreach quente/frio, conteúdo, mídia paga, lead getters), modelos de monetização por sequência de ofertas (attraction, upsell, downsell, continuidade), desenho de lançamentos com Product Launch Formula, diferenciação/notabilidade de produto com menor audiência viável (Seth Godin), e desenho de funis de venda por temperatura de tráfego (Brunson) — escada de valor, 7 fases do funil, 23 blocos (quiz, squeeze page, free-plus-shipping, SLO, bump, OTO), funil de webinar e lançamento, alto ticket por aplicação, comunicação por e-mail com Personagem Atraente, criação de crença com histórias e tráfego por Dream 100.
+description: Base de conhecimento sintetizada de 10 livros sobre growth e marketing digital — Hacking Growth (Sean Ellis & Morgan Brown), Marketing na Era Digital (Martha Gabriel & Rafael Kiso), Unbound Marketing (Rafael Kiso), Launch (Jeff Walker), Purple Cow e This Is Marketing (Seth Godin), $100M Leads e $100M Money Models (Alex Hormozi), e DotCom Secrets e Expert Secrets (Russell Brunson — escada de valor, funis de front-end/meio/back-end, Personagem Atraente, e-mails Soap Opera e Seinfeld, Webinar Perfeito, Stack, Grande Dominó, Ponte da Epifania, falsas crenças, modelo de webinar semanal e Dream 100). Use para pesquisa de mercado e voz do cliente, arquitetura de funil (incluindo diagnóstico de abandono/recuperação de carrinho), growth hacking e ciclos de teste, métricas de funil e KPIs (CTR/CAC/LTV/ARPU/LTGP:CAC e recuperação de CAC em 30 dias), otimização de conversão, estratégia multi-canal (SEO/SEM/SMM/e-mail/afiliados/omnichannel), geração de leads com o Core Four de Hormozi (outreach quente/frio, conteúdo, mídia paga, lead getters), modelos de monetização por sequência de ofertas (attraction, upsell, downsell, continuidade), desenho de lançamentos com Product Launch Formula, diferenciação/notabilidade de produto com menor audiência viável (Seth Godin), e desenho de funis de venda por temperatura de tráfego (Brunson) — escada de valor, 7 fases do funil, 23 blocos (quiz, squeeze page, free-plus-shipping, SLO, bump, OTO), funil de webinar e lançamento, alto ticket por aplicação, comunicação por e-mail com Personagem Atraente, criação de crença com histórias e tráfego por Dream 100; e a Masterclass Lançamento Pago (Leandro Ferrari e Demetrius Lima — ingresso de baixo valor, evento de 1-2 dias com 80% de conteúdo, comparecimento, follow-up comercial, Corredor Polonês, virada de lote, CAC máximo aceitável, tráfego em 3 tempos, atribuição e checklist), com debriefing de caso e ressalvas (ch89-ch95).
 ---
 
 <!-- argument-hint: [tópico, framework, autor, ou número de capítulo] -->
 
 # marketing-digital-growth
 
-**Autores/Capítulos:** Sean Ellis & Morgan Brown (Hacking Growth, ch01-ch09) · Martha Gabriel & Rafael Kiso (Marketing na Era Digital, ch10-ch23) · Rafael Kiso (Unbound Marketing, ch24-ch29) · Jeff Walker (Launch, Updated & Expanded Edition 2021, ch30-ch35) · Seth Godin (Purple Cow + This Is Marketing, ch36-ch48) · Alex Hormozi ($100M Leads, 2023, ch49-ch58 + $100M Money Models, 2025, ch59-ch65) · Russell Brunson (DotCom Secrets, 2015, ch66-ch77 + Expert Secrets, 2017, ch78-ch88)
-**Livros:** 10 · **Capítulos:** 88
-**Gerado:** 2026-09-11 · **Atualizado:** 2026-10-08
+**Autores/Capítulos:** Sean Ellis & Morgan Brown (Hacking Growth, ch01-ch09) · Martha Gabriel & Rafael Kiso (Marketing na Era Digital, ch10-ch23) · Rafael Kiso (Unbound Marketing, ch24-ch29) · Jeff Walker (Launch, Updated & Expanded Edition 2021, ch30-ch35) · Seth Godin (Purple Cow + This Is Marketing, ch36-ch48) · Alex Hormozi ($100M Leads, 2023, ch49-ch58 + $100M Money Models, 2025, ch59-ch65) · Russell Brunson (DotCom Secrets, 2015, ch66-ch77 + Expert Secrets, 2017, ch78-ch88) · Leandro Ferrari e Demetrius Lima (Masterclass Lançamento Pago, vídeo, 2025-2026, ch89-ch95) · Elmer Carneiro (Masterclass Tráfego, Tráfego S.A., vídeo, 2026, ch96-ch99)
+**Livros:** 10 + 2 masterclasses em vídeo · **Capítulos:** 99
+**Gerado:** 2026-09-11 · **Atualizado:** 2026-10-14
 
 ## Como Usar Esta Skill
 
@@ -187,6 +187,31 @@ Esta skill sintetiza; nunca copia texto bruto dos livros-fonte. Onde os 8 livros
 | ch87 | [Modelo Semanal de Webinar e Fechamento de 4 Perguntas](chapters/ch87-brunson-expert-modelo-semanal-de-webinar-e-fechamento-de-4-perguntas.md) | 7 passos semanais, Metas, SLO na página de agradecimento, 4 perguntas |
 | ch88 | [Hack de 15 Minutos, Funis de Epifania e Dream 100](chapters/ch88-brunson-expert-hack-de-15-minutos-funis-de-epifania-e-dream-100.md) | 5 perguntas, Funil de e-mail, Lançamento Epiphany, Dream 100 |
 
+### Livro 10 — Masterclass Lançamento Pago (Leandro Ferrari + Demetrius Lima, vídeo)
+
+*Proveniência*: três aulas gravadas da plataforma de curso do próprio usuário (Masterclass Parte 1 sobre teoria e Parte 2 com debriefing de um caso, de Leandro Ferrari; aula de tráfego de Demetrius Lima), transcritas localmente (Whisper) e conferidas com os slides. Todos os números são **do professor, de poucas operações no Brasil (2019-2025), não auditados**; use como hipótese de teste. Há ressalvas explícitas de escassez, preço de referência e LGPD nos capítulos.
+
+| # | Título | Frameworks-Chave |
+|---|---|---|
+| ch89 | [Lançamento Pago: o que É, quando Fazer e Intercalar](chapters/ch89-ferrari-lancamento-pago-o-que-e-quando-fazer-e-intercalar.md) | Pago x gratuito, comparecimento 60-75% x 10-18%, intercalar gratuito→pago, pré-requisitos |
+| ch90 | [Formato do Evento, Conteúdo e Pitch](chapters/ch90-ferrari-lancamento-pago-formato-do-evento-conteudo-e-pitch.md) | 80% conteúdo/20% prova, 6 h, 1/2/3 dias, grade de um dia, hot seat, repeat |
+| ch91 | [Tráfego, Públicos, Criativos e CAC Aceitável](chapters/ch91-ferrari-lancamento-pago-trafego-publicos-criativos-e-cac-aceitavel.md) | Orgânico>quente>frio, 80/20 de verba, CAC até ~4x o ingresso, criativos nativos, pop-up pré-checkout |
+| ch92 | [Follow-up, Corredor Polonês, Orgânico e Virada de Lote](chapters/ch92-ferrari-lancamento-pago-follow-up-corredor-polones-organico-e-lotes.md) | Follow-up humano, 5 objeções + 5 oportunidades, live semanal, lote zero, fluxo do ingresso, trial |
+| ch93 | [Debriefing: Advogados + IA e os 8 Aprendizados](chapters/ch93-ferrari-lancamento-pago-debriefing-advogados-ia-numeros-e-oito-aprendizados.md) | Caso de 7 dígitos, verba 15/10/65/10, e-book low ticket, comparecimento por aula |
+| ch94 | [Tráfego (Lima): Papel, Projeção, Segmentação e Métricas](chapters/ch94-lima-trafego-lancamento-pago-papel-projecao-segmentacao-e-metricas.md) | Antes/durante/depois, 3-4 cenários, 80/20 quente, ticket médio com bump, métricas diárias |
+| ch95 | [Tráfego (Lima): Atribuição, Narrativa, Case ROAS 15,87 e Checklist](chapters/ch95-lima-trafego-lancamento-pago-atribuicao-narrativa-case-roas-e-checklist.md) | Vendas invisíveis, 3 campanhas, visão 360, case R$47, checklist |
+
+### Livro 11 — Masterclass de Tráfego (Elmer Carneiro, Tráfego S.A., vídeo)
+
+*Proveniência*: sessão ao vivo (~3 h) na comunidade DashFácil, gravada em vídeo e transcrita localmente (Whisper); poucos slides (mapa mental ao fundo), conteúdo quase todo na fala. Números e casos são **do palestrante, não verificados**; a transcrição tem ruído. Complementa e, em alguns pontos, **diverge** de `funil-vsl-thiago-roas` (ver ch98).
+
+| # | Título | Frameworks-Chave |
+|---|---|---|
+| ch96 | [Pirâmide da Escala e Criativos](chapters/ch96-carneiro-trafego-sa-piramide-da-escala-e-criativos.md) | 3 etapas da pirâmide, 3 S, 90/10, hook/body/CTA, hook rate ≥30%, hold rate ≥15%, regra 5-2-1 |
+| ch97 | [Públicos e Páginas](chapters/ch97-carneiro-trafego-sa-publicos-e-paginas.md) | Interesse/comportamento/semelhante, variação de lista e %, público mix, quiz, 4 âmbitos da página |
+| ch98 | [Estrutura de Testes, Escala e Verba](chapters/ch98-carneiro-trafego-sa-estrutura-de-testes-escala-e-verba.md) | ABO isolado, orçamento por CPL/CPA, 3-6x3-6, ASC, aumento semanal, divergências com o Roas |
+| ch99 | [Indicadores, Otimização, Dicas e Q&A](chapters/ch99-carneiro-trafego-sa-indicadores-otimizacao-dicas-e-perguntas.md) | Funil perfeito x real, método científico em 4 passos, debriefing, benchmark x cópia |
+
 ## Índice de Tópicos
 
 - **Escada de Valor (Value Ladder) / Funil de vendas (Brunson)** — ch66, ch67, ch72, ch74
@@ -199,6 +224,17 @@ Esta skill sintetiza; nunca copia texto bruto dos livros-fonte. Onde os 8 livros
 - **Status (Perry Belcher) / Melhoria x Nova oportunidade / Oceano azul de nicho** — ch78, ch79
 - **Grupo beta / Campanha Ask / Masterclass** — ch80
 - **Dream 100 / Marketing de integração** — ch88 (ver também ch68, ch57 afiliados)
+- **Lançamento pago (ingresso de baixo valor, imersão de 1-2 dias)** — ch89-ch93 (ver também webinar ch84-ch87 e Launch ch30-ch35)
+- **Intercalar lançamento gratuito e pago / lote zero / virada de lote** — ch89, ch92
+- **Comparecimento (follow-up comercial, hot seat, Corredor Polonês, trial)** — ch90, ch92
+- **CAC máximo aceitável, ticket médio com bump, projeção por cenários** — ch91, ch94 (ver também ch54, ch59)
+- **Atribuição: vendas invisíveis, last click x gerenciador x CPA global** — ch95
+- **Checklist de tráfego para lançamento pago** — ch95
+- **Pirâmide da Escala / 3 S (estabilize, escale, empilhe) / regra 5-2-1** — ch96, ch98
+- **Hook rate, hold rate e anatomia do criativo (hook/body/CTA)** — ch96
+- **Públicos (semelhantes, mix, palavras-chave) e páginas (quiz, 4 âmbitos)** — ch97
+- **Estruturas de teste (ABO isolado, CBO), orçamento de teste e escala semanal** — ch98 (ver também `funil-vsl-thiago-roas`)
+- **Método científico de otimização e debriefing** — ch99
 - **Alto ticket por aplicação e telefone (setter/closer, 4 perguntas)** — ch77, ch87 (com alertas éticos)
 - **Engenharia reversa de concorrente** — ch71
 - **3Hs (Help/Hub/Hero)** — ch26 (ver também Content Unit/Hook-Retain-Reward, ch52, para o nível micro de cada peça)
@@ -298,7 +334,7 @@ Esta skill sintetiza; nunca copia texto bruto dos livros-fonte. Onde os 8 livros
 
 ## Arquivos de Apoio
 
-- [`glossary.md`](glossary.md) — glossário alfabético de todos os termos e frameworks dos 10 livros-fonte.
+- [`glossary.md`](glossary.md) — glossário alfabético de todos os termos e frameworks dos 10 livros-fonte e da masterclass de lançamento pago.
 - [`patterns.md`](patterns.md) — 30 padrões táticos de growth, funil e monetização (inclui geração de leads e Money Model de Hormozi, e escada de valor, funis, webinar e Dream 100 de Brunson) no formato When to use / How / Trade-offs.
 - [`cheatsheet.md`](cheatsheet.md) — tabelas de diagnóstico de funil, interpretação de scores, benchmarks citados pelos autores, o teste rápido métrica-vs-KPI e, de Hormozi, a tabela do Core Four, o diagnóstico anúncio/modelo/vendas e o funil de monetização (Money Model).
 
@@ -311,6 +347,8 @@ Esta skill sintetiza; nunca copia texto bruto dos livros-fonte. Onde os 8 livros
 - **Fases 12-14 — Métricas, Otimização, Escala**: diferença métrica/KPI (ch23), ciclo de growth hacking e ICE score (ch04), análise de coortes (ch07), Fase 5 Controle do Unbound/megafone (ch28), variações de lançamento para escalar (ch34), Ciclo Mágico da Vaca (ch40). **Hormozi acrescenta as métricas de payback e a disciplina de escala**: LTGP:CAC (≥3:1 como observação do autor), Client Financed Acquisition e recuperação de CAC em 30 dias (ch54, ch59), as 3 fases de gasto Track/Lose/Print Money e o orçamento reverso a partir da meta de clientes (ch54), More/Better/New com teste semanal no gargalo e log de testes (ch55), Rule of 100/Open to Goal (ch55, ch58), diagnóstico anúncio vs. modelo de negócio vs. vendas (ch54, cheatsheet.md) e churn por cadência de cobrança (ch63-ch64).
 
 **Brunson acrescenta ao pipeline** (Fases 8-9, funil e venda): a **escada de valor** como mapa do que vender a cada nível (ch67), a **temperatura do tráfego** como critério de ponte e de conteúdo (ch72), os **23 blocos** como catálogo de peças de funil (ch73), o **webinar semanal** e o **Stack** como arquitetura de venda por apresentação (ch84-ch87) e o **Dream 100** como estratégia de tráfego (ch88). A **copy** dessas peças (scripts de página, e-mail, VSL) deve ser produzida por `copywriting-publicidade`; a **política de preço e oferta**, por `estrategia-negocios`; os **gatilhos e seus limites éticos**, por `persuasao-gatilhos`.
+
+**Lançamento pago (ch89-ch95) acrescenta ao pipeline** (Fases 8, 11-14): o **desenho do funil de ingresso** (captação → ingresso → upsell/bump → evento de 1-2 dias → pitch → repeat), o **plano de comparecimento** (follow-up comercial, hot seat, Corredor Polonês, trial), a **regra de CAC aceitável por simulação** (projeção de 3-4 cenários, não por desejo) e a **leitura de atribuição** (gerenciador + último clique + CPA global). A **copy** do pitch e dos criativos deve vir de `copywriting-publicidade` (ver ch207-ch214 e ch217-ch219, que analisam os lançamentos do Filemon e do Roas); a **estrutura de campanhas e métrica mestre** do funil perpétuo seguem `funil-vsl-thiago-roas`; os **limites éticos** (escassez e preço de referência reais, LGPD no follow-up) seguem `persuasao-gatilhos`.
 
 **Input esperado de fases anteriores do pipeline** (Diagnóstico, Psicologia, Posicionamento, Oferta — de outras skills): perfil de cliente ideal, posicionamento de marca já definido, oferta e precificação já estruturadas. Esta skill assume que essas decisões upstream já foram tomadas; se não foram, o Diagnóstico (ch24) e a Pesquisa Must-Have (ch02) desta skill podem ser usados para gerar esse input, mas o ideal é que venham de `estrategia-negocios` e das fases de Diagnóstico/Oferta do orquestrador.
 
@@ -336,3 +374,7 @@ Esta skill cobre growth hacking, estratégia de marketing digital multi-canal, a
 Nota de transparência: as skills irmãs consultadas como referência estrutural (`persuasao-gatilhos`, `copywriting-publicidade`, `vendas-metodologia`) não possuem, no momento da criação desta skill, uma pasta `chapters/` própria em disco — apenas SKILL.md. A estrutura de capítulos aqui adotada segue a especificação original da tarefa de construção desta skill.
 
 **Livros 8-9 (ch66-ch88, Russell Brunson) — proveniência e limites**: adicionados em 2026-10-08. DotCom Secrets (2015) e Expert Secrets (2017, em tradução PT) foram lidos integralmente. Cobrem **funil de vendas e venda por apresentação**, complementando Hormozi (Money Model e Leads), Walker (lançamento) e Godin (notabilidade); **convergências**: Money Models (ch59-ch65) e a escada de valor (ch67) tratam da mesma lógica de recuperar CAC com sequência de ofertas; Walker (ch30-ch35) e os funis de lançamento de Brunson (ch76, ch88) compartilham a estrutura de 4 vídeos; **tensões** a registrar, sem escolher lado em silêncio: Godin (ch36-ch48: marketing como ato generoso, permissão, "menor audiência viável") contrasta com a polaridade, o e-mail diário e a pressão de fechamento de Brunson; Hormozi defende prova e garantia fortes, e Brunson sugere "preço falso" e escassez em vários roteiros, que aqui só valem se **verdadeiros**. A seção ClickFunnels e os convites a programas pagos foram tratados como contexto, não como conteúdo técnico. Todo o conteúdo é de 2015-2017: plataformas, políticas de anúncio (Meta, Google) e regras de privacidade mudaram; valide a conformidade (LGPD, CDC, CONAR, políticas de categorias reguladas como saúde) antes de aplicar.
+
+**Livro 10 (ch89-ch95, Masterclass Lançamento Pago) — proveniência e limites**: adicionado em 2026-10-13 a partir de **três aulas em vídeo** (duas de Leandro Ferrari, uma de Demetrius Lima) transcritas localmente. **Convergências**: Filemon (ch207-ch210, evento pago de 2 dias com pitch no 1º dia e repeat no 2º) e Brunson (webinar semanal, ch84-ch87) coincidem na ideia de **comprimir prova, conteúdo e oferta em um evento**; Hormozi (ch54, ch59) sustenta aceitar CAC acima do ticket de entrada quando o back-end paga. **Divergências a registrar**: Roas (ch211-ch214) vende evento pago de **4 dias** com funil de curso e mentoria; Ferrari conclui que **4 aulas derrubaram o comparecimento** (43%→27%) e prefere 1-2 dias; Filemon e Ferrari discordam do uso do **frio** (Ferrari: frio quase não converteu no ingresso; Roas: funil de criativos para frio). **Cautelas**: números de uma única operação com base própria grande (não generalizar); alguns slides e a fala de totais não fecham entre si (ver ch93); "feio converte", "essa oferta nunca mais vai existir" e preços de referência exigem verdade e cumprimento; o follow-up comercial exige base legal (LGPD) e o uso de canal oficial de WhatsApp.
+
+**Livro 11 (ch96-ch99, Masterclass de Tráfego de Elmer Carneiro) — proveniência e limites**: adicionado em 2026-10-14 a partir de **um vídeo de ~3 h** (sessão ao vivo com perguntas). **Convergências** com `funil-vsl-thiago-roas`: criativo como variável principal, orçamento de teste pequeno, decisão por resultado (dinheiro) e não por CTR, escala gradual; com Ferrari/Lima (ch89-ch95): público quente primeiro e debriefing. **Divergências a registrar**: Carneiro ainda usa **segmentação** (interesse, comportamento, semelhantes) e **ABO isolado** para teste, enquanto o Roas defende Advantage+ aberto e CBO; Carneiro ainda cita **limite de custo, escala baiana e cluster** como opções, e o Roas coloca o limite de custo como segunda etapa da escala. **Cautelas**: números de poucas operações; alguns termos da transcrição são ambíguos (ex.: nome do "público mix"); o uso de sitemap para ver páginas de terceiros é informação pública, mas o conteúdo continua protegido por direitos autorais.

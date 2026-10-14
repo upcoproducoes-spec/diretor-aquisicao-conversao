@@ -80,3 +80,14 @@ Registre: o que mudou, o que não mudou, resultado, **por que** acreditamos que 
 - [ ] Termos regulados (saúde, finanças, jurídico) revisados?
 - [ ] Rastreamento (chave) definido?
 - [ ] 3 versões de gancho e plano de teste?
+
+## Roteiro comentado de ~40 s (modelo da série ch01-ch14)
+| Tempo | O que é dito/mostrado | O que está acontecendo (função) |
+|---|---|---|
+| 0 s | Gancho verbal curto + título na tela + primeira imagem que mostra o assunto | Gancho visual, texto e verbal juntos; terço superior livre |
+| ~5 s | Promessa concreta ou curiosidade, com pedido de curtida atrelado (opcional) | Benefício claro; primeiro pedido sem interromper |
+| 10-25 s | Entrega: instrução com número, medida, ângulo ou critério | Conteúdo executável; uma ideia só |
+| ~30 s | Prova/credencial em uma frase; produto citado de passagem, se houver | Autoridade depois da entrega; oferta no meio |
+| últimos 5-10 s | Pedido principal (seguir, comentar com recompensa ou enviar para alguém) | Corte seco, sem despedida nem vinheta |
+Preencher com: tema, nível de consciência, ponte (se tema amplo), fonte da prova, risco regulatório.
+

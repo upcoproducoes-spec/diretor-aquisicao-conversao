@@ -394,6 +394,28 @@ lançamento (CPL1 → CPL2 → CPL3 → preço no final) aplicada a qualquer pá
 ### Criativos (Dia 2) e copy (Dia 3)
 Ver `copywriting-publicidade`: **ch217** (método VIRAL, formato x copy, espionagem de formatos, lateralização, call semanal) e **ch215-ch216** (LHTCO, lead nativa, tese em 3 mecanismos, bloco de oferta com bônus e garantia pós-PIT).
 
+## Verificação com o vídeo do Hotmart Sessions (29/04/2026)
+
+*Proveniência:* em 2026-10-13 o usuário enviou o **vídeo** da masterclass que originou esta skill (Comunidade Hotmart, apresentação de Daiane Fernandes; ~1h20 de palestra + Q&A). Foi transcrito localmente e comparado, quadro a quadro, com as seções acima. **Resultado: a skill estava fiel**; abaixo, só o que o vídeo confirma, corrige ou acrescenta. Números do palestrante, **não verificados**. A análise persuasiva da palestra está em `copywriting-publicidade` ch220.
+
+**Confirmado no vídeo (slides ou fala):** front R$297, upsell R$597/697, downsell ~metade; 15% de upsell e 5-10% de downsell; ticket médio R$418; play rate ≥60%, 1º minuto ≥60% (3-5 microleads), PIT ≥30% com queda brusca; VSL principal 18-30 min, upsell 5-12 min (PIT ~7 min), downsell ~5 min; checkout pré-populado só para ticket alto; teste isolado de bloco de oferta (1,2% → 5,4% no 1º dia); order bump a medir; recuperação de upsell por tag + API + webinário gravado (10-20%); escala por ticket médio e CPA do limite de custo em ~R$220-250 para ticket médio de R$420; teste 1xN/1x1; +20%/dia; sem duplicação nem remarketing separado; criativo só em vídeo (similaridade).
+
+**Correções e precisões:**
+- **Numeração das fases de tráfego (slides):** Fase 01 **Teste** (mín. 24h) → Fase 02 **Validação** (+2 a 3 dias, excluindo dias ruins) → Fase 03 **Escala 01** → Fase 04 **Segunda etapa da escala** (limite de custo) → Fase 05 **Estabilidade** → Fase 06 **Fadiga** → Fase 07 **Recomeça**; "validação da conta de anúncios" é o **passo prévio**. A lista "6 fases" desta skill soma validação + 7 etapas: use a numeração dos slides ao conversar com o usuário. O slide da Fase 03 diz "joga pra Advantage e escala a própria campanha de testes" (a fala fala em subir os criativos validados para a campanha Advantage+ de um conjunto); a **Fase 04** é "força ao máximo em uma campanha de LC Advantage".
+- **Conta do 418 (slide):** 1.000 × R$297 = R$297.000; upsell 15% = 150 × R$697 = R$104.550; downsell 5% dos 850 que recusaram (~43) × R$397 = R$17.071; total R$418.621; **ticket médio R$418,62 (+40,9%)**.
+- **Recuperação de upsell:** fala = "mais de meio milhão de lucro puro em alguns projetos"; slide = "mais de meio milhão **ao mês em um dos projetos**".
+- **Níveis de escala (slide):** 0-1k/dia de lucro = 1 criativo + boa oferta; 1-10k/dia = alguns criativos + boa oferta; **>10k/dia = um bom funil**.
+- **Faixa de preço para frio:** produto de R$3.000-4.000 "não é precificação de público frio" (fala); R$5k+ vai para novo funil (webinário).
+- **Criativo "não segmenta por público":** slide com 4 exemplos (anúncio com homens → mais homens; engraçado → quem gosta de se divertir; dor específica → compradores potenciais) e a frase "não é a Meta quem escolhe o público, é o seu criativo".
+- **Página do upsell:** normalmente **fechada** (estilo VSL) com one-click buy; já houve teste com página aberta que converteu mais (A/B).
+- **Exemplo de dashboard na palestra:** tela com faturamento ~R$203,7 mil, gasto ~R$65,8 mil, ROAS 3,10 e lucro ~R$137,9 mil (valores lidos no slide, parcialmente borrados) e menção a "302K de faturamento em um dia"; ambos são relatos, não auditados.
+
+**Registro de tensões com outras skills:** a leitura que o palestrante faz de Brunson ("queimar dinheiro no front, ganhar no back") e a ideia de que "99% dos funis falham em 90 dias" são **opiniões/afirmações dele**; compare com `marketing-digital-growth` ch66-ch67 (escada de valor) e ch59-ch65 (Money Models, Hormozi). O próprio Roas defende que o **front dê lucro/empate** para quem começa; Hormozi e Brunson admitem CAC financiado pelo back-end.
+
+## Contraponto: metodologia de tráfego do Tráfego S.A. (Elmer Carneiro)
+
+Outra masterclass de tráfego (vídeo de 3 h, analisada em `marketing-digital-growth` ch96-ch99) usa a **Pirâmide da Escala** (teste de ativos → teste de escala → escala avançada) e diverge em pontos relevantes: **ainda testa segmentação** (interesse, comportamento, semelhantes; "não existe segmentação" é a posição do Roas), testa com **ABO isolado** (um criativo por conjunto, mesmo público e página), mantém **limite de custo, escala baiana e cluster** como opções, usa **regra 5-2-1** por semana (5 criativos, 2 públicos, 1 página) e sobe verba **15-20% por semana** com ROAS ≥ ~2,2 em perpétuo. Convergências: criativo como variável principal, decidir por dinheiro no bolso (não por CTR), teste em lotes e escala gradual. Ao orientar o usuário, apresente as duas leituras e explicite qual é a metodologia desta skill (a do Roas) quando o pedido for sobre o "funil 418".
+
 ## Como aplicar esta skill em diferentes pedidos do usuário
 
 - **Pergunta pontual** ("que ticket usar no downsell?", "por que meu CPA não escala?"): responda

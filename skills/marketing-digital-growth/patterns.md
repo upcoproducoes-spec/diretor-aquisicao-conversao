@@ -152,3 +152,18 @@ Técnicas de growth e funil formatadas para aplicação direta. Cada padrão ind
 **When to use**: Para gerar tráfego previsível a partir de relacionamento com quem já tem a atenção do seu público.
 **How**: Liste 25 donos de lista, 25 blogueiros, 25 podcasters, 25 influenciadores; siga, compre, entreviste, ajude com o projeto mais importante deles; só depois peça promoção, anuncie para os seguidores deles ou integre ofertas.
 **Trade-offs**: Demora meses e exige valor real ao parceiro; divulgue parcerias como publicidade quando for o caso. Ver ch88.
+
+## Lançamento Pago de 1 Dia (Ferrari)
+**When to use**: Especialista com audiência e ao menos um lançamento gratuito, em platô ou com queda de comparecimento.
+**How**: Ingresso de R$27-77 (lote zero a grupos antigos, subindo semanalmente), evento de ~6 h em um sábado (bloco 1, almoço com hot seat, conteúdo, pitch às ~15h, repeat no fim), 80% conteúdo / 20% prova; follow-up comercial humano desde a compra; página de obrigado com upsell; remarketing para quem não comprou o principal.
+**Trade-offs**: Menos leads que o gratuito; exige especialista que grave criativos; CAC pode ficar acima do ticket (calcule o back-end); escassez e lotes só se reais. Ver ch89-ch93.
+
+## CAC Aceitável por Cenários (lançamento pago)
+**When to use**: Antes de definir verba e metas de tráfego do ingresso.
+**How**: Planilhe 3-4 cenários (ingressos, CAC de tráfego, CAC geral, faturamento do ingresso, comparecimento, conversão no evento); calcule ticket médio com bump (20-30% de adesão, citado) e upsell; defina o teto de CPA como múltiplo do ticket médio; decida por etapa (custo por checkout).
+**Trade-offs**: Benchmarks dos professores vêm de poucas operações; revisar a cada ciclo. Ver ch91, ch94, ch95.
+
+## Corredor Polonês para Presença e Compra
+**When to use**: Entre a compra do ingresso e o evento, e entre o evento e o carrinho.
+**How**: Liste 5 maiores objeções e 5 maiores oportunidades (pesquisa com alunos), grave um vídeo por item, distribua 5 por vez a cada 5-7 dias só para público quente; reforce com depoimentos.
+**Trade-offs**: Não serve a público frio; evite criar objeção que a pessoa não tinha. Ver ch92, ch94.
