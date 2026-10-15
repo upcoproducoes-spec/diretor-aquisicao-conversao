@@ -167,3 +167,18 @@ Técnicas de growth e funil formatadas para aplicação direta. Cada padrão ind
 **When to use**: Entre a compra do ingresso e o evento, e entre o evento e o carrinho.
 **How**: Liste 5 maiores objeções e 5 maiores oportunidades (pesquisa com alunos), grave um vídeo por item, distribua 5 por vez a cada 5-7 dias só para público quente; reforce com depoimentos.
 **Trade-offs**: Não serve a público frio; evite criar objeção que a pessoa não tinha. Ver ch92, ch94.
+
+## Planejamento do Lançamento Pago em Planilha (Baldan)
+**When to use**: Antes de abrir a captação do ingresso.
+**How**: Defina meta de ingressos por lote e canal (conteúdo, base, outros, tráfego), faturamento (ingresso, gravação, produto), distribua verba (imposto, distribuição, remarketing, API) e calcule o CPA máximo; simule CPM, CTR, connect rate e conversão da página; se o CPA simulado passar do máximo, reduza a meta ou melhore as métricas; mantenha 20% de folga e calcule o pacing por dia útil.
+**Trade-offs**: A planilha aceita tudo; confirme com série histórica. Ver ch105.
+
+## Diagnóstico Página→Checkout→Compra
+**When to use**: Conversão do ingresso abaixo do plano.
+**How**: Meça página→checkout e checkout→compra; 50% e 70% são sinais de alerta (curiosidade ou pouca intenção); ajuste primeiro preço e escassez na primeira dobra; só depois mexa no checkout; crie campanha com objetivo de checkout para formar público de remarketing.
+**Trade-offs**: Faixas vêm de projetos do palestrante. Ver ch108, ch111.
+
+## Cronograma de Evento Pago com Alinhamento
+**When to use**: Montar a agenda do workshop de 1-2 dias.
+**How**: Abertura com contagem regressiva, cronograma, 80/20, patrocinador e #tápago; fundamentos → teoria → exemplo → prática; melhor conteúdo antes do pitch mais longo; pitches antes das pausas; blocos cortáveis; pesquisa de intenção antes da oferta; NPS e ligação + SMS para comparecimento.
+**Trade-offs**: Para evento de um dia, apertado: um pitch de ancoragem e abertura de carrinho à tarde. Ver ch112.

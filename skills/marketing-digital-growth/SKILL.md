@@ -7,9 +7,9 @@ description: Base de conhecimento sintetizada de 10 livros sobre growth e market
 
 # marketing-digital-growth
 
-**Autores/Capítulos:** Sean Ellis & Morgan Brown (Hacking Growth, ch01-ch09) · Martha Gabriel & Rafael Kiso (Marketing na Era Digital, ch10-ch23) · Rafael Kiso (Unbound Marketing, ch24-ch29) · Jeff Walker (Launch, Updated & Expanded Edition 2021, ch30-ch35) · Seth Godin (Purple Cow + This Is Marketing, ch36-ch48) · Alex Hormozi ($100M Leads, 2023, ch49-ch58 + $100M Money Models, 2025, ch59-ch65) · Russell Brunson (DotCom Secrets, 2015, ch66-ch77 + Expert Secrets, 2017, ch78-ch88) · Leandro Ferrari e Demetrius Lima (Masterclass Lançamento Pago, vídeo, 2025-2026, ch89-ch95) · Elmer Carneiro (Masterclass Tráfego, Tráfego S.A., vídeo, 2026, ch96-ch99)
-**Livros:** 10 + 2 masterclasses em vídeo · **Capítulos:** 99
-**Gerado:** 2026-09-11 · **Atualizado:** 2026-10-14
+**Autores/Capítulos:** Sean Ellis & Morgan Brown (Hacking Growth, ch01-ch09) · Martha Gabriel & Rafael Kiso (Marketing na Era Digital, ch10-ch23) · Rafael Kiso (Unbound Marketing, ch24-ch29) · Jeff Walker (Launch, Updated & Expanded Edition 2021, ch30-ch35) · Seth Godin (Purple Cow + This Is Marketing, ch36-ch48) · Alex Hormozi ($100M Leads, 2023, ch49-ch58 + $100M Money Models, 2025, ch59-ch65) · Russell Brunson (DotCom Secrets, 2015, ch66-ch77 + Expert Secrets, 2017, ch78-ch88) · Leandro Ferrari e Demetrius Lima (Masterclass Lançamento Pago, vídeo, 2025-2026, ch89-ch95) · Elmer Carneiro (Masterclass Tráfego, Tráfego S.A., vídeo, 2026, ch96-ch99) · Willian Baldan (Workshop Lançamento Pago, Rise, vídeo, 2026, ch100-ch112, Partes 1-4 de 4; a Parte 4 termina durante o pitch final)
+**Livros:** 10 + 3 masterclasses/workshops em vídeo · **Capítulos:** 112
+**Gerado:** 2026-09-11 · **Atualizado:** 2026-10-15
 
 ## Como Usar Esta Skill
 
@@ -212,6 +212,26 @@ Esta skill sintetiza; nunca copia texto bruto dos livros-fonte. Onde os 8 livros
 | ch98 | [Estrutura de Testes, Escala e Verba](chapters/ch98-carneiro-trafego-sa-estrutura-de-testes-escala-e-verba.md) | ABO isolado, orçamento por CPL/CPA, 3-6x3-6, ASC, aumento semanal, divergências com o Roas |
 | ch99 | [Indicadores, Otimização, Dicas e Q&A](chapters/ch99-carneiro-trafego-sa-indicadores-otimizacao-dicas-e-perguntas.md) | Funil perfeito x real, método científico em 4 passos, debriefing, benchmark x cópia |
 
+### Livro 12 — Workshop Lançamento Pago (Willian Baldan, Rise, vídeo)
+
+*Proveniência*: workshop ao vivo de dois dias (5ª edição), gravado em quatro partes (~11 h) e transcrito localmente; **esta versão cobre as Partes 1 a 4** (Dia 1 inteiro e Dia 2 até o pitch final; o vídeo termina durante a oferta). Números e casos são **do palestrante (também vende a própria mentoria), não verificados**; a transcrição tem ruído. Complementa Ferrari/Lima (ch89-ch95); alguns pontos de divergência estão nos próprios capítulos.
+
+| # | Título | Frameworks-Chave |
+|---|---|---|
+| ch100 | [Tese, Trajetória e Casos](chapters/ch100-baldan-lancamento-pago-tese-trajetoria-e-casos.md) | Cliente > lead, estratégia ruim = esforço desproporcional, timing + IA, série de lançamentos, margem 10%→29% |
+| ch101 | [Métricas, Objetivo e Preço do Ingresso](chapters/ch101-baldan-lancamento-pago-metricas-objetivo-e-preco-do-ingresso.md) | Primária x secundária, R$/ingresso, 33 ingressos/dia, dados por lote e por semana, ingresso de R$1 |
+| ch102 | [Quatro Fases, Promessa e Gravação](chapters/ch102-baldan-lancamento-pago-quatro-fases-promessa-e-gravacao.md) | Estratégia/bilheteria/evento/carrinho, promessa prática, gravação "em formato de aulas", cashback, ticket ≥ R$997 |
+| ch103 | [Bilheteria: Página, Tráfego em Camadas e Single Shot](chapters/ch103-baldan-lancamento-pago-bilheteria-pagina-trafego-e-single-shot.md) | Atração/teste/vendas/remarketing, single shot, virada de lote, R$9,90 ao vivo, API |
+| ch104 | [Evento, Cronograma, Carrinho e Comercial](chapters/ch104-baldan-lancamento-pago-evento-cronograma-carrinho-e-comercial.md) | Pitch distribuído, cronograma colorido, 2 dias, carrinho 10-17 dias, 11+5 abordagens, boleto final |
+| ch105 | [Planejamento da Estratégia em Planilha](chapters/ch105-baldan-lancamento-pago-planejamento-da-estrategia-em-planilha.md) | Meta, lotes, canais, pacing por dia útil, CPA máximo x simulado, gordura de 20% |
+| ch106 | [Campanhas: Vendas, Remarketing, Escassez, Atração e Single Shot](chapters/ch106-baldan-lancamento-pago-tracking-de-campanhas-e-single-shot-na-pratica.md) | Prioridade de impacto, campanha contínua que não pausa, E1/E2/E3, campanha de teste, single shot |
+| ch107 | [Criativos Campeões e Leitura de Métricas](chapters/ch107-baldan-lancamento-pago-criativos-campeoes-e-leitura-de-metricas.md) | Hook rate, conversão, CTR, CPA, tela final, UGC, CTR e confiança de marca |
+| ch108 | [Página de Vendas: Design, Retenção e Métricas de Rolagem](chapters/ch108-baldan-lancamento-pago-pagina-de-vendas-design-retencao-e-metricas-de-rolagem.md) | Peneira, rolagem até preço/fim, clique ao checkout, princípios de design, preço e escassez na 1ª dobra |
+| ch109 | [Ordem da Copy na Página e Loops Abertos](chapters/ch109-baldan-lancamento-pago-pagina-de-vendas-ordem-da-copy-e-loops-abertos.md) | Promessa → caminho → identificação → conteúdo, método como protagonista, meio x fim |
+| ch110 | [Barra de Progresso, Virada de Lote, Teste de Redline e Perguntas](chapters/ch110-baldan-lancamento-pago-barra-de-progresso-virada-de-lote-teste-de-redline-e-perguntas.md) | Barra real, estourar o lote, 10 estáticos de redline, números sujos, perguntas práticas |
+| ch111 | [Masterizar a Bilheteria: Gargalos, Checkout e UGC](chapters/ch111-baldan-lancamento-pago-masterizar-a-bilheteria-gargalos-checkout-e-ugc.md) | Página→checkout x checkout→compra, campanha de checkout, R$9,90 pontual, credenciamento, UGC |
+| ch112 | [Cronograma de Conteúdo do Evento e Pesquisas de Consciência](chapters/ch112-baldan-lancamento-pago-cronograma-de-conteudo-do-evento-e-pesquisas-de-consciencia.md) | Alinhamento 80/20, #tápago, ciclos, pitch antes da pausa, pesquisa de intenção, NPS, ligação+SMS |
+
 ## Índice de Tópicos
 
 - **Escada de Valor (Value Ladder) / Funil de vendas (Brunson)** — ch66, ch67, ch72, ch74
@@ -235,6 +255,17 @@ Esta skill sintetiza; nunca copia texto bruto dos livros-fonte. Onde os 8 livros
 - **Públicos (semelhantes, mix, palavras-chave) e páginas (quiz, 4 âmbitos)** — ch97
 - **Estruturas de teste (ABO isolado, CBO), orçamento de teste e escala semanal** — ch98 (ver também `funil-vsl-thiago-roas`)
 - **Método científico de otimização e debriefing** — ch99
+- **Lançamento pago de Willian Baldan (tese, métricas, preço do ingresso, gravação, evento e carrinho)** — ch100-ch104
+- **Gravação em formato de aulas + cashback** — ch102 (ver também ch92)
+- **Single shot, virada de lote e remarketing de ingresso** — ch103 (ver também ch92)
+- **Plano em planilha (CPA máximo, pacing, canais do ingresso)** — ch105 (ver também ch91, ch94)
+- **Estrutura de campanhas do lançamento pago (vendas, remarketing, escassez, atração, teste)** — ch106
+- **Criativos campeões e leitura por bloco (hook, conversão, CTR, CPA)** — ch107 (ver também ch96)
+- **Página de vendas do ingresso (design, rolagem, preço na 1ª dobra, botão fixo)** — ch108
+- **Ordem da copy da página e loops abertos (promessa, caminho, identificação)** — ch109 (ver também ch102)
+- **Barra de progresso real, virada de lote, teste de redline com estáticos, números sujos** — ch110 (ver também ch103, ch106)
+- **Diagnóstico página→checkout→compra, campanha de checkout, credenciamento, UGC isolado** — ch111 (ver também ch106-ch107)
+- **Cronograma do evento, alinhamento de expectativa, pesquisa de intenção, NPS, comparecimento** — ch112 (ver também ch104)
 - **Alto ticket por aplicação e telefone (setter/closer, 4 perguntas)** — ch77, ch87 (com alertas éticos)
 - **Engenharia reversa de concorrente** — ch71
 - **3Hs (Help/Hub/Hero)** — ch26 (ver também Content Unit/Hook-Retain-Reward, ch52, para o nível micro de cada peça)

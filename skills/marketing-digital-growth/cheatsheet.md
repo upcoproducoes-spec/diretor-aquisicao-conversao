@@ -212,3 +212,17 @@ Regra de ouro (ch59, ch65): construa um estágio de cada vez; caixa de 30 dias �
 | Verba de teste curta | Teste em lotes, não reduzir orçamento por conjunto | ch98 |
 
 **Referências citadas (a validar no seu mercado)**: hook rate ~30%, hold rate ~15%, CTR ~1%; orçamento de teste 2-3x CPL por conjunto (captura) ou 30-40% do CPA (perpétuo); 72 h mínimo e 7 dias ideal; aumento de 15-20% por semana; ROAS ≥ ~2,2 para subir em perpétuo.
+
+## Lançamento pago (Baldan, ch100-ch112) — diagnóstico rápido
+
+| Sintoma | Primeira hipótese | Onde |
+|---|---|---|
+| Página→checkout ~35-50%, compra baixa | Sem preço/escassez na 1ª dobra; lead acha que é gratuito | ch108, ch111 |
+| Checkout→compra ~70%, volume baixo | Página não gera desejo; só chega quem já ia comprar | ch111 |
+| Rolagem até preço ~12% | Retenção da parte de cima (design/copy) | ch108 |
+| CPA do ingresso acima do máximo | Refazer planilha: CPM, CTR, connect, conversão | ch105 |
+| Criativos novos não vendem | Testar isolado com ~2,5x CPA; UGC em volume | ch106, ch111 |
+| Reclamação de pitch no evento | Falta de alinhamento 80/20 e de conteúdo profundo antes | ch112 |
+| Comparecimento baixo | Ligação + SMS, tutorial de Zoom, lembretes | ch112 |
+
+**Referências citadas (a validar no seu mercado)**: conversão da página 5-7% muito bom; hook rate ≥ ~22%; CTR 0,8-1,8%; página→checkout ~15-18%; checkout→compra 35-45%; NPS 70-85; single shot 13-14% dos ingressos; ligação atendida 71-75%.

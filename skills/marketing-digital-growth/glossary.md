@@ -356,3 +356,29 @@ Termos e frameworks centrais dos 10 livros-fonte (Livros 1-9, incluindo Hormozi 
 **Público mix** — combinação de público quente, semelhante e interesse em uma única segmentação. Ch97.
 
 **Regra 5-2-1** — testar por semana 5 criativos, 2 públicos e 1 página. Ch96.
+
+## Acréscimos — Workshop Lançamento Pago (Livro 12, ch100-ch112)
+
+**#tápago** — comentário pedido ao público a cada insight valioso; gera feedback, prova social e argumento contra reclamação no pitch. Ch112.
+
+**80/20 (evento pago)** — 80% conteúdo e 20% venda, avisado na abertura e com patrocinador/produto declarados. Ch112.
+
+**Barra de progresso do lote** — barra ligada às vendas reais; converte mais a partir de ~85-90% e quando estoura um pouco antes da virada. Ch110.
+
+**Campanha de checkout** — campanha com objetivo de iniciar checkout, que forma público qualificado para remarketing e vendas. Ch111.
+
+**Caminho (tangibilização da promessa)** — seção logo após a promessa que explica por que ela é possível (trabalho do especialista, mercado, caso). Ch109.
+
+**CPA máximo (planilha)** — teto por ingresso derivado do plano; compara CPA estimado (CPM, CTR, connect rate, conversão) com o máximo, com 20% de folga. Ch105.
+
+**Credenciamento** — formulário que emite crachá e oferece link de R$1 para convidar amigo; CAC zero, conversão 3-4x menor. Ch111.
+
+**Mapa de rolagem** — taxa de rolagem até o preço (~50%), até o fim (~30%) e clique ao checkout (~18%). Ch108.
+
+**Números sujos** — decisões por totais absolutos de segmento em vez de taxas de conversão. Ch110.
+
+**Pitch de ancoragem** — primeiro pitch com preço cheio; o preço especial só aparece a partir do segundo. Ch112, ch222.
+
+**Single shot** — anúncio de visualização única com metade do preço para quem viu e não comprou. Ch103, ch106.
+
+**Tela final (criativo)** — 10-14 s com nome, data, promessa e preço de referência. Ch107.

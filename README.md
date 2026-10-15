@@ -11,14 +11,14 @@ skills/
   diretor-aquisicao-conversao/   orquestrador mestre
   estrategia-negocios/           118 capítulos — Sun Tzu, Porter, Rumelt, Collins, Kim & Mauborgne, Lafley & Martin, Mintzberg, Ries & Trout (Positioning), Hormozi ($100M Offers + Lost Chapters)
   psicologia-consumidor/         52 capítulos — Freud (Interpretação dos Sonhos, O Eu e o Id, Cinco Lições) + Kahneman (Rápido e Devagar)
-  marketing-digital-growth/      99 capítulos — Hacking Growth, Marketing na Era Digital, Unbound Marketing, Jeff Walker, Seth Godin, Hormozi ($100M Leads + Money Models), Russell Brunson (DotCom Secrets + Expert Secrets), masterclass de Lançamento Pago (Ferrari e Lima) e masterclass de Tráfego (Carneiro)
+  marketing-digital-growth/      112 capítulos — Hacking Growth, Marketing na Era Digital, Unbound Marketing, Jeff Walker, Seth Godin, Hormozi ($100M Leads + Money Models), Russell Brunson (DotCom Secrets + Expert Secrets), masterclass de Lançamento Pago (Ferrari e Lima) masterclass de Tráfego (Carneiro) e workshop de Lançamento Pago (Baldan)
   persuasao-gatilhos/            94 capítulos — Cialdini (As Armas da Persuasão + Pré-Suasão), Carnegie, Gustavo Ferreira
-  copywriting-publicidade/       220 capítulos — Ferreira, Maccedo, Ogilvy, Bencivenga, Carlton, Halbert, Schwartz, Makepeace, Sugarman, Collier, Kennedy, Claude Hopkins, John Caples, Thiago Filemon (aulas de VSL e análise do lançamento pago de 2 dias), Thiago Roas (análise do evento de 4 dias, copy LHTCO, criativos)
+  copywriting-publicidade/       222 capítulos — Ferreira, Maccedo, Ogilvy, Bencivenga, Carlton, Halbert, Schwartz, Makepeace, Sugarman, Collier, Kennedy, Claude Hopkins, John Caples, Thiago Filemon (aulas de VSL e análise do lançamento pago de 2 dias), Thiago Roas (análise do evento de 4 dias, copy LHTCO, criativos)
   vendas-metodologia/            61 capítulos — Dixon & Adamson, Gitomer, Ross & Tyler, Rackham, Pink, Chris Voss
   funil-vsl-thiago-roas/         metodologia de funil de VSL perpétuo e tráfego (inclui atualização do evento de 4 dias)
   criacao-conteudo-social-media/ playbook aplicado (fluxo de 8 passos + modelos) que roteia para as skills acima
 
-  Total: 658 capítulos sintetizados de ~56 obras, aulas e masterclasses (inclui 14 da skill de conteúdo).
+  Total: 673 capítulos sintetizados de ~57 obras, aulas e masterclasses (inclui 14 da skill de conteúdo).
 
 agents/
   revisor-estrategia.md

@@ -6,7 +6,7 @@ description: "Base de conhecimento sintetizada de 15 livros/arquivos/aulas de co
 <!-- argument-hint: [tópico, framework, autor, ou número de capítulo] -->
 
 # Copywriting & Publicidade — Base de Conhecimento (16 Livros/Arquivos/Aulas)
-**Autores**: Gustavo Ferreira, Paulo Maccedo, David Ogilvy, Miles Young, Gary Bencivenga, John Carlton, Gary Halbert, Eugene Schwartz, Clayton Makepeace, Joseph Sugarman, Robert Collier, Dan Kennedy, Thiago Filemon (aulas de VSL), Claude Hopkins, John Caples | **Capítulos**: 220 | **Gerado**: 2026-09-23 | **Atualizado**: 2026-10-13
+**Autores**: Gustavo Ferreira, Paulo Maccedo, David Ogilvy, Miles Young, Gary Bencivenga, John Carlton, Gary Halbert, Eugene Schwartz, Clayton Makepeace, Joseph Sugarman, Robert Collier, Dan Kennedy, Thiago Filemon (aulas de VSL), Claude Hopkins, John Caples | **Capítulos**: 222 | **Gerado**: 2026-09-23 | **Atualizado**: 2026-10-15
 
 ## Como Usar Esta Skill
 
@@ -418,6 +418,8 @@ Publicidade é **salesmanship multiplicada**: toda dúvida se resolve com "isto 
 | [ch217](chapters/ch217-roas-prisciane-criativos-que-escalam-metodo-viral-formato-copy-e-lateralizacao.md) | Prisciane: Criativos que Escalam | Método VIRAL, Formato x copy, Espionagem de formatos, Lateralização, Call semanal |
 | [ch218](chapters/ch218-roas-analise-visual-slides-provas-e-design-do-pitch.md) | Análise Visual dos Vídeos: Slides, Provas, Ambiente e Design do Pitch | Três temas de slide, Prova em formato fixo, Pitch como VSL em slides, Demonstração do produto, Retenção até o pitch |
 | [ch220](chapters/ch220-roas-hotmart-sessions-palestra-de-autoridade-estrutura-ganchos-e-persuasao.md) | Hotmart Sessions: a Palestra de Autoridade (Estrutura, Ganchos, Slides e Persuasão) | Resultado→quebra de crença→demonstração→reciprocidade, Conta do R$418, Fases de tráfego (slides), Pontos críticos |
+| [ch221](chapters/ch221-baldan-workshop-lancamento-pago-pitch-da-mentoria-rise-e-gestao-de-expectativa.md) | Baldan, Workshop Lançamento Pago: o Pitch da Mentoria Rise (Estrutura, Gatilhos e Gestão de Expectativa) | Pitch tardio, presente por aplicação, escassez com razão, loop do Dia 2, pontos críticos |
+| [ch222](chapters/ch222-baldan-workshop-lancamento-pago-analise-ao-vivo-de-paginas-e-oferta-final-da-mentoria.md) | Baldan, Workshop Lançamento Pago: Análise ao Vivo de Páginas e Oferta Final da Mentoria | Erros de redline e estrutura, lastro, vícios de IA, âncora em dobro, parcelamento, limites e ética |
 
 ## Índice de Tópicos
 
@@ -525,6 +527,8 @@ Publicidade é **salesmanship multiplicada**: toda dúvida se resolve com "isto 
 - **Criativos (método VIRAL, formato x copy, lateralização, espionagem de formatos)** → ch217
 - **Slides de pitch / sequência de provas / design visual do evento / demonstração do produto no pitch** → ch218 (e ch209 para o pitch do Filemon)
 - **Palestra de autoridade sem pitch (estrutura, ganchos, Q&A como prova)** → ch220 (ver também ch211-ch214)
+- **Pitch tardio de mentoria em workshop pago (aplicação, escassez, loop do dia seguinte)** → ch221 (ver também ch209, ch213)
+- **Crítica de páginas de ingresso e oferta final com âncora em dobro** → ch222 (ver também ch221, `marketing-digital-growth` ch108-ch109)
 - **Prova social como troca (marcações por slides) / enquetes e votos** → ch212
 - **Tipos de Produto de Entrada (resumo, filé, antídoto)** → ch171
 - **TV/comerciais** → ch25, ch37, ch84, ch95
