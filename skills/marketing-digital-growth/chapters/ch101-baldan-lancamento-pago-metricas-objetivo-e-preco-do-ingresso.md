@@ -40,4 +40,4 @@ Para ele, o jogo se decide em **poucas métricas primárias** (quanto investe, q
 5. Meça por semana, isolando o ingresso de R$1.
 
 ## Connects To
-ch100, ch102-ch10x • ch89, ch91-ch92 (ticket, lote, CAC) • ch54, ch59 (CAC, payback) • `funil-vsl-thiago-roas` (ticket médio).
+ch100, ch102-ch10x • ch89, ch91-ch92 (ticket, lote, CAC) • ch54, ch59 (CAC, payback) • `estrategia-trafego-funil` (ticket médio).

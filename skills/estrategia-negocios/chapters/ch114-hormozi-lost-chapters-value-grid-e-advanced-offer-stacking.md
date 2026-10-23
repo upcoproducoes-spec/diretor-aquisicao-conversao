@@ -50,5 +50,5 @@
 - **Ch 115-116 (ofertas de atração, upsell e continuidade)**: catálogo de peças.
 - **Ch 78 (Produtos Complementares, Bundling e Subsídio Cruzado, Porter)**: o raciocínio estrutural de complementos e subsídio cruzado é o fundamento teórico do stacking.
 - **Ch 79 (Estratégia Defensiva)**: capacidade de gastar mais por cliente como barreira ao entrante.
-- **Skill `funil-vsl-thiago-roas`**: estrutura front/upsell/downsell em perpétuos de VSL (usar as métricas desta grade).
+- **Skill `estrategia-trafego-funil`**: estrutura front/upsell/downsell em perpétuos de VSL (usar as métricas desta grade).
 - **Skill `marketing-digital-growth`, ch59-ch65 ($100M Money Models: Attraction, Upsell, Downsell, Continuity e Montando seu Money Model)**: o catálogo principal de ofertas que a grade organiza; este capítulo traz a visão em grade e o fluxo de stacking cortados do livro.

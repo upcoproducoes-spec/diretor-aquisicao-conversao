@@ -30,7 +30,7 @@ A bilheteria depende de **quatro alavancas ligadas**: **anúncios, conteúdo, tr
 ## Cuidados
 - **Escassez e lote** só são éticos se verdadeiros (preço e prazo realmente mudam; "últimos ingressos" real).
 - Remarketing por API exige base legal e canal oficial de descadastro (LGPD).
-- Comparar com `funil-vsl-thiago-roas`: aqui há testes isolados e campanhas separadas de remarketing, enquanto o Roas defende Advantage aberto e sem remarketing manual; registrar a divergência.
+- Comparar com `estrategia-trafego-funil`: aqui há testes isolados e campanhas separadas de remarketing, enquanto o Roas defende Advantage aberto e sem remarketing manual; registrar a divergência.
 
 ## Key Takeaways
 1. Página é o gargalo do tráfego: meça visita → compra.
@@ -40,4 +40,4 @@ A bilheteria depende de **quatro alavancas ligadas**: **anúncios, conteúdo, tr
 5. Teste números "redondos" que o seu público aceita.
 
 ## Connects To
-ch91-ch92 (tráfego e lotes, Ferrari) • ch94-ch95 (tráfego, Lima) • ch96-ch99 (Carneiro) • `funil-vsl-thiago-roas` • ch100-ch102, ch104.
+ch91-ch92 (tráfego e lotes, Ferrari) • ch94-ch95 (tráfego, Lima) • ch96-ch99 (Carneiro) • `estrategia-trafego-funil` • ch100-ch102, ch104.

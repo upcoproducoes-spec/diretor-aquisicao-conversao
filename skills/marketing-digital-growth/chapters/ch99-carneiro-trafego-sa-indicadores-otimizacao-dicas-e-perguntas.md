@@ -36,4 +36,4 @@ A terceira etapa da pirâmide é **indicadores e otimização**: o funil real pe
 5. Gratuito no começo; pago quando há audiência quente.
 
 ## Connects To
-ch89-ch95 (lançamento pago), ch96-ch98 • `funil-vsl-thiago-roas` • ch12-ch13 • `psicologia-consumidor` (pesquisa).
+ch89-ch95 (lançamento pago), ch96-ch98 • `estrategia-trafego-funil` • ch12-ch13 • `psicologia-consumidor` (pesquisa).

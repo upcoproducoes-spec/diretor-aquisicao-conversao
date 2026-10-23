@@ -32,7 +32,7 @@ O tráfego do lançamento pago é um **sistema de campanhas com papéis distinto
 - **Escassez** só se for verdadeira (lote realmente vira, single shot realmente aparece uma vez).
 - Não mostrar preço em campanha contínua; em vez disso, use referência ("custa menos que...").
 - Referência de lista de alunos: LGPD e base legal.
-- Divergência: aqui há campanhas de remarketing e segmentação por públicos (quente/frio), enquanto `funil-vsl-thiago-roas` (metodologia Roas) rejeita segmentação manual e remarketing separado; registrar.
+- Divergência: aqui há campanhas de remarketing e segmentação por públicos (quente/frio), enquanto `estrategia-trafego-funil` (metodologia Roas) rejeita segmentação manual e remarketing separado; registrar.
 
 ## Key Takeaways
 1. Mantenha a campanha de vendas contínua e coloque lote/preço em campanha separada.
@@ -42,4 +42,4 @@ O tráfego do lançamento pago é um **sistema de campanhas com papéis distinto
 5. Planeje um single shot por lote, com 6 versões de roteiro.
 
 ## Connects To
-ch103, ch105, ch107 • ch91-ch92 (Ferrari) • ch94-ch95 (Lima) • ch96-ch99 (Carneiro) • `funil-vsl-thiago-roas`.
+ch103, ch105, ch107 • ch91-ch92 (Ferrari) • ch94-ch95 (Lima) • ch96-ch99 (Carneiro) • `estrategia-trafego-funil`.

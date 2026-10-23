@@ -64,4 +64,4 @@ Ao fim de dois dias, o professor afirma que a turma tem o **primeiro rascunho** 
 ## Connects To
 - ch165 (fórmula), ch173 (mapa), ch168 (IA), ch169 (formato), ch161 (ascensão).
 - ch06 (Roteiro de 52 Passos), ch18 (Modelo 10B), ch64 (Template de 10 Blocos de Carlton), ch98 (Fact/Deal Sheet), ch151-156 (Kennedy, 29 passos).
-- `funil-vsl-thiago-roas` (o que vem depois: páginas, upsell, downsell, tráfego) e `diretor-aquisicao-conversao` (Fases 10-11).
+- `estrategia-trafego-funil` (o que vem depois: páginas, upsell, downsell, tráfego) e `diretor-aquisicao-conversao` (Fases 10-11).

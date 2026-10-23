@@ -42,5 +42,5 @@
 - ch13 (recuperação de carrinho e pagamentos): falhas de pagamento recorrente são o equivalente pós-venda de carrinho abandonado (recuperação de cobrança).
 - ch30 (Walker, Renda Sob Demanda) e ch47 (LTV/Cauda longa): receita recorrente vs. picos de lançamento; Hormozi complementa o modelo por picos com base recorrente.
 - ch41, ch48 (Godin, tribo/ética): títulos e pertencimento como "bônus" de identidade.
-- Skill `funil-vsl-thiago-roas`: o funil 418 é um funil sem continuity por padrão; ao projetar membership/assinatura após o front, aplicar as regras de cadência e cancelamento aqui, respeitando metodologia de Roas na parte de tráfego.
+- Skill `estrategia-trafego-funil`: o funil 418 é um funil sem continuity por padrão; ao projetar membership/assinatura após o front, aplicar as regras de cadência e cancelamento aqui, respeitando metodologia de Roas na parte de tráfego.
 - Skill `persuasao-gatilhos`: compromisso e consistência, aversão à perda (fees) — e seus limites éticos.

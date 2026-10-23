@@ -44,4 +44,4 @@ Havia um acervo gigantesco sem uso e vídeos que abriam pelo resultado limpo em 
 5. Registre o que aprendeu de cada lote.
 
 ## Connects To
-ch07 (banco de ideias) • ch12 (omnichannel) • ch14 (desafio e rotina) • `marketing-digital-growth` (experimentação, cadência) • `funil-vsl-thiago-roas` (lateralização; ch217).
+ch07 (banco de ideias) • ch12 (omnichannel) • ch14 (desafio e rotina) • `marketing-digital-growth` (experimentação, cadência) • `estrategia-trafego-funil` (lateralização; ch217).

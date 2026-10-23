@@ -41,7 +41,7 @@ O lançamento de 2 dias do Filemon é um bom exemplo de **evento-demonstração*
 2. **Desenhe 5-7 entregáveis** (um a cada 30-45 min) e a **barra de progresso**.
 3. **Prepare o caso fictício** que acompanhará todo o evento, e **o material de apoio** (prompts, modelos, documentos).
 4. **Planeje o pitch com antecedência**: produto, preço único, bônus **reais**, garantia **por escrito**, prazo e vagas verdadeiros, e **o que fica retido** (e por quê).
-5. **Anúncios do ingresso**: um criativo por ângulo; teste com rastreio (ver ch189-ch206 e `funil-vsl-thiago-roas`).
+5. **Anúncios do ingresso**: um criativo por ângulo; teste com rastreio (ver ch189-ch206 e `estrategia-trafego-funil`).
 
 ### Dia 1 — Fundamento e primeiros entregáveis (≈2-3 h)
 - Abertura (promessa, prova **verificada**, pacto de atenção, compromisso leve).
@@ -86,4 +86,4 @@ O lançamento de 2 dias do Filemon é um bom exemplo de **evento-demonstração*
 
 ## Connects To
 - ch207-ch209 (análise), ch160-ch180 (ensinamentos), ch189-ch206 (testar anúncios e apelos com chave e split-run).
-- `funil-vsl-thiago-roas`, `marketing-digital-growth` (ch30-ch35, ch76, ch83-ch88), `persuasao-gatilhos` (ch19, ch52, ch58), `estrategia-negocios` (oferta, garantia, empilhamento) e `vendas-metodologia` (objeções e fechamento).
+- `estrategia-trafego-funil`, `marketing-digital-growth` (ch30-ch35, ch76, ch83-ch88), `persuasao-gatilhos` (ch19, ch52, ch58), `estrategia-negocios` (oferta, garantia, empilhamento) e `vendas-metodologia` (objeções e fechamento).

@@ -47,4 +47,4 @@ Princípio → aplicação → mecanismo (detalhe fino) → caso → lista de er
 5. O perfil é a "fachada da loja": a bio e o fixado convertem a visita em seguidor ou lead.
 
 ## Connects To
-`copywriting-publicidade` ch183, ch189-ch192 (gancho/headline), ch217 (formato e lateralização) • `persuasao-gatilhos` • `marketing-digital-growth` ch69-ch70 (personagem) • `funil-vsl-thiago-roas` • ch02–ch14 desta skill.
+`copywriting-publicidade` ch183, ch189-ch192 (gancho/headline), ch217 (formato e lateralização) • `persuasao-gatilhos` • `marketing-digital-growth` ch69-ch70 (personagem) • `estrategia-trafego-funil` • ch02–ch14 desta skill.

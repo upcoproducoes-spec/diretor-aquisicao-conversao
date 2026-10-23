@@ -39,4 +39,4 @@ O lançamento pago é uma **extensão do lançamento gratuito** criada para atac
 5. Registre o que mudou em cada ciclo (comparecimento, conversão, CPL).
 
 ## Connects To
-ch30-ch35 (Launch, Jeff Walker: lançamento gratuito por sequência) • ch76, ch87-ch88 (webinar, lançamento Epiphany, Brunson) • ch54, ch59 (CAC e payback, Hormozi) • ch90-ch95 desta série • `copywriting-publicidade` ch207-ch210 (Filemon, lançamento pago de 2 dias), ch211-ch214 (Roas, 4 dias) • `funil-vsl-thiago-roas`.
+ch30-ch35 (Launch, Jeff Walker: lançamento gratuito por sequência) • ch76, ch87-ch88 (webinar, lançamento Epiphany, Brunson) • ch54, ch59 (CAC e payback, Hormozi) • ch90-ch95 desta série • `copywriting-publicidade` ch207-ch210 (Filemon, lançamento pago de 2 dias), ch211-ch214 (Roas, 4 dias) • `estrategia-trafego-funil`.

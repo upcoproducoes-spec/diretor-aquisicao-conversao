@@ -43,4 +43,4 @@ Depois de operar os quatro métodos, a pergunta é como gerar mais leads sem inv
 - ch03 (Alavancas de crescimento): mesma lógica de encontrar a alavanca de maior retorno.
 - ch09 (AARRR) e cheatsheet.md (Diagnóstico de funil): localizar onde o funil vaza.
 - ch34 (Walker, variações de lançamento) e ch21 (omnichannel): "novo" = novos canais; compare com a escalada gradual de lançamento.
-- Skill `funil-vsl-thiago-roas`: as 6 fases de escala e teste de criativo — mesma ideia de More (orçamento), Better (criativo) e New (nova campanha/estrutura).
+- Skill `estrategia-trafego-funil`: as 6 fases de escala e teste de criativo — mesma ideia de More (orçamento), Better (criativo) e New (nova campanha/estrutura).

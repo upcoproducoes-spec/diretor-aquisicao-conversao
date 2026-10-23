@@ -48,4 +48,4 @@ Os números do Teste dos 100 Visitantes (1% x 8%, 25%, US$394, 34% de bump, US$6
 - ch73 (Brunson, 23 blocos), ch72 (7 fases) e ch75-ch77 (os sete funis).
 - ch137, ch138 (copywriting, Sugarman, gatilhos): compromisso e consistência; Cialdini (skill `persuasao-gatilhos`).
 - ch60 (Hormozi, ofertas de atração) e ch59 (Hormozi, regra dos 30 dias): recuperar CAC com a primeira venda.
-- Skill `funil-vsl-thiago-roas`: o front-end de baixo ticket como degrau de um funil perpétuo.
+- Skill `estrategia-trafego-funil`: o front-end de baixo ticket como degrau de um funil perpétuo.

@@ -47,5 +47,5 @@ Fecha o capítulo de testes com **três esquemas práticos para testar muitos an
 - ch204 (Caples, as 17 formas de testar) e ch189 (Caples, nova estratégia).
 - ch193 (Caples, encontrar o apelo certo).
 - ch188 (Hopkins, campanhas-teste e melhoria contínua) e ch156 (Kennedy, matriz de teste multivariável).
-- ch164 (Filemon, testar 3 leads por retenção) e Skill `funil-vsl-thiago-roas` (regras de teste de criativos).
+- ch164 (Filemon, testar 3 leads por retenção) e Skill `estrategia-trafego-funil` (regras de teste de criativos).
 - Skill `marketing-digital-growth` (Hacking Growth: priorização e velocidade de experimentos).

@@ -64,4 +64,4 @@ Depois que a bilheteria começou a vender, o que "turbina" o jogo é (1) **diagn
 5. Teste 20-30 UGCs isolados com orçamento de 2,5x CPA.
 
 ## Connects To
-ch103, ch105-ch107 (campanhas, criativos) • ch108-ch110 (página) • ch112 (cronograma) • `copywriting-publicidade` ch217 (criativos) • `funil-vsl-thiago-roas`.
+ch103, ch105-ch107 (campanhas, criativos) • ch108-ch110 (página) • ch112 (cronograma) • `copywriting-publicidade` ch217 (criativos) • `estrategia-trafego-funil`.

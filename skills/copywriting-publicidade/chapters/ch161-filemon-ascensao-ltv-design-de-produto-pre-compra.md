@@ -38,4 +38,4 @@ O VSL de pré-compra vende um produto de entrada (baixo ticket) a muita gente fr
 
 ## Connects To
 - ch160 (a conta do lançamento e a fundação), ch99 e ch107 (Halbert, front a break-even e back end), ch65 (Carlton, valor vitalício), ch149 (Collier, venda ao cliente existente).
-- `funil-vsl-thiago-roas` (upsell/downsell, ticket médio e custo por finalização de compra como métrica mestre), `estrategia-negocios` (LTGP:CAC, payback de CAC em 30 dias, Hormozi Livro 9) e `marketing-digital-growth` (Money Models, sequência de ofertas).
+- `estrategia-trafego-funil` (upsell/downsell, ticket médio e custo por finalização de compra como métrica mestre), `estrategia-negocios` (LTGP:CAC, payback de CAC em 30 dias, Hormozi Livro 9) e `marketing-digital-growth` (Money Models, sequência de ofertas).

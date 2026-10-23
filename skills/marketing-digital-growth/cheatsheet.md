@@ -226,3 +226,16 @@ Regra de ouro (ch59, ch65): construa um estágio de cada vez; caixa de 30 dias �
 | Comparecimento baixo | Ligação + SMS, tutorial de Zoom, lembretes | ch112 |
 
 **Referências citadas (a validar no seu mercado)**: conversão da página 5-7% muito bom; hook rate ≥ ~22%; CTR 0,8-1,8%; página→checkout ~15-18%; checkout→compra 35-45%; NPS 70-85; single shot 13-14% dos ingressos; ligação atendida 71-75%.
+
+## Funil StoryBrand (ch113-ch115) — diagnóstico rápido
+
+| Sintoma | Primeira hipótese | Onde |
+|---|---|---|
+| Visitante sai em segundos | Cabeçalho não passa no teste do grunt | ch223, ch227 |
+| Muito tráfego, pouco contato | Sem lead generator de valor ou título fraco | ch114 |
+| Lista não compra | Falta nutrição semanal e sequência de vendas com prazo | ch114 |
+| Equipe explica o negócio de formas diferentes | Sem one-liner e ideia controladora | ch226 |
+| Pouca indicação | Sem ferramenta e recompensa para indicar | ch115 |
+| Redes sem resultado | Só retiradas ou só depósitos; falta escada | ch15 |
+
+**Referências do autor (a validar):** ~8 toques por compra; 3 nutrição + 1 venda; PDF de ~3 páginas; plano em 3 passos; ~60% dos geradores funcionam.

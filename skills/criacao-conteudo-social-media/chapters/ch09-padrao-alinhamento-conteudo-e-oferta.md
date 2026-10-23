@@ -42,4 +42,4 @@ Abertura: "máquina parada custa mais caro que quebrada" → consequência (colh
 5. Entregue o bom no gratuito.
 
 ## Connects To
-ch06 (pedido principal no fim) • ch10 (utilidade) • ch13 (bio) • `estrategia-negocios` (oferta) • `funil-vsl-thiago-roas` (criativo segmenta) • `vendas-metodologia`.
+ch06 (pedido principal no fim) • ch10 (utilidade) • ch13 (bio) • `estrategia-negocios` (oferta) • `estrategia-trafego-funil` (criativo segmenta) • `vendas-metodologia`.

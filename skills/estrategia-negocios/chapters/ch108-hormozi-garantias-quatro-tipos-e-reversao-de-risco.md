@@ -60,6 +60,6 @@ A maior objeção a qualquer compra é **risco**: "e se não fizer o que promete
 - **Ch 100 (Equação de Valor)**: garantia eleva a probabilidade percebida de alcançar o resultado e reduz esforço/risco.
 - **Ch 107 (Bônus) e Ch 105-106 (Escassez/Urgência)**: demais aprimoramentos da oferta.
 - **Skill `persuasao-gatilhos`, ch71 (Garantia e Reversão de Risco)**: evidência de que garantias mais longas reduzem proporcionalmente devoluções (complementa a matemática de Hormozi).
-- **Skill `funil-vsl-thiago-roas`**: definição de prazo de garantia no front-end e nos upsells de um funil de VSL.
+- **Skill `estrategia-trafego-funil`**: definição de prazo de garantia no front-end e nos upsells de um funil de VSL.
 - **Ch 50 (Fatos Brutais) e Ch 48 (Nível 5)**: honestidade sobre a capacidade real de entrega.
 - **Skill `vendas-metodologia`** (Chris Voss): a abordagem "melhor/pior caso" de Hormozi para fechar com garantia dialoga com técnicas de negociação.

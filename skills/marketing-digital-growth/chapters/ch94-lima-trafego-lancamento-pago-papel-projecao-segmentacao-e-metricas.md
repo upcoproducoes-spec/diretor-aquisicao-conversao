@@ -39,4 +39,4 @@ Em lançamento pago o **tráfego começa antes da venda do ingresso**: gerar dem
 5. Reative quem comprou e quem foi e não comprou.
 
 ## Connects To
-ch89-ch93 • ch30-ch35 (Launch) • ch54, ch59-ch65 (Hormozi, CAC e money model) • ch12-ch13 • `funil-vsl-thiago-roas` (métrica mestre, CPA) • ch95.
+ch89-ch93 • ch30-ch35 (Launch) • ch54, ch59-ch65 (Hormozi, CAC e money model) • ch12-ch13 • `estrategia-trafego-funil` (métrica mestre, CPA) • ch95.

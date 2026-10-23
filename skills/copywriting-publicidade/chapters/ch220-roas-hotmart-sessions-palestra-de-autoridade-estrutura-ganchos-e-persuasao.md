@@ -1,8 +1,8 @@
 # ch220 — Roas no Hotmart Sessions: a Palestra de Autoridade (Estrutura, Ganchos, Slides e Persuasão)
 
-**Livro:** Thiago Roas, "Hotmart Sessions — Comunidade Hotmart" (29/04/2026), palestra de ~1h20 + Q&A (vídeo de 1h47, gravação de tela do Zoom; transcrição local Whisper "small" + ~190 quadros por mudança de cena) | **Autor:** Thiago Roas (apresentado por Daiane Fernandes, da Hotmart) | **Complementa:** ch211-ch219 e `funil-vsl-thiago-roas`
+**Livro:** Thiago Roas, "Hotmart Sessions — Comunidade Hotmart" (29/04/2026), palestra de ~1h20 + Q&A (vídeo de 1h47, gravação de tela do Zoom; transcrição local Whisper "small" + ~190 quadros por mudança de cena) | **Autor:** Thiago Roas (apresentado por Daiane Fernandes, da Hotmart) | **Complementa:** ch211-ch219 e `estrategia-trafego-funil`
 
-> **Nota de proveniência:** é a **mesma masterclass** que originou a skill `funil-vsl-thiago-roas`; o vídeo serve para **verificar, corrigir e analisar a estrutura persuasiva**. Números e resultados são **afirmações do palestrante e da plataforma, não verificadas**. A transcrição automática pode errar nomes. O arquivo termina no meio de um segmento comercial da Hotmart (Parcelado), que não foi analisado.
+> **Nota de proveniência:** é a **mesma masterclass** que originou a skill `estrategia-trafego-funil`; o vídeo serve para **verificar, corrigir e analisar a estrutura persuasiva**. Números e resultados são **afirmações do palestrante e da plataforma, não verificadas**. A transcrição automática pode errar nomes. O arquivo termina no meio de um segmento comercial da Hotmart (Parcelado), que não foi analisado.
 
 ## Core Idea
 É uma **palestra de autoridade sem pitch direto**: o objetivo é ensinar o essencial do funil de VSL com prova numérica e, assim, posicionar o Roas como o especialista em funil para público frio. Persuasivamente, ela funciona em quatro movimentos: (1) **resultado e credencial** logo no começo, (2) **quebra de crença** ("você foi ensinado errado sobre funis"), (3) **demonstração com números fechados** (a conta do ticket médio de R$418) e (4) **"dar de bom beijado"** as métricas (reciprocidade), antes de abrir para perguntas.
@@ -55,4 +55,4 @@
 5. Verifique números e absolutos antes de reutilizar.
 
 ## Connects To
-`funil-vsl-thiago-roas` (verificação e fases) • ch211-ch219 (evento de 4 dias, analise visual) • ch217 (criativos) • `marketing-digital-growth` ch54, ch59-ch67, ch89-ch95 • `persuasao-gatilhos` (reciprocidade, autoridade).
+`estrategia-trafego-funil` (verificação e fases) • ch211-ch219 (evento de 4 dias, analise visual) • ch217 (criativos) • `marketing-digital-growth` ch54, ch59-ch67, ch89-ch95 • `persuasao-gatilhos` (reciprocidade, autoridade).

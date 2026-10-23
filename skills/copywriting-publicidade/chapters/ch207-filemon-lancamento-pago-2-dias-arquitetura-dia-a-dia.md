@@ -70,4 +70,4 @@ O evento é um **produto de entrada que se paga com conteúdo real e prova a si 
 ## Connects To
 - ch160-ch180 (o que o professor ensina), ch208 (ganchos, loops e gatilhos), ch209 (pitch), ch210 (avaliação e modelo).
 - `marketing-digital-growth`: ch30-ch35 (Walker, Product Launch Formula e variações de lançamento, em especial ch34 com tráfego pago), ch76 e ch84-ch87 (Brunson: Webinar Perfeito e A Pilha), ch83 (falsas crenças), ch88 (lançamento Epiphany).
-- `funil-vsl-thiago-roas` (funil perpétuo e tráfego frio, o "produto vendido" no evento) e `persuasao-gatilhos` (ch04-ch06 compromisso e coerência, ch19 escassez, ch51-ch53 prova e urgência).
+- `estrategia-trafego-funil` (funil perpétuo e tráfego frio, o "produto vendido" no evento) e `persuasao-gatilhos` (ch04-ch06 compromisso e coerência, ch19 escassez, ch51-ch53 prova e urgência).

@@ -51,6 +51,6 @@ Paid ads é o quarto método do Core Four: um-para-muitos para audiência fria, 
 - ch23 e ch47 (KPIs, LTV/CAC): LTGP:CAC e CFA aprofundam; ver também cheatsheet.md.
 - ch13 (funil de e-commerce) e ch07 (recuperação): após o clique, perdas no checkout/carrinho aumentam CAC efetivo.
 - ch32, ch33 (Walker, escassez/Open Cart): CTAs com escassez só se reais.
-- Skill `funil-vsl-thiago-roas`: métrica mestre de custo por finalização de compra, estrutura de campanhas e 6 fases de escala — a Fase 1 Track/Fase 2 Lose/Fase 3 Print de Hormozi é a mesma disciplina vista por outro ângulo; a CFA (30 dias) conversa com front + upsell + downsell do funil 418.
+- Skill `estrategia-trafego-funil`: métrica mestre de custo por finalização de compra, estrutura de campanhas e 6 fases de escala — a Fase 1 Track/Fase 2 Lose/Fase 3 Print de Hormozi é a mesma disciplina vista por outro ângulo; a CFA (30 dias) conversa com front + upsell + downsell do funil 418.
 - Skill `copywriting-publicidade`: callouts, headline e CTA em profundidade.
 - Skill `estrategia-negocios` (Livro 9, Hormozi — $100M Offers): Value Equation é a espinha do What.

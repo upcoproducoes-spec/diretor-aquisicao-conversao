@@ -46,5 +46,5 @@
 - ch13 (e-commerce) e ch08 (monetização, ARPU, fricção de checkout): order bump, upsell no checkout e cartão salvo conversam com fricção de checkout.
 - ch11 (neuromarketing) e `psicologia-consumidor`: Decoy/ancoragem, efeito de enquadramento.
 - ch32 (Walker, gatilhos): bônus e eventos; ver ch56 (BAMFAM) de Hormozi em $100M Leads.
-- Skill `funil-vsl-thiago-roas`: upsell imediato pós-compra em VSL (página de upsell/downsell, order bump, funil de recuperação de upsell) — Hormozi explica a lógica do "próximo problema" por trás do upsell; a precificação e as páginas seguem Roas.
+- Skill `estrategia-trafego-funil`: upsell imediato pós-compra em VSL (página de upsell/downsell, order bump, funil de recuperação de upsell) — Hormozi explica a lógica do "próximo problema" por trás do upsell; a precificação e as páginas seguem Roas.
 - Skill `vendas-metodologia` (SPIN, Gitomer): perguntas de necessidade que precedem a prescrição.

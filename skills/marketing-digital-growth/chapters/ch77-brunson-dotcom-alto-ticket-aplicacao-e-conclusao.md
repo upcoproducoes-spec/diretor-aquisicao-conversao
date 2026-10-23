@@ -55,4 +55,4 @@ Os números sobre custos de call center, equipe e ganhos são **afirmações do 
 - ch76 (Brunson, Invisible Webinar): a aplicação é o desfecho do webinar.
 - Skill `vendas-metodologia` (SPIN Rackham, Voss, Pink, Dixon & Adamson): perguntas de situação, problema, implicação; negociação; "vender é ajudar a mover".
 - Skill `persuasao-gatilhos` (limites éticos) e `psicologia-consumidor`: motivação, emoção e racionalização.
-- Skill `funil-vsl-thiago-roas`: o back-end/alto ticket em funis perpétuos.
+- Skill `estrategia-trafego-funil`: o back-end/alto ticket em funis perpétuos.

@@ -41,4 +41,4 @@
 ## Connects To
 - ch162 (apelido e exemplos), ch172 (sem Big Idea), ch173 (mapa), ch176 (apelido e crença única), ch177 (tese).
 - ch110-111 (Schwartz, Consciência e Sofisticação), ch117-118 (Redefinição e Mecanização), ch115 (Identificação), ch51 (Bencivenga, USP), ch59 (Carlton, reason why).
-- `estrategia-negocios` (diferenciação, posicionamento; Hormozi) e `funil-vsl-thiago-roas` (a página compra a promessa, não o produto).
+- `estrategia-negocios` (diferenciação, posicionamento; Hormozi) e `estrategia-trafego-funil` (a página compra a promessa, não o produto).

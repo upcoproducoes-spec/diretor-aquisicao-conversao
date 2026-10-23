@@ -50,4 +50,4 @@ Depois de ter a lista de soluções (ch102), o **Passo 4** é decidir **como** c
 - **Ch 104 (Trim & Stack)**: o passo 5 corta a lista gigante deste capítulo e monta o pacote final.
 - **Ch 100 (Equação de Valor)**: DIY/DWY/DFY e velocidade de resposta são alavancas diretas de esforço e tempo.
 - **Ch 38 (Jogue com Suas Forças — capacidades centrais, Lafley & Martin)** e **Ch 72-73 (Cadeia de Valor, Porter)**: o custo de entrega é a cadeia de valor da oferta.
-- **Skill `funil-vsl-thiago-roas`**: o formato do produto de front-end (DIY, aulas gravadas) e dos upsells (DWY/DFY) segue o mesmo cubo.
+- **Skill `estrategia-trafego-funil`**: o formato do produto de front-end (DIY, aulas gravadas) e dos upsells (DWY/DFY) segue o mesmo cubo.

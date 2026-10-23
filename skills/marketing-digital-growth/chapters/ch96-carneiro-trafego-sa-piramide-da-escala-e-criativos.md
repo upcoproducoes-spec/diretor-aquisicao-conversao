@@ -40,4 +40,4 @@ Tráfego é **catalisador**: acelera o que já funciona, não conserta funil que
 5. Dinheiro no bolso decide; métricas secundárias explicam.
 
 ## Connects To
-`funil-vsl-thiago-roas` (criativos, funil de criativos) • `copywriting-publicidade` ch217 (criativos que escalam) • ch54 (Hormozi, mídia paga) • ch97-ch99.
+`estrategia-trafego-funil` (criativos, funil de criativos) • `copywriting-publicidade` ch217 (criativos que escalam) • ch54 (Hormozi, mídia paga) • ch97-ch99.

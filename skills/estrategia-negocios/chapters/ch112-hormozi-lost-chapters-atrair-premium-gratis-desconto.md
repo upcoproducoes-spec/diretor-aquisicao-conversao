@@ -53,4 +53,4 @@ Se não há resposta suficiente à sua Grand Slam Offer, o gargalo costuma ser a
 - **Ch 105-106 (Escassez e Urgência)**: reforços da oferta de entrada.
 - **Ch 113-114 (Matemática CFA e Offer Stacking)**: como a oferta de entrada é financiada e empilhada.
 - **Skill `persuasao-gatilhos`, ch02 e ch64 (Reciprocidade)** e **ch68 (Contraste/Âncora)**: base psicológica do grátis e do desconto.
-- **Skill `funil-vsl-thiago-roas`**: arquitetura de front-end de baixo ticket + upsell/downsell.
+- **Skill `estrategia-trafego-funil`**: arquitetura de front-end de baixo ticket + upsell/downsell.

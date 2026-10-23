@@ -80,4 +80,4 @@ Os dois eventos são **lançamentos pagos de produto de entrada que vendem imple
 
 ## Connects To
 - ch207-ch213; ch215-ch217.
-- `funil-vsl-thiago-roas`, `marketing-digital-growth` (ch30-ch35, ch76, ch83-ch88), `persuasao-gatilhos` (ch19, ch52, ch58), `estrategia-negocios` e `vendas-metodologia`.
+- `estrategia-trafego-funil`, `marketing-digital-growth` (ch30-ch35, ch76, ch83-ch88), `persuasao-gatilhos` (ch19, ch52, ch58), `estrategia-negocios` e `vendas-metodologia`.

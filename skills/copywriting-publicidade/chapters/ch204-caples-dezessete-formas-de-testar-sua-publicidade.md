@@ -65,4 +65,4 @@ Os testes agrupam-se em **testes de opinião**, **testes de resposta/venda** e *
 - ch188 (Hopkins, campanhas-teste) e ch181 (Hopkins, anúncio com chave).
 - ch30 (Ogilvy, 18 milagres da pesquisa) e ch156 (Kennedy, matriz de teste multivariável).
 - ch164 (Filemon, teste de 3 leads) e ch101 (Halbert, checklist de resposta).
-- Skill `marketing-digital-growth` (Hacking Growth, ciclo de testes e priorização) e `funil-vsl-thiago-roas` (teste de criativos/ROAS).
+- Skill `marketing-digital-growth` (Hacking Growth, ciclo de testes e priorização) e `estrategia-trafego-funil` (teste de criativos/ROAS).

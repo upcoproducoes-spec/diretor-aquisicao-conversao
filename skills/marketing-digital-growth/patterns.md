@@ -91,7 +91,7 @@ Técnicas de growth e funil formatadas para aplicação direta. Cada padrão ind
 ## Recuperação de CAC em 30 Dias (Client Financed Acquisition)
 **When to use**: Quando o LTGP:CAC é saudável no papel, mas o caixa não permite escalar porque o lucro do primeiro mês é menor que o CAC.
 **How**: Calcule o lucro bruto de 30 dias por cliente (front + upsells aceitos + downsells). Se for menor que CAC + custo de entrega, adicione/ajuste upsell imediato, order bump e downsell (payment plan, feature downsell) até cobrir; depois reinvista o caixa em mídia (ch54, ch59). Exemplo do livro: upsell de US$100 aceito por 1 em 5 compra adiciona US$20 por cliente.
-**Trade-offs**: Pode forçar upsells prematuros; só vale se a oferta seguinte resolve um problema real do cliente (ch61), caso contrário gera reembolso. Funil de VSL com front barato precisa verificar essa conta antes de elevar orçamento diário (ver `funil-vsl-thiago-roas`).
+**Trade-offs**: Pode forçar upsells prematuros; só vale se a oferta seguinte resolve um problema real do cliente (ch61), caso contrário gera reembolso. Funil de VSL com front barato precisa verificar essa conta antes de elevar orçamento diário (ver `estrategia-trafego-funil`).
 
 ## Lead Magnet que Reduz o CAC (Teste de Matemática)
 **When to use**: Quando oferecer a core offer direto a público frio gera poucos leads engajados e custo alto por cliente.

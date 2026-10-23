@@ -42,5 +42,5 @@ Um **Money Model** é uma *sequência de ofertas* desenhada para ganhar mais din
 - ch47 (Godin, matemática de funil e LTV) e ch08 (Hacking Growth, monetização/ARPU): a lógica de LTV > CAC; Hormozi acrescenta *velocidade* do retorno.
 - ch09 (AARRR): Receita como etapa; o Money Model detalha "R" de Revenue.
 - ch23 (métricas/KPIs): LTGP, payback e margem de 30 dias como KPIs.
-- Skill `funil-vsl-thiago-roas`: estrutura front + upsell + downsell do funil 418 é um Money Model parcial (sem continuity); o front ajusta o CAC e o upsell/downsell elevam o ticket médio.
+- Skill `estrategia-trafego-funil`: estrutura front + upsell + downsell do funil 418 é um Money Model parcial (sem continuity); o front ajusta o CAC e o upsell/downsell elevam o ticket médio.
 - Skill `estrategia-negocios` (Livro 9, Hormozi — $100M Offers): como construir a oferta de cada etapa do Money Model.

@@ -48,5 +48,5 @@ Fechamento prático do livro: como transformar o arsenal (Core Four + Lead Gette
 - ch55 (More/Better/New e Rule of 100): este capítulo estende com Open to Goal e níveis.
 - ch04 e ch09 (Hacking Growth): orçamento de testes e cultura de growth; ch30 e ch35 (Walker, negócio de lançar): construção gradual de máquina de lançamento.
 - ch40 (Godin, Ciclo Mágico da Vaca): reinvestir ganhos em novas apostas; ch42 (Menor Audiência Viável): nível 1 = uma oferta, um avatar, uma plataforma.
-- Skill `funil-vsl-thiago-roas`: as 6 fases de escala de tráfego — Hormozi dá a mesma lógica geral (provar pequeno, escalar gradualmente) para além de Meta Ads.
+- Skill `estrategia-trafego-funil`: as 6 fases de escala de tráfego — Hormozi dá a mesma lógica geral (provar pequeno, escalar gradualmente) para além de Meta Ads.
 - Skill `vendas-metodologia`: volume de atividade e disciplina de funil.

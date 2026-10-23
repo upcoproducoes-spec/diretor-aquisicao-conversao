@@ -41,5 +41,5 @@ Dois upsells que mexem na *percepção de preço* e na *conversão de crédito e
 - ch07 e ch13 (retenção, recuperação de carrinho): winback e rollover são versões de reengajamento; recuperação de carrinho trabalha uma decisão já iniciada, winback trabalha clientes que já saíram.
 - ch11 (neuromarketing): ancoragem; ch46 (Godin, preço como história): o preço como sinal.
 - ch28 (megafone) e ch29 (indicação): o Gift Card Play junta upsell e indicação.
-- Skill `funil-vsl-thiago-roas`: o funil de recuperação de upsell e o downsell do funil 418 pertencem à mesma família de decisões; a âncora não substitui a regra de preço de Roas (preço antes do CTA, ticket R$297).
+- Skill `estrategia-trafego-funil`: o funil de recuperação de upsell e o downsell do funil 418 pertencem à mesma família de decisões; a âncora não substitui a regra de preço de Roas (preço antes do CTA, ticket R$297).
 - Skill `persuasao-gatilhos`: contraste, reciprocidade e aversão à perda.

@@ -79,4 +79,4 @@ Slides dourados: **"Ontem, muita gente entrou na 20x. Hoje, eu quero falar com q
 
 ## Connects To
 - ch211-ch217; ch167 e ch209 (oferta e pitch do Filemon); ch208 (gatilhos).
-- `funil-vsl-thiago-roas` (métricas e estrutura dos slides de funil), `persuasao-gatilhos` (ch51-ch53 prova social), `marketing-digital-growth` (ch84-ch86 Brunson: pilha e fechamento).
+- `estrategia-trafego-funil` (métricas e estrutura dos slides de funil), `persuasao-gatilhos` (ch51-ch53 prova social), `marketing-digital-growth` (ch84-ch86 Brunson: pilha e fechamento).

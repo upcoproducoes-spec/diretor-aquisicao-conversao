@@ -1,6 +1,6 @@
 # ch160 — Por Que o VSL de Pré-Compra Perpétuo Escala: a Conta do Lançamento e a Fundação
 
-**Livro:** Thiago Filemon (aulas de VSL) — Aula 1 | **Autor:** Thiago Filemon (grafia do nome vinda de legenda automática; o professor é copywriter, não confundir com Thiago Roas, ver `funil-vsl-thiago-roas`)
+**Livro:** Thiago Filemon (aulas de VSL) — Aula 1 | **Autor:** Thiago Filemon (grafia do nome vinda de legenda automática; o professor é copywriter, não confundir com Thiago Roas, ver `estrategia-trafego-funil`)
 
 > **Nota de proveniência:** transcrição automática (.srt) de uma aula ao vivo, com ruído, trechos promocionais (omitidos) e erros de captação. Todos os números, casos e nomes citados abaixo são **afirmações do professor, legenda automática — conferir**; use-os como ordem de grandeza e como raciocínio, nunca como benchmark verificado.
 
@@ -30,7 +30,7 @@ A tese de abertura da aula: o VSL de pré-compra rodando em perpétuo é a melho
 - **Gastar o primeiro resultado**: o professor conta ter gasto os primeiros R$ 15 mil de lucro em viagem e não ter caixa para escalar no mês seguinte. Reinvista o primeiro lucro de VSL no tráfego.
 - **Tratar o argumento "lançamento está morrendo" como fato**: é opinião do professor, parte de uma aula que vende uma mentoria. A conta do lançamento é ilustrativa; para decidir pelo negócio real, calcule com seus números (margem, taxa de ascensão, custo de equipe).
 - **Fazer perpétuo sem back end definido**: tráfego a ROAS ~1 sem ascensão comprovada é prejuízo, não estratégia.
-- **Tensão com `funil-vsl-thiago-roas`**: Thiago Roas ancora a escala em ticket médio de funil (front + upsell) e em preço compatível com tempo de tela; Filemon ancora em ascensão para mentoria/high ticket. São convergentes em "olhe o funil inteiro", mas não são a mesma metodologia.
+- **Tensão com `estrategia-trafego-funil`**: Thiago Roas ancora a escala em ticket médio de funil (front + upsell) e em preço compatível com tempo de tela; Filemon ancora em ascensão para mentoria/high ticket. São convergentes em "olhe o funil inteiro", mas não são a mesma metodologia.
 
 ## Key Takeaways
 - O argumento forte não é "VSL converte mais", é **previsibilidade + LTV + ascensão**.
@@ -40,4 +40,4 @@ A tese de abertura da aula: o VSL de pré-compra rodando em perpétuo é a melho
 ## Connects To
 - ch161 (ascensão, LTV, design de produto de pré-compra) e ch162 (anatomia do VSL que escala).
 - ch99 (Halbert, Eficiência vs. Efetividade; front a break-even e lucro no back end), ch65 (Carlton, Backend), ch107 (Halbert, Funil de Backend), ch149 (Collier, venda ao cliente existente): o mesmo princípio, com décadas de antecedência.
-- `funil-vsl-thiago-roas` (front/upsell/downsell, métricas de VSL, tráfego), `estrategia-negocios` (métricas CAC/LTGP/payback, Hormozi Livro 9) e `marketing-digital-growth` (modelos de monetização por sequência de ofertas).
+- `estrategia-trafego-funil` (front/upsell/downsell, métricas de VSL, tráfego), `estrategia-negocios` (métricas CAC/LTGP/payback, Hormozi Livro 9) e `marketing-digital-growth` (modelos de monetização por sequência de ofertas).

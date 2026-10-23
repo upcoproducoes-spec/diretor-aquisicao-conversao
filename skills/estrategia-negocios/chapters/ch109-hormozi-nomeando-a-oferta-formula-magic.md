@@ -52,4 +52,4 @@ Uma Grand Slam Offer não rende se ninguém a descobre — como a árvore que ca
 - **Ch 104 (Trim & Stack) e Ch 107 (Bônus)**: nomes dos itens empilhados.
 - **Skill `copywriting-publicidade`** (headlines; Bencivenga, ch51 "USP e Nomes que Vendem"): a técnica de título e USP complementa a fórmula.
 - **Skill `marketing-digital-growth`** (testes de criativo, Hacking Growth): a escada de variação é um programa de testes.
-- **Skill `funil-vsl-thiago-roas`** (teste de criativos): o mesmo princípio de trocar o criativo antes de mudar a oferta.
+- **Skill `estrategia-trafego-funil`** (teste de criativos): o mesmo princípio de trocar o criativo antes de mudar a oferta.

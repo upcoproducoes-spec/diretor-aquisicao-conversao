@@ -48,5 +48,5 @@ Números de faturamento, preço de consultoria e casos (FitLife.tv, empresas ate
 ## Connects To
 - ch67 (Brunson, escada de valor e funil): o próximo passo da fórmula.
 - ch59-ch65 (Hormozi, Money Models): a mesma ideia de recuperar CAC com sequência de ofertas, mas com mais detalhe quantitativo.
-- Skill `funil-vsl-thiago-roas`: o funil de VSL perpétuo é uma implementação específica de escada de valor.
+- Skill `estrategia-trafego-funil`: o funil de VSL perpétuo é uma implementação específica de escada de valor.
 - ch152, ch151 (copywriting: Kennedy, cliente e oferta): o raciocínio de Kennedy citado no prefácio.

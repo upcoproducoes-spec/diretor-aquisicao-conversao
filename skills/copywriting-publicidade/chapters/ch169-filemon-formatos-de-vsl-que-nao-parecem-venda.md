@@ -44,4 +44,4 @@
 ## Connects To
 - ch162 (notícia e apelido), ch163 (cheiro de venda), ch164 (retenção como juiz), ch168 (produção com IA e edição).
 - ch25 (Ogilvy, TV que vende: demonstração), ch24 (anúncio impresso), ch40-41 (Conteúdo e Criatividade na Era Digital), ch95 (infomerciais), ch102 (Halbert: credibilidade emprestada, Vanity Radio).
-- `funil-vsl-thiago-roas` (criativo como motor do tráfego; vídeo no criativo e na página) e `persuasao-gatilhos` (ética: não disfarçar publicidade).
+- `estrategia-trafego-funil` (criativo como motor do tráfego; vídeo no criativo e na página) e `persuasao-gatilhos` (ética: não disfarçar publicidade).

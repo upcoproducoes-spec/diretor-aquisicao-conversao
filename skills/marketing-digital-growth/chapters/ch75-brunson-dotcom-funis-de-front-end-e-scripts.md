@@ -58,5 +58,5 @@ Os três funis de front-end são desenhados para **tráfego frio** (e para o pri
 - ch73-ch74 (blocos e melhor isca) e ch69-ch70 (AC, e-mails).
 - ch59-ch65 (Hormozi, Money Models): upsell classico/menu, downsell e continuidade (ch61-ch64).
 - Skill `copywriting-publicidade`: ch153 (Kennedy, pressão), ch63 (Carlton, fechar a venda), ch165 e ch167 (Filemon, VSL e oferta), ch137-ch138 (Sugarman, gatilhos).
-- Skill `funil-vsl-thiago-roas`: o VSL perpétuo e a ordem upsell/downsell.
+- Skill `estrategia-trafego-funil`: o VSL perpétuo e a ordem upsell/downsell.
 - Skill `persuasao-gatilhos`: limites éticos de escassez e urgência.

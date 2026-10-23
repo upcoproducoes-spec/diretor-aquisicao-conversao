@@ -47,4 +47,4 @@ O Core Four é o que *uma pessoa* faz sozinha. Alavancagem (leverage) = quanto s
 - ch36-ch40 (Godin, Vaca Roxa/Sneezers): produto notável como pré-requisito de indicação.
 - ch22 (Inbound vs. outbound) e ch23: métricas de equipe e CAC.
 - Skill `vendas-metodologia` (Receita Previsível): estrutura de times de SDR/closer e treinamento.
-- Skill `funil-vsl-thiago-roas`: indicação e programas de afiliados fora do escopo daquela skill; aplicar apenas se o negócio tiver pós-venda ativo.
+- Skill `estrategia-trafego-funil`: indicação e programas de afiliados fora do escopo daquela skill; aplicar apenas se o negócio tiver pós-venda ativo.

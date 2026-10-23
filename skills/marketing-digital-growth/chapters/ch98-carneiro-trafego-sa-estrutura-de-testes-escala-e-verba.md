@@ -25,7 +25,7 @@ Depois de validar ativos, a segunda etapa da pirâmide testa **qual estrutura de
 - **Onde usar o lançamento pago:** ver ch89 e ch99.
 
 ## Divergências com o Roas (registrar, não escolher)
-| Tema | Carneiro (Tráfego S.A.) | Roas (`funil-vsl-thiago-roas`) |
+| Tema | Carneiro (Tráfego S.A.) | Roas (`estrategia-trafego-funil`) |
 |---|---|---|
 | Segmentação | Interesse, comportamento e semelhantes ainda testáveis | "Não existe segmentação por público"; tudo Advantage+ |
 | Estrutura de teste | ABO isolando variável (1 criativo/conjunto, mesmo público), CBO alternativo | CBO 1x1 ou 1xN, depois Advantage+ e limite de custo |
@@ -48,4 +48,4 @@ Ambos concordam: criativo é a variável principal, orçamento de teste pequeno,
 5. Planeje o orçamento 20-30% acima da média e aumente gradualmente.
 
 ## Connects To
-ch96-ch97, ch99 • `funil-vsl-thiago-roas` (fases de escala, ticket médio) • ch54 (Hormozi, fases de gasto) • ch89-ch95.
+ch96-ch97, ch99 • `estrategia-trafego-funil` (fases de escala, ticket médio) • ch54 (Hormozi, fases de gasto) • ch89-ch95.

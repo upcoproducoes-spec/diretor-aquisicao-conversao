@@ -41,4 +41,4 @@ O perfil só falava com quem compra imóvel de oito milhões; cada vídeo começ
 5. Confirme na documentação oficial qualquer afirmação de mecânica da plataforma antes de repeti-la ao cliente.
 
 ## Connects To
-ch10 (utilidade) • ch07 (temas validados) • ch08 (assunto nacional) • `marketing-digital-growth` (métricas) • `funil-vsl-thiago-roas` (segmentação pelo criativo).
+ch10 (utilidade) • ch07 (temas validados) • ch08 (assunto nacional) • `marketing-digital-growth` (métricas) • `estrategia-trafego-funil` (segmentação pelo criativo).

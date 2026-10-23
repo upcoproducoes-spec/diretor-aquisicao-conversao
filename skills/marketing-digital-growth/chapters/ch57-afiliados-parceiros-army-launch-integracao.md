@@ -44,5 +44,5 @@ Afiliado é um negócio independente, com audiência quente própria, que oferec
 - ch21 (Marketing de Afiliados e Omnichannel) e ch34 (Walker, JV Launch): o JV Launch de Walker é o equivalente de lançamento em parceria; Whisper-Tease-Shout é análogo ao Pre-Pre-Launch/Pre-Launch/Open Cart (ch30-ch33).
 - ch50 (lead magnets) e ch54 (LTGP:CAC): integração por lead magnet e economia de CAC.
 - ch32 (Walker, gatilhos): escassez, antecipação e comunidade nas três fases do launch.
-- Skill `funil-vsl-thiago-roas`: afiliados/co-produção podem alimentar tráfego para o front do funil; a estrutura front/upsell/downsell do afiliado se aplica ao funil do parceiro.
+- Skill `estrategia-trafego-funil`: afiliados/co-produção podem alimentar tráfego para o front do funil; a estrutura front/upsell/downsell do afiliado se aplica ao funil do parceiro.
 - Skill `persuasao-gatilhos`: limites éticos de escassez e prova social.

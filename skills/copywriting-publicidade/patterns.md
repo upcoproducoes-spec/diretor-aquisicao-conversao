@@ -294,7 +294,7 @@ Técnicas de copywriting e publicidade formatadas para aplicação direta. Cada 
 
 ## Teste de 3 Aberturas por Retenção do 1º Minuto (Filemon)
 **When to use**: Quando o VSL já tem corpo (história, mecanismo, oferta) e a dúvida é qual abertura prende melhor a atenção do público frio.
-**How**: Mantenha o corpo fixo e grave/edite **3 leads de ângulos diferentes** (problema → solução, segredo, pergunta paradoxal com autoridade, mecanismo do problema, solução/mecanismo logo de cara, notícia). Rode o mesmo tráfego nas três e compare a **retenção no 1º minuto** (alvo de ~60% ou mais, afirmação do professor; `funil-vsl-thiago-roas` registra o mesmo alvo). Se todas ficam abaixo, troque o ângulo, não só as palavras; se o play rate está baixo, o problema é página/criativo, não lead. Fontes: ch163-164.
+**How**: Mantenha o corpo fixo e grave/edite **3 leads de ângulos diferentes** (problema → solução, segredo, pergunta paradoxal com autoridade, mecanismo do problema, solução/mecanismo logo de cara, notícia). Rode o mesmo tráfego nas três e compare a **retenção no 1º minuto** (alvo de ~60% ou mais, afirmação do professor; `estrategia-trafego-funil` registra o mesmo alvo). Se todas ficam abaixo, troque o ângulo, não só as palavras; se o play rate está baixo, o problema é página/criativo, não lead. Fontes: ch163-164.
 **Trade-offs**: Depende de tráfego suficiente para dar significância; abertura que retém mas não converte indica promessa que o corpo não paga (revise o mecanismo). Não otimize só retenção: acompanhe também retenção no PIT e conversão.
 
 ## Tese de Pontos Lógicos: Escada de Crenças até a One Belief (Filemon)
@@ -315,7 +315,7 @@ Técnicas de copywriting e publicidade formatadas para aplicação direta. Cada 
 ## Produto de Entrada do VSL: Resumo, Filé ou Antídoto (Filemon)
 **When to use**: Quando o cliente tem um curso/mentoria caro e precisa de um produto de R$ 197-497 para o VSL de aquisição, ou quando só vende high ticket.
 **How**: Escolha o mais fácil de executar: **resumo** (essência dos módulos críticos, congruente com o produto caro), **filé** (um módulo que o público pede separadamente vira produto autônomo) ou **antídoto** (solução direta, ex. protocolo de 14 dias, para a maior dor pela qual o mercado já paga). Defina em seguida a esteira de ascensão para o produto principal. Fonte: ch171.
-**Trade-offs**: A faixa de preço é opinião de campo do professor (coincide com R$ 297 de `funil-vsl-thiago-roas`); teste com sua margem e CAC. Para treinamentos clínicos de alto valor, avalie aquecimento antes do produto caro em vez de empurrá-lo ao frio.
+**Trade-offs**: A faixa de preço é opinião de campo do professor (coincide com R$ 297 de `estrategia-trafego-funil`); teste com sua margem e CAC. Para treinamentos clínicos de alto valor, avalie aquecimento antes do produto caro em vez de empurrá-lo ao frio.
 
 ## Anúncio com Chave e Custo por Cliente (Hopkins/Caples)
 **When to use**: Antes de rodar qualquer campanha de resposta direta, em qualquer canal (cupom, telefone, WhatsApp, anúncio de pesquisa, e-mail).

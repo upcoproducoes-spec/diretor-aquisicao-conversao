@@ -1,18 +1,19 @@
 ---
-name: funil-vsl-thiago-roas
+name: estrategia-trafego-funil
 description: >-
-  Metodologia do Thiago Roas para o "Funil de VSL 418" (perpétuo de conversão de público frio via
-  VSL): estrutura front/upsell/downsell, precificação, métricas de VSL, e — em profundidade — tráfego:
+  Estratégia de funil de VSL e de tráfego pago: o "Funil de VSL 418" (perpétuo de conversão de público
+  frio via VSL), estrutura front/upsell/downsell, precificação, métricas de VSL, e — em profundidade — tráfego:
   orçamento/investimento diário, estrutura de campanhas (CBO/ABO/Advantage+), teste de criativos, as 6
   fases de escala, e a métrica mestre de otimização (custo por finalização de compra, não ROAS/CTR).
   Use sempre que o usuário mencionar funil de VSL/perpétuo para público frio, ticket 297/418, página
   fechada, upsell/downsell, orçamento ou investimento de tráfego, estrutura de campanha/conjunto,
   teste ou otimização de criativo, CPA/ticket médio, ou pedir para montar, analisar, auditar ou
-  escalar um funil ou conta de tráfego desse tipo — mesmo sem citar "Thiago Roas" ou "418". Também use
-  para gerar playbooks/HTML baseados nessa metodologia.
+  escalar um funil ou conta de tráfego desse tipo — mesmo sem citar "418". Inclui também o contraponto
+  de outras metodologias de tráfego (Pirâmide da Escala, 3 S, regra 5-2-1) e a lógica de lançamento
+  pago (ver `marketing-digital-growth`). Também use para gerar playbooks/HTML baseados nessa metodologia.
 ---
 
-# Funil de VSL 418 — Metodologia Thiago Roas
+# Estratégia de Tráfego e Funil de VSL (Funil 418 — metodologia Thiago Roas)
 
 Esta skill encapsula a metodologia própria de Thiago Roas (não é a metodologia Tráfego S.A.) para
 construir e escalar funis perpétuos de conversão de público frio usando VSL (Video Sales Letter).

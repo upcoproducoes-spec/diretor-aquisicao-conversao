@@ -1,16 +1,17 @@
 ---
 name: criacao-conteudo-social-media
-description: "Playbook de criação de conteúdo e social media (Reels, vídeos curtos, carrosséis, stories, legendas, calendário editorial e criativos para anúncios), montado a partir das skills já existentes do sistema (copywriting-publicidade, persuasao-gatilhos, psicologia-consumidor, marketing-digital-growth e funil-vsl-thiago-roas). Use quando o pedido for planejar pilares e calendário, achar ângulos e temas, escrever ganchos, roteiros, legendas, carrosséis e sequências de stories, escolher formato, testar variações, ou transformar uma oferta em conteúdo orgânico ou criativo de anúncio. Não substitui o diretor-aquisicao-conversao para projetos completos."
+description: "Playbook de criação de conteúdo e social media (Reels, vídeos curtos, carrosséis, stories, legendas, calendário editorial e criativos para anúncios), montado a partir das skills já existentes do sistema (copywriting-publicidade, persuasao-gatilhos, psicologia-consumidor, marketing-digital-growth e estrategia-trafego-funil). Use quando o pedido for planejar pilares e calendário, achar ângulos e temas, escrever ganchos, roteiros, legendas, carrosséis e sequências de stories, escolher formato, testar variações, ou transformar uma oferta em conteúdo orgânico ou criativo de anúncio. Não substitui o diretor-aquisicao-conversao para projetos completos."
 ---
 
 <!-- argument-hint: [plataforma, formato, tema, oferta, ou etapa do fluxo] -->
 
 # Criação de Conteúdo e Social Media — Playbook Aplicado
 
-Esta skill organiza, em um fluxo de trabalho para criar conteúdo, o conhecimento que já existe nas outras skills (ponteiros `chNNN` sem prefixo = `copywriting-publicidade`, salvo quando indicado) e tem **uma série própria de 14 capítulos** em `chapters/` (ch01-ch14, orgânico em vídeo curto, ver abaixo). **Leia o capítulo apontado antes de aplicar** (os números são ponteiros, não resumos).
+Esta skill organiza, em um fluxo de trabalho para criar conteúdo, o conhecimento que já existe nas outras skills (ponteiros `chNNN` sem prefixo = `copywriting-publicidade`, salvo quando indicado) e tem **séries próprias de 17 capítulos** em `chapters/` (ch01-ch14, orgânico em vídeo curto; ch15-ch17, modelo SHARE de redes sociais; ver abaixo). **Leia o capítulo apontado antes de aplicar** (os números são ponteiros, não resumos).
 
 ## Proveniência e limites (leia primeiro)
 - **O que está aqui**: síntese do próprio sistema (Hopkins, Caples, Schwartz, Filemon, Roas, Prisciane e Mateus no evento do Roas, Brunson, Hormozi, Godin, Cialdini, Freud/Kahneman). As afirmações de Filemon e Roas são **opiniões e resultados dos professores, não verificados**.
+- **Série `chapters/ch15-ch17` (SHARE/StoryBrand)**: síntese em palavras próprias de "Social Media Success for Every Brand" (Claire Diaz-Ortiz, 2019, prefácio de Donald Miller). Dados de plataformas (2018-2019) estão **desatualizados**; vale o método. Casos e resultados são relatados pela autora, não verificados.
 - **Série própria `chapters/ch01-ch14`**: síntese, em palavras próprias, de material de estudo do usuário sobre crescimento orgânico em vídeo curto. Alegações sobre a plataforma e resultados de terceiros são **não verificadas**. Novas aulas ainda podem ser incorporadas (o usuário vai enviar transcrições em palavras próprias).
 - **Plataformas mudam**: números de alcance, formatos e regras do algoritmo citados nas aulas (Meta, TikTok etc.) são **hipóteses a testar**, não fatos. Verifique a documentação oficial atual antes de afirmar algo sobre uma plataforma.
 - **Regra permanente do sistema**: nada de escassez falsa, prova social forjada, promessa de ganho individual, nem uso de voz/imagem de pessoa sem consentimento.
@@ -66,15 +67,15 @@ Negócio e **oferta** (o que se vende e por qual preço/ticket), **público** (q
 - **Duração**: não existe tempo mágico; criativos que falam e levam o lead mais consciente costumam ser mais longos (ch217). Teste.
 
 ### 7. CTA e conversão
-- **Um único próximo passo**, específico ("toque no link da bio e baixe o guia X"), com o **preço antes do botão** quando for venda direta (`funil-vsl-thiago-roas`).
+- **Um único próximo passo**, específico ("toque no link da bio e baixe o guia X"), com o **preço antes do botão** quando for venda direta (`estrategia-trafego-funil`).
 - **CTA**: ch06, ch19, ch28, ch63. **Fechamento e garantia**: ch129, ch153, ch167.
 - **Escassez e urgência**: só reais, verificáveis e cumpridas (`persuasao-gatilhos` ch19, ch52, ch53).
 - **Prova social como troca** (ex.: slides por marcações) é uma tática do Roas, não obrigatória; seja transparente (ch212).
 
 ### 8. Teste, métrica e iteração
 - **Chave e controle**: cada variação rastreável (UTM, número, cupom); **split-run** contra um controle (Caples, ch204-ch205; Hopkins, ch181).
-- **O que olhar**: lucro e ROAS primeiro; **hook rate, retenção, CTR e frequência** para entender o porquê (ch217; `funil-vsl-thiago-roas`). Hook de ~25% era "bom" para a Prisciane; trate como referência pessoal.
-- **Decidir com janela**: 7 dias, 3 dias e hoje (regra 7-3-1, `funil-vsl-thiago-roas`); não matar variação por 1 dia.
+- **O que olhar**: lucro e ROAS primeiro; **hook rate, retenção, CTR e frequência** para entender o porquê (ch217; `estrategia-trafego-funil`). Hook de ~25% era "bom" para a Prisciane; trate como referência pessoal.
+- **Decidir com janela**: 7 dias, 3 dias e hoje (regra 7-3-1, `estrategia-trafego-funil`); não matar variação por 1 dia.
 - **Analisar o que funcionou** (não só o que falhou): quebrar o vencedor em gancho, corpo e CTA e **lateralizar** cada bloco (ch217).
 - **Rotina**: uma **call semanal de criativos** para analisar o vencedor da semana (assistir ~20 vezes) com quem cria, edita e roda tráfego (ch217).
 
@@ -89,7 +90,19 @@ Manual de operação para **orgânico em vídeo curto**, em 12 padrões. Use jun
 | 6 Corpo e retenção | ch05 (retenção, duração, linguagem simples), ch10 (utilidade que traz seguidor) |
 | 7 CTA e pedidos | ch06 (três pedidos por vídeo), ch13 (bio, fixados, direct) |
 | 8 Teste e iteração | ch03 (três sinais), ch11 (ritmo, volume, republicação), ch12 (omnichannel), ch14 (desafio de 30 dias, kit, erros por nicho) |
-Visão geral, proveniência e advertências: **ch01**. Cada capítulo traz **cuidados** próprios (prova real, setor regulado, regras de plataforma).
+Visão geral, proveniência e advertências: **ch01**.
+
+## Série SHARE (StoryBrand): redes sociais como construção de marca (chapters/ch15-ch17)
+Complementa a série de vídeo curto: modelo **S**tory, **H**ow, **A**udience, **R**each, **E**xcellence, com escada de engajamento, banco 80/20 e envelopes de conteúdo.
+| Passo do fluxo | Capítulos |
+|---|---|
+| 2 Estratégia e alinhamento com a oferta | ch15 (marca x direta, escada, BrandScript nas redes) |
+| 3 Ângulo e envelopes | ch15 (envelopes, curadoria, depoimentos como retirada) |
+| 7 CTA e pedidos | ch15 (retirada direta/transicional), ch16 (bio com one-liner) |
+| 8 Teste, calendário e rotina | ch16 (horários, calendário editorial, quebra de padrão, crise e críticas) |
+| Alcance e parceiros | ch16 (hashtags, influenciadores de longo prazo) |
+| Por plataforma (datado) | ch17 (Facebook, Instagram, X, LinkedIn, complementares) |
+Mensagem-base (SB7, one-liner, site): `copywriting-publicidade` ch223-ch227; funil e e-mail: `marketing-digital-growth` ch113-ch115. Cada capítulo traz **cuidados** próprios (prova real, setor regulado, regras de plataforma).
 
 **Pontos de divergência a registrar quando relevante:** esta série põe a oferta no **meio** do vídeo orgânico e o fechamento no direct/WhatsApp; o Roas trabalha anúncio pago com funil de VSL e o professor Filemon diz que conteúdo não é para vender (ch160 da copy). Escolha pelo objetivo e canal.
 

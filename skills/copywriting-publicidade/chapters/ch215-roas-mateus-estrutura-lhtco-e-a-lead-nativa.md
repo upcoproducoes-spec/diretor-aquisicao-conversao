@@ -71,5 +71,5 @@ A aula afirma só os extremos: **oferta primeiro, lead por último**, com a lóg
 
 ## Connects To
 - ch216 (história, tese, construção, oferta), ch217 (criativos), ch163-ch164 (lead e ângulos do Filemon), ch165, ch172, ch174, ch177.
-- `funil-vsl-thiago-roas` (métricas de VSL).
+- `estrategia-trafego-funil` (métricas de VSL).
 - `persuasao-gatilhos` ch49-ch53 (credibilidade, prova); `psicologia-consumidor` (consciência).

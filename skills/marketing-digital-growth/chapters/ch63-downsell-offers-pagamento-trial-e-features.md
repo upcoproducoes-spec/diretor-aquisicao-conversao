@@ -49,5 +49,5 @@
 - ch07 (retenção/coortes): dados de Profitwell reforçam diferença de churn por cadência.
 - ch11, ch46: aversão à perda e preço como história; ancoragem na oferta principal.
 - ch60 (Win Your Money Back e Pay Less Now): trial with penalty reaproveita os mesmos critérios.
-- Skill `funil-vsl-thiago-roas`: o **downsell do funil 418 (R$)** é o exemplo mais direto — a página de downsell oferece uma versão de menor ticket/características após o "não" ao upsell; ver também order bump e funil de recuperação de upsell. Hormozi ajuda a pensar *o que cortar* (DIY vs. DFY, quantidade) e *como parcelar*; preços e estrutura seguem Roas.
+- Skill `estrategia-trafego-funil`: o **downsell do funil 418 (R$)** é o exemplo mais direto — a página de downsell oferece uma versão de menor ticket/características após o "não" ao upsell; ver também order bump e funil de recuperação de upsell. Hormozi ajuda a pensar *o que cortar* (DIY vs. DFY, quantidade) e *como parcelar*; preços e estrutura seguem Roas.
 - Skill `vendas-metodologia` (Voss, "Never Split the Difference"): tratar objeção de preço sem ceder preço, usando condições.

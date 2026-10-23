@@ -66,4 +66,4 @@ Atração e Corredor Polonês fase 1 (**30 dias**) → captação e venda de ing
 5. Low ticket + pago: dois estímulos para o mesmo evento.
 
 ## Connects To
-ch89-ch92 • ch54, ch59 (Hormozi: CAC, payback) • ch30-ch35 (Walker) • `copywriting-publicidade` ch217-ch219 (criativos, formato) • `funil-vsl-thiago-roas` (métricas, 7-3-1).
+ch89-ch92 • ch54, ch59 (Hormozi: CAC, payback) • ch30-ch35 (Walker) • `copywriting-publicidade` ch217-ch219 (criativos, formato) • `estrategia-trafego-funil` (métricas, 7-3-1).

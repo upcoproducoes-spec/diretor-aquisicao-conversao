@@ -42,4 +42,4 @@ Dentro do teste de ativos, **público** e **página** vêm depois do criativo, m
 5. Teste 1-2 públicos por semana.
 
 ## Connects To
-ch96, ch98-ch99 • `funil-vsl-thiago-roas` (sem segmentação manual: divergência registrada no ch98) • ch12-ch13 (diagnóstico) • `copywriting-publicidade` (headline).
+ch96, ch98-ch99 • `estrategia-trafego-funil` (sem segmentação manual: divergência registrada no ch98) • ch12-ch13 (diagnóstico) • `copywriting-publicidade` (headline).

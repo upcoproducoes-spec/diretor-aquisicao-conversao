@@ -54,4 +54,4 @@ Uma oferta única vale menos que **a mesma oferta decomposta em partes e empilha
 - **Ch 108 (Garantias)**: o outro grande redutor de risco.
 - **Skill `persuasao-gatilhos`, ch02 (Reciprocidade) e ch68 (Contraste e Âncora de Preço)**: os mecanismos que o empilhamento aciona.
 - **Skill `copywriting-publicidade`** (Marketing Bullets, Bencivenga): a estrutura de bônus nomeado com benefício é a mesma dos "fascinations" de copy.
-- **Skill `funil-vsl-thiago-roas`**: arquitetura front/upsell/downsell em perpétuos.
+- **Skill `estrategia-trafego-funil`**: arquitetura front/upsell/downsell em perpétuos.

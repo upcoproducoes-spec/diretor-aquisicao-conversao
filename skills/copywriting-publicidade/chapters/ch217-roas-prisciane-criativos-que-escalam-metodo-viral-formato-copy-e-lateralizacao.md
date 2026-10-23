@@ -82,4 +82,4 @@ O mesmo produto tem criativos para **topo** (só fala da oportunidade aos 33 s),
 
 ## Connects To
 - ch211-ch216; ch183 e ch189-ch194 (headlines e apelos: Hopkins/Caples), ch204-ch205 (testar e split-run).
-- `funil-vsl-thiago-roas` (criativo como motor, funil de criativos, métricas), `psicologia-consumidor` (consciência, desejo), `persuasao-gatilhos` (prova social, escassez).
+- `estrategia-trafego-funil` (criativo como motor, funil de criativos, métricas), `psicologia-consumidor` (consciência, desejo), `persuasao-gatilhos` (prova social, escassez).

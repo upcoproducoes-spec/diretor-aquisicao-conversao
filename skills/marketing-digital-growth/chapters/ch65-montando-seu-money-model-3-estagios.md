@@ -45,5 +45,5 @@ O capítulo final integra as 4 famílias de oferta (ch60-ch64) num modelo de neg
 - ch47 (Godin, funil, LTV): o modelo mede LTV e velocidade de retorno; ch09 (AARRR) e ch23 (KPIs).
 - ch30-ch35 (Walker): Product Launch Formula e o Money Model combinam: lançamento gera pico, Money Model organiza o pós-compra e a continuidade (ver "Funil de Monetização" no cheatsheet).
 - ch57 (Afiliados): produtos de afiliado como elo do Money Model e afiliados como lead getters.
-- Skill `funil-vsl-thiago-roas`: Money Model com front + upsell + downsell é a base do funil 418; esta skill acrescenta attraction (variações de front), Menu/Anchor/Rollover e continuity; para tráfego, orçamento e escala siga Roas.
+- Skill `estrategia-trafego-funil`: Money Model com front + upsell + downsell é a base do funil 418; esta skill acrescenta attraction (variações de front), Menu/Anchor/Rollover e continuity; para tráfego, orçamento e escala siga Roas.
 - Skill `estrategia-negocios` (Livro 9, Hormozi — $100M Offers): construção da oferta de cada elo; `diretor-aquisicao-conversao`: Fase 8 (arquitetura do funil) usa o Money Model como esqueleto de monetização.

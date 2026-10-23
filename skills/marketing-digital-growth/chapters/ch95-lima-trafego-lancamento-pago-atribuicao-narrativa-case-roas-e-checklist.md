@@ -44,4 +44,4 @@ Criativos vendem o **valor da imersão**, não só informam o evento · página 
 5. Faça o checklist antes de ligar a campanha.
 
 ## Connects To
-ch89-ch94 • ch88 (Dream 100, tráfego) • ch12, ch54 • `funil-vsl-thiago-roas` (estrutura de campanhas, 7-3-1) • `copywriting-publicidade` ch217 (criativos) • `persuasao-gatilhos` (escassez real).
+ch89-ch94 • ch88 (Dream 100, tráfego) • ch12, ch54 • `estrategia-trafego-funil` (estrutura de campanhas, 7-3-1) • `copywriting-publicidade` ch217 (criativos) • `persuasao-gatilhos` (escassez real).

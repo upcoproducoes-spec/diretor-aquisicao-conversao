@@ -59,4 +59,4 @@ Produtos diferentes pedem **tamanhos de espaço** diferentes: um anúncio pequen
 - ch199 (Caples, 32 formas: espaço e copy longo; tamanho mais eficaz) e ch197 (copy longo e "ferver" o texto).
 - ch201 (Caples, layout e ilustrações) e ch203 (Caples, split-run e testes, a seguir).
 - ch28 (Ogilvy, mala direta) e ch183 (Hopkins, headline que seleciona).
-- Skill `marketing-digital-growth` (Hacking Growth: testes, frequência e mídia) e `funil-vsl-thiago-roas` (testes de criativos).
+- Skill `marketing-digital-growth` (Hacking Growth: testes, frequência e mídia) e `estrategia-trafego-funil` (testes de criativos).

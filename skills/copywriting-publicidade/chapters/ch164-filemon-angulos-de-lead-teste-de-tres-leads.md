@@ -44,4 +44,4 @@ Toda lead deve ter um **ângulo**, ou seja, um tema central que a norteia; não 
 ## Connects To
 - ch163 (função e elementos da lead), ch165 (fórmula), ch162 (apelido e notícia).
 - ch152 (Kennedy, fórmulas de headline), ch127 (24 Iniciadores), ch50 (curiosidade e Teste Ho-Hum), ch88 (looping).
-- `funil-vsl-thiago-roas` (as 3 métricas de VSL: play rate, retenção no 1º minuto e no PIT; o mesmo alvo de ~60% no 1º minuto e a mesma prática de gravar 3-5 versões da abertura aparecem lá, de forma independente, o que reforça a regra) e `marketing-digital-growth` (ciclos de teste).
+- `estrategia-trafego-funil` (as 3 métricas de VSL: play rate, retenção no 1º minuto e no PIT; o mesmo alvo de ~60% no 1º minuto e a mesma prática de gravar 3-5 versões da abertura aparecem lá, de forma independente, o que reforça a regra) e `marketing-digital-growth` (ciclos de teste).

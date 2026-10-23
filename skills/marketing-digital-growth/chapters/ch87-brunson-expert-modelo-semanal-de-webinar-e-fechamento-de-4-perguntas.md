@@ -63,5 +63,5 @@ Todos os números (US$10 milhões, US$30 milhões, taxas de comparecimento e fec
 - ch76 (DotCom Secrets, webinar e alto ticket), ch77 (setter/closer) e ch86 (A Pilha).
 - ch88 (Epiphany e-mail/lançamento e Dream 100) para tráfego e variações do funil.
 - ch30-ch35 (Walker, Launch) e ch70 (e-mails Soap Opera): sequências pré e pós evento.
-- Skill `funil-vsl-thiago-roas`: a lógica de métricas de funil e de escalar com dados.
+- Skill `estrategia-trafego-funil`: a lógica de métricas de funil e de escalar com dados.
 - Skill `vendas-metodologia` (Rackham/SPIN, Voss, Pink): perguntas de diagnóstico e fechamento consultivo.

@@ -47,4 +47,4 @@ Antes de construir qualquer funil, Brunson procura quem **já vende com sucesso 
 - ch66-ch67 (Brunson, fórmula e escada): a pesquisa alimenta "onde" e "isca".
 - ch72 (Brunson, 7 fases): a leitura do funil concorrente se dá pelas 7 fases.
 - Skill `copywriting-publicidade` (ch97-ch98 Halbert, imersão e fact sheet; ch186 Hopkins, informação e concorrentes): pesquisa antes de escrever.
-- Skill `funil-vsl-thiago-roas` e `estrategia-negocios`: validação de mercado antes de investir.
+- Skill `estrategia-trafego-funil` e `estrategia-negocios`: validação de mercado antes de investir.

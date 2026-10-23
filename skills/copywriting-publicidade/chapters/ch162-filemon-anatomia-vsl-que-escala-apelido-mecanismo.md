@@ -40,4 +40,4 @@ Depois de passar uma série de VSLs de nichos diferentes (renda extra, emagrecim
 ## Connects To
 - ch111 (Schwartz, Sofisticação), ch118 (Schwartz, Mecanização: mecanismo visualizável), ch115 (Identificação), ch51 (Bencivenga, USP), ch50 (curiosidade), ch87 (Halbert, The Twist e swipe).
 - ch165 (a fórmula de 5 blocos), ch163-164 (lead) e ch173 e ch175-176 (Aula 2: promessa, mecanismo e apelido na construção ao vivo).
-- `persuasao-gatilhos` (ética de promessa e gatilhos) e `funil-vsl-thiago-roas` (onde o VSL entra no funil).
+- `persuasao-gatilhos` (ética de promessa e gatilhos) e `estrategia-trafego-funil` (onde o VSL entra no funil).

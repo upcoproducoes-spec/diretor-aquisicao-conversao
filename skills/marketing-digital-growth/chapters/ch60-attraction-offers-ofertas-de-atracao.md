@@ -42,6 +42,6 @@
 - ch50 (lead magnets) e ch54 (paid ads): attraction offers são, na prática, "ofertas core com desconto" ou "magnets pagos" para público frio; Pay Less Now guarda conexão com garantia condicional.
 - ch33 (Walker, Open Cart/escassez) e ch32: escassez/urgência em giveaways e launches só vale se real.
 - ch13 (e-commerce, recuperação de carrinho) e ch08 (monetização): Buy X Get Y e bundle são alavancas de ticket e de prova de oferta.
-- Skill `funil-vsl-thiago-roas`: o front de R$297 em VSL fria equivale a um Attraction Offer de baixo preço; o Decoy/âncora ajuda a pensar na página de upsell; **não** substitui a metodologia de Roas para precificação e criativos.
+- Skill `estrategia-trafego-funil`: o front de R$297 em VSL fria equivale a um Attraction Offer de baixo preço; o Decoy/âncora ajuda a pensar na página de upsell; **não** substitui a metodologia de Roas para precificação e criativos.
 - Skill `persuasao-gatilhos` e `psicologia-consumidor`: reciprocidade, ancoragem e aversão à perda por trás das mecânicas.
 - Skill `estrategia-negocios` (Livro 9, Hormozi — $100M Offers): como construir o premium e os bônus (Value Equation, bônus, garantias).

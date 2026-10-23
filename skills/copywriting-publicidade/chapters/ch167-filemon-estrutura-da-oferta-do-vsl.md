@@ -27,12 +27,12 @@ A oferta do VSL é um bloco longo, quase **formulaico**, que o professor recomen
   16. **FAQ** (opcional) para tirar dúvidas finais.
 - **Títulos "sexy" de módulo**: em vez de "Módulo 1: Lives", algo que sugere mecanismo e curiosidade ("o segredo das lives: o roteiro de lives que usei para vender X"), sem revelar tudo. Cada módulo funciona como uma mini-promessa.
 - **Insumos do prompt de oferta (perguntas que o redator responde)**: nome do produto, promessa principal, apelido do mecanismo, preço à vista, **último ponto lógico** da tese (para costurar a transição), jornada do especialista (ver ch166), módulos (nome e o que ensinam), bônus, garantia (o professor sugere 7 dias para teste), a **real razão da urgência** (vagas, preço, bônus), plataforma de pagamento, **dores** e **desejos** do raio X de pesquisa. Ver ch168.
-- **Preço de referência e parcelamento**: na demonstração, o texto sugerido ancora num "acompanhamento individual de R$ 1.497" e apresenta R$ 297 à vista ou 12x. Ele diz: "na dúvida, 297" (pelo contexto de funil de entrada; ver `funil-vsl-thiago-roas` sobre ticket).
+- **Preço de referência e parcelamento**: na demonstração, o texto sugerido ancora num "acompanhamento individual de R$ 1.497" e apresenta R$ 297 à vista ou 12x. Ele diz: "na dúvida, 297" (pelo contexto de funil de entrada; ver `estrategia-trafego-funil` sobre ticket).
 
 ## Key Concepts
 - **Cada seção do VSL vende algo**; na oferta, o que se vende, depois do produto, é **valor**: a pessoa deve perceber que "vale muito mais do que ela imagina" antes de ver o preço (ancoragem, stack).
 - **A razão da urgência tem que ser real**: a instrução do prompt é "dê um motivo de urgência" e o professor exemplifica vagas, aumento de preço, fim de bônus; **nesta skill, só se for verdadeiro** (ver anti-patterns).
-- **O preço vem depois do valor, e o CTA vem depois do preço**: padrão compatível com `funil-vsl-thiago-roas` ("preço sempre antes do CTA").
+- **O preço vem depois do valor, e o CTA vem depois do preço**: padrão compatível com `estrategia-trafego-funil` ("preço sempre antes do CTA").
 
 ## Mental Models
 - **Funil dentro do funil**: apresentar → descrever → provar → ancorar → preço → reduzir risco → fechar. É a lógica "valor percebido antes do preço" (Equação de Valor de Hormozi, em `estrategia-negocios`) em formato de vídeo.
@@ -47,11 +47,11 @@ A oferta do VSL é um bloco longo, quase **formulaico**, que o professor recomen
 - **Tensão com Carlton (ch63) e Kennedy (ch153, Beat the Bugaboo)**: ambos tratam preço e garantia em seções mais elaboradas, com mais argumentação sobre preço; Filemon usa uma versão enxuta, adequada a ticket baixo de público frio. Para ticket alto (mentorias para dentistas), use a profundidade de Kennedy.
 
 ## Key Takeaways
-- Para a primeira versão, siga a sequência na ordem; teste blocos isolados depois (o `funil-vsl-thiago-roas` registra testes de bloco de oferta que alteram a conversão).
+- Para a primeira versão, siga a sequência na ordem; teste blocos isolados depois (o `estrategia-trafego-funil` registra testes de bloco de oferta que alteram a conversão).
 - Verifique cada afirmação de valor: preço de referência, bônus, vagas e garantia devem ser factuais.
 - Entregue módulos com títulos de curiosidade, mas conteúdo que cumpre o título.
 
 ## Connects To
 - ch165 (fórmula), ch166 (a ponte), ch168 (como gerar a oferta com IA a partir do mapa).
 - ch8, ch54, ch123 (Oferta Irresistível, Engenharia de Oferta: Bencivenga, Makepeace), ch63 (Carlton, Fechamento), ch129 (Makepeace, Fechamento e Garantia), ch153 (Kennedy, vencer o preço), ch144 (Sugarman, Urgência e Exclusividade).
-- `estrategia-negocios` (Equação de Valor e Grand Slam Offer de Hormozi, empilhamento e garantia) e `funil-vsl-thiago-roas` (página de vendas no PIT).
+- `estrategia-negocios` (Equação de Valor e Grand Slam Offer de Hormozi, empilhamento e garantia) e `estrategia-trafego-funil` (página de vendas no PIT).

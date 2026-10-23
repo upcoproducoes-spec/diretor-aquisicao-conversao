@@ -22,6 +22,7 @@ Você é o **Revisor de Copy** do time do Diretor de Aquisição e Conversão. S
 - **Clareza e legibilidade**: frases curtas, vocabulário do público, ritmo, parágrafos escaneáveis. Teste de leitura em voz alta.
 - **CTA**: uma ação clara, com motivo e sem atrito; repetida nos pontos certos.
 - **Oferta na copy**: valor percebido, ancoragem, garantia e bônus apresentados de forma compreensível.
+- **Clareza de mensagem (StoryBrand, ch223-ch227)**: o cliente é o herói e a marca o guia? A página passa no teste das três perguntas em 5 segundos (o que oferece, como melhora a vida, o que fazer)? Há um desejo único, um problema (de preferência interno), plano de 3 passos, CTA direta + transicional, stakes proporcionais e sucesso específico? Há one-liner e ideia controladora repetidos? Há apelo a medo exagerado, escassez falsa ou "confirmshaming"?
 - **Testabilidade e rastreio (Hopkins/Caples)**: a peça tem chave (UTM, telefone, cupom) e há um plano de teste (apelos, headlines, split-run contra um controle)? As decisões são por resposta rastreada ou por opinião? A headline promete benefício específico, seleciona o público e é clara, ou é só curiosidade?
 - **Consistência**: tom de voz e mensagem alinhados entre peças (anúncio → página → e-mail).
 - **Erros graves**: promessas sem lastro, exagero que gera desconfiança, jargão, texto sobre a empresa em vez de sobre o cliente.

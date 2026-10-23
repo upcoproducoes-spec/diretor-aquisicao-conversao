@@ -44,6 +44,6 @@ Leads só se engajam quando recebem algo que querem. Há dois caminhos: anunciar
 - ch02 (Pesquisa Must-Have) e ch12 (Netnografia): fontes de problemas estreitos reais para escolher o magnet.
 - ch31 (Walker, Sideways Sales Letter) e ch30 (PLF): magnet como "conteúdo de valor antes da oferta", mesma lógica de reciprocidade; ver ch32.
 - ch18 (Marketing de Conteúdo e E-mail) e ch46 (Godin, Permissão): o magnet é a moeda de troca para ganhar permissão (opt-in).
-- Skill `funil-vsl-thiago-roas`: em VSL fria o "magnet" é a própria VSL e o front; a lógica de baixar o custo por aquisição entregando valor antes se aplica ao criativo e ao front.
+- Skill `estrategia-trafego-funil`: em VSL fria o "magnet" é a própria VSL e o front; a lógica de baixar o custo por aquisição entregando valor antes se aplica ao criativo e ao front.
 - Skill `copywriting-publicidade`: headline e CTA em profundidade.
 - Skill `estrategia-negocios` (Livro 9, Hormozi — $100M Offers): como tornar o magnet "irrecusável" (Value Equation).

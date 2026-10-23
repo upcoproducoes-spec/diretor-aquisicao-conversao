@@ -43,4 +43,4 @@
 - **Ch 107 (Bônus)**: bônus com urgência ("compre hoje e leve X").
 - **Skill `persuasao-gatilhos`, ch20 (Números Limitados, Prazos), ch52 (Escassez Real vs. Falsa) e ch53 (Urgência)**: fundamento psicológico e regra ética permanente.
 - **Skill `marketing-digital-growth`** (Jeff Walker — Product Launch Formula): janelas de carrinho são a implementação de turmas rotativas.
-- **Skill `funil-vsl-thiago-roas`**: perpétuos de VSL exigem urgência por turma/janela individual real, não por contagem fabricada.
+- **Skill `estrategia-trafego-funil`**: perpétuos de VSL exigem urgência por turma/janela individual real, não por contagem fabricada.

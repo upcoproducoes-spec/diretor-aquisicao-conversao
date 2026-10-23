@@ -37,4 +37,4 @@ Tráfego de ingresso é **outro jogo** que o de captação gratuita: em vez de "
 5. Capture dados antes do checkout para recuperação humana.
 
 ## Connects To
-ch54, ch59-ch65 (Hormozi: CAC, payback, money model) • ch12-ch13 (diagnóstico de carrinho) • `funil-vsl-thiago-roas` (métricas de tráfego, criativos) • `copywriting-publicidade` ch217 (criativos que escalam, formato) • ch89-ch90, ch92-ch95.
+ch54, ch59-ch65 (Hormozi: CAC, payback, money model) • ch12-ch13 (diagnóstico de carrinho) • `estrategia-trafego-funil` (métricas de tráfego, criativos) • `copywriting-publicidade` ch217 (criativos que escalam, formato) • ch89-ch90, ch92-ch95.

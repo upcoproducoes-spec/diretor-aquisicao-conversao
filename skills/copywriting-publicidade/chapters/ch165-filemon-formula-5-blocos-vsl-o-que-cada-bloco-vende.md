@@ -49,4 +49,4 @@ A estrutura-base de um VSL de venda para público frio, segundo o professor, tem
 - ch163-164 (lead), ch166 (história e construção do produto), ch167 (estrutura da oferta), ch168 (fluxo de produção com IA) e ch169 (formatos).
 - ch06 (Maccedo, 7 Passos e Roteiro de 52 Passos), ch18 (Modelo 10B), ch64 (Carlton, Template de 10 Blocos), ch125 (Makepeace, A-B-C): estruturas irmãs de carta/VSL.
 - ch110-111 (Schwartz): diagnóstico de consciência e sofisticação antes de escolher o ângulo.
-- `funil-vsl-thiago-roas` (estrutura de página e PIT) e `diretor-aquisicao-conversao` (Fases 10-11).
+- `estrategia-trafego-funil` (estrutura de página e PIT) e `diretor-aquisicao-conversao` (Fases 10-11).

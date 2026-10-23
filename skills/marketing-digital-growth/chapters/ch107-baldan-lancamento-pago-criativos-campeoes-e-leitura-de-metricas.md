@@ -37,4 +37,4 @@ Cada criativo é analisado **por bloco** (gancho, conteúdo, chamada) com **quat
 5. Contrate UGC e teste variações de gancho.
 
 ## Connects To
-ch103, ch105-ch106 • ch96-ch99 (Carneiro, hook/hold rate) • `copywriting-publicidade` ch217 (criativos que escalam) • `funil-vsl-thiago-roas` (funil de criativos).
+ch103, ch105-ch106 • ch96-ch99 (Carneiro, hook/hold rate) • `copywriting-publicidade` ch217 (criativos que escalam) • `estrategia-trafego-funil` (funil de criativos).

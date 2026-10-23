@@ -382,3 +382,23 @@ Termos e frameworks centrais dos 10 livros-fonte (Livros 1-9, incluindo Hormozi 
 **Single shot** — anúncio de visualização única com metade do preço para quem viu e não comprou. Ch103, ch106.
 
 **Tela final (criativo)** — 10-14 s com nome, data, promessa e preço de referência. Ch107.
+
+## Acréscimos — StoryBrand (Livro 13, ch113-ch115; copy ch223-ch227; conteúdo ch15-ch17)
+
+**BrandScript** — resumo em uma página das sete partes da história do cliente. Ch223-ch225.
+
+**Escada de engajamento** — degraus do seguidor ao cliente recorrente (seguir, interagir, clicar, lista, e-mail, compra). Ch15.
+
+**Ideia controladora** — a única ideia que o cliente deve lembrar; repetida palavra por palavra. Ch226.
+
+**Lead generator** — recurso útil gratuito trocado por contato; um problema, título forte. Ch114.
+
+**One-liner** — resposta de uma frase com problema, solução e resultado. Ch226.
+
+**Plano de acordo / de processo** — compromissos que removem medos / três passos até a compra. Ch225.
+
+**Retirada e depósito (redes)** — post de valor (depósito, ~80%) e post de chamada à ação (retirada, ~20%). Ch15.
+
+**Teste do grunt** — o visitante responde em 5 segundos: o que oferece, como melhora a vida, o que fazer. Ch223.
+
+**Vazio narrativo** — ausência de história comum que fragmenta a empresa. Ch115.

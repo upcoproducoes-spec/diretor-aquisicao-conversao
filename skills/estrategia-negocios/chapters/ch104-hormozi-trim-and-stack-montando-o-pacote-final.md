@@ -49,4 +49,4 @@ Com uma lista gigante de soluções e veículos de entrega, o **Passo 5** é tri
 - **Ch 107 (Bônus) e Ch 109 (Nomeação)**: apresentação e nomes dos itens empilhados.
 - **Ch 45 (Grade ERRC, Blue Ocean)**: Eliminar/Reduzir = Trim; Elevar/Criar = itens de alto valor — o mesmo raciocínio de cortar custo e elevar valor simultaneamente.
 - **Ch 73 (Vantagem de Custo, Porter)**: itens de baixo custo marginal e alto valor são a fonte do prêmio de preço.
-- **Skill `funil-vsl-thiago-roas`**: o pacote do front-end e os upsells/downsells devem usar este mesmo método.
+- **Skill `estrategia-trafego-funil`**: o pacote do front-end e os upsells/downsells devem usar este mesmo método.

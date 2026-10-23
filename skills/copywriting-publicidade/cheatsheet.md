@@ -369,7 +369,7 @@ Pular qualquer etapa desta sequência é o padrão de falha mais citado, sob nom
 | Confirmando a suspeita | Público já desconfia da causa real | Ser genérico |
 | Notícia | Quebra de padrão; renda extra/atualidade | Direitos e sugestão de endosso |
 
-Alvo de retenção no 1º minuto citado: ~60% ou mais (afirmação do professor; coincide com `funil-vsl-thiago-roas`). Ch164, ch162.
+Alvo de retenção no 1º minuto citado: ~60% ou mais (afirmação do professor; coincide com `estrategia-trafego-funil`). Ch164, ch162.
 
 ## Hipóteses de Campo do Professor (Filemon): Usar Como Ponto de Partida, Testar
 
@@ -382,7 +382,7 @@ Alvo de retenção no 1º minuto citado: ~60% ou mais (afirmação do professor;
 | Consciência vs. tamanho | Menor consciência, copy maior | ch179, ch110 |
 | ROAS | ≤ 2 para escalar, se houver back end | ch179, ch160 |
 
-**Nota**: números vindos de aula transcrita por legenda automática; confrontar com `funil-vsl-thiago-roas` (que adverte contra comparar conversão com valor fixo) e com os seus próprios dados.
+**Nota**: números vindos de aula transcrita por legenda automática; confrontar com `estrategia-trafego-funil` (que adverte contra comparar conversão com valor fixo) e com os seus próprios dados.
 
 
 ## Publicidade Testada (Hopkins e Caples) — Decisões Rápidas

@@ -464,7 +464,7 @@ Termos e frameworks centrais dos livros-fonte, em ordem alfabética. Cada entrad
 
 **Estrutura invisível** — efeito psicológico por trás de cada frase de uma cópia; permite modelar a estrutura de uma VSL escalada em outro nicho sem copiar o texto. ch215 (ver ch174).
 
-**Funil de criativos** — leitura do Meta segundo a qual criativos formam um funil (frio → remarketing); decide-se por frequência e gasto, não só por ROAS. Ver `funil-vsl-thiago-roas`.
+**Funil de criativos** — leitura do Meta segundo a qual criativos formam um funil (frio → remarketing); decide-se por frequência e gasto, não só por ROAS. Ver `estrategia-trafego-funil`.
 
 **Lateralização** — contar a mesma história (narrativa validada) em formatos diferentes, mantendo o efeito de cada bloco. ch217.
 
@@ -480,4 +480,4 @@ Termos e frameworks centrais dos livros-fonte, em ordem alfabética. Cada entrad
 
 **Pitch duplo** — um pitch de ticket alto num dia e um segundo, de ticket menor com ponte de volta, no dia seguinte. ch213.
 
-**Regra 7-3-1** — decidir por 7 dias (período longo), 3 dias (tendência) e hoje; nunca desligar por um dia. Ver `funil-vsl-thiago-roas`.
+**Regra 7-3-1** — decidir por 7 dias (período longo), 3 dias (tendência) e hoje; nunca desligar por um dia. Ver `estrategia-trafego-funil`.
