@@ -423,3 +423,7 @@ Alvo de retenção no 1º minuto citado: ~60% ou mais (afirmação do professor;
 - **Criativo (Prisciane)**: transformação em big nicho → narrativa validada → formato com vantagem → lateralizar.
 - **Divergências a lembrar**: bônus e garantia antes do preço (Filemon, ch167) x depois do PIT (Mateus, ch216); histórias de 7 bits x 3 estágios.
 - **Alertas**: cashback e sinal por escrito; sem voz clonada sem consentimento; sem benchmark de números de terceiros.
+
+- **Roteiro de anúncio de Black (ch231)**: um público e uma ideia por peça; inventário em lista curta com contagem de fechamento; objeção na voz do público; corpo sem data e sem preço; final modular com o pedido e o prazo, só quando verdadeiros.
+- **Live de vendas (ch230)**: objeção central nos primeiros minutos; dados da pesquisa de inscrição em cada bloco; limites (o que é vitalício, o que tem prazo) antes do preço; fechamento por lista de motivos e perguntas com o link aberto.
+- **Alertas (Black)**: "nunca fiz isso" só se verdadeiro; renovações hipotéticas e produtos não gravados sinalizados na conta; promessa de banca ou resultado com ressalva; linguagem de remarketing conforme a política da plataforma; depoimentos autorizados.

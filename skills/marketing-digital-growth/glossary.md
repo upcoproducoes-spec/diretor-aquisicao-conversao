@@ -402,3 +402,23 @@ Termos e frameworks centrais dos 10 livros-fonte (Livros 1-9, incluindo Hormozi 
 **Teste do grunt** — o visitante responde em 5 segundos: o que oferece, como melhora a vida, o que fazer. Ch223.
 
 **Vazio narrativo** — ausência de história comum que fragmenta a empresa. Ch115.
+
+## Acréscimos — Black Friday completa (Livro 14, ch116-ch117; copy ch230-ch231; conteúdo ch18)
+
+**A conta** — soma do preço de tabela de tudo o que entra no combo, comprado separado (às vezes com renovações), comparada ao preço do combo. Só é honesta se disser que as renovações e os produtos ainda não gravados são hipotéticos. Ch116, ch231.
+
+**Carrinho aberto** — fase após a live em que a oferta já é pública e os anúncios retomam a base com conta, demonstração, depoimentos, fricção de pagamento e replay. Ch117.
+
+**Combo vitalício** — pacote de produtos com acesso para sempre às aulas gravadas e aos PDFs; suporte e certos bônus têm prazo próprio, e isso deve ser dito antes do preço. Ch116.
+
+**Controle de claims (manual de claims)** — regras numeradas de linguagem, origem de cada frase e lista de pendências antes de publicar; atualiza as peças já no ar quando um claim muda. Ch117, ch18.
+
+**Corpo sem data e sem preço** — regra de roteiro: o que é perecível fica no final modular ou na página, e o vídeo sobrevive a mudanças de calendário. Ch117, ch231.
+
+**Fricção de pagamento (vídeo de)** — criativo para quem travou no limite do cartão ou numa dúvida, com formas de pagar e instrução anti-golpe. Ch117, ch231.
+
+**Link só ao vivo** — o link de compra só é liberado durante a live; quem se inscreveu antes recebe o link ali. Ch116.
+
+**Preço de aluno x não aluno** — dois preços para a mesma oferta, reconhecidos pelo e-mail da compra, com a razão explicada. Ch116, ch117.
+
+**Torre de criativos** — conjunto de três vídeos dirigido a um único público; duas torres por público permitem comparar ângulos. Ch117.

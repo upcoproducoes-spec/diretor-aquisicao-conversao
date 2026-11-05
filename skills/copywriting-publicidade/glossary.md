@@ -481,3 +481,21 @@ Termos e frameworks centrais dos livros-fonte, em ordem alfabética. Cada entrad
 **Pitch duplo** — um pitch de ticket alto num dia e um segundo, de ticket menor com ponte de volta, no dia seguinte. ch213.
 
 **Regra 7-3-1** — decidir por 7 dias (período longo), 3 dias (tendência) e hoje; nunca desligar por um dia. Ver `estrategia-trafego-funil`.
+
+## Acréscimos — casos analisados (ch228-ch231)
+
+**A conta (anúncio)** — vídeo que soma o preço separado dos produtos e compara com o combo; deve avisar que renovações e produtos não gravados são hipotéticos. Ch231.
+
+**Checklist "marque o que já tem"** — roteiro para quem já comprou: lista os itens e diz que o que ele já tem entra também e o resto é novo. Ch231.
+
+**Contagem de fechamento** — resumo numérico do que entra ("o programa, o curso, oito aulões e quatro livros") no fim do inventário. Ch231.
+
+**Final modular** — fecho gravado uma vez (link do perfil, "saiba mais", prazo) e colado pela edição em cada vídeo; o corpo não leva data nem preço. Ch231.
+
+**Lista de motivos (fechamento)** — "25 motivos" em que cada item responde a uma objeção ou repete um prazo. Ch230.
+
+**Objeção central no início** — a dúvida que mais trava a compra é nomeada e respondida nos primeiros minutos, com identificação e prova. Ch230.
+
+**Prova por objeção** — cada depoimento escolhido para uma objeção específica (área, idade, tentativas anteriores). Ch231.
+
+**Recuperação de checkout (vídeo)** — criativo para quem chegou ao pagamento e parou, com argumento honesto de por que agora. Ch231.

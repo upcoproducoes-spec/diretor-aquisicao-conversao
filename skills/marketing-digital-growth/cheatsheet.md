@@ -239,3 +239,18 @@ Regra de ouro (ch59, ch65): construa um estágio de cada vez; caixa de 30 dias �
 | Redes sem resultado | Só retiradas ou só depósitos; falta escada | ch15 |
 
 **Referências do autor (a validar):** ~8 toques por compra; 3 nutrição + 1 venda; PDF de ~3 páginas; plano em 3 passos; ~60% dos geradores funcionam.
+
+## Black Friday completa (ch116-ch117; copy ch230-ch231) — diagnóstico rápido
+
+| Sintoma | Primeira hipótese | Onde |
+|---|---|---|
+| Poucos inscritos para a live | Captação com preço ou promessa confusa; sem CTA único por peça | ch117, ch231 |
+| Pouca compra depois da live | Sem carrinho aberto com conta, demonstração e replay | ch117 |
+| Muitos param no pagamento | Faltam vídeo de fricção, formas de pagar e suporte oficial | ch116, ch231 |
+| Aluno não compra | Sem checklist "marque o que já tem" e bônus exclusivos | ch231 |
+| Criativos com data errada no ar | Data no corpo do vídeo; usar final modular | ch117, ch231 |
+| Promessa de escassez sem base | "Nunca fiz isso" repetido sem confirmar; revisar | ch116, ch231 |
+| Âncora de preço contestada | Renovações hipotéticas ou produto não gravado sem aviso | ch116, ch231 |
+| Não se sabe o que funcionou | Só plano, sem métricas por fase e por torre | ch117 |
+
+**Ordem de leitura para planejar uma Black:** ch117 (fases) → ch116 e ch230 (live) → ch231 (roteiros) → conteúdo ch18 (carrossel). **Referências do material (a validar):** captação ≈2 semanas; carrinho aberto de poucos dias; duas torres de três vídeos por público.
