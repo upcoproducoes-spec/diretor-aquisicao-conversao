@@ -6,7 +6,7 @@ description: "Base de conhecimento sintetizada de 15 livros/arquivos/aulas de co
 <!-- argument-hint: [tópico, framework, autor, ou número de capítulo] -->
 
 # Copywriting & Publicidade — Base de Conhecimento (16 Livros/Arquivos/Aulas)
-**Autores**: Gustavo Ferreira, Paulo Maccedo, David Ogilvy, Miles Young, Gary Bencivenga, John Carlton, Gary Halbert, Eugene Schwartz, Clayton Makepeace, Joseph Sugarman, Robert Collier, Dan Kennedy, Thiago Filemon (aulas de VSL), Claude Hopkins, John Caples, Donald Miller (StoryBrand, ch223-ch227) | **Capítulos**: 227 | **Gerado**: 2026-09-23 | **Atualizado**: 2026-10-23
+**Autores**: Gustavo Ferreira, Paulo Maccedo, David Ogilvy, Miles Young, Gary Bencivenga, John Carlton, Gary Halbert, Eugene Schwartz, Clayton Makepeace, Joseph Sugarman, Robert Collier, Dan Kennedy, Thiago Filemon (aulas de VSL), Claude Hopkins, John Caples, Donald Miller (StoryBrand, ch223-ch227) | **Capítulos**: 231 | **Gerado**: 2026-09-23 | **Atualizado**: 2026-11-05
 
 ## Como Usar Esta Skill
 
@@ -432,6 +432,16 @@ Publicidade é **salesmanship multiplicada**: toda dúvida se resolve com "isto 
 | [ch226](chapters/ch226-miller-storybrand-one-liner-ideia-controladora-e-campanha-de-mensagem.md) | One-Liner, Ideia Controladora e Campanha de Mensagem | Problema-solução-resultado, ideia controladora, script de lacunas, repetição/memorização |
 | [ch227](chapters/ch227-miller-storybrand-site-e-landing-page-wireframe-de-nove-secoes.md) | Site e Landing Page: Cinco Práticas e Nove Seções | Oferta na dobra, CTAs, wireframe (header, stakes, valor, guia, plano, parágrafo, vídeo, preço, gaveta) |
 
+### Livro 18 — Casos analisados (VSL e criativos de anúncio)
+*Proveniência*: vídeos enviados pelo usuário em 2026-11-04 (gravação de tela de uma página com VSL, e um reel sobre formatos de anúncio), transcritos localmente e com quadros analisados. Números e provas são dos próprios vídeos, **não verificados**; cada capítulo traz pontos críticos de ética e conformidade.
+
+| # | Título | Frameworks-Chave |
+|---|---|---|
+| [ch228](chapters/ch228-vsl-basta-sentir-lei-da-atracao-estrutura-ganchos-gatilhos-e-oferta.md) | VSL "Basta Sentir" (Lei da Atração): Estrutura, Ganchos, Gatilhos e Oferta | Erro silencioso, exoneração, mecanismo de 3 camadas, loop aberto, botão com delay, preço baixo + garantia + bônus, dois futuros |
+| [ch229](chapters/ch229-reel-cinco-formatos-de-anuncio-nivel-s-estrutura-ganchos-e-cuidados.md) | Reel "Cinco Formatos de Anúncio Nível S" | Lembrete, mal feito, resposta de IA, manchete, kit inicial; selo numérico, palavra-chave nos comentários; limites éticos |
+| [ch230](chapters/ch230-live-black-friday-roteiro-de-persuasao-objecoes-gatilhos-e-linguagem.md) | Live de Black Friday: Roteiro de Persuasão, Objeções, Gatilhos e Linguagem | Objeção central no início, dados da pesquisa de inscrição, limites claros, a conta, 25 motivos, Q&A com link aberto, prazos reais |
+| [ch231](chapters/ch231-criativos-de-video-de-black-captacao-e-carrinho-aberto-25-roteiros-angulos-e-finais-modulares.md) | Criativos de Vídeo de Black: Captação e Carrinho Aberto (25 roteiros) | Um público e uma ideia por peça, núcleo de oferta repetido, checklist para aluno, recuperação de checkout, finais modulares, corpo sem data/preço |
+
 ## Índice de Tópicos
 
 - **Chave/Rastreamento de resposta (anúncio com chave, UTM, número-chave)** → ch181, ch189, ch194, ch199, ch204, ch205
@@ -542,7 +552,11 @@ Publicidade é **salesmanship multiplicada**: toda dúvida se resolve com "isto 
 - **Crítica de páginas de ingresso e oferta final com âncora em dobro** → ch222 (ver também ch221, `marketing-digital-growth` ch108-ch109)
 - **Clareza de mensagem (StoryBrand SB7), teste do grunt, herói x guia** → ch223-ch225
 - **One-liner, ideia controladora, BrandScript e repetição da mensagem** → ch226 (ver também ch162, ch167)
-- **Wireframe de site/landing page em nove seções e 5 práticas** → ch227 (ver também `marketing-digital-growth` ch113-ch114)
+- **Wireframe de site/landing page em nove seções e 5 práticas** → ch227
+- **VSL de ticket baixo em desenvolvimento pessoal (reframe de causa, mecanismo nomeado, loop aberto, delay do botão)** → ch228 (ver também ch160-ch180, ch211-ch218)
+- **Formatos de anúncio que quebram o padrão (lembrete, mal feito, IA, notícia, kit inicial) e seus limites** → ch229 (ver também ch217)
+- **Live de Black Friday: roteiro, objeções, gatilhos e 25 motivos** → ch230 (mecânica comercial em `marketing-digital-growth` ch116) (ver também `marketing-digital-growth` ch113-ch114)
+- **Roteiros de vídeo de anúncio para Black (captação e carrinho aberto), finais modulares, âncora de preço com ressalva** → ch231 (gestão da campanha em `marketing-digital-growth` ch117)
 - **Prova social como troca (marcações por slides) / enquetes e votos** → ch212
 - **Tipos de Produto de Entrada (resumo, filé, antídoto)** → ch171
 - **TV/comerciais** → ch25, ch37, ch84, ch95

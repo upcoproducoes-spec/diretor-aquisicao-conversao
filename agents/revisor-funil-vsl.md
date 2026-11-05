@@ -20,6 +20,7 @@ Leia o Briefing de Revisão. Se o projeto **não** envolve funil de VSL, funil p
 ## O que avaliar
 - **Estrutura do funil**: front, upsell, downsell, página fechada; ordem, preços e ticket médio coerentes com a metodologia.
 - **VSL**: estrutura, duração, pontos de retenção, métricas de vídeo e da página.
+- **VSL de ticket baixo (ch228 de `copywriting-publicidade`)**: o lead tem gancho, dor reconhecível e comando de retenção? Há mecanismo nomeado, prova (verificável), loop aberto fechado antes da oferta, preço com âncora honesta, garantia, bônus e fechamento? O botão aparece no momento da oferta? Promessas, números e comparações têm base? Há culpabilização do público ou simulação de notificação/notícia nos criativos (ch229)?
 - **Tráfego**: orçamento diário, estrutura de campanhas (CBO/ABO/Advantage+), organização de conjuntos, público frio.
 - **Criativos**: rotina de teste, critérios para pausar e escalar, diversidade de ângulos.
 - **Escala**: em qual das fases de escala o projeto está e se as regras da fase estão sendo respeitadas.

@@ -7,7 +7,7 @@ description: "Playbook de criação de conteúdo e social media (Reels, vídeos 
 
 # Criação de Conteúdo e Social Media — Playbook Aplicado
 
-Esta skill organiza, em um fluxo de trabalho para criar conteúdo, o conhecimento que já existe nas outras skills (ponteiros `chNNN` sem prefixo = `copywriting-publicidade`, salvo quando indicado) e tem **séries próprias de 17 capítulos** em `chapters/` (ch01-ch14, orgânico em vídeo curto; ch15-ch17, modelo SHARE de redes sociais; ver abaixo). **Leia o capítulo apontado antes de aplicar** (os números são ponteiros, não resumos).
+Esta skill organiza, em um fluxo de trabalho para criar conteúdo, o conhecimento que já existe nas outras skills (ponteiros `chNNN` sem prefixo = `copywriting-publicidade`, salvo quando indicado) e tem **séries próprias de 18 capítulos** em `chapters/` (ch01-ch14, orgânico em vídeo curto; ch15-ch17, modelo SHARE de redes sociais; ch18, caso de carrossel de captação; ver abaixo). **Leia o capítulo apontado antes de aplicar** (os números são ponteiros, não resumos).
 
 ## Proveniência e limites (leia primeiro)
 - **O que está aqui**: síntese do próprio sistema (Hopkins, Caples, Schwartz, Filemon, Roas, Prisciane e Mateus no evento do Roas, Brunson, Hormozi, Godin, Cialdini, Freud/Kahneman). As afirmações de Filemon e Roas são **opiniões e resultados dos professores, não verificados**.
@@ -102,6 +102,8 @@ Complementa a série de vídeo curto: modelo **S**tory, **H**ow, **A**udience, *
 | 8 Teste, calendário e rotina | ch16 (horários, calendário editorial, quebra de padrão, crise e críticas) |
 | Alcance e parceiros | ch16 (hashtags, influenciadores de longo prazo) |
 | Por plataforma (datado) | ch17 (Facebook, Instagram, X, LinkedIn, complementares) |
+Formatos de criativo de anúncio observados (lembrete, mal feito, resposta de IA, manchete, kit inicial) e seus limites éticos: `copywriting-publicidade` ch229.
+**Caso de carrossel e legenda de captação (ch18):** capa pergunta → legenda responde, CTA por comentário com automação conferida, rastreio da origem de cada frase, checklist "validar antes de postar" e passada de revisão de linguagem. Roteiros de vídeo da mesma campanha: `copywriting-publicidade` ch231; gestão de fases e torres: `marketing-digital-growth` ch117. Sem dados de desempenho: tratar como caso, não como padrão comprovado.
 Mensagem-base (SB7, one-liner, site): `copywriting-publicidade` ch223-ch227; funil e e-mail: `marketing-digital-growth` ch113-ch115. Cada capítulo traz **cuidados** próprios (prova real, setor regulado, regras de plataforma).
 
 **Pontos de divergência a registrar quando relevante:** esta série põe a oferta no **meio** do vídeo orgânico e o fechamento no direct/WhatsApp; o Roas trabalha anúncio pago com funil de VSL e o professor Filemon diz que conteúdo não é para vender (ch160 da copy). Escolha pelo objetivo e canal.

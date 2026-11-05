@@ -8,8 +8,8 @@ description: Base de conhecimento sintetizada de 10 livros sobre growth e market
 # marketing-digital-growth
 
 **Autores/Capítulos:** Sean Ellis & Morgan Brown (Hacking Growth, ch01-ch09) · Martha Gabriel & Rafael Kiso (Marketing na Era Digital, ch10-ch23) · Rafael Kiso (Unbound Marketing, ch24-ch29) · Jeff Walker (Launch, Updated & Expanded Edition 2021, ch30-ch35) · Seth Godin (Purple Cow + This Is Marketing, ch36-ch48) · Alex Hormozi ($100M Leads, 2023, ch49-ch58 + $100M Money Models, 2025, ch59-ch65) · Russell Brunson (DotCom Secrets, 2015, ch66-ch77 + Expert Secrets, 2017, ch78-ch88) · Leandro Ferrari e Demetrius Lima (Masterclass Lançamento Pago, vídeo, 2025-2026, ch89-ch95) · Elmer Carneiro (Masterclass Tráfego, Tráfego S.A., vídeo, 2026, ch96-ch99) · Willian Baldan (Workshop Lançamento Pago, Rise, vídeo, 2026, ch100-ch112, Partes 1-4 de 4; a Parte 4 termina durante o pitch final) · Donald Miller e J. J. Peterson (StoryBrand: Building a StoryBrand 1ª/2ª edições e Marketing Made Simple, ch113-ch115)
-**Livros:** 10 + 3 masterclasses/workshops em vídeo + 3 obras StoryBrand · **Capítulos:** 115
-**Gerado:** 2026-09-11 · **Atualizado:** 2026-10-23
+**Livros:** 10 + 3 masterclasses/workshops em vídeo + 3 obras StoryBrand + 1 live e 1 campanha de Black Friday · **Capítulos:** 117
+**Gerado:** 2026-09-11 · **Atualizado:** 2026-11-05
 
 ## Como Usar Esta Skill
 
@@ -242,6 +242,17 @@ Esta skill sintetiza; nunca copia texto bruto dos livros-fonte. Onde os 8 livros
 | ch114 | [Lead Generator, Nutrição e Sequência de Vendas](chapters/ch114-miller-marketing-made-simple-lead-generator-nurture-e-sequencia-de-vendas.md) | Dez ideias de gerador, PDF em 4 seções, nutrição 3:1, sequência de 6 e-mails, janela curta |
 | ch115 | [Depoimentos de Transformação, Indicação e Cultura Narrativa](chapters/ch115-miller-storybrand-roadmap-depoimentos-de-transformacao-indicacao-e-cultura-narrativa.md) | 5 perguntas de depoimento, sistema de indicação, vazio narrativo, BrandScript interno |
 
+### Livro 14 — Black Friday (caso completo: captação, live e carrinho aberto)
+
+*Proveniência*: gravação da live de ≈67 min e três documentos de criativos da mesma campanha, enviados em 2026-11-05. A live foi transcrita localmente com análise dos quadros. Números e resultados são da vendedora/equipe, **não verificados**; não há dados de desempenho dos criativos.
+
+**Mapa do caso Black Friday (use junto, nesta ordem):** campanha em fases → ch117 (growth); live (mecânica) → ch116 (growth); live (persuasão e objeções) → `copywriting-publicidade` ch230; roteiros de vídeo de captação e carrinho aberto → `copywriting-publicidade` ch231; carrossel e legenda com CTA por comentário → `criacao-conteudo-social-media` ch18. Para planejar uma Black nova, leia ch117 primeiro, depois a live (ch116 e ch230) e por fim os roteiros (ch231).
+
+| # | Título | Frameworks-Chave |
+|---|---|---|
+| ch116 | [Live de Black Friday: Estrutura, Oferta, Preços, Prazos e Pós-Live](chapters/ch116-live-black-friday-oferta-para-sempre-estrutura-da-live-precos-prazos-e-pos-live.md) | Link só ao vivo, preço aluno x não aluno, "a conta", presentes com prazo, 5 primeiros, 25 motivos, Q&A com link aberto, suporte anti-golpe |
+| ch117 | [Campanha de Black em Três Fases: Captação, Live e Carrinho Aberto](chapters/ch117-campanha-de-black-em-tres-fases-captacao-live-e-carrinho-aberto-publicos-torres-e-controle-de-claims.md) | Três pedidos (inscrever, ver a oferta, comprar), públicos aluno/não aluno, torres de criativos, remarketing por comportamento, perecíveis fora do corpo, manual de claims |
+
 ## Índice de Tópicos
 
 - **Escada de Valor (Value Ladder) / Funil de vendas (Brunson)** — ch66, ch67, ch72, ch74
@@ -279,6 +290,8 @@ Esta skill sintetiza; nunca copia texto bruto dos livros-fonte. Onde os 8 livros
 - **Funil de relacionamento (curiosidade, esclarecimento, compromisso) e execução em reuniões** — ch113 (ver também `copywriting-publicidade` ch223-ch227)
 - **Lead generator, e-mails de nutrição e sequência de vendas de 6 e-mails** — ch114 (ver também ch50)
 - **Depoimentos de transformação, indicação e cultura narrativa** — ch115
+- **Live de Black Friday (abertura de carrinho de 1 hora, combo vitalício, dois preços, prazos reais)** — ch116 (ver também ch104, ch110, ch112)
+- **Campanha de Black em três fases (captação, live, carrinho aberto), torres de criativos e controle de claims** — ch117 (roteiros em `copywriting-publicidade` ch231)
 - **Alto ticket por aplicação e telefone (setter/closer, 4 perguntas)** — ch77, ch87 (com alertas éticos)
 - **Engenharia reversa de concorrente** — ch71
 - **3Hs (Help/Hub/Hero)** — ch26 (ver também Content Unit/Hook-Retain-Reward, ch52, para o nível micro de cada peça)
