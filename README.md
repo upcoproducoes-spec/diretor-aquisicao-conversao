@@ -20,6 +20,11 @@ skills/   (conhecimento: 691 capítulos)
 
   agente-design/                 agente de design (imagens, criativos, web design, identidade): confere o briefing, produz, passa pelo revisor-design
 
+skills-terceiros/   (19 skills de design de terceiros que o agente de design usa; instaladas junto pelo instalar.ps1)
+  design-taste-frontend, ui-ux-pro-max, high-end-visual-design, minimalist-ui, industrial-brutalist-ui, stitch-design-taste,
+  frontend-design, ui-styling, imagegen-frontend-web, image-to-code, redesign-existing-projects, impeccable,
+  banner-design, brandkit, design, brand, design-system, slides, ads-creative
+
   Total: 691 capítulos sintetizados de ~60 obras, aulas e casos analisados (inclui 18 da skill de conteúdo).
 
 agents/   (equipe: cada especialidade tem um agente que produz e um revisor)
@@ -33,7 +38,7 @@ agents/   (equipe: cada especialidade tem um agente que produz e um revisor)
   (skill agente-design)          produz peças visuais, criativos, páginas e identidade → revisor-design.md
 
 memoria/  espelho da memória do Claude (regras de trabalho, preferências e estado do projeto): é o que o sistema "aprendeu" com o uso
-docs/     resumo do diretor para a equipe e lista das skills de design de terceiros que precisam ser reinstaladas
+docs/     resumo do diretor para a equipe e a lista das skills de design de terceiros
 instalar.ps1  instala skills, agentes e memória num computador novo
 ```
 
@@ -86,12 +91,12 @@ cd diretor-aquisicao-conversao
 .\instalar.ps1 -PastaProjeto "C:\caminho\da\pasta\onde\voce\vai\abrir\o\Claude"
 ```
 
-O script instala skills e agentes e copia a **memória** (as regras e preferências que o sistema foi aprendendo) para a pasta de memória do projeto informado. Memória que já existir no computador não é sobrescrita (use `-SobrescreverMemoria` para forçar). Depois: abra o Claude Code nessa pasta, recrie a chave da OpenAI (se for usar o agente de design) e reinstale as skills de design de terceiros (`docs/skills-de-design-necessarias.md`).
+O script instala skills e agentes e copia a **memória** (as regras e preferências que o sistema foi aprendendo) para a pasta de memória do projeto informado. Memória que já existir no computador não é sobrescrita (use `-SobrescreverMemoria` para forçar). Depois: abra o Claude Code nessa pasta e recrie a chave da OpenAI (se for usar o agente de design). As skills de design de terceiros já são instaladas pelo script (`skills-terceiros/`).
 
 ### O que este repositório NÃO guarda (de propósito)
 - Vídeos, transcrições e PDFs originais de aulas e livros: só entram os capítulos escritos em palavras próprias (direitos autorais).
 - Chaves e senhas, como a da OpenAI (`openai.env`). O `.gitignore` bloqueia esses arquivos.
-- As skills de design de terceiros (apenas listadas) e as ferramentas web (chat e painel).
+- As skills que vêm de plugins do Claude (`anthropic-skills:*`, `design:*`) e as ferramentas web (chat e painel).
 
 ### Manter atualizado
 Sempre que skills, agentes ou a memória mudarem, o repositório precisa ser atualizado (copiar `skills`, `agents` e `memoria`, commitar e dar push). O Claude avisa quando o GitHub estiver desatualizado.

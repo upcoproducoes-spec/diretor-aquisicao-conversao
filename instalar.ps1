@@ -22,10 +22,12 @@ $agentsDestino = Join-Path $claude "agents"
 New-Item -ItemType Directory -Force $skillsDestino, $agentsDestino | Out-Null
 
 Copy-Item -Recurse -Force (Join-Path $raiz "skills\*") $skillsDestino
+Copy-Item -Recurse -Force (Join-Path $raiz "skills-terceiros\*") $skillsDestino
 Copy-Item -Force (Join-Path $raiz "agents\*") $agentsDestino
 $nSkills = (Get-ChildItem (Join-Path $raiz "skills") -Directory).Count
+$nTerc = (Get-ChildItem (Join-Path $raiz "skills-terceiros") -Directory).Count
 $nAgents = (Get-ChildItem (Join-Path $raiz "agents") -File).Count
-Write-Host "Skills instaladas: $nSkills  |  Agentes instalados: $nAgents"
+Write-Host "Skills do sistema: $nSkills  |  Skills de terceiros (design): $nTerc  |  Agentes: $nAgents"
 
 if ($PastaProjeto -ne "") {
     # O Claude Code guarda a memoria em .claude\projects\<caminho do projeto com tudo que nao e letra/numero trocado por ->\memory
@@ -46,5 +48,4 @@ if ($PastaProjeto -ne "") {
 
 Write-Host ""
 Write-Host "Pronto. Feche e abra o Claude Code para carregar as skills e os agentes."
-Write-Host "Lembretes: (1) recrie a chave da OpenAI em $claude\openai.env se for usar o agente de design;"
-Write-Host "(2) reinstale as skills de design de terceiros listadas em docs\skills-de-design-necessarias.md."
+Write-Host "Lembrete: recrie a chave da OpenAI em $claude\openai.env se for usar o agente de design (cole voce mesmo, nunca no chat)."

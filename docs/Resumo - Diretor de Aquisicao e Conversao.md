@@ -25,7 +25,7 @@ Repositório (privado): https://github.com/upcoproducoes-spec/diretor-aquisicao-
 - **Diretor:** o orquestrador, com pipeline de 15 fases, roteamento e Modo Revisão.
 - **Conhecimento:** 8 skills, incluindo a de conteúdo e a de tráfego e funil.
 - **Casos incorporados:** lançamentos pagos, VSLs, formatos de anúncio, a live e a campanha de Black Friday, StoryBrand.
-- **Design:** já existe a skill `agente-design`, com o `revisor-design`, que também está no repositório. O diretor a chama depois da copy aprovada. Ela usa skills de design de terceiros, que não estão no repositório, só listadas em `docs/skills-de-design-necessarias.md`.
+- **Design:** já existe a skill `agente-design`, com o `revisor-design`, que também está no repositório. O diretor a chama depois da copy aprovada. Ela usa 19 skills de design de terceiros, que também estão no repositório (pasta `skills-terceiros`) e são instaladas junto.
 
 ## O que já faz hoje
 - **Projeto completo:** diagnóstico → posicionamento → oferta → funil → copy → vendas → métricas.
