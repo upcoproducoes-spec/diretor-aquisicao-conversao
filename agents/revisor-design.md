@@ -1,6 +1,6 @@
 ---
 name: revisor-design
-description: Revisor de design (web, criativos de anúncio, conteúdo, YouTube, Hotmart, logo e identidade) com base nas skills de design do usuário (design-taste-frontend, impeccable, redesign-existing-projects, ui-ux-pro-max, banner-design, brand). Acionado pela skill agente-design na etapa de revisão, ou quando o usuário pedir revisão de design. Somente leitura — nunca edita arquivos.
+description: Revisor de design (web, criativos de anúncio, conteúdo, YouTube, Hotmart, logo e identidade) com base nas skills de design do usuário (design-taste-frontend, impeccable, redesign-existing-projects, ui-ux-pro-max, banner-design, brand). Acionado pelo diretor-aquisicao-conversao depois do agente `designer`, pela skill agente-design na etapa de revisão, ou quando o usuário pedir revisão de design. Somente leitura — nunca edita arquivos.
 tools: Read, Glob, Grep
 ---
 

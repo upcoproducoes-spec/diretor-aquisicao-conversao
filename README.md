@@ -18,7 +18,7 @@ skills/   (conhecimento: 691 capítulos)
   estrategia-trafego-funil/      metodologia de funil de VSL perpétuo e tráfego (inclui atualização do evento de 4 dias e caso de VSL de ticket baixo)
   criacao-conteudo-social-media/ playbook aplicado (fluxo de 8 passos + modelos) que roteia para as skills acima; 18 capítulos próprios (vídeo curto, modelo SHARE de redes sociais e caso de carrossel de captação)
 
-  agente-design/                 agente de design (imagens, criativos, web design, identidade): confere o briefing, produz, passa pelo revisor-design
+  agente-design/                 método do design (imagens, criativos, web design, identidade): é a base do agente `designer` e também serve para uso direto na conversa
 
 skills-terceiros/   (64 skills de terceiros que os agentes chamam; instaladas junto pelo instalar.ps1)
   design e criativos:  design-taste-frontend, ui-ux-pro-max, impeccable, banner-design, brandkit, design, brand, design-system, slides,
@@ -38,11 +38,13 @@ agents/   (equipe: cada especialidade tem um agente que produz e um revisor)
   especialista-persuasao.md      produz o mapa de gatilhos (trabalha com o copy)      → revisor-persuasao.md
   especialista-vendas.md         produz processo, roteiros e scripts de venda         → revisor-vendas.md
   criador-conteudo.md            produz conteúdo e social media                       → revisor-conteudo.md
-  (skill agente-design)          produz peças visuais, criativos, páginas e identidade → revisor-design.md
+  gestor-trafego.md              produz plano de mídia, rastreio, testes, diagnóstico e relatório (só propõe; nunca mexe em conta) → revisor-trafego.md (+ revisor-funil-vsl.md)
+  designer.md                    produz peças visuais, criativos, páginas e identidade; gera imagem quando autorizado → revisor-design.md
 
 memoria/  espelho da memória do Claude (regras de trabalho, preferências e estado do projeto): é o que o sistema "aprendeu" com o uso
+config/   CLAUDE.md global: as regras de trabalho que valem em qualquer pasta (instalado em ~/.claude/CLAUDE.md)
 docs/     resumo do diretor para a equipe e o mapa "qual skill cada agente chama" (o que existe, o que está instalado para os agentes futuros e o que é sugerido)
-instalar.ps1  instala skills, agentes e memória num computador novo
+instalar.ps1  instala skills, agentes, CLAUDE.md global e memória num computador novo
 ```
 
 ## Como funciona (a empresa)
@@ -58,30 +60,33 @@ instalar.ps1  instala skills, agentes e memória num computador novo
 
 - **Projeto completo:** diagnóstico, posicionamento, oferta, funil, copy, vendas e plano de métricas, com documento de projeto entre as fases.
 - **Pedidos pontuais:** headline, objeção de preço, roteiro de venda, mapa de gatilhos, plano de funil ou de lançamento, plano de conteúdo.
-- **Modo Revisão de Projeto:** os 7 revisores auditam em paralelo e devolvem uma tabela de correções, aplicadas só com a aprovação do usuário.
+- **Modo Revisão de Projeto:** os revisores (7 sempre, mais funil VSL, tráfego e design quando se aplicam) auditam em paralelo e devolvem uma tabela de correções, aplicadas só com a aprovação do usuário.
+- **Tráfego pago:** plano de mídia, rastreio, testes e relatório pelo `gestor-trafego`, que só propõe; o usuário executa qualquer mudança em conta.
+- **Design:** peças e páginas pelo `designer`, com geração de imagem pela OpenAI quando o usuário autoriza.
 - **Conteúdo e social media:** pilares, calendário, roteiros de vídeo curto, carrosséis, legendas e criativos, com plano de teste.
 - **Casos analisados e incorporados:** lançamentos pagos, VSLs, formatos de anúncio, live e campanha de Black Friday, StoryBrand.
 
 ## Ainda por construir
 
-- **Agente de design completo:** hoje o design é a skill `agente-design` (com o `revisor-design`), que o diretor aciona depois da copy aprovada e que usa skills de design de terceiros (lista em `docs/skills-de-design-necessarias.md`). Falta transformá-lo em agente da equipe, no mesmo padrão dos demais.
-- **Editor de vídeo.**
-- **Gestor de tráfego:** hoje o sistema só planeja tráfego (estrutura, orçamento, testes); nenhum agente altera conta de anúncios, e isso exige aprovação do usuário.
-- **Testes de ponta a ponta** do fluxo completo com os agentes novos, e glossário/cheatsheet de alguns casos recentes.
+- **Editor de vídeo** (não iniciado; por enquanto não mexer).
+- **Instalação guiada pelo diretor:** num computador novo, o diretor conduzir a instalação completa, incluindo ligar a API da OpenAI para gerar imagens (e vídeo, se for preciso). Hoje a chave da OpenAI é criada pelo usuário em `~/.claude/openai.env`.
+- **Testes de ponta a ponta** do fluxo completo com os agentes novos (`gestor-trafego`, `revisor-trafego`, `designer` e os seis criados antes), que só aparecem depois de reiniciar o Claude Code, e glossário/cheatsheet de alguns casos recentes.
 - Novas aulas, lançamentos e livros continuam sendo analisados e incorporados ("atualizar, não substituir").
 
 ## Como instalar
 
-Copie as pastas para os diretórios pessoais do Claude Code:
+No Windows, o caminho recomendado é o `instalar.ps1` (veja "Computador novo", abaixo): ele instala tudo de uma vez. Instalação manual, se preferir (copie as quatro pastas de skills e agentes para os diretórios pessoais do Claude Code):
 
 ```bash
 # Windows (PowerShell)
 Copy-Item -Recurse skills\* "$env:USERPROFILE\.claude\skills\"
+Copy-Item -Recurse skills-terceiros\* "$env:USERPROFILE\.claude\skills\"
 Copy-Item agents\* "$env:USERPROFILE\.claude\agents\"
+Copy-Item agents-terceiros\* "$env:USERPROFILE\.claude\agents\"
 
 # macOS/Linux
-cp -r skills/* ~/.claude/skills/
-cp agents/*.md ~/.claude/agents/
+cp -r skills/* skills-terceiros/* ~/.claude/skills/
+cp agents/*.md agents-terceiros/*.md ~/.claude/agents/
 ```
 
 Reinicie a sessão do Claude Code (ou abra uma nova) para que as novas skills/agentes sejam carregados. Elas ficam disponíveis em qualquer projeto/conversa, não só no que você estava usando.

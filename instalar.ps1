@@ -37,6 +37,18 @@ $nAgents = (Get-ChildItem (Join-Path $raiz "agents") -File).Count
 $nAgentsT = (Get-ChildItem (Join-Path $raiz "agents-terceiros") -File).Count
 Write-Host "Skills do sistema: $nSkills  |  Skills de terceiros: $nTerc  |  Agentes do sistema: $nAgents  |  Agentes de terceiros: $nAgentsT"
 
+$claudeMd = Join-Path $claude "CLAUDE.md"
+$claudeMdRepo = Join-Path $raiz "config\CLAUDE.md"
+if (Test-Path $claudeMdRepo) {
+    if (-not (Test-Path $claudeMd)) {
+        Copy-Item $claudeMdRepo $claudeMd
+        Write-Host "CLAUDE.md global instalado (regras de trabalho que valem em qualquer pasta)."
+    } else {
+        Copy-Item $claudeMdRepo (Join-Path $claude "CLAUDE.repositorio.md") -Force
+        Write-Host "Ja existe um CLAUDE.md global: NAO sobrescrevi. A versao do repositorio ficou em CLAUDE.repositorio.md; junte as regras que quiser."
+    }
+}
+
 if ($CriarAmbienteAds) {
     $adsDir = Join-Path $skillsDestino "ads"
     $py = Get-Command python -ErrorAction SilentlyContinue

@@ -1,6 +1,6 @@
 ---
 name: revisor-funil-vsl
-description: Revisor do funil de VSL perpétuo para público frio e da estrutura de tráfego pago (funil 418, pirâmide da escala e testes). Só aplicável a projetos com VSL, funil perpétuo ou tráfego pago. Acionado pelo diretor-aquisicao-conversao no Modo Revisão, ou pelo agente `especialista-growth-funil` antes de entregar VSL ou plano de tráfego. Somente leitura — nunca edita arquivos.
+description: Revisor do funil de VSL perpétuo para público frio e da estrutura de tráfego pago (funil 418, pirâmide da escala e testes). Só aplicável a projetos com VSL, funil perpétuo ou tráfego pago. Acionado pelo diretor-aquisicao-conversao no Modo Revisão, ou pelos agentes `especialista-growth-funil` e `gestor-trafego` antes de entregar VSL ou plano de tráfego. Somente leitura — nunca edita arquivos.
 tools: Read, Glob, Grep
 skills:
   - estrategia-trafego-funil

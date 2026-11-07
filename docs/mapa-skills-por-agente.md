@@ -1,6 +1,6 @@
 # Mapa: qual skill cada agente chama
 
-Regra do sistema: o **diretor** coordena; cada **agente** de especialidade carrega só as skills da sua área quando precisa; cada agente tem o seu **revisor**. Este mapa diz o que já existe, o que está instalado para cada agente que ainda vamos criar e o que está sugerido.
+Regra do sistema: o **diretor** coordena; cada **agente** de especialidade carrega só as skills da sua área quando precisa; cada agente tem o seu **revisor**. Este mapa diz qual skill cada agente chama. Falta criar o editor de vídeo (seção 4).
 
 As skills e agentes de terceiros estão neste repositório em `skills-terceiros/` e `agents-terceiros/` (o `instalar.ps1` instala tudo). As descrições abaixo são resumos das descrições das próprias skills; confira o `SKILL.md` de cada uma antes de depender dela.
 
@@ -17,6 +17,8 @@ As skills e agentes de terceiros estão neste repositório em `skills-terceiros/
 | `especialista-persuasao` | `revisor-persuasao` | `persuasao-gatilhos`, `psicologia-consumidor` |
 | `especialista-vendas` | `revisor-vendas` | `vendas-metodologia`, `persuasao-gatilhos` |
 | `criador-conteudo` | `revisor-conteudo` | `criacao-conteudo-social-media` (roteia para as demais) |
+| `gestor-trafego` | `revisor-trafego` (+ `revisor-funil-vsl` se houver VSL) | `estrategia-trafego-funil` + as `ads-*` (seção 3) |
+| `designer` | `revisor-design` | `agente-design` + as skills de design (seção 2) |
 
 ### Ferramentas de terceiros que ajudam o copy e o conteúdo (já instaladas)
 - `humanizer`: tira as marcas de "texto escrito por IA" de um texto pronto. Foi feita com base em padrões do inglês; em português, use como revisão final e confira o resultado, não aplique às cegas.
@@ -26,9 +28,9 @@ As skills e agentes de terceiros estão neste repositório em `skills-terceiros/
 
 ---
 
-## 2. Design (hoje é a skill `agente-design`; falta virar agente da equipe)
+## 2. Design (agente `designer`; o método dele é a skill `agente-design`)
 
-Revisor: `revisor-design`. Skills que ele chama, por tipo de trabalho (ordem detalhada em `skills/agente-design/references/roteamento-skills.md`):
+Revisor: `revisor-design`. O `designer` roda isolado: devolve pendências de briefing e pedidos de autorização (geração de imagem custa na conta da OpenAI) ao diretor, que fala com o usuário. Skills que ele chama, por tipo de trabalho (ordem detalhada em `skills/agente-design/references/roteamento-skills.md`):
 
 - **Web:** `design-taste-frontend` (sempre primeiro), `ui-ux-pro-max`, uma direção estética (`high-end-visual-design`, `minimalist-ui`, `industrial-brutalist-ui` ou `stitch-design-taste`), `frontend-design`, `ui-styling`, `redesign-existing-projects`, `senior-frontend`, `full-output-enforcement` (evita código truncado em páginas longas), `gpt-taste`.
 - **Referência visual antes de codar:** `imagegen-frontend-web`, `imagegen-frontend-mobile` (telas de app), `image-to-code`.
@@ -42,9 +44,9 @@ Revisor: `revisor-design`. Skills que ele chama, por tipo de trabalho (ordem det
 
 ---
 
-## 3. Gestor de tráfego (futuro agente; hoje o sistema só planeja)
+## 3. Gestor de tráfego (agente `gestor-trafego`)
 
-Revisores que já existem: `revisor-growth` e `revisor-funil-vsl`. Skills já instaladas, todas de terceiros (pacote "Claude Ads"):
+Revisor: `revisor-trafego` (e `revisor-funil-vsl` quando houver VSL ou funil perpétuo). O gestor só tem as ferramentas Read, Glob, Grep e Write: não consegue alterar contas nem rodar scripts. Skills que ele chama, todas de terceiros (pacote "Claude Ads"), além das nossas:
 
 - **Base e planejamento:** `ads` (skill principal, com referências e scripts), `ads-setup`, `ads-plan`, `ads-budget`, `ads-math`, `ads-research`.
 - **Auditoria:** `ads-audit`, `ads-attribution`, `ads-server-side-tracking`, `ads-landing`, `ads-creative`, `ads-competitor`.
@@ -55,9 +57,9 @@ Revisores que já existem: `revisor-growth` e `revisor-funil-vsl`. Skills já in
 - **Os nossos:** `estrategia-trafego-funil` (funil de VSL perpétuo e estrutura de tráfego) e `marketing-digital-growth` (lançamento pago, Black Friday, métricas).
 - **Agentes de apoio de terceiros** (`agents-terceiros/`): `audit-meta`, `audit-google`, `audit-youtube`, `audit-tiktok`, `audit-linkedin`, `audit-microsoft`, `audit-apple`, `audit-amazon`, `audit-pinterest`, `audit-reddit`, `audit-snapchat`, `audit-x`, `audit-tracking`, `audit-budget`, `audit-creative`, `audit-policy-compliance`, `audit-regulatory-compliance`.
 
-**Regra de segurança para esse agente (vale desde já):** `ads-launch` e `ads-optimize` podem "aplicar" mudanças em contas. No nosso sistema o gestor de tráfego **só rascunha e propõe**. Qualquer mudança real em conta de anúncios (ativar, pausar, mudar orçamento, publicar) depende de aprovação escrita do usuário, para aquela ação naquele dia.
+**Regra de segurança (vale desde já):** `ads-launch` e `ads-optimize` podem "aplicar" mudanças em contas. No nosso sistema o gestor de tráfego **só rascunha e propõe**. Qualquer mudança real em conta de anúncios (ativar, pausar, mudar orçamento, publicar) depende de aprovação escrita do usuário, para aquela ação naquele dia.
 
-**Conectores (não são skills e não vão no repositório):** o Claude desta conta tem conectores de Meta Ads, de um painel de lançamentos e perpétuos e de uma plataforma de vídeo com player e testes A/B (pelo nome das ferramentas; confirme o que cada um faz antes de ligar a um agente). Quando o agente de tráfego for criado, ele deve usá-los em modo leitura por padrão. Credenciais e permissões ficam na sua conta, nunca no GitHub.
+**Conectores (não são skills e não vão no repositório):** o Claude desta conta tem conectores de Meta Ads, de um painel de lançamentos e perpétuos e de uma plataforma de vídeo com player e testes A/B (pelo nome das ferramentas; confirme o que cada um faz antes de usar). O `gestor-trafego` não os acessa diretamente: quando for preciso ver números de contas, o **diretor** os busca em modo somente leitura e passa os dados no briefing. Credenciais e permissões ficam na sua conta, nunca no GitHub.
 
 **Ambiente Python da skill `ads`:** os scripts de apoio (análise de landing page, screenshots, relatório em PDF) precisam de um ambiente Python que não cabe no repositório (cerca de 270 MB). O `instalar.ps1 -CriarAmbienteAds` recria esse ambiente a partir de `requirements.lock`, se houver Python 3.12+.
 
@@ -80,8 +82,7 @@ Nada de terceiros instalado para isso. O que já usamos no sistema (como ferrame
 
 ---
 
-## 6. Sugestões novas (nada foi baixado; só entra com o seu OK)
-1. **Skill de vídeo programático** e **legendas/cortes** para o agente editor de vídeo (seção 4).
-2. **Agente `gestor-trafego`**, no mesmo padrão dos outros (produz plano, rascunho de campanha, diagnóstico e relatório; revisor = `revisor-growth` + `revisor-funil-vsl`), amarrando as skills `ads-*` da seção 3 e a regra de aprovação.
-3. **Transformar `agente-design` em agente da equipe** (`designer` + `revisor-design`), com a lista de skills da seção 2 no cabeçalho.
-4. **`CLAUDE.md` global** com as suas regras de trabalho, para valerem em qualquer pasta e não só na pasta atual.
+## 6. Próximos passos
+1. **Editor de vídeo:** não iniciar por enquanto. Quando for a hora, avaliar a skill de vídeo programático e a de legendas e cortes da seção 4 (nada foi baixado; só entra com o OK do usuário).
+2. **Instalação guiada pelo diretor** num computador novo, incluindo ligar a API da OpenAI para gerar imagens (e vídeo, se for preciso).
+3. **Teste de ponta a ponta** dos agentes novos (`gestor-trafego`, `revisor-trafego`, `designer` e os demais), depois de reiniciar o Claude Code.
