@@ -18,6 +18,8 @@ skills/   (conhecimento: 691 capítulos)
   estrategia-trafego-funil/      metodologia de funil de VSL perpétuo e tráfego (inclui atualização do evento de 4 dias e caso de VSL de ticket baixo)
   criacao-conteudo-social-media/ playbook aplicado (fluxo de 8 passos + modelos) que roteia para as skills acima; 18 capítulos próprios (vídeo curto, modelo SHARE de redes sociais e caso de carrossel de captação)
 
+  agente-design/                 agente de design (imagens, criativos, web design, identidade): confere o briefing, produz, passa pelo revisor-design
+
   Total: 691 capítulos sintetizados de ~60 obras, aulas e casos analisados (inclui 18 da skill de conteúdo).
 
 agents/   (equipe: cada especialidade tem um agente que produz e um revisor)
@@ -28,6 +30,11 @@ agents/   (equipe: cada especialidade tem um agente que produz e um revisor)
   especialista-persuasao.md      produz o mapa de gatilhos (trabalha com o copy)      → revisor-persuasao.md
   especialista-vendas.md         produz processo, roteiros e scripts de venda         → revisor-vendas.md
   criador-conteudo.md            produz conteúdo e social media                       → revisor-conteudo.md
+  (skill agente-design)          produz peças visuais, criativos, páginas e identidade → revisor-design.md
+
+memoria/  espelho da memória do Claude (regras de trabalho, preferências e estado do projeto): é o que o sistema "aprendeu" com o uso
+docs/     resumo do diretor para a equipe e lista das skills de design de terceiros que precisam ser reinstaladas
+instalar.ps1  instala skills, agentes e memória num computador novo
 ```
 
 ## Como funciona (a empresa)
@@ -49,7 +56,7 @@ agents/   (equipe: cada especialidade tem um agente que produz e um revisor)
 
 ## Ainda por construir
 
-- **Agente de design:** imagens, criativos e web design como agente completo da equipe (hoje existe uma skill de design separada, fora deste repositório, que o diretor já aciona depois da copy aprovada).
+- **Agente de design completo:** hoje o design é a skill `agente-design` (com o `revisor-design`), que o diretor aciona depois da copy aprovada e que usa skills de design de terceiros (lista em `docs/skills-de-design-necessarias.md`). Falta transformá-lo em agente da equipe, no mesmo padrão dos demais.
 - **Editor de vídeo.**
 - **Gestor de tráfego:** hoje o sistema só planeja tráfego (estrutura, orçamento, testes); nenhum agente altera conta de anúncios, e isso exige aprovação do usuário.
 - **Testes de ponta a ponta** do fluxo completo com os agentes novos, e glossário/cheatsheet de alguns casos recentes.
@@ -70,6 +77,24 @@ cp agents/*.md ~/.claude/agents/
 ```
 
 Reinicie a sessão do Claude Code (ou abra uma nova) para que as novas skills/agentes sejam carregados. Elas ficam disponíveis em qualquer projeto/conversa, não só no que você estava usando.
+
+### Computador novo (instalação completa, com a memória)
+
+```powershell
+git clone https://github.com/upcoproducoes-spec/diretor-aquisicao-conversao.git
+cd diretor-aquisicao-conversao
+.\instalar.ps1 -PastaProjeto "C:\caminho\da\pasta\onde\voce\vai\abrir\o\Claude"
+```
+
+O script instala skills e agentes e copia a **memória** (as regras e preferências que o sistema foi aprendendo) para a pasta de memória do projeto informado. Memória que já existir no computador não é sobrescrita (use `-SobrescreverMemoria` para forçar). Depois: abra o Claude Code nessa pasta, recrie a chave da OpenAI (se for usar o agente de design) e reinstale as skills de design de terceiros (`docs/skills-de-design-necessarias.md`).
+
+### O que este repositório NÃO guarda (de propósito)
+- Vídeos, transcrições e PDFs originais de aulas e livros: só entram os capítulos escritos em palavras próprias (direitos autorais).
+- Chaves e senhas, como a da OpenAI (`openai.env`). O `.gitignore` bloqueia esses arquivos.
+- As skills de design de terceiros (apenas listadas) e as ferramentas web (chat e painel).
+
+### Manter atualizado
+Sempre que skills, agentes ou a memória mudarem, o repositório precisa ser atualizado (copiar `skills`, `agents` e `memoria`, commitar e dar push). O Claude avisa quando o GitHub estiver desatualizado.
 
 ## Como usar
 

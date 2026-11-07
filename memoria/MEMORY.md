@@ -1,0 +1,3 @@
+- [Análise de aulas e lançamentos](feedback_analise_de_aulas_e_lancamentos.md) — transcrições: analisar estratégia, estrutura, ganchos, gatilhos e pitch, não só o conteúdo
+- [Sistema de skills de marketing](project_marketing_agent_system.md) — estado, contagens (673 caps, GitHub sincronizado em 8cc2250 (inclui Baldan ch100-ch112 + ch221-ch222)), regras de atualização e pendências
+- [Curso Código Viral](project_codigo_viral_curso.md) — contrato proíbe cópia/IA sem autorização; o que foi baixado e o que falta confirmar

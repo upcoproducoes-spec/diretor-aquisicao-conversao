@@ -1,0 +1,15 @@
+# Nunca versionar chaves, senhas ou credenciais
+*.env
+.env*
+openai.env
+*.key
+*.pem
+credentials*
+secrets*
+
+# Material bruto protegido por direitos autorais (so entram capitulos em palavras proprias)
+*.mp4
+*.mkv
+*.wav
+*.mp3
+*.pdf
