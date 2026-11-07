@@ -20,10 +20,13 @@ skills/   (conhecimento: 691 capítulos)
 
   agente-design/                 agente de design (imagens, criativos, web design, identidade): confere o briefing, produz, passa pelo revisor-design
 
-skills-terceiros/   (19 skills de design de terceiros que o agente de design usa; instaladas junto pelo instalar.ps1)
-  design-taste-frontend, ui-ux-pro-max, high-end-visual-design, minimalist-ui, industrial-brutalist-ui, stitch-design-taste,
-  frontend-design, ui-styling, imagegen-frontend-web, image-to-code, redesign-existing-projects, impeccable,
-  banner-design, brandkit, design, brand, design-system, slides, ads-creative
+skills-terceiros/   (64 skills de terceiros que os agentes chamam; instaladas junto pelo instalar.ps1)
+  design e criativos:  design-taste-frontend, ui-ux-pro-max, impeccable, banner-design, brandkit, design, brand, design-system, slides,
+                       frontend-design, ui-styling, imagegen-frontend-web/mobile, image-to-code, redesign-existing-projects, skills-main (animação) e outras
+  tráfego pago:        ads (principal, sem o ambiente Python) + ads-* (planejamento, auditoria, Google, Meta, YouTube, TikTok etc.), ads-meta-gestao
+  copy e pesquisa:     humanizer, mkt-ad-creative, util-competitive-ads-extractor
+  manutenção:          book-to-skill-master, find-skills
+agents-terceiros/   (25 agentes de apoio do pacote de anúncios: audit-*, copy-writer, creative-strategist, format-adapter, visual-designer etc.)
 
   Total: 691 capítulos sintetizados de ~60 obras, aulas e casos analisados (inclui 18 da skill de conteúdo).
 
@@ -38,7 +41,7 @@ agents/   (equipe: cada especialidade tem um agente que produz e um revisor)
   (skill agente-design)          produz peças visuais, criativos, páginas e identidade → revisor-design.md
 
 memoria/  espelho da memória do Claude (regras de trabalho, preferências e estado do projeto): é o que o sistema "aprendeu" com o uso
-docs/     resumo do diretor para a equipe e a lista das skills de design de terceiros
+docs/     resumo do diretor para a equipe e o mapa "qual skill cada agente chama" (o que existe, o que está instalado para os agentes futuros e o que é sugerido)
 instalar.ps1  instala skills, agentes e memória num computador novo
 ```
 
@@ -91,11 +94,12 @@ cd diretor-aquisicao-conversao
 .\instalar.ps1 -PastaProjeto "C:\caminho\da\pasta\onde\voce\vai\abrir\o\Claude"
 ```
 
-O script instala skills e agentes e copia a **memória** (as regras e preferências que o sistema foi aprendendo) para a pasta de memória do projeto informado. Memória que já existir no computador não é sobrescrita (use `-SobrescreverMemoria` para forçar). Depois: abra o Claude Code nessa pasta e recrie a chave da OpenAI (se for usar o agente de design). As skills de design de terceiros já são instaladas pelo script (`skills-terceiros/`).
+O script instala skills e agentes e copia a **memória** (as regras e preferências que o sistema foi aprendendo) para a pasta de memória do projeto informado. Memória que já existir no computador não é sobrescrita (use `-SobrescreverMemoria` para forçar). Depois: abra o Claude Code nessa pasta e recrie a chave da OpenAI (se for usar o agente de design). As skills e agentes de terceiros já são instalados pelo script (`skills-terceiros/` e `agents-terceiros/`). Para recriar o ambiente Python da skill `ads` (scripts de landing page, screenshots e relatório PDF; precisa de Python 3.12+ e baixa pacotes), rode o instalador com `-CriarAmbienteAds`.
 
 ### O que este repositório NÃO guarda (de propósito)
 - Vídeos, transcrições e PDFs originais de aulas e livros: só entram os capítulos escritos em palavras próprias (direitos autorais).
-- Chaves e senhas, como a da OpenAI (`openai.env`). O `.gitignore` bloqueia esses arquivos.
+- Chaves e senhas, como a da OpenAI (`openai.env`), e credenciais de contas de anúncios. O `.gitignore` bloqueia esses arquivos.
+- O ambiente Python da skill `ads` (`.venv`, ~270 MB): é recriado pelo instalador.
 - As skills que vêm de plugins do Claude (`anthropic-skills:*`, `design:*`) e as ferramentas web (chat e painel).
 
 ### Manter atualizado

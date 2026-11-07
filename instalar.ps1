@@ -8,9 +8,15 @@
 # Memoria: copiada SOMENTE se informar -PastaProjeto (a memoria do Claude Code fica por pasta de
 # projeto). Arquivos de memoria que ja existem NAO sao sobrescritos, a menos que use -SobrescreverMemoria.
 
+#
+# Opcional: -CriarAmbienteAds cria o ambiente Python da skill "ads" (precisa de Python 3.12+ instalado;
+# baixa pacotes da internet via pip a partir de requirements.lock). Sem isso, as skills ads-* funcionam
+# no modo de leitura/planejamento, mas os scripts de apoio (landing page, relatorio PDF, screenshots) nao.
+
 param(
     [string]$PastaProjeto = "",
-    [switch]$SobrescreverMemoria
+    [switch]$SobrescreverMemoria,
+    [switch]$CriarAmbienteAds
 )
 
 $ErrorActionPreference = "Stop"
@@ -24,10 +30,24 @@ New-Item -ItemType Directory -Force $skillsDestino, $agentsDestino | Out-Null
 Copy-Item -Recurse -Force (Join-Path $raiz "skills\*") $skillsDestino
 Copy-Item -Recurse -Force (Join-Path $raiz "skills-terceiros\*") $skillsDestino
 Copy-Item -Force (Join-Path $raiz "agents\*") $agentsDestino
+Copy-Item -Force (Join-Path $raiz "agents-terceiros\*") $agentsDestino
 $nSkills = (Get-ChildItem (Join-Path $raiz "skills") -Directory).Count
 $nTerc = (Get-ChildItem (Join-Path $raiz "skills-terceiros") -Directory).Count
 $nAgents = (Get-ChildItem (Join-Path $raiz "agents") -File).Count
-Write-Host "Skills do sistema: $nSkills  |  Skills de terceiros (design): $nTerc  |  Agentes: $nAgents"
+$nAgentsT = (Get-ChildItem (Join-Path $raiz "agents-terceiros") -File).Count
+Write-Host "Skills do sistema: $nSkills  |  Skills de terceiros: $nTerc  |  Agentes do sistema: $nAgents  |  Agentes de terceiros: $nAgentsT"
+
+if ($CriarAmbienteAds) {
+    $adsDir = Join-Path $skillsDestino "ads"
+    $py = Get-Command python -ErrorAction SilentlyContinue
+    if (-not $py) {
+        Write-Host "Python nao encontrado: instale o Python 3.12+ e rode de novo com -CriarAmbienteAds."
+    } else {
+        & python -m venv (Join-Path $adsDir ".venv")
+        & (Join-Path $adsDir ".venv\Scripts\python.exe") -m pip install -r (Join-Path $adsDir "requirements.lock")
+        Write-Host "Ambiente Python da skill ads criado em $adsDir\.venv"
+    }
+}
 
 if ($PastaProjeto -ne "") {
     # O Claude Code guarda a memoria em .claude\projects\<caminho do projeto com tudo que nao e letra/numero trocado por ->\memory
@@ -49,3 +69,4 @@ if ($PastaProjeto -ne "") {
 Write-Host ""
 Write-Host "Pronto. Feche e abra o Claude Code para carregar as skills e os agentes."
 Write-Host "Lembrete: recrie a chave da OpenAI em $claude\openai.env se for usar o agente de design (cole voce mesmo, nunca no chat)."
+Write-Host "Contas de anuncios (Meta, Google etc.) e outros conectores sao configurados por voce no Claude; nada disso vai no repositorio."
