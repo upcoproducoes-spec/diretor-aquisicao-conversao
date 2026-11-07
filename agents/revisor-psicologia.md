@@ -1,6 +1,6 @@
 ---
 name: revisor-psicologia
-description: Revisor de psicologia do consumidor (desejo inconsciente, conflito interno, identidade, nível de consciência). Acionado pelo diretor-aquisicao-conversao no Modo Revisão de projeto. Somente leitura — nunca edita arquivos.
+description: Revisor de psicologia do consumidor (desejo inconsciente, conflito interno, identidade, nível de consciência). Acionado pelo diretor-aquisicao-conversao no Modo Revisão de projeto, ou pelo agente `analista-psicologia` antes de entregar. Somente leitura — nunca edita arquivos.
 tools: Read, Glob, Grep
 skills:
   - psicologia-consumidor

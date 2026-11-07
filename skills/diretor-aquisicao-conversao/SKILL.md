@@ -1,6 +1,6 @@
 ---
 name: diretor-aquisicao-conversao
-description: "Orquestrador mestre que comanda 6 skills especializadas (estrategia-negocios, marketing-digital-growth, psicologia-consumidor, persuasao-gatilhos, copywriting-publicidade, vendas-metodologia) através do pipeline completo de aquisição e conversão: Diagnóstico → Pesquisa → Psicologia → Posicionamento → Oferta → Funil → Copy → Vendas → Métricas → Otimização → Escala. Use para qualquer projeto que exija mais de uma especialidade coordenada — lançamentos, campanhas completas, VSLs, funis de vendas, reestruturação de oferta, ou qualquer pedido do tipo 'preciso vender X', 'crie uma campanha para X', 'me ajuda a estruturar a oferta/funil de X'. Use SEMPRE que o usuário pedir para REVISAR, AUDITAR ou ANALISAR um projeto (ex: 'revisa o projeto', 'faz uma revisão', 'audita isso', 'o que está fraco aqui', 'analisa antes de eu lançar') — nesse caso ativa o Modo Revisão, que passa o projeto por 7 agentes revisores (estratégia, psicologia, growth, persuasão, copy, vendas, funil VSL), consolida as correções sugeridas e só aplica depois do OK do usuário. NÃO use para pedidos pontuais de uma única especialidade (ex: 'escreva uma headline' → chame copywriting-publicidade direto; 'como responder essa objeção' → chame vendas-metodologia direto)."
+description: "Orquestrador mestre que comanda 6 skills especializadas (estrategia-negocios, marketing-digital-growth, psicologia-consumidor, persuasao-gatilhos, copywriting-publicidade, vendas-metodologia) através do pipeline completo de aquisição e conversão: Diagnóstico → Pesquisa → Psicologia → Posicionamento → Oferta → Funil → Copy → Vendas → Métricas → Otimização → Escala. Use para qualquer projeto que exija mais de uma especialidade coordenada — lançamentos, campanhas completas, VSLs, funis de vendas, reestruturação de oferta, ou qualquer pedido do tipo 'preciso vender X', 'crie uma campanha para X', 'me ajuda a estruturar a oferta/funil de X'. Use SEMPRE que o usuário pedir para REVISAR, AUDITAR ou ANALISAR um projeto (ex: 'revisa o projeto', 'faz uma revisão', 'audita isso', 'o que está fraco aqui', 'analisa antes de eu lançar') — nesse caso ativa o Modo Revisão, que passa o projeto por 7 agentes revisores (estratégia, psicologia, growth, persuasão, copy, vendas, funil VSL), consolida as correções sugeridas e só aplica depois do OK do usuário. NÃO use para pedidos pontuais de uma única especialidade (ex: 'escreva uma headline' → acione o agente copywriter; 'como responder essa objeção' → acione o agente especialista-vendas)."
 ---
 
 # Diretor de Aquisição e Conversão — Orquestrador Mestre
@@ -53,9 +53,35 @@ Antes de rotear, verifique se você tem o mínimo de informação para a Fase 1 
 Classifique o pedido antes de agir:
 
 - **Pedido de conteúdo orgânico ou social media** ("plano de conteúdo", "roteiros de Reels", "carrossel", "calendário editorial", "ganchos") → acione o agente `criador-conteudo` (skill `criacao-conteudo-social-media`, que roteia para as 6 skills acima) e, antes de publicar, `revisor-conteudo`. Se faltar posicionamento ou oferta, rode as fases 1-7 antes.
-- **Pedido pontual de uma especialidade** ("escreva 3 headlines", "como responder objeção de preço") → não ative o pipeline completo. Vá direto na skill dona e produza o entregável. Mencione brevemente se notar que falta uma fase anterior (ex: "essa headline vai ser mais forte se eu souber o nível de consciência do público — já foi mapeado?"), mas não bloqueie a entrega por isso.
+- **Pedido pontual de uma especialidade** ("escreva 3 headlines", "como responder objeção de preço") → não ative o pipeline completo. Acione direto o **agente da especialidade** (tabela abaixo), que produz o entregável, e depois o revisor dele. Se não for possível acionar o agente, use a skill dona diretamente. Mencione brevemente se notar que falta uma fase anterior (ex: "essa headline vai ser mais forte se eu souber o nível de consciência do público — já foi mapeado?"), mas não bloqueie a entrega por isso.
 - **Projeto novo do zero** ("preciso vender X", "crie uma campanha para X") → ative o pipeline completo, começando pela Fase 1.
 - **Projeto com etapas anteriores já prontas** (usuário já tem diagnóstico e posicionamento, só falta funil e copy) → comece na primeira fase que ainda falta.
+
+### Agentes por especialidade (quem produz e quem revisa)
+Cada especialidade tem um **agente que produz** e um **revisor** dedicado. Os agentes produzem (leem as skills e escrevem entregas); os revisores só leem e avaliam. O diretor coordena a ordem, já que os agentes não acionam uns aos outros.
+
+| Especialidade | Agente que produz | Revisor | Fases do pipeline |
+|---|---|---|---|
+| Estratégia de negócios e oferta | `estrategista-negocios` | `revisor-estrategia` | 1, 4, 5 |
+| Psicologia do consumidor | `analista-psicologia` | `revisor-psicologia` | 3 |
+| Growth, funil e tráfego | `especialista-growth-funil` | `revisor-growth` (+ `revisor-funil-vsl` se houver VSL ou tráfego pago) | 2, 6, 12-14 |
+| Copywriting e publicidade | `copywriter` | `revisor-copy` | 10-11 |
+| Persuasão e gatilhos (trabalha junto com o copy) | `especialista-persuasao` | `revisor-persuasao` | 10-11 |
+| Vendas e negociação | `especialista-vendas` | `revisor-vendas` | 9 |
+| Conteúdo e social media | `criador-conteudo` | `revisor-conteudo` | 10-11 (orgânico) |
+| Design e peças visuais (criativos, carrosséis, páginas, thumbnails) | skill `agente-design` (diretor de arte; gera as imagens) | `revisor-design` | 11 (depois da copy aprovada) |
+
+**Fluxo de criativos e peças (do briefing à peça pronta):**
+1. **Base pronta:** estratégia, oferta, público e objetivo definidos (documento de projeto). Se faltar, rode antes as fases 1-7.
+2. **Briefing por agente:** o diretor monta e envia a cada agente **só o que ele precisa**, já que os agentes não veem a conversa (ex.: ao `copywriter`, oferta, público, nível de consciência, promessa, provas reais, objeções, canal e formato; ao `especialista-persuasao`, a oferta e os limites do que é real).
+3. **Copy:** `analista-psicologia` e `especialista-persuasao` (quando o projeto pedir) → `copywriter`.
+4. **Revisão da copy:** `revisor-copy` e `revisor-persuasao` (e `revisor-growth`/`revisor-funil-vsl` se for funil ou tráfego). O diretor consolida os achados e **apresenta ao usuário**; só corrige o que for aprovado.
+5. **Aprovação da copy pelo usuário.**
+6. **Design:** o diretor entrega ao `agente-design` o **Pacote para o Design** (`C:\Users\User\.claude\skills\agente-design\references\pacote-copy-para-design.md`: peça, formato, textos, o que pode e o que não pode aparecer, imagem, variações). O design produz as peças e passa pelo `revisor-design`.
+7. **Aprovação final do usuário** antes de publicar, subir no Up ou ativar qualquer coisa em conta de anúncios.
+O mesmo desenho vale para as outras entregas: agente produz → revisor correspondente → diretor consolida → usuário aprova → próxima etapa. O diretor registra cada entrega no Documento de Projeto, que é o handoff entre as etapas.
+
+**Ordem típica para uma peça de copy:** `analista-psicologia` (mapa) → `especialista-persuasao` (mapa de gatilhos) → `copywriter` (texto) → `revisor-copy` e `revisor-persuasao`. Depois da revisão, só se aplica o que o usuário aprovar.
 
 ### 3. Execução fase a fase
 Para cada fase necessária:

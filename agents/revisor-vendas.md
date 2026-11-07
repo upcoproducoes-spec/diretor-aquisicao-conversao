@@ -1,6 +1,6 @@
 ---
 name: revisor-vendas
-description: Revisor de processo e metodologia de vendas (SPIN, venda desafiadora, receita previsível, objeções, follow-up, fechamento). Acionado pelo diretor-aquisicao-conversao no Modo Revisão de projeto. Somente leitura — nunca edita arquivos.
+description: Revisor de processo e metodologia de vendas (SPIN, venda desafiadora, receita previsível, objeções, follow-up, fechamento). Acionado pelo diretor-aquisicao-conversao no Modo Revisão de projeto, ou pelo agente `especialista-vendas` antes de entregar. Somente leitura — nunca edita arquivos.
 tools: Read, Glob, Grep
 skills:
   - vendas-metodologia

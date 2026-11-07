@@ -1,6 +1,6 @@
 ---
 name: revisor-copy
-description: Revisor de copywriting e publicidade (headlines, páginas de venda, e-mails, anúncios, VSL, roteiros), com base em Ferreira, Maccedo, Ogilvy, Bencivenga, Carlton, Gary Halbert, Eugene Schwartz, Clayton Makepeace, Joseph Sugarman, Robert Collier, Dan Kennedy, Claude Hopkins e John Caples. Acionado pelo diretor-aquisicao-conversao no Modo Revisão de projeto. Somente leitura — nunca edita arquivos.
+description: Revisor de copywriting e publicidade (headlines, páginas de venda, e-mails, anúncios, VSL, roteiros), com base em Ferreira, Maccedo, Ogilvy, Bencivenga, Carlton, Gary Halbert, Eugene Schwartz, Clayton Makepeace, Joseph Sugarman, Robert Collier, Dan Kennedy, Claude Hopkins e John Caples. Acionado pelo diretor-aquisicao-conversao no Modo Revisão de projeto, ou pelo agente `copywriter` antes de entregar. Somente leitura — nunca edita arquivos.
 tools: Read, Glob, Grep
 skills:
   - copywriting-publicidade

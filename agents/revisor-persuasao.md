@@ -1,6 +1,6 @@
 ---
 name: revisor-persuasao
-description: Revisor de persuasão e gatilhos mentais (Cialdini, Carnegie, Gustavo Ferreira), incluindo limites éticos. Acionado pelo diretor-aquisicao-conversao no Modo Revisão de projeto. Somente leitura — nunca edita arquivos.
+description: Revisor de persuasão e gatilhos mentais (Cialdini, Carnegie, Gustavo Ferreira), incluindo limites éticos. Acionado pelo diretor-aquisicao-conversao no Modo Revisão de projeto, ou pelo agente `especialista-persuasao` antes de entregar. Somente leitura — nunca edita arquivos.
 tools: Read, Glob, Grep
 skills:
   - persuasao-gatilhos

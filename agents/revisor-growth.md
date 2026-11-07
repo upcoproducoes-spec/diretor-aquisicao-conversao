@@ -1,6 +1,6 @@
 ---
 name: revisor-growth
-description: Revisor de marketing digital e growth (pesquisa, arquitetura de funil, métricas, otimização, recuperação de carrinho, lançamento). Acionado pelo diretor-aquisicao-conversao no Modo Revisão de projeto. Somente leitura — nunca edita arquivos.
+description: Revisor de marketing digital e growth (pesquisa, arquitetura de funil, métricas, otimização, recuperação de carrinho, lançamento). Acionado pelo diretor-aquisicao-conversao no Modo Revisão de projeto, ou pelo agente `especialista-growth-funil` antes de entregar. Somente leitura — nunca edita arquivos.
 tools: Read, Glob, Grep
 skills:
   - marketing-digital-growth

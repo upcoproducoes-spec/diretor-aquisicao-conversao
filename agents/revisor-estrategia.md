@@ -1,6 +1,6 @@
 ---
 name: revisor-estrategia
-description: Revisor de estratégia de negócio (diagnóstico, vantagem competitiva, posicionamento, diferenciação, oferta). Acionado pelo diretor-aquisicao-conversao no Modo Revisão de projeto. Somente leitura — nunca edita arquivos.
+description: Revisor de estratégia de negócio (diagnóstico, vantagem competitiva, posicionamento, diferenciação, oferta). Acionado pelo diretor-aquisicao-conversao no Modo Revisão de projeto, ou pelo agente `estrategista-negocios` antes de entregar. Somente leitura — nunca edita arquivos.
 tools: Read, Glob, Grep
 skills:
   - estrategia-negocios
