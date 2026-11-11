@@ -61,7 +61,9 @@ if ($CriarAmbienteAds) {
     }
 }
 
-if ($PastaProjeto -ne "") {
+if (($PastaProjeto -ne "") -and (-not (Test-Path (Join-Path $raiz "memoria")))) {
+    Write-Host "Esta copia do repositorio nao inclui a pasta memoria: memoria NAO instalada."
+} elseif ($PastaProjeto -ne "") {
     # O Claude Code guarda a memoria em .claude\projects\<caminho do projeto com tudo que nao e letra/numero trocado por ->\memory
     $nome = ($PastaProjeto.TrimEnd('\') -replace '[^A-Za-z0-9]', '-')
     $memDestino = Join-Path $claude ("projects\" + $nome + "\memory")
