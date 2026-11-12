@@ -5,7 +5,7 @@ metadata:
   node_type: memory
   type: project
   originSessionId: ab2fdac0-b08c-4b0d-93b2-73582b7c6c6b
-  modified: 2026-11-12T18:05:05.751Z
+  modified: 2026-11-12T23:38:30.912Z
 ---
 
 Em 2026-10-05 o workflow do FullFunnel "morfoGuide - BR | E-MAIL | Boas vindas / Recuperação de carrinho" foi lido nó a nó e replicado no Up como **4 rascunhos desligados** (status `draft`, v2). FullFunnel continua LIGADO.
@@ -21,7 +21,7 @@ Gatilho = tag adicionada. Cada uma checa "ainda não comprou" (tem a tag de comp
 O Up passou a aceitar `{{unsubscribe_link}}` (link assinado; dispensa o rodapé do Up) e `{{year}}`. Imagens dos e-mails ainda apontam para o CDN do FullFunnel (assets.cdn.filesafe.space): mover para o banco de imagens antes de desligar o FullFunnel.
 Pré-cabeçalho: o físico já vem escondido no HTML; no híbrido só e2, e3 e e6 foram injetados (e1, e4 e e5 estavam cortados na tela do FullFunnel, ficaram sem).
 
-**12/11/2026: FullFunnel encerrado** (ver [[fullfunnel-encerrado]]). As 6 automações de e-mail do morfoGuide (BR físico/híbrido e ES, boas-vindas e recuperação) estão LIGADAS no Up. Pendente: 3 imagens do e-mail "Recuperação de carrinho — Físico" ainda apontam para assets.cdn.filesafe.space (respondiam 200 em 12/11); mover para o banco de imagens do Up.
+**12/11/2026: FullFunnel encerrado** (ver [[fullfunnel-encerrado]]). As 6 automações de e-mail do morfoGuide (BR físico/híbrido e ES, boas-vindas e recuperação) estão LIGADAS no Up. Conferido em 12/11: as versões no ar (Pedro e Bia) usam só imagens do Up (app.upcoproducoes.com.br/m/...); os endereços do FullFunnel (assets.cdn.filesafe.space) existem apenas nas versões antigas v1-v3 da "Recuperação de carrinho — Físico", que não são enviadas.
 
 **Why:** os e-mails do híbrido o usuário reescreve depois à mão.
 **How to apply:** o mapa acima serve de referência das esperas e tags; não há mais nada a "desligar no FullFunnel". Veja [[up-requested-features]] e [[up-tag-model]].
