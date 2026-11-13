@@ -12,3 +12,5 @@ Decisões do Anderson (04/11/2026) para mensagens de WhatsApp do Pedro:
 
 **Why:** pedido direto do Anderson ao revisar a estratégia da Black.
 **How to apply:** vale para modelos, mensagens de grupo e privado do Pedro. Veja [[link-com-utm-vai-em-botao]].
+
+- **Exceção (13/11/2026, pedido do Anderson):** a Camila, na PRIMEIRA mensagem depois do "Ver detalhes", se apresenta sempre: "Oi, Ana! Aqui é a Camila, da equipe do Pedro." (para a pessoa não achar que fala com o expert). A regra "sem equipe do Pedro" continua valendo para os modelos e disparos. No Instagram, quando a Camila existir lá, mesma apresentação + o que a pessoa comentou/qual post.
