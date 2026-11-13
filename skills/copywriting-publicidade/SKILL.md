@@ -557,6 +557,8 @@ Publicidade é **salesmanship multiplicada**: toda dúvida se resolve com "isto 
 - **Formatos de anúncio que quebram o padrão (lembrete, mal feito, IA, notícia, kit inicial) e seus limites** → ch229 (ver também ch217)
 - **Live de Black Friday: roteiro, objeções, gatilhos e 25 motivos** → ch230 (mecânica comercial em `marketing-digital-growth` ch116) (ver também `marketing-digital-growth` ch113-ch114)
 - **Roteiros de vídeo de anúncio para Black (captação e carrinho aberto), finais modulares, âncora de preço com ressalva** → ch231 (gestão da campanha em `marketing-digital-growth` ch117)
+- **Página de low ticket (dobra única, sem vídeo, preço riscado com ressalva) e e-book com CTA a cada três páginas** → sem capítulo próprio de copy; análise em `marketing-digital-growth` ch118 (preço de referência e "só hoje" precisam ser reais; ver ch231 para âncora de preço)
+- **Aula diária com copy diferente por dia e link só dentro da aula (a "Teia")** → sem capítulo próprio de copy; mecânica em `marketing-digital-growth` ch119 (ver ch228 e ch230 para VSL e live)
 - **Prova social como troca (marcações por slides) / enquetes e votos** → ch212
 - **Tipos de Produto de Entrada (resumo, filé, antídoto)** → ch171
 - **TV/comerciais** → ch25, ch37, ch84, ch95

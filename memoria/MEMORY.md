@@ -1,32 +1,3 @@
-- [Modelo operacional do Up](up-operating-model.md) — Claude opera a plataforma, usuário aprova; multi-cliente com várias contas por cliente
-- [Jeito de trabalhar do usuário](user-working-style.md) — Claude executa no navegador; credenciais nunca vão para o chat
-- [E-mail do Up e checklist de cliente](up-email-and-client-onboarding.md) — custo zero, Resend (Render bloqueia SMTP), teto diário, checklist de onboarding por cliente
-- [Funcionalidades pedidas ainda faltando](up-requested-features.md) — disparo manual por tag/telefone/e-mail, WhatsApp igual, dashboard de envios/aberturas/bounces
-- [Drive do Pedro Sachet](up-drive-pedro-sachet.md) — árvore nova (id da raiz), pasta antiga de referência, produtos reais
-- [Modelo de tags e regras por produto](up-tag-model.md) — grafia morfoguide/morfologic, regras de compra/reembolso, IDs Hotmart, importação de 3.668 contatos
-- [Conversa do Up e agentes/skills](up-chat-agents.md) — qual conversa usa qual skill do usuário (diretor, copywriter, design, vídeo, tráfego)
-- [E-mails do FullFunnel replicados no Up](up-email-flows-from-fullfunnel.md) — 4 rascunhos desligados, esperas/tags, espera de 0 min no híbrido, ligar só ao desligar o FullFunnel
-- [Domínio e app Meta do Up](up-domain-and-meta-app.md) — app.upcoproducoes.com.br no Cloudflare, app Meta id 1402503241511899, o que falta para comentários/DM
-- [Webhooks e identidade visual do Up](up-webhooks-and-visual-identity.md) — paleta do foguete, webhooks entrada/saída com proteção SSRF, pedido de integrar WordPress
-- [Pendências do Up e fluxo de conteúdo social](up-backlog-and-social-flow.md) — backlog do app no projeto Up (só do dono), do expert no projeto dele; fluxo criar→design→aprovação do Pedro→agendar
-- [Modelo de acesso do Up](up-access-model.md) — só o dono usa chave; todos os outros e-mail e senha; Claude opera por eles
-- [IA em tempo real e chave do assinante](up-ai-realtime-and-keys.md) — sem rotinas, chave própria + escolha de modelo, anexos, aprendizado dos agentes
-- [Fluxo de mensagens e sincronia dos agentes](up-message-flow-and-agent-sync.md) — fluxo em Automações; skills→agentes do Up depois; agente de conteúdo por último
-- [Kit documental padrão](up-standard-doc-kit.md) — documentos por produto/lançamento/funil, redundâncias, token fora do Drive
-- [Quem aprova o quê no Up](up-approval-roles.md) — expert só conteúdo; criativos só dono e equipe; imagem gerada dentro do fluxo do agente
-- [Responder em português](respond-in-portuguese.md) — todo texto para o usuário em português, inclusive avisos de progresso
-- [Pastas por projeto do Up](up-project-folders.md) — CLAUDE.md + up.cjs + .env por cliente, comandos e rotinas de 30 min
-- [Ordem de construção 16/10](up-build-order-oct16.md) — Drive → R2 imagens/PDFs → páginas (visualizador, editor, versões) → design → vídeo → Camila
-- [Entregar no chat primeiro](deliver-in-chat-first.md) — copies/documentos vêm na conversa; só vão para o Up quando o Anderson mandar
-- [Agente de Design completo](design-agent-complete.md) — skill agente-design + revisor-design aqui, briefing obrigatório, Pacote do Copy, atualizar via GitHub só a pedido
-- [Link com UTM vai em botão](link-com-utm-vai-em-botao.md) — link longo em direct/WhatsApp/e-mail sempre num botão; solto só se for encurtado e o Anderson avisar
-- [HD mínimo, Drive como base](hd-minimo-drive-como-base.md) — pesados vão para a Lixeira depois de conferidos no Drive; nunca apagar de vez
-- [Preço em 12x em destaque](preco-12x-em-destaque.md) — página de vendas: 12x da Hotmart em destaque, à vista menor, parcela lida no checkout
-- [WhatsApp utility, sem VIP, saudação simples](whatsapp-utility-e-saudacao.md) — só modelos utility com 'Ver detalhes'; matrículas às 7h para todos; sem 'aqui é da equipe do Pedro'
-- [Black é evento de oferta](black-e-evento-de-oferta.md) — captação vende a oferta desde o 1º segundo; núcleo da oferta em toda peça; live com 20-30 min de conteúdo
-- [Tarefa com vínculo no Up](up-task-links.md) — tarefa que pede automação/regra/post/disparo/página/criativo nasce com links; quadro anda sozinho
-- [Quem volta passa de novo](automacao-quem-volta-passa-de-novo.md) — inscrição/compra repetida dispara boas-vindas e compra de novo; reentry once só se pedido
-- [Mensagem com quebra de linha](mensagem-com-quebra-de-linha.md) — direct e WhatsApp chegam com Enter e linha em branco como escritos
-- [Vale para todos os projetos](vale-para-todos-os-projetos.md) — ajuste feito no Pedro também vai para a Bia (dado/configuração), conferir os dois
-- [FullFunnel encerrado](fullfunnel-encerrado.md) — desde 12/11 tudo roda só no Up; anotações sobre o FullFunnel são só histórico
-- [Camila (recuperação de vendas)](camila-recuperacao.md) — uma só para todos os projetos; v1 carrinho abandonado; depois inscritos sem compra; abertura só com utility
+- [Análise de aulas e lançamentos](feedback_analise_de_aulas_e_lancamentos.md) — transcrições: analisar estratégia, estrutura, ganchos, gatilhos e pitch, não só o conteúdo
+- [Sistema de skills de marketing](project_marketing_agent_system.md) — estado, contagens (673 caps, GitHub sincronizado em 8cc2250 (inclui Baldan ch100-ch112 + ch221-ch222)), regras de atualização e pendências
+- [Curso Código Viral](project_codigo_viral_curso.md) — contrato proíbe cópia/IA sem autorização; o que foi baixado e o que falta confirmar

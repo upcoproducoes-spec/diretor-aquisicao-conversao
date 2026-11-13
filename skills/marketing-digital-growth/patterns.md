@@ -182,3 +182,13 @@ Técnicas de growth e funil formatadas para aplicação direta. Cada padrão ind
 **When to use**: Montar a agenda do workshop de 1-2 dias.
 **How**: Abertura com contagem regressiva, cronograma, 80/20, patrocinador e #tápago; fundamentos → teoria → exemplo → prática; melhor conteúdo antes do pitch mais longo; pitches antes das pausas; blocos cortáveis; pesquisa de intenção antes da oferta; NPS e ligação + SMS para comparecimento.
 **Trade-offs**: Para evento de um dia, apertado: um pitch de ancoragem e abertura de carrinho à tarde. Ver ch112.
+
+## Low Ticket como Motor de Compradores com Funil Pós-Compra
+**When to use**: Há um lançamento ou produto principal e falta base de compradores novos; o público frio ainda não comprou do especialista.
+**How**: Venda um produto de entrada barato só para frio, com página enxuta (dobra única, botão para o checkout, preço de referência verdadeiro); acrescente 1-2 order bumps que ajudem a executar o que o produto ensina; entregue conteúdo denso com convite ao grupo; use boas-vindas e grupo para levar o comprador ao lançamento; leve o público quente direto ao lançamento; faça a conta do pós-compra (adesão dos bumps e receita por comprador em 30 dias contra o CAC) antes de aumentar a verba.
+**Trade-offs**: CAC acima do preço dá prejuízo no front; exige caixa e dado de retorno. Números do caso (R$ 9,90, CAC ≈ R$ 16,14) são do material, não verificados. Ver ch118.
+
+## Teia de Dois Ciclos (Diário Gravado + Semanal ao Vivo)
+**When to use**: Já existe um comprador de baixo ticket e um grupo, e falta um sistema para converter quem não comprou de imediato.
+**How**: Ciclo 1: aula diária gravada em horário fixo, copy diferente por dia, nenhuma venda no grupo, link só na aula; Ciclo 2: aula semanal ao vivo para quebrar objeções, com replay e carrinho aberto; quem não compra troca de ciclo; abandono, Pix pendente e cartão recusado viram lead em até 30 minutos; defina a janela (14 dias no caso) e a saída do lead.
+**Trade-offs**: Exige produção constante de conteúdo e consentimento para contatar; o ganho de 2x do ao vivo sobre o gravado é afirmação sem dado. Ver ch119.

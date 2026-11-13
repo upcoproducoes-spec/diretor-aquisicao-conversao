@@ -8,7 +8,7 @@ Repositório (privado): https://github.com/upcoproducoes-spec/diretor-aquisicao-
 - **Diretor:** o gestor. Diagnostica o pedido, monta o briefing de cada agente, coordena a ordem, junta os pareceres dos revisores e só aplica o que você aprovar.
 - **Agentes:** os funcionários que produzem.
 - **Revisores:** quem confere. Só leem e avaliam.
-- **Skills:** o conhecimento por trás de todos, com 691 capítulos tirados de cerca de 60 livros, aulas e casos reais.
+- **Skills:** o conhecimento por trás de todos, com 693 capítulos tirados de cerca de 60 livros, aulas e casos reais.
 
 ## O que já está construído
 
@@ -26,7 +26,7 @@ Repositório (privado): https://github.com/upcoproducoes-spec/diretor-aquisicao-
 
 - **Diretor:** o orquestrador, com pipeline de 15 fases, roteamento e Modo Revisão.
 - **Conhecimento:** 8 skills, incluindo a de conteúdo e a de tráfego e funil.
-- **Casos incorporados:** lançamentos pagos, VSLs, formatos de anúncio, a live e a campanha de Black Friday, StoryBrand.
+- **Casos incorporados:** lançamentos pagos, VSLs, formatos de anúncio, a live e a campanha de Black Friday, o funil de low ticket com a "Teia", StoryBrand.
 - **Design:** o agente `designer` (com o `revisor-design`), que o diretor chama depois da copy aprovada. Gera imagens pela OpenAI quando você autoriza. O método dele está na skill `agente-design`.
 - **Tráfego pago:** o agente `gestor-trafego` (com o `revisor-trafego`). Planeja mídia, rastreio, testes e relatórios e **só propõe**: ele não tem acesso às contas de anúncios.
 - **Skills e agentes de terceiros:** estão no repositório (`skills-terceiros`, 64 skills, e `agents-terceiros`, 25 agentes) e são instalados junto. O arquivo `docs/mapa-skills-por-agente.md` diz qual skill cada agente chama.

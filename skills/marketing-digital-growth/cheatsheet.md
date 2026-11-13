@@ -254,3 +254,18 @@ Regra de ouro (ch59, ch65): construa um estágio de cada vez; caixa de 30 dias �
 | Não se sabe o que funcionou | Só plano, sem métricas por fase e por torre | ch117 |
 
 **Ordem de leitura para planejar uma Black:** ch117 (fases) → ch116 e ch230 (live) → ch231 (roteiros) → conteúdo ch18 (carrossel). **Referências do material (a validar):** captação ≈2 semanas; carrinho aberto de poucos dias; duas torres de três vídeos por público.
+
+## Low ticket e Teia (ch118-ch119) — diagnóstico rápido
+
+| Sintoma | Primeira hipótese | Onde |
+|---|---|---|
+| O low ticket vende, mas o caixa aperta | CAC acima do preço sem conta do pós-compra (adesão dos bumps, receita por comprador em 30 dias) | ch118, ch59 |
+| Muita venda do low e pouca ascensão | Comprador não entra no grupo ou na rotina; e-book fraco ou CTA sem clareza | ch118, ch119 |
+| Verba do low indo para quem já conhece o especialista | Público quente na atração; levar ao lançamento | ch118 |
+| Pix e cartão recusado se perdem | Falta recuperação em 30 minutos, em canal permitido | ch119, ch13 |
+| O grupo esfria | Venda dentro do grupo ou copy repetida na aula diária | ch119 |
+| O ao vivo não converte mais que o gravado | O "2x" é claim sem dado; comparar o mesmo tipo de lead | ch119 |
+| Preço riscado contestado | Preço "DE" nunca praticado ou "só hoje" que reinicia | ch118 |
+| Lead reclama das mensagens | Sem opção de sair ou sem base legal para o contato | ch119 |
+
+**Ordem de leitura:** ch118 (arquitetura do low e esteira) → ch119 (Teia). **Referências do material (a validar):** tickets R$ 9,90, R$ 19,90 e R$ 37; CAC ≈ R$ 16,14; janela de 14 dias; recuperação em 30 minutos; resultado "1,9 milhão" (não detalhado).

@@ -422,3 +422,21 @@ Termos e frameworks centrais dos 10 livros-fonte (Livros 1-9, incluindo Hormozi 
 **Preço de aluno x não aluno** — dois preços para a mesma oferta, reconhecidos pelo e-mail da compra, com a razão explicada. Ch116, ch117.
 
 **Torre de criativos** — conjunto de três vídeos dirigido a um único público; duas torres por público permitem comparar ângulos. Ch117.
+
+**Aula diária gravada (Ciclo 1)** — no funil "Teia", aula gravada publicada todo dia às 8h, com copy diferente a cada dia, sem venda no grupo e com o link de compra só dentro da aula; quem não compra vai para o Ciclo 2. Ch119.
+
+**Aula semanal ao vivo (Ciclo 2)** — aula ao vivo uma vez por semana para quebrar objeções, seguida de replay e carrinho aberto; quem não compra volta ao Ciclo 1. O autor diz que converte duas vezes mais que o gravado (sem dado). Ch119.
+
+**Esteira de produtos (F.END, M.END, BACK-END, HIGH-END, recorrência)** — desenho em malha: várias entradas (front-ends), degraus do meio opcionais, back-ends, produtos premium (high-end) e recorrência como camada própria. Ch118 (ver escada de valor, ch67).
+
+**Intencionalidade do produto** — quatro perguntas para criar um produto de entrada: de onde vem (produto anterior), onde chega (promessa), para onde vai (próximo produto) e qual seeding faz (problema que resolve e problema que cria). Ch118.
+
+**Low ticket de entrada** — produto de preço baixo (R$ 9,90, R$ 19,90 ou R$ 37 nos casos) vendido a público frio; funciona como custo de aquisição de comprador, e o resultado está no funil depois da compra. Ch118, ch119 (ver ch92-ch93).
+
+**Recuperação em 30 minutos** — transformar em lead, em até 30 minutos, quem abandonou o carrinho, não pagou o Pix ou teve o cartão recusado. Exige canal permitido e opção de sair. Ch119 (ver ch13).
+
+**Seeding (problema que resolvo x problema que crio)** — plantar, no produto de entrada, o problema seguinte que o próximo produto resolve. Leitura nossa de uma imagem do mapa. Ch118.
+
+**Teia** — funil de dois ciclos (aula diária gravada e aula semanal ao vivo) que se retroalimenta e em que nenhum lead é descartado; a pessoa precisa poder sair. Ch119.
+
+**Zero venda no grupo / link só dentro da aula** — regra de higiene: o grupo acompanha a aula, e a oferta aparece em um único momento e lugar, dentro da aula. Ch119.

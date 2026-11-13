@@ -7,11 +7,11 @@ Sistema para Claude Code que funciona como uma **empresa de marketing e vendas**
 ## O que tem aqui
 
 ```
-skills/   (conhecimento: 691 capítulos)
+skills/   (conhecimento: 693 capítulos)
   diretor-aquisicao-conversao/   orquestrador mestre (pipeline, roteamento, fluxo de entrega, Modo Revisão)
   estrategia-negocios/           118 capítulos — Sun Tzu, Porter, Rumelt, Collins, Kim & Mauborgne, Lafley & Martin, Mintzberg, Ries & Trout (Positioning), Hormozi ($100M Offers + Lost Chapters)
   psicologia-consumidor/         52 capítulos — Freud (Interpretação dos Sonhos, O Eu e o Id, Cinco Lições) + Kahneman (Rápido e Devagar)
-  marketing-digital-growth/      117 capítulos — Hacking Growth, Marketing na Era Digital, Unbound Marketing, Jeff Walker, Seth Godin, Hormozi ($100M Leads + Money Models), Russell Brunson (DotCom Secrets + Expert Secrets), masterclass de Lançamento Pago (Ferrari e Lima), masterclass de Tráfego (Carneiro), workshop de Lançamento Pago (Baldan), StoryBrand (Donald Miller: funil, lead generator e e-mails) e caso de Black Friday (live e campanha em fases)
+  marketing-digital-growth/      119 capítulos — Hacking Growth, Marketing na Era Digital, Unbound Marketing, Jeff Walker, Seth Godin, Hormozi ($100M Leads + Money Models), Russell Brunson (DotCom Secrets + Expert Secrets), masterclass de Lançamento Pago (Ferrari e Lima), masterclass de Tráfego (Carneiro), workshop de Lançamento Pago (Baldan), StoryBrand (Donald Miller: funil, lead generator e e-mails) caso de Black Friday (live e campanha em fases) e caso de low ticket de entrada com funil de dois ciclos (a "Teia")
   persuasao-gatilhos/            94 capítulos — Cialdini (As Armas da Persuasão + Pré-Suasão), Carnegie, Gustavo Ferreira
   copywriting-publicidade/       231 capítulos — Ferreira, Maccedo, Ogilvy, Bencivenga, Carlton, Halbert, Schwartz, Makepeace, Sugarman, Collier, Kennedy, Claude Hopkins, John Caples, Donald Miller (StoryBrand), Thiago Filemon (aulas de VSL e análise do lançamento pago de 2 dias), Thiago Roas (análise do evento de 4 dias, copy LHTCO, criativos), casos analisados (VSL, formatos de anúncio, live e roteiros de Black Friday)
   vendas-metodologia/            61 capítulos — Dixon & Adamson, Gitomer, Ross & Tyler, Rackham, Pink, Chris Voss
@@ -28,7 +28,7 @@ skills-terceiros/   (64 skills de terceiros que os agentes chamam; instaladas ju
   manutenção:          book-to-skill-master, find-skills
 agents-terceiros/   (25 agentes de apoio do pacote de anúncios: audit-*, copy-writer, creative-strategist, format-adapter, visual-designer etc.)
 
-  Total: 691 capítulos sintetizados de ~60 obras, aulas e casos analisados (inclui 18 da skill de conteúdo).
+  Total: 693 capítulos sintetizados de ~60 obras, aulas e casos analisados (inclui 18 da skill de conteúdo).
 
 agents/   (equipe: cada especialidade tem um agente que produz e um revisor)
   estrategista-negocios.md       produz diagnóstico, posicionamento e oferta          → revisor-estrategia.md
@@ -64,7 +64,7 @@ instalar.ps1  instala skills, agentes, CLAUDE.md global e memória num computado
 - **Tráfego pago:** plano de mídia, rastreio, testes e relatório pelo `gestor-trafego`, que só propõe; o usuário executa qualquer mudança em conta.
 - **Design:** peças e páginas pelo `designer`, com geração de imagem pela OpenAI quando o usuário autoriza.
 - **Conteúdo e social media:** pilares, calendário, roteiros de vídeo curto, carrosséis, legendas e criativos, com plano de teste.
-- **Casos analisados e incorporados:** lançamentos pagos, VSLs, formatos de anúncio, live e campanha de Black Friday, StoryBrand.
+- **Casos analisados e incorporados:** lançamentos pagos, VSLs, formatos de anúncio, live e campanha de Black Friday, low ticket de entrada com a "Teia" (dois ciclos de aula), StoryBrand.
 
 ## Ainda por construir
 

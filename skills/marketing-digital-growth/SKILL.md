@@ -8,7 +8,7 @@ description: Base de conhecimento sintetizada de 10 livros sobre growth e market
 # marketing-digital-growth
 
 **Autores/Capítulos:** Sean Ellis & Morgan Brown (Hacking Growth, ch01-ch09) · Martha Gabriel & Rafael Kiso (Marketing na Era Digital, ch10-ch23) · Rafael Kiso (Unbound Marketing, ch24-ch29) · Jeff Walker (Launch, Updated & Expanded Edition 2021, ch30-ch35) · Seth Godin (Purple Cow + This Is Marketing, ch36-ch48) · Alex Hormozi ($100M Leads, 2023, ch49-ch58 + $100M Money Models, 2025, ch59-ch65) · Russell Brunson (DotCom Secrets, 2015, ch66-ch77 + Expert Secrets, 2017, ch78-ch88) · Leandro Ferrari e Demetrius Lima (Masterclass Lançamento Pago, vídeo, 2025-2026, ch89-ch95) · Elmer Carneiro (Masterclass Tráfego, Tráfego S.A., vídeo, 2026, ch96-ch99) · Willian Baldan (Workshop Lançamento Pago, Rise, vídeo, 2026, ch100-ch112, Partes 1-4 de 4; a Parte 4 termina durante o pitch final) · Donald Miller e J. J. Peterson (StoryBrand: Building a StoryBrand 1ª/2ª edições e Marketing Made Simple, ch113-ch115)
-**Livros:** 10 + 3 masterclasses/workshops em vídeo + 3 obras StoryBrand + 1 live e 1 campanha de Black Friday · **Capítulos:** 117
+**Livros:** 10 + 3 masterclasses/workshops em vídeo + 3 obras StoryBrand + 1 live e 1 campanha de Black Friday + 1 caso de low ticket e funil de dois ciclos (mapa mental e carrossel) · **Capítulos:** 119
 **Gerado:** 2026-09-11 · **Atualizado:** 2026-11-05
 
 ## Como Usar Esta Skill
@@ -253,12 +253,23 @@ Esta skill sintetiza; nunca copia texto bruto dos livros-fonte. Onde os 8 livros
 | ch116 | [Live de Black Friday: Estrutura, Oferta, Preços, Prazos e Pós-Live](chapters/ch116-live-black-friday-oferta-para-sempre-estrutura-da-live-precos-prazos-e-pos-live.md) | Link só ao vivo, preço aluno x não aluno, "a conta", presentes com prazo, 5 primeiros, 25 motivos, Q&A com link aberto, suporte anti-golpe |
 | ch117 | [Campanha de Black em Três Fases: Captação, Live e Carrinho Aberto](chapters/ch117-campanha-de-black-em-tres-fases-captacao-live-e-carrinho-aberto-publicos-torres-e-controle-de-claims.md) | Três pedidos (inscrever, ver a oferta, comprar), públicos aluno/não aluno, torres de criativos, remarketing por comportamento, perecíveis fora do corpo, manual de claims |
 
+### Livro 15 — Low ticket de entrada e funil de dois ciclos (casos: mapa do e-book de R$ 9,90 e a "Teia")
+
+*Proveniência*: um mapa mental de aula (o autor do mapa não é identificado; preço e CAC coincidem com o e-book do ch93) e três slides de um carrossel do Instagram de Leandro Ferrari, enviados em 2026-11-13. Anotações e imagens, **sem a aula, sem a legenda e sem dados de desempenho**; os números (R$ 9,90, CAC ≈ R$ 16,14, "1,9 milhão", "2x mais que gravado") são do material, **não verificados**. Os dois funis têm tickets diferentes (R$ 9,90/R$ 19,90 e R$ 37): **não assuma que são o mesmo**.
+
+**Mapa do caso (use junto, nesta ordem):** arquitetura do low ticket e esteira → ch118; o que vem depois da compra (aula diária, aula semanal, recuperação em 30 minutos) → ch119. Base de apoio: ch92-ch93 (Ferrari: e-book low ticket e live semanal), ch59-ch65 (Money Model e regra dos 30 dias), ch67 e ch73-ch75 (escada de valor, order bump, OTO), ch87 (webinar semanal), ch13 (recuperação de carrinho), `estrategia-trafego-funil` (funil de VSL com front/upsell/downsell).
+
+| # | Título | Frameworks-Chave |
+|---|---|---|
+| ch118 | [Low Ticket de Entrada com Funil Pós-Compra: a Arquitetura do E-book de R$ 9,90 e a Esteira de Produtos](chapters/ch118-low-ticket-de-entrada-com-funil-pos-compra-a-arquitetura-do-e-book-de-9-90-e-a-esteira-de-produtos.md) | Low ticket como custo de aquisição de comprador, só frio, página de dobra única, 2 order bumps + combo, e-book com CTA a cada 3 páginas, intencionalidade (de onde vem, onde chega, pra onde vai, seeding), esteira F.END/M.END/BACK-END/HIGH-END, a conta do pós-compra |
+| ch119 | [A Teia: Funil de Dois Ciclos (Aula Diária Gravada e Aula Semanal ao Vivo) com Recuperação em 30 Minutos](chapters/ch119-a-teia-funil-de-dois-ciclos-aula-diaria-gravada-e-aula-semanal-ao-vivo-com-recuperacao-em-30-minutos.md) | Funil que se retroalimenta, Ciclo 1 (diário, zero venda no grupo, link só na aula) e Ciclo 2 (semanal ao vivo, replay e carrinho aberto), abandono/Pix/cartão recusado vira lead em 30 min, janela de 14 dias, lead nunca descartado (com saída) |
+
 ## Índice de Tópicos
 
 - **Escada de Valor (Value Ladder) / Funil de vendas (Brunson)** — ch66, ch67, ch72, ch74
 - **Temperatura do tráfego (quente/morno/frio) e Pré-frame** — ch72 (ver também ch68, ch71)
 - **Squeeze page / Captura de e-mail / Tráfego próprio** — ch68, ch73
-- **Free-plus-shipping / Order bump / OTO / Downsell / SLO (Brunson)** — ch73, ch74, ch75 (ver também Money Model, ch59-ch65)
+- **Free-plus-shipping / Order bump / OTO / Downsell / SLO (Brunson)** — ch73, ch74, ch75 (ver também Money Model, ch59-ch65 e o caso de low ticket com order bumps, ch118)
 - **Personagem Atraente / Storylines / Soap Opera / Seinfeld** — ch69, ch70
 - **Webinar (Perfeito, Invisível, semanal) e A Pilha / Stack** — ch76, ch84-ch87
 - **Grande Dominó / Ponte da Epifania / Falsas crenças / Os 3 Segredos** — ch81-ch83, ch85
@@ -292,6 +303,8 @@ Esta skill sintetiza; nunca copia texto bruto dos livros-fonte. Onde os 8 livros
 - **Depoimentos de transformação, indicação e cultura narrativa** — ch115
 - **Live de Black Friday (abertura de carrinho de 1 hora, combo vitalício, dois preços, prazos reais)** — ch116 (ver também ch104, ch110, ch112)
 - **Campanha de Black em três fases (captação, live, carrinho aberto), torres de criativos e controle de claims** — ch117 (roteiros em `copywriting-publicidade` ch231)
+- **Low ticket de entrada (CAC acima do preço), página de dobra única, order bumps, esteira de produtos (front-end, mid-end, back-end, high-end, recorrência) e intencionalidade do produto** — ch118 (ver também ch92-ch93, ch59-ch65, ch67)
+- **Funil de dois ciclos "Teia" (aula diária gravada, aula semanal ao vivo, recuperação de abandono/Pix/cartão recusado em 30 minutos, janela de 14 dias)** — ch119 (ver também ch87, ch92, ch116, ch13)
 - **Alto ticket por aplicação e telefone (setter/closer, 4 perguntas)** — ch77, ch87 (com alertas éticos)
 - **Engenharia reversa de concorrente** — ch71
 - **3Hs (Help/Hub/Hero)** — ch26 (ver também Content Unit/Hook-Retain-Reward, ch52, para o nível micro de cada peça)
