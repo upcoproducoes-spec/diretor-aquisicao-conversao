@@ -78,6 +78,7 @@ node "C:\Users\User\.claude\skills\agente-design\scripts\gerar-imagem.mjs" --pro
 
 - Mostre no chat (arquivo, prévia, PNG ou bloco `peca`).
 - Quando o usuário disser "manda pro Up": `node up.cjs peca criar <peca.json>` (criativos) ou `node up.cjs pagina criar|versao` (páginas), na pasta do projeto. Diga o que falta fazer lá (escolher foto, gerar fundo, exportar para Criativos, aprovar).
+- **Criativo já pronto em PNG** (estático de anúncio, arte final montada em HTML → PNG): vai direto para **Criativos → Em revisão**, um por arquivo: `node up.cjs criativo <arquivo.png> "título" --campanha="Nome da campanha"`. Variações (A/B, 4:5 e 9:16) são criativos separados; versão corrigida de um que já está lá usa `--versao-de=<id do criativo>`. Não basta subir para o Banco de imagens nem anexar link numa tarefa: a aprovação de criativo acontece na aba Criativos.
 - Criativo é aprovado só pelo dono/equipe (Criativos); conteúdo do expert, pelo expert.
 
 ## Manter o agente atualizado
