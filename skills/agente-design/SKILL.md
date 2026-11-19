@@ -61,6 +61,7 @@ node "C:\Users\User\.claude\skills\agente-design\scripts\gerar-imagem.mjs" --pro
 
 - **Chave**: lida de `C:\Users\User\.claude\openai.env` (`OPENAI_API_KEY=...`, colada pelo usuário) — nunca imprima, nunca peça no chat. Sem o arquivo, o script avisa; diga ao usuário como criar.
 - **Antes de gerar, avise** o que vai gerar, quantas imagens, tamanho e qualidade (custa na conta da OpenAI). Rascunho em `low`; versão final em `medium`/`high`. Pedido explícito do usuário para gerar já vale como OK para aquela leva.
+- **Depois de gerar, lance o custo no projeto do Up** (pasta com `up.cjs`): `node up.cjs imagem custo <modelo> <tamanho> <qualidade> <quantidade> "nota"`, uma vez por leva, incluindo as refações. O Up calcula o preço e soma no Resumo de custos do projeto. Projeto fora do Up: não há onde lançar.
 - **Tamanhos**: 1024x1024 (quadrado), 1024x1536 (vertical: feed 4:5, stories), 1536x1024 (horizontal: banner, thumb). O corte para o tamanho final é feito na montagem (editor de Peças ou HTML).
 - **Referência** (`--ref foto.jpg`, pode repetir): estiliza a partir de uma foto real — ex.: design de interiores (o mesmo ambiente em outro estilo), produto, esboço. **Nunca** para rosto ou mãos do expert.
 - **Logo/objeto recortado**: `--transparent`.
