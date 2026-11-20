@@ -31,4 +31,4 @@
 - [FullFunnel encerrado](fullfunnel-encerrado.md) — desde 12/11 tudo roda só no Up; anotações sobre o FullFunnel são só histórico
 - [Camila (recuperação de vendas)](camila-recuperacao.md) — uma só para todos os projetos; v1 carrinho abandonado; depois inscritos sem compra; abertura só com utility
 - [Custo da Meta no WhatsApp](up-custo-meta-whatsapp.md) — custo bloqueado ao parceiro; estimativa bate; rotina mensal: lançar cobranças reais em meta_payments (sem token por cliente)
-- [Páginas da Bia e o porteiro](bia-paginas-porteiro.md) — domínio na conta do Rodrigo, ponte no ar, porteiro-bia esperando o papel de Administrador
+- [Páginas da Bia e o porteiro](bia-paginas-porteiro.md) — porteiro-up com rotas gerais no domínio dela (20/11): publicar no Up já põe no ar, igual ao Pedro
