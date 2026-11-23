@@ -20,11 +20,12 @@ skills/   (conhecimento: 693 capítulos)
 
   agente-design/                 método do design (imagens, criativos, web design, identidade): é a base do agente `designer` e também serve para uso direto na conversa
 
-skills-terceiros/   (64 skills de terceiros que os agentes chamam; instaladas junto pelo instalar.ps1)
+skills-terceiros/   (77 skills de terceiros que os agentes chamam; instaladas junto pelo instalar.ps1)
   design e criativos:  design-taste-frontend, ui-ux-pro-max, impeccable, banner-design, brandkit, design, brand, design-system, slides,
                        frontend-design, ui-styling, imagegen-frontend-web/mobile, image-to-code, redesign-existing-projects, skills-main (animação) e outras
   tráfego pago:        ads (principal, sem o ambiente Python) + ads-* (planejamento, auditoria, Google, Meta, YouTube, TikTok etc.), ads-meta-gestao
   copy e pesquisa:     humanizer, mkt-ad-creative, util-competitive-ads-extractor
+  instagram:           pacote ig-* (13 skills: ig-viral, ig-plan, ig-reel, ig-carousel, ig-caption, ig-story, ig-audit etc.; MIT, em inglês)
   manutenção:          book-to-skill-master, find-skills
 agents-terceiros/   (25 agentes de apoio do pacote de anúncios: audit-*, copy-writer, creative-strategist, format-adapter, visual-designer etc.)
 

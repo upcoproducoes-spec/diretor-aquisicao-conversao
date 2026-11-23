@@ -29,7 +29,7 @@ Repositório (privado): https://github.com/upcoproducoes-spec/diretor-aquisicao-
 - **Casos incorporados:** lançamentos pagos, VSLs, formatos de anúncio, a live e a campanha de Black Friday, o funil de low ticket com a "Teia", StoryBrand.
 - **Design:** o agente `designer` (com o `revisor-design`), que o diretor chama depois da copy aprovada. Gera imagens pela OpenAI quando você autoriza. O método dele está na skill `agente-design`.
 - **Tráfego pago:** o agente `gestor-trafego` (com o `revisor-trafego`). Planeja mídia, rastreio, testes e relatórios e **só propõe**: ele não tem acesso às contas de anúncios.
-- **Skills e agentes de terceiros:** estão no repositório (`skills-terceiros`, 64 skills, e `agents-terceiros`, 25 agentes) e são instalados junto. O arquivo `docs/mapa-skills-por-agente.md` diz qual skill cada agente chama.
+- **Skills e agentes de terceiros:** estão no repositório (`skills-terceiros`, 77 skills, e `agents-terceiros`, 25 agentes) e são instalados junto. O arquivo `docs/mapa-skills-por-agente.md` diz qual skill cada agente chama.
 - **CLAUDE.md global:** suas regras de trabalho valem em qualquer pasta (arquivo `config/CLAUDE.md`, instalado em `~/.claude/CLAUDE.md`).
 
 ## O que já faz hoje
