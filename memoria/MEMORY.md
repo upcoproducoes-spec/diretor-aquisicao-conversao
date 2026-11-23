@@ -32,3 +32,4 @@
 - [Camila (recuperação de vendas)](camila-recuperacao.md) — uma só para todos os projetos; v1 carrinho abandonado; depois inscritos sem compra; abertura só com utility
 - [Custo da Meta no WhatsApp](up-custo-meta-whatsapp.md) — custo bloqueado ao parceiro; estimativa bate; rotina mensal: lançar cobranças reais em meta_payments (sem token por cliente)
 - [Páginas da Bia e o porteiro](bia-paginas-porteiro.md) — porteiro-up com rotas gerais no domínio dela (20/11): publicar no Up já põe no ar, igual ao Pedro
+- [Skills de Instagram (ig-*)](instagram-agent-skill.md) — instaladas 23/11, usadas nas rotinas de sugestões do Pedro e da Bia; dados na pasta instagram/ de cada projeto
