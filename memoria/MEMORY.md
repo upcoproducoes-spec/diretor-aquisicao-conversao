@@ -34,3 +34,5 @@
 - [Páginas da Bia e o porteiro](bia-paginas-porteiro.md) — porteiro-up com rotas gerais no domínio dela (20/11): publicar no Up já põe no ar, igual ao Pedro
 - [Skills de Instagram (ig-*)](instagram-agent-skill.md) — instaladas 23/11, usadas nas rotinas de sugestões do Pedro e da Bia; dados na pasta instagram/ de cada projeto
 - [Rastreio sem GTM](rastreio-sem-gtm.md) — páginas do Up levam pixel, Dashfácil e UTM→checkout no HTML; o Up não injeta nada
+- [Prompt de novidades do Up](prompt-de-novidades-do-up.md) — ao fechar cada atualização do Up, entregar um prompt para colar nas outras sessões
+- [Decisões da aba Tráfego](up-aba-trafego-decisoes.md) — total da venda, CPA Black Pedro R$300, morfoguide 25-30% do ticket, presença = número do YouTube
