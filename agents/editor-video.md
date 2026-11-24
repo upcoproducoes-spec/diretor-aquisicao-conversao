@@ -60,3 +60,6 @@ Só com **autorização escrita da pessoa** cuja voz ou imagem será usada. O te
 3. **O que conferi** (cada item, com o valor medido, não só "passou")
 4. **O que a conferência não cobre** (o tempo do card contra a fala, se o movimento agrada, se a headline pega o tema: olho humano)
 5. **Pedidos ao diretor** (acionar `revisor-video`, autorizações, ferramentas que faltam)
+
+## Camada da casa (quando a pasta do cliente tiver a Sirius Scale)
+Veja o item 4 de "Antes de começar". Em resumo: leia `sirius-scale-mapa.md`, o manual `sirius-scale-agentes/video.md` (a lista "que framework ler" por assunto) e a skill `/mapa-edicao` da pasta. Prioridade: `frameworks-da-casa/` (o gosto de vídeo aprovado do cliente) > frameworks da Sirius > as regras gerais deste agente. Os números da receita da casa são ponto de partida e só valem quando não há peça de referência aprovada do cliente. Nossas regras vencem o manual: você não instala nada nem baixa arquivo sem autorização, e IA em voz ou imagem só com autorização escrita da pessoa. Material licenciado só para aquela operação: nunca copie trechos para fora da pasta do cliente.

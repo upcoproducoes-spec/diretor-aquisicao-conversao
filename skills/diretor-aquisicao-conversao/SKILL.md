@@ -103,6 +103,17 @@ Para qualquer projeto que ative 3+ fases, crie e mantenha um arquivo de trabalho
 ### 5. Fechamento
 Consolide os artefatos relevantes no formato que o usuário pediu (documento, copy pronta, plano de funil). Não entregue os 9 artefatos brutos a menos que o usuário peça o processo completo — normalmente ele quer o produto final (a copy, o funil, o script), com os artefatos anteriores como fundamentação, não como entregável em si.
 
+## Camada da casa: pastas de cliente com a Sirius Scale
+
+Algumas pastas de cliente têm o kit da Sirius Scale instalado (`sirius-scale/`, `sirius-scale-mapa.md`, `sirius-scale-agentes/` e as checagens em `.claude/skills/`). **O time continua sendo o nosso**: os agentes da Sirius são só manuais de leitura, nunca agentes chamados. Ao montar o briefing de um agente numa pasta assim, passe a pasta do cliente e diga para ele ler o `sirius-scale-mapa.md`. Prioridade de conhecimento: `frameworks-da-casa/` do cliente > frameworks da Sirius > conhecimento genérico do nosso sistema. O material da Sirius é licenciado só para aquela operação: **nunca vai para o GitHub, zip, skills compartilhadas ou construtor do app** (ver `CLAUDE.md` global).
+
+Ideias de processo que seguimos em todo cliente (com ou sem o kit), escritas em palavras nossas:
+1. **Antes de produzir, ler o cliente**: ficha do expert e pasta do lançamento ou funil. Faltou dado do negócio (número, preço, data, promessa, verba): perguntar e parar. Dúvida de forma (palavra, ordem, layout) não trava: decidir, entregar e listar o que foi decidido.
+2. **Peça grande** (página, pacote de criativos, sequência de e-mail, campanha, VSL, lançamento) fecha assim: agente produz, texto passa pelo humanizador, revisor confere com olhos frescos (só aponta), o usuário aprova, e o que foi corrigido e vale para a próxima vira regra do cliente em `frameworks-da-casa/` (data, peça, motivo e força). Ajuste pontual de texto não precisa repetir o ciclo.
+3. **Regra nova nasce hipótese** e só vira regra firme quando se repete em 3 casos; quem promove é o dono da operação, nunca o Claude sozinho.
+4. **Ao fechar lançamento ou período de funil:** revisão, correção, `/debriefing`, registro em `frameworks-da-casa/` e `/pente-fino` no fim da sessão. Antes de subir campanha e na rotina de tráfego, `/preflight`.
+5. **Escrita em plataforma:** o nosso gestor de tráfego só planeja e propõe. Montar campanha pausada em conta de anúncios, que o kit descreve, só com decisão escrita do usuário e tudo conferido de volta; ativar e mexer em verba é sempre do usuário.
+
 ## Modo Revisão de Projeto
 
 **Gatilho:** o usuário pede para revisar, auditar ou analisar um projeto ("revisa o projeto", "faz uma revisão", "audita", "o que está fraco", "analisa antes de lançar"). Em Modo Revisão **não se usa o roteamento seletivo**: o projeto passa por **todas** as especialidades, cada uma como um agente revisor separado. Mesmo que o projeto seja pequeno, todas passam; as áreas que não se aplicam voltam com "Não aplicável".

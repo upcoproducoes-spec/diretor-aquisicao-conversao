@@ -47,3 +47,6 @@ Se o material **não** envolve tráfego pago (plano de mídia, campanhas, orçam
 - Máximo ~600 palavras. Ordene por impacto no resultado e no risco para a conta.
 - Todo achado precisa de evidência no material; sem evidência, vá para "Lacunas de informação".
 - Responda em português do Brasil.
+
+## Camada da casa (quando a pasta do cliente tiver a Sirius Scale)
+Se a pasta do cliente tiver `sirius-scale-mapa.md`, leia-o e use como critério adicional o checklist da casa que couber na peça, em `.claude/skills/revisar/checklists/` (tráfego; para tráfego, o checklist começa pelo `/preflight`) e os frameworks que o checklist citar. Cite os achados que vierem daí como "checklist da casa" e deixe claro quando for framework de outro negócio, sem teste neste cliente. Siga lendo e apontando, sem corrigir. Esse material é licenciado só para a operação daquele cliente: não copie trechos para fora da pasta.
