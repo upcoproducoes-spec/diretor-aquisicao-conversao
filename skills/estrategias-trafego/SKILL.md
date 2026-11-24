@@ -16,7 +16,7 @@ description: Catálogo das estratégias de tráfego pago que o time usa. Cada es
 ## Estratégias cadastradas
 | Código | Estratégia | Vale para | Status |
 |---|---|---|---|
-| `thiago-roas-perpetuo` | Funil de VSL perpétuo (Thiago Roas) | Perpétuos de público frio com VSL | **Ativa** nos perpétuos do Pedro Sachet |
+| `thiago-roas-perpetuo` | Funil de VSL perpétuo (Thiago Roas) | Perpétuos de público frio com VSL | **Em uso** no perpétuo do Pedro; será usada no da Beatriz. Não é regra para todos os funis |
 | `sirius-lancamento` | Rotinas de lançamento da Sirius Scale | Só pastas de cliente que têm o kit instalado | Material licenciado: fica na pasta do cliente, nunca aqui |
 
 ## Decisões de reunião (vivas, não são estratégia)
@@ -25,7 +25,8 @@ O que os sócios definem nas reuniões fica em `decisoes-de-reuniao.md`, com dat
 ## Registro por funil (preencher conforme o usuário decidir)
 | Cliente | Funil | Estratégia | Decidido em | Observação |
 |---|---|---|---|---|
-| Pedro Sachet | Perpétuos (MORFOGUIDE-BR, MORFOGUIDE-ES e os demais) | `thiago-roas-perpetuo` | 2026-11-24 | Sem ajuste de conjunto |
+| Pedro Sachet | Perpétuos (MORFOGUIDE-BR, MORFOGUIDE-ES e os demais) | `thiago-roas-perpetuo` | 2026-11-24 | Em uso hoje; reavaliar quando entrar estratégia nova |
+| Beatriz | Perpétuo | `thiago-roas-perpetuo` (a usar) | 2026-11-24 | Confirmar ao começar |
 | Pedro Sachet | Captação Black | A definir pelo usuário | | |
 
 ## Estratégia nova: modelo

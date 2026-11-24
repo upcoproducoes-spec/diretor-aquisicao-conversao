@@ -55,7 +55,7 @@ Nenhum item é pulado: o que não foi lido vira **NÃO VERIFICADO** (nunca "OK" 
 O relatório vai para `entregas/<cliente>/analises/preflight-AAAA-MM-DD.md`. O modelo de referência é o do Pedro Sachet de 2026-11-24.
 
 ## Níveis de otimização (padrão geral, só quando a estratégia ativa não disser outra coisa)
-1. **Criativo**: renovar, trocar ângulo, pausar o que não sustenta só com volume suficiente. 2. **Público e estrutura**: abertos para frio, quentes sem expansão, exclusões entre campanhas. 3. **Verba**: degraus pequenos, depois de 1 e 2. **A estratégia ativa pode proibir níveis inteiros** (por exemplo, ficha que proíbe mexer em conjunto): nesse caso eles não existem para o funil. Cortar só com volume; **nunca somar conversões de objetivos diferentes** nem de plataformas com janelas diferentes.
+1. **Criativo**: renovar, trocar ângulo, pausar o que não sustenta só com volume suficiente. 2. **Público e estrutura**: abertos para frio, quentes sem expansão, exclusões entre campanhas. 3. **Verba**: degraus pequenos, depois de 1 e 2. **A estratégia ativa manda**: se a ficha restringir ou ordenar esses níveis de outro jeito, vale a ficha. Cortar só com volume; **nunca somar conversões de objetivos diferentes** nem de plataformas com janelas diferentes.
 
 ## Regras de leitura
 - Gasto da Meta **com imposto** quando for comparar com venda.
