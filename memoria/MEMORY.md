@@ -1,3 +1,27 @@
-- [Análise de aulas e lançamentos](feedback_analise_de_aulas_e_lancamentos.md) — transcrições: analisar estratégia, estrutura, ganchos, gatilhos e pitch, não só o conteúdo
-- [Sistema de skills de marketing](project_marketing_agent_system.md) — estado, contagens (673 caps, GitHub sincronizado em 8cc2250 (inclui Baldan ch100-ch112 + ch221-ch222)), regras de atualização e pendências
-- [Curso Código Viral](project_codigo_viral_curso.md) — contrato proíbe cópia/IA sem autorização; o que foi baixado e o que falta confirmar
+- [Bot Camila (morfo.Guide)](project_camila_bot.md) — estado, IDs, decisões do Pedro e pendências do bot de recuperação no Full Funnel
+- [Criativos: menos ajuste, mais passo a passo](project_criativos_posicionamento_ajuste.md) — orientação do Pedro (áudio 05/09) + IDs dos docs de criativos/VSL
+- [Black morfologic 2026](project_black_morfologic_2026.md) — captação paga a partir de nov/26 (campanha separada); UMA aula (ter 24/11), inscrição → grupo da Black, lista VIP sem grupo, escada de preço, fluxo com o Up (limite 5.000 caracteres), decisões do Anderson e pendências
+- [Dash Fácil vs Meta: sempre comparar](feedback_dashfacil_vs_meta_atribuicao.md) — regra: nunca otimizar campanha só com dado do Meta, comparar sempre com a Dash Fácil antes
+- [Renomeação de anúncio pode confundir Dash Fácil](feedback_renomeacao_anuncios_dashfacil.md) — checar se anúncio foi renomeado pós-publicação antes de julgar por nome na Dash Fácil
+- [Janela de teste de criativo: 3-5 dias](feedback_janela_teste_criativo.md) — regra: rotacionar criativos sem venda real após 3-5 dias, nunca deixar rodando indefinidamente
+- [Regras de corte do perpétuo](feedback_limite_perda_rotacao.md) — aprovadas 13/11: criativo sai com 1× alvo sem venda (checkout > R$25) ou 1,5×; campanha troca o lote com 2× desde a última venda; BR 235/350/470, ES 150/225/300; dez e jan no arquivo
+- [Regra de escala = Thiago Roas](project_regra_graduacao_escala_atual.md) — desde 02/11: ROAS≥2 E 10 vendas (as duas juntas), sempre; o "OU" temporário caiu
+- [Valor de Compra no Meta é o líquido](project_valor_compra_meta_liquido.md) — BR: Meta recebe ~R$221 (líquido) em vez de ~R$520 (bruto); ROAS Meta subestimado
+- [Achados auditoria Pixel/PixelYourSite](project_config_pixel_wordpress_achados.md) — risco de contaminação cruzada pixel BR/ES no WordPress; só 1 pixel nativo configurado (BR)
+- [Estado das campanhas após rotação de 10/10](project_rotacao_10_10_estado_campanhas.md) — BR: ADV71 pausado, ADV75–77 ligados; ES: ADE14 pausado, ADE05/ADE06 ligados; seca do ES
+- [Funil ES replica o BR](project_funil_es_replica_br.md) — tudo do BR vira tarefa no ES; tradução de vídeo é do editor; IDs das campanhas no Up
+- [Vídeo animado do dente (morfoguide)](project_video_dente_animado.md) — v8 aprovada a 1,25x; decisões de estilo/voz; Sora/Veo desligados; pendências
+- [Campanha ES 030.1 (nova, 31/10)](project_es_030_campanha_nova.md) — IDs, pixel ES conferido, só ADV23 animação ligado, 1ª venda, CTR inflado por Threads/Venezuela
+- [Prefixo ADE/ADV](feedback_prefixo_ade_adv.md) — ADE = estático (imagem/carrossel), ADV = vídeo; não indica BR/ES
+- [Gatilho "olhe as campanhas do Pedro"](feedback_gatilho_olhe_campanhas.md) — análise completa BR+ES (Meta + Dash) e caminho de otimização para escalar; relatório no Up
+- [Escala 1 BR (029.2) e perpétuo na Black](project_escala_029_2_black.md) — 029.2 com ADV71 criada PAUSADA em 06/11 (Anderson liga); ADV85→ADV79; não pausar perpétuo na Black
+- [Páginas: VSL, liberada e fechada](project_paginas_vsl_liberada_fechada.md) — "VSL" no nome = tinha VSL; link morfoguide-img/-bio = liberada, só morfoguide = fechada; MCP não mostra o link
+- [Agente de vendas IA da Hotmart](project_hotmart_agente_vendas_ia.md) — 4 produtos treinados em 12/11, funil Logic ES→Guide ES ativo; acesso só pelo Chrome (MCP Hotmart é de outra conta)
+- [Cupom do perpétuo nov/dez](project_cupom_perpetuo_nov_dez.md) — BR e ES: 25% em nov, 20% em dez; CPA alvo BR R$ 235 (aprovado 13/11), ES R$ 150 (confirmado 13/11); jan sem cupom: BR 310, ES 200; equilíbrio BR ~R$ 335-355
+- [Copy da Black: só dentistas, sem 'no fim da aula'](feedback_copy_black_dentistas.md) — nunca 'protéticos' (800 = 'alunos'); dizer que na aula abre a Black do morfologic vitalício
+- [Aprovação no Up: ele avisa](feedback_aprovacao_up_aviso.md) — o Anderson diz 'aprovei' no chat; confirmar no Up e seguir a próxima etapa
+- [Up: uma tarefa por peça, ajuste sem empilhar, post em Conteúdo](feedback_up_tarefas_separadas_e_ajuste.md) — post e mensagens em tarefas separadas; ajuste = tarefa nova e antiga marcada "SUBSTITUÍDA"; post via `posts criar`
+- [Up: salvar versão de automação pergunta "ligar agora?"](feedback_up_salvar_versao_confirm.md) — responder sempre Cancelar; em Aprovações, automações só aparecem em "Todas as campanhas"
+- [WhatsApp: primeira mensagem sempre utility](feedback_whatsapp_utility_nao_marketing.md) — conferir a categoria antes de usar; se for reclassificado como marketing, avisar, criar um utility novo, trocar e excluir (com OK)
+- [Sem Full Funnel: WhatsApp é a API oficial no Up](feedback_sem_full_funnel_api_up.md) — templates e disparos consultados no Up (up.cjs whatsapp); nunca pedir nome de template
+- [Estáticos de venda da Black](project_estaticos_venda_black.md) — rodada 1 é a de anúncio; OFF/âncora/'para sempre' são decisão dele; V02, V09, V13 cortados em 24/11
