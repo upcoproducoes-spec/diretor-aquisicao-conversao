@@ -15,5 +15,10 @@ Estado em 20/11/2026 (funcionando):
 - O Worker `paginas-beatriz-rotas` do Rodrigo tem ~47 rotas específicas; rota mais específica vence, então as páginas dele continuam. Página do Up não deve usar endereço dessa lista.
 - Gravar pela API do painel (POST com cookie) deu 403 em 20/11; rotas foram criadas pela tela (Domínio → Rotas de Workers → Adicionar rota). Leitura pela API do painel funciona.
 
+Atualização em 24/11/2026:
+- As 4 rotas do guia definitivo (`/guia-definitivo-pt`, `/guia-definitivo-pt/*`, `/guia-definitivo-pt-bio`, `/guia-definitivo-pt-bio/*`) passaram de `paginas-beatriz-rotas` para `porteiro-up` (pela tela; a API do painel segue dando 403). Testado: x-served-by: up; pixels 663381787741763 e 823602845323275 (PageView), GA4 G-T86JW6MJ5G (servidor appspot), Clarity e VTurb carregam; os links do checkout levam utm, src e sck.
+- 10 páginas da Bia foram importadas para o Up (cópia fiel, aguardando aprovação): inscricao-black-nov26, obrigado-black-nov26, links-bio, links-bio-yt, up-1a/1b/2a/2b-gdpt, ds-gdpt e obrigado-gdpt. As rotas delas só mudam depois que o Anderson aprovar e publicar. Para desfazer qualquer troca: apontar a rota de volta para `paginas-beatriz-rotas`.
+- Rastreio vem todo do GTM-PRTJDTX (embutido no HTML). Lead dispara em página cuja URL contém "obrigado". CompleteRegistration só dispara no clique em botão com o texto "QUERO ME INSCREVER AGORA". O formulário da Black posta em `paginas-beatriz.pages.dev/api/inscrever` (Function do Rodrigo), que é uma dependência.
+
 **Why:** o Anderson quer publicar, despublicar e editar as páginas da Bia sem depender do Rodrigo. Agora é igual ao Pedro: aprovar e publicar no Up põe no ar. Independência total ainda = trazer a zona para a conta dele (depois de 30/11, conferindo e-mail Hostinger, SES e site; ver titular no Registro.br).
 **How to apply:** página nova da Bia: só publicar no Up, sem rota nova. Se algo não abrir, conferir as rotas do porteiro-up e a ponte. Ver [[vale-para-todos-os-projetos]].
