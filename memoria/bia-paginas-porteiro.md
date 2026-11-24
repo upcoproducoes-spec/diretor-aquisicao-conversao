@@ -5,7 +5,7 @@ metadata:
   node_type: memory
   type: project
   originSessionId: fb170dd5-bc95-459a-b6db-63cb8781a538
-  modified: 2026-11-20T23:20:52.227Z
+  modified: 2026-11-24T18:24:31.805Z
 ---
 
 Estado em 20/11/2026 (funcionando):
@@ -21,6 +21,7 @@ Atualização em 24/11/2026:
 - Rastreio vem todo do GTM-PRTJDTX (embutido no HTML). Lead dispara em página cuja URL contém "obrigado". CompleteRegistration só dispara no clique em botão com o texto "QUERO ME INSCREVER AGORA". O formulário da Black posta em `paginas-beatriz.pages.dev/api/inscrever` (Function do Rodrigo), que é uma dependência.
 
 - 24/11 (tarde): no Up sem GTM (v2) e com rota no porteiro-up: guia-definitivo-pt(-bio), up-1a/1b/2a/2b-gdpt, ds-gdpt, obrigado-gdpt (cada um com e sem /*), links-bio e links-bio/*. Testado: os 2 pixels (PageView), Dashfácil e VTurb carregam; o Dashfácil acrescenta src e sck nos links da Hotmart. Esperando publicação no Up para trocar a rota: links-bio-yt e obrigado-black-nov26 (a rota do obrigado voltou para o Rodrigo porque deu 404 sem página publicada). Regra: só trocar rota de página que já está PUBLICADA no Up, senão o porteiro cai no WordPress.
+- 24/11 (noite): Anderson publicou links-bio, links-bio-yt, obrigado-black-nov26 e black-friday v7; rotas de links-bio-yt e obrigado-black-nov26 (com e sem /*) passadas para porteiro-up. Conferido no ar: todas x-served-by: up, 2 pixels, Dashfácil 19, sem GTM, Lead no obrigado. Só a inscricao-black-nov26 segue sem publicar (de propósito).
 
 **Why:** o Anderson quer publicar, despublicar e editar as páginas da Bia sem depender do Rodrigo. Agora é igual ao Pedro: aprovar e publicar no Up põe no ar. Independência total ainda = trazer a zona para a conta dele (depois de 30/11, conferindo e-mail Hostinger, SES e site; ver titular no Registro.br).
 **How to apply:** página nova da Bia: só publicar no Up, sem rota nova. Se algo não abrir, conferir as rotas do porteiro-up e a ponte. Ver [[vale-para-todos-os-projetos]].
