@@ -1,0 +1,2 @@
+data	formato	formula	duracao	tema	views	alcance	nao_seguidores_pct	hold3s_pct	envios	salvamentos	comentarios	seguidores	resposta_1h
+# uma linha por post dos últimos 30+ dias. Só data e views são obrigatórias. Copie dos insights do Instagram (ou de `up.cjs resultados`). formula = id de ig-pt-br/hooks.pt.json.

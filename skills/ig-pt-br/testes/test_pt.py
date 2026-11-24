@@ -30,6 +30,7 @@ import detect_pt as DT       # noqa: E402
 import humanize_pt as HZ     # noqa: E402
 import caption_pt as CP      # noqa: E402
 import beats_pt as BP        # noqa: E402
+import auditoria_pt as AU    # noqa: E402
 
 P.utf8_stdio()
 falhas = []
@@ -168,6 +169,17 @@ roteiro = "Perdi R$ 18.000 por causa de uma cláusula.\nEu li o contrato duas ve
 r = B.analyse(roteiro, wpm=165, target=25)
 ok(r["beats"][0]["words"] == 7, "gancho de 7 palavras (R$ 18.000 = 1 palavra)", str(r["beats"][0]["words"]))
 ok(any("Loops" in n for n in r["notes"]), "acha o laço (repete 'perdi'/'R$ 18.000')", str(r["notes"][-2:]))
+
+# ------------------------------------------------------------ 8. auditoria
+print("8. auditoria_pt")
+def _rows(n):
+    return [{"views": float(1000 + 137 * i), "alcance": float(1500 + 100 * i), "envios": float(5 + i % 7),
+             "formato": "reel" if i % 2 else "carrossel", "formula": str(i % 4), "data": "2026-10-%02d" % (i % 28 + 1)} for i in range(n)]
+a8 = AU.analyse(_rows(8))
+a31 = AU.analyse(_rows(31))
+ok(a8["conclusivo"] is False and "HIPÓTESE" in AU.render(a8), "menos de 30 posts: sem conclusão, só hipótese")
+ok(a31["conclusivo"] is True, "30 ou mais posts: amostra conclusiva")
+ok(AU.num("1.234") == 1234.0 and AU.num("12,5%") == 12.5, "lê número em formato brasileiro")
 
 print(f"\n{passou} verificações passaram, {len(falhas)} falharam.")
 if falhas:

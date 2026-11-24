@@ -22,11 +22,15 @@ Pasta: `C:\Users\User\.claude\skills\ig-pt-br\` (em outro computador, `~/.claude
 | Léxico de clichês | `ig-human/slop.json` | `slop.pt.json` |
 | Conferir legenda | `ig-caption/caption.py` | `caption_pt.py legenda.txt --keywords "termo1,termo2"` |
 | Nota do perfil | `ig-profile/rubric.json` | o original (é critério de leitura, não de idioma) |
+| Auditoria mensal da própria conta | (`ig-audit` não tem script) | `auditoria_pt.py posts.tsv --out <cliente>/instagram/auditoria-AAAA-MM.md` (recusa concluir com menos de 30 posts) |
 
 `ig-comment`, `ig-reply`, `ig-dm`, `ig-story`, `ig-plan`, `ig-carousel`, `ig-repurpose` e `ig-audit` não têm script de idioma: escreva **direto em português do Brasil**, no tom do `voice.md` do cliente (pra, né, a gente, quando o expert fala assim). Os scripts originais que não dependem de idioma continuam valendo.
 
 ## Onde fica o estado (cliente x conta própria)
 As skills `ig-*` dizem `~/.claude/instagram/voice.md`, `swipe.md`, `log.md`, `plan.md`. **Para trabalho de cliente, troque esse caminho pela pasta `instagram/` da pasta do cliente** (como já está em `Pedro Sachet` e `Full Concepty Academy`), em toda leitura e gravação. `~/.claude/instagram/` só vale para a conta do próprio Anderson/UP. Se `voice.md` não existir, peça três reels ou legendas do expert e escreva a voz antes de roteirizar (o modelo é `voice-modelo.md` na pasta `instagram/` do cliente). Informe o ritmo real de fala com `--wpm`.
+
+## Ciclo de aprendizado (fechar o ciclo todo mês)
+O pacote só vira vantagem quando a conta aprende com a própria conta. O ciclo é: **pesquisar** (`ig-viral` + `swipe_pt.py`) → **planejar** (`ig-plan` amarrado ao calendário da oferta) → **produzir e registrar** (`log.md`) → **medir** (`auditoria_pt.py`) → **decidir** (`plan.md` do mês seguinte) → **validar** (`casos-validados.md`). Roteiro do mês em `modelos/fechamento-do-mes.md`; modelos de `posts.tsv`, `log.md`, `plan.md`, `perguntas.md` e `casos-validados.md` em `modelos/` (copie para `<pasta do cliente>/instagram/`). O fechamento roda na conversa principal, com o usuário presente (pesquisa e insights dependem dele). Regras: **menos de 30 posts não dá conclusão, só hipótese**; métrica que vale é **envio (compartilhamento) e salvamento por alcance**, não curtida nem view bruta; separe problema de perfil (alcança e não segue) de problema de gancho (não alcança); **uma coisa muda por vez**; regra nova nasce hipótese e só o dono da operação a promove.
 
 ## Regras do pacote que continuam valendo
 - **Nada é postado, seguido, curtido ou enviado.** Entrega texto; quem posta é o usuário (ou a ferramenta aprovada dele, só para resposta automática a palavra-chave).

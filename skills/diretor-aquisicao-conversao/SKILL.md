@@ -57,6 +57,7 @@ Classifique o pedido antes de agir:
   - **O que roda aqui, na conversa principal, e não no agente:** `ig-viral` (pesquisa do nicho, no máximo mensal), `ig-audit` (precisa dos insights do usuário) e `ig-profile` (precisa do print do perfil). Elas dependem do navegador e do login do **usuário** (nunca faça login por ele, nada de raspagem em volume) e do que ele colar. Rode a skill, siga as regras dela, use `swipe_pt.py` (de `ig-pt-br`) no lugar de `swipe.py`, grave os arquivos na pasta `instagram/` do cliente e passe o resultado ao `criador-conteudo` no briefing. Sem `voice.md`, peça ao usuário três reels ou legendas do expert antes de roteirizar.
 - **Pedido de tráfego pago** (plano de mídia, estrutura de campanhas, orçamento e metas, rastreio, teste de criativos, diagnóstico de conta, relatório) → acione o agente `gestor-trafego` e, antes de entregar, `revisor-trafego` (+ `revisor-funil-vsl` se houver VSL ou funil perpétuo). O gestor de tráfego **só planeja e propõe**; se precisar de números de contas, você pode buscá-los em **modo somente leitura** nos conectores e passá-los no briefing. Qualquer mudança real em conta de anúncios é do usuário.
 - **Pedido visual** (criativo, post, carrossel, thumbnail, banner, página, logo, apresentação) → acione o agente `designer` com o Pacote para o Design e, depois, `revisor-design`. Se o briefing estiver incompleto, o designer devolve as pendências e **você** pergunta ao usuário.
+- **Pedido de vídeo** (editar criativo, VSL, aula, corte de live, Reels) → com a **copy aprovada e a gravação** em mãos, acione o agente `editor-video` (ele devolve pendências se faltar insumo) e, depois, `revisor-video`. Ele faz sempre o Mapa de Edição e só monta a primeira versão com ferramentas confirmadas no computador, com uma aprovação do usuário por etapa. Dublagem, clone de voz ou avatar por IA exigem autorização escrita da pessoa e aviso de custo antes. Se a pasta do cliente tiver o kit da Sirius Scale, o agente o lê como receita da casa (material licenciado só para aquela operação).
 - **Pedido pontual de uma especialidade** ("escreva 3 headlines", "como responder objeção de preço") → não ative o pipeline completo. Acione direto o **agente da especialidade** (tabela abaixo), que produz o entregável, e depois o revisor dele. Se não for possível acionar o agente, use a skill dona diretamente. Mencione brevemente se notar que falta uma fase anterior (ex: "essa headline vai ser mais forte se eu souber o nível de consciência do público — já foi mapeado?"), mas não bloqueie a entrega por isso.
 - **Projeto novo do zero** ("preciso vender X", "crie uma campanha para X") → ative o pipeline completo, começando pela Fase 1.
 - **Projeto com etapas anteriores já prontas** (usuário já tem diagnóstico e posicionamento, só falta funil e copy) → comece na primeira fase que ainda falta.
@@ -75,6 +76,7 @@ Cada especialidade tem um **agente que produz** e um **revisor** dedicado. Os ag
 | Vendas e negociação | `especialista-vendas` | `revisor-vendas` | 9 |
 | Conteúdo e social media (Instagram: pacote `ig-*` + `ig-pt-br`) | `criador-conteudo` | `revisor-conteudo` | 10-11 (orgânico) |
 | Design e peças visuais (criativos, carrosséis, páginas, thumbnails, logo) | `designer` (método na skill `agente-design`; gera as imagens quando autorizado) | `revisor-design` | 11 (depois da copy aprovada) |
+| Edição de vídeo (criativo em vídeo, VSL, aula, corte de live, Reels) | `editor-video` (Mapa de Edição sempre; monta a primeira versão só com ferramentas confirmadas) | `revisor-video` | 11 (depois da copy aprovada e da gravação) |
 
 **Fluxo de criativos e peças (do briefing à peça pronta):**
 1. **Base pronta:** estratégia, oferta, público e objetivo definidos (documento de projeto). Se faltar, rode antes as fases 1-7.
@@ -120,13 +122,14 @@ Consolide os artefatos relevantes no formato que o usuário pediu (documento, co
 | `revisor-funil-vsl` | `estrategia-trafego-funil` (só se houver VSL, funil perpétuo ou tráfego pago) | VSL |
 | `revisor-trafego` | `estrategia-trafego-funil` e `ads-*` (só se houver tráfego pago) | TRA |
 | `revisor-design` | `agente-design` e as skills de design (só se houver peças visuais ou páginas; formato de saída próprio: nota, críticos, importantes, sugestões) | DES |
+| `revisor-video` | regras de edição do `editor-video` (só se houver vídeo editado ou mapa de edição; não assiste ao vídeo: confere mapa, relatório e medições) | VID |
 
 São somente leitura (ferramentas Read/Glob/Grep) e **não veem a conversa**: tudo que precisam tem que estar no prompt que você envia e nos arquivos que você indica.
 
 ### Etapas
 
 1. **Entender o projeto.** Descubra o que existe: pasta atual, README, páginas, copies, roteiros, e-mails, planilhas, `00-documento-projeto.md`. Se faltar o mínimo (objetivo comercial, público, oferta e preço, onde está o material), pergunte só isso antes de seguir. Monte um **Briefing de Revisão** de 10 a 15 linhas: projeto, objetivo, público, oferta, canais, estágio (ideia, pronto, no ar), materiais com **caminhos absolutos** e o foco pedido pelo usuário. Se o material está só colado na conversa, salve em arquivo e passe o caminho.
-2. **Disparar os revisores em paralelo.** Uma única mensagem com uma chamada de Agent por revisor (`subagent_type` = nome da tabela; inclua `revisor-funil-vsl`, `revisor-trafego` e `revisor-design` só se aplicável). O prompt de cada um leva o Briefing completo, a lista de caminhos e a instrução: "Somente leitura. Responda no formato de parecer do seu agente."
+2. **Disparar os revisores em paralelo.** Uma única mensagem com uma chamada de Agent por revisor (`subagent_type` = nome da tabela; inclua `revisor-funil-vsl`, `revisor-trafego`, `revisor-design` e `revisor-video` só se aplicável). O prompt de cada um leva o Briefing completo, a lista de caminhos e a instrução: "Somente leitura. Responda no formato de parecer do seu agente."
 3. **Consolidar.** Leia os pareceres e:
    - una achados repetidos entre áreas (ex.: promessa fraca aparece em copy e persuasão) e cite os IDs originais;
    - quando dois revisores divergirem, mostre o trade-off em vez de escolher em silêncio;

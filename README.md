@@ -42,6 +42,7 @@ agents/   (equipe: cada especialidade tem um agente que produz e um revisor)
   criador-conteudo.md            produz conteúdo e social media                       → revisor-conteudo.md
   gestor-trafego.md              produz plano de mídia, rastreio, testes, diagnóstico e relatório (só propõe; nunca mexe em conta) → revisor-trafego.md (+ revisor-funil-vsl.md)
   designer.md                    produz peças visuais, criativos, páginas e identidade; gera imagem quando autorizado → revisor-design.md
+  editor-video.md                produz Mapa de Edição e, com ferramentas confirmadas, a primeira versão do vídeo → revisor-video.md
 
 memoria/  espelho da memória do Claude (regras de trabalho, preferências e estado do projeto): é o que o sistema "aprendeu" com o uso
 config/   CLAUDE.md global: as regras de trabalho que valem em qualquer pasta (instalado em ~/.claude/CLAUDE.md)
@@ -70,7 +71,7 @@ instalar.ps1  instala skills, agentes, CLAUDE.md global e memória num computado
 
 ## Ainda por construir
 
-- **Editor de vídeo** (não iniciado; por enquanto não mexer).
+- **Editor de vídeo:** o agente `editor-video` (com `revisor-video`) existe desde 2026-11-24; falta instalar e testar o módulo de vídeo e fazer a primeira peça de ponta a ponta.
 - **Instalação guiada pelo diretor:** num computador novo, o diretor conduzir a instalação completa, incluindo ligar a API da OpenAI para gerar imagens (e vídeo, se for preciso). Hoje a chave da OpenAI é criada pelo usuário em `~/.claude/openai.env`.
 - **Testes de ponta a ponta** do fluxo completo com os agentes novos (`gestor-trafego`, `revisor-trafego`, `designer` e os seis criados antes), que só aparecem depois de reiniciar o Claude Code, e glossário/cheatsheet de alguns casos recentes.
 - Novas aulas, lançamentos e livros continuam sendo analisados e incorporados ("atualizar, não substituir").

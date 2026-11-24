@@ -19,6 +19,7 @@ Repositório (privado): https://github.com/upcoproducoes-spec/diretor-aquisicao-
 | Growth, funil e estratégia de lançamento | `especialista-growth-funil` | `revisor-growth` (mais `revisor-funil-vsl` se houver VSL ou tráfego pago) |
 | Tráfego pago (mídia, orçamento, rastreio, testes, relatório) | `gestor-trafego` | `revisor-trafego` (mais `revisor-funil-vsl` se houver VSL) |
 | Design e peças visuais | `designer` | `revisor-design` |
+| Edição de vídeo | `editor-video` | `revisor-video` |
 | Copy | `copywriter` | `revisor-copy` |
 | Persuasão | `especialista-persuasao` | `revisor-persuasao` |
 | Vendas | `especialista-vendas` | `revisor-vendas` |
@@ -41,7 +42,7 @@ Repositório (privado): https://github.com/upcoproducoes-spec/diretor-aquisicao-
 - **Fluxo de criativos:** copy → revisão → sua aprovação → design → revisão → sua aprovação final.
 
 ## O que ainda falta construir
-- **Editor de vídeo:** ainda não iniciado.
+- **Editor de vídeo:** o agente `editor-video` (com `revisor-video`) foi criado; falta instalar e testar o módulo de vídeo e fazer a primeira peça de ponta a ponta.
 - **Instalação guiada pelo diretor:** num computador novo, o diretor conduzir tudo, incluindo ligar a API da OpenAI para gerar imagens (e vídeo, se for preciso). Hoje você cola a chave num arquivo local.
 - **Teste de ponta a ponta:** os agentes novos (incluindo `gestor-trafego`, `revisor-trafego` e `designer`) ainda não foram rodados juntos. Eles só aparecem depois de reiniciar o Claude Code.
 - **Novas aulas e lançamentos:** continuam entrando conforme forem enviados.

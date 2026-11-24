@@ -1,6 +1,6 @@
 # Mapa: qual skill cada agente chama
 
-Regra do sistema: o **diretor** coordena; cada **agente** de especialidade carrega só as skills da sua área quando precisa; cada agente tem o seu **revisor**. Este mapa diz qual skill cada agente chama. Falta criar o editor de vídeo (seção 4).
+Regra do sistema: o **diretor** coordena; cada **agente** de especialidade carrega só as skills da sua área quando precisa; cada agente tem o seu **revisor**. Este mapa diz qual skill cada agente chama. O editor de vídeo (seção 4) foi criado em 2026-11-24.
 
 As skills e agentes de terceiros estão neste repositório em `skills-terceiros/` e `agents-terceiros/` (o `instalar.ps1` instala tudo). As descrições abaixo são resumos das descrições das próprias skills; confira o `SKILL.md` de cada uma antes de depender dela.
 
@@ -67,12 +67,9 @@ Revisor: `revisor-trafego` (e `revisor-funil-vsl` quando houver VSL ou funil per
 
 ---
 
-## 4. Editor de vídeo (futuro agente; ainda não há skill instalada)
+## 4. Editor de vídeo (agente `editor-video`, criado em 2026-11-24)
 
-Nada de terceiros instalado para isso. O que já usamos no sistema (como ferramenta, não como skill): `ffmpeg` (cortes e quadros), `faster-whisper` (transcrição local) e Python com Pillow. Sugestões a avaliar **antes de baixar** (preciso da sua autorização para baixar e vou ler o conteúdo antes de instalar):
-- Uma skill de vídeo programático (por exemplo, a do projeto Remotion, que gera vídeo a partir de código).
-- Uma skill ou script de legendas automáticas e cortes por transcrição.
-- Roteiro de edição para Reels e anúncios em vídeo, apoiado em `criacao-conteudo-social-media` e nos capítulos de criativos de vídeo (`copywriting-publicidade` ch231).
+Revisor: `revisor-video` (não assiste ao vídeo: confere mapa, relatório e medições). Faz sempre o **Mapa de Edição** (bloco a bloco, com o trecho literal da copy e o tempo real da gravação) e só monta a primeira versão com ferramentas **confirmadas** no computador (`ffmpeg`, transcrição local em português, e `hyperframes` se estiver instalado), com uma aprovação por etapa. Não instala nada nem baixa arquivo. Dublagem, clone de voz e avatar por IA exigem autorização escrita da pessoa e aviso de custo. Não há skill de terceiros de vídeo neste repositório: se a pasta do cliente tiver o kit da Sirius Scale (licenciado só para a operação daquele cliente), o agente o lê como receita da casa e **nunca o copia** para outros lugares. O que já usamos como ferramenta: `ffmpeg`, `faster-whisper` e Python com Pillow. Pendente: instalar e testar o módulo de vídeo (HyperFrames) e fazer a primeira peça-mãe de ponta a ponta.
 
 ---
 

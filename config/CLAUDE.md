@@ -12,6 +12,7 @@
 - **Atualizar, não substituir.** Depois de atualizar, apague os restos antigos.
 - **Aula, lançamento, vídeo ou caso novo:** faça análise completa da estratégia (estrutura dia a dia, ganchos, loops abertos, gatilhos, história e prova, construção de crença, oferta e pitch, objeções, ritmo), sem tratar a parte promocional como ruído. Classifique o tema e roteie para as skills certas, com índices, orquestrador, revisores e memória.
 - **Conteúdo de terceiros:** sintetize em palavras próprias, nunca copie texto. Números vindos de aulas e casos são "não verificados". Sinalize riscos éticos, de política de plataforma e de LGPD.
+- **Licença de materiais de terceiros:** o kit da Sirius Scale (Rodrigo Galbier Consultoria) é licenciado só para a operação da empresa licenciada. É proibido distribuir, sublicenciar ou ensinar a terceiros. Nunca copie esse material para o repositório do sistema, para skills compartilhadas, para zips ou para o construtor do app: ele só pode ser lido nas pastas dos clientes onde foi instalado.
 - **Nunca invente** número, escassez, prazo, prova social, depoimento ou promessa de resultado.
 - **Contas de anúncios reais:** só o usuário aprova e executa qualquer mudança (ativar, pausar, orçamento, publicar, excluir). A aprovação vale para aquela ação naquele dia. Agentes só planejam e propõem.
 - **Credenciais:** nunca no chat nem em arquivos do repositório. O usuário cola chaves em arquivos locais (por exemplo `~/.claude/openai.env`). Nunca imprima chaves.
@@ -24,5 +25,5 @@
 - A memória do Claude é espelhada em `memoria/` do repositório; ao mudar a memória, atualize o espelho.
 
 ## Planejado (ainda não feito)
-- Agente editor de vídeo (por enquanto, não mexer).
+- Editor de vídeo: o agente `editor-video` (com `revisor-video`) foi criado em 2026-11-24; falta instalar/testar o módulo de vídeo e a primeira peça de ponta a ponta.
 - O diretor deve guiar a instalação completa num computador novo, incluindo ligar a API da OpenAI para gerar imagens (e vídeo, se for preciso). Hoje: a chave fica em `~/.claude/openai.env`, colada pelo usuário.
