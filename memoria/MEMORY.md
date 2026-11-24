@@ -1,27 +1,36 @@
-- [Bot Camila (morfo.Guide)](project_camila_bot.md) — estado, IDs, decisões do Pedro e pendências do bot de recuperação no Full Funnel
-- [Criativos: menos ajuste, mais passo a passo](project_criativos_posicionamento_ajuste.md) — orientação do Pedro (áudio 05/09) + IDs dos docs de criativos/VSL
-- [Black morfologic 2026](project_black_morfologic_2026.md) — captação paga a partir de nov/26 (campanha separada); UMA aula (ter 24/11), inscrição → grupo da Black, lista VIP sem grupo, escada de preço, fluxo com o Up (limite 5.000 caracteres), decisões do Anderson e pendências
-- [Dash Fácil vs Meta: sempre comparar](feedback_dashfacil_vs_meta_atribuicao.md) — regra: nunca otimizar campanha só com dado do Meta, comparar sempre com a Dash Fácil antes
-- [Renomeação de anúncio pode confundir Dash Fácil](feedback_renomeacao_anuncios_dashfacil.md) — checar se anúncio foi renomeado pós-publicação antes de julgar por nome na Dash Fácil
-- [Janela de teste de criativo: 3-5 dias](feedback_janela_teste_criativo.md) — regra: rotacionar criativos sem venda real após 3-5 dias, nunca deixar rodando indefinidamente
-- [Regras de corte do perpétuo](feedback_limite_perda_rotacao.md) — aprovadas 13/11: criativo sai com 1× alvo sem venda (checkout > R$25) ou 1,5×; campanha troca o lote com 2× desde a última venda; BR 235/350/470, ES 150/225/300; dez e jan no arquivo
-- [Regra de escala = Thiago Roas](project_regra_graduacao_escala_atual.md) — desde 02/11: ROAS≥2 E 10 vendas (as duas juntas), sempre; o "OU" temporário caiu
-- [Valor de Compra no Meta é o líquido](project_valor_compra_meta_liquido.md) — BR: Meta recebe ~R$221 (líquido) em vez de ~R$520 (bruto); ROAS Meta subestimado
-- [Achados auditoria Pixel/PixelYourSite](project_config_pixel_wordpress_achados.md) — risco de contaminação cruzada pixel BR/ES no WordPress; só 1 pixel nativo configurado (BR)
-- [Estado das campanhas após rotação de 10/10](project_rotacao_10_10_estado_campanhas.md) — BR: ADV71 pausado, ADV75–77 ligados; ES: ADE14 pausado, ADE05/ADE06 ligados; seca do ES
-- [Funil ES replica o BR](project_funil_es_replica_br.md) — tudo do BR vira tarefa no ES; tradução de vídeo é do editor; IDs das campanhas no Up
-- [Vídeo animado do dente (morfoguide)](project_video_dente_animado.md) — v8 aprovada a 1,25x; decisões de estilo/voz; Sora/Veo desligados; pendências
-- [Campanha ES 030.1 (nova, 31/10)](project_es_030_campanha_nova.md) — IDs, pixel ES conferido, só ADV23 animação ligado, 1ª venda, CTR inflado por Threads/Venezuela
-- [Prefixo ADE/ADV](feedback_prefixo_ade_adv.md) — ADE = estático (imagem/carrossel), ADV = vídeo; não indica BR/ES
-- [Gatilho "olhe as campanhas do Pedro"](feedback_gatilho_olhe_campanhas.md) — análise completa BR+ES (Meta + Dash) e caminho de otimização para escalar; relatório no Up
-- [Escala 1 BR (029.2) e perpétuo na Black](project_escala_029_2_black.md) — 029.2 com ADV71 criada PAUSADA em 06/11 (Anderson liga); ADV85→ADV79; não pausar perpétuo na Black
-- [Páginas: VSL, liberada e fechada](project_paginas_vsl_liberada_fechada.md) — "VSL" no nome = tinha VSL; link morfoguide-img/-bio = liberada, só morfoguide = fechada; MCP não mostra o link
-- [Agente de vendas IA da Hotmart](project_hotmart_agente_vendas_ia.md) — 4 produtos treinados em 12/11, funil Logic ES→Guide ES ativo; acesso só pelo Chrome (MCP Hotmart é de outra conta)
-- [Cupom do perpétuo nov/dez](project_cupom_perpetuo_nov_dez.md) — BR e ES: 25% em nov, 20% em dez; CPA alvo BR R$ 235 (aprovado 13/11), ES R$ 150 (confirmado 13/11); jan sem cupom: BR 310, ES 200; equilíbrio BR ~R$ 335-355
-- [Copy da Black: só dentistas, sem 'no fim da aula'](feedback_copy_black_dentistas.md) — nunca 'protéticos' (800 = 'alunos'); dizer que na aula abre a Black do morfologic vitalício
-- [Aprovação no Up: ele avisa](feedback_aprovacao_up_aviso.md) — o Anderson diz 'aprovei' no chat; confirmar no Up e seguir a próxima etapa
-- [Up: uma tarefa por peça, ajuste sem empilhar, post em Conteúdo](feedback_up_tarefas_separadas_e_ajuste.md) — post e mensagens em tarefas separadas; ajuste = tarefa nova e antiga marcada "SUBSTITUÍDA"; post via `posts criar`
-- [Up: salvar versão de automação pergunta "ligar agora?"](feedback_up_salvar_versao_confirm.md) — responder sempre Cancelar; em Aprovações, automações só aparecem em "Todas as campanhas"
-- [WhatsApp: primeira mensagem sempre utility](feedback_whatsapp_utility_nao_marketing.md) — conferir a categoria antes de usar; se for reclassificado como marketing, avisar, criar um utility novo, trocar e excluir (com OK)
-- [Sem Full Funnel: WhatsApp é a API oficial no Up](feedback_sem_full_funnel_api_up.md) — templates e disparos consultados no Up (up.cjs whatsapp); nunca pedir nome de template
-- [Estáticos de venda da Black](project_estaticos_venda_black.md) — rodada 1 é a de anúncio; OFF/âncora/'para sempre' são decisão dele; V02, V09, V13 cortados em 24/11
+- [Modelo operacional do Up](up-operating-model.md) — Claude opera a plataforma, usuário aprova; multi-cliente com várias contas por cliente
+- [Jeito de trabalhar do usuário](user-working-style.md) — Claude executa no navegador; credenciais nunca vão para o chat
+- [E-mail do Up e checklist de cliente](up-email-and-client-onboarding.md) — custo zero, Resend (Render bloqueia SMTP), teto diário, checklist de onboarding por cliente
+- [Funcionalidades pedidas ainda faltando](up-requested-features.md) — disparo manual por tag/telefone/e-mail, WhatsApp igual, dashboard de envios/aberturas/bounces
+- [Drive do Pedro Sachet](up-drive-pedro-sachet.md) — árvore nova (id da raiz), pasta antiga de referência, produtos reais
+- [Modelo de tags e regras por produto](up-tag-model.md) — grafia morfoguide/morfologic, regras de compra/reembolso, IDs Hotmart, importação de 3.668 contatos
+- [Conversa do Up e agentes/skills](up-chat-agents.md) — qual conversa usa qual skill do usuário (diretor, copywriter, design, vídeo, tráfego)
+- [E-mails do FullFunnel replicados no Up](up-email-flows-from-fullfunnel.md) — 4 rascunhos desligados, esperas/tags, espera de 0 min no híbrido, ligar só ao desligar o FullFunnel
+- [Domínio e app Meta do Up](up-domain-and-meta-app.md) — app.upcoproducoes.com.br no Cloudflare, app Meta id 1402503241511899, o que falta para comentários/DM
+- [Webhooks e identidade visual do Up](up-webhooks-and-visual-identity.md) — paleta do foguete, webhooks entrada/saída com proteção SSRF, pedido de integrar WordPress
+- [Pendências do Up e fluxo de conteúdo social](up-backlog-and-social-flow.md) — backlog do app no projeto Up (só do dono), do expert no projeto dele; fluxo criar→design→aprovação do Pedro→agendar
+- [Modelo de acesso do Up](up-access-model.md) — só o dono usa chave; todos os outros e-mail e senha; Claude opera por eles
+- [IA em tempo real e chave do assinante](up-ai-realtime-and-keys.md) — sem rotinas, chave própria + escolha de modelo, anexos, aprendizado dos agentes
+- [Fluxo de mensagens e sincronia dos agentes](up-message-flow-and-agent-sync.md) — fluxo em Automações; skills→agentes do Up depois; agente de conteúdo por último
+- [Kit documental padrão](up-standard-doc-kit.md) — documentos por produto/lançamento/funil, redundâncias, token fora do Drive
+- [Quem aprova o quê no Up](up-approval-roles.md) — expert só conteúdo; criativos só dono e equipe; imagem gerada dentro do fluxo do agente
+- [Responder em português](respond-in-portuguese.md) — todo texto para o usuário em português, inclusive avisos de progresso
+- [Pastas por projeto do Up](up-project-folders.md) — CLAUDE.md + up.cjs + .env por cliente, comandos e rotinas de 30 min
+- [Ordem de construção 16/10](up-build-order-oct16.md) — Drive → R2 imagens/PDFs → páginas (visualizador, editor, versões) → design → vídeo → Camila
+- [Entregar no chat primeiro](deliver-in-chat-first.md) — copies/documentos vêm na conversa; só vão para o Up quando o Anderson mandar
+- [Agente de Design completo](design-agent-complete.md) — skill agente-design + revisor-design aqui, briefing obrigatório, Pacote do Copy, atualizar via GitHub só a pedido
+- [Link com UTM vai em botão](link-com-utm-vai-em-botao.md) — link longo em direct/WhatsApp/e-mail sempre num botão; solto só se for encurtado e o Anderson avisar
+- [HD mínimo, Drive como base](hd-minimo-drive-como-base.md) — pesados vão para a Lixeira depois de conferidos no Drive; nunca apagar de vez
+- [Preço em 12x em destaque](preco-12x-em-destaque.md) — página de vendas: 12x da Hotmart em destaque, à vista menor, parcela lida no checkout
+- [WhatsApp utility, sem VIP, saudação simples](whatsapp-utility-e-saudacao.md) — só modelos utility com 'Ver detalhes'; matrículas às 7h para todos; sem 'aqui é da equipe do Pedro'
+- [Black é evento de oferta](black-e-evento-de-oferta.md) — captação vende a oferta desde o 1º segundo; núcleo da oferta em toda peça; live com 20-30 min de conteúdo
+- [Tarefa com vínculo no Up](up-task-links.md) — tarefa que pede automação/regra/post/disparo/página/criativo nasce com links; quadro anda sozinho
+- [Quem volta passa de novo](automacao-quem-volta-passa-de-novo.md) — inscrição/compra repetida dispara boas-vindas e compra de novo; reentry once só se pedido
+- [Mensagem com quebra de linha](mensagem-com-quebra-de-linha.md) — direct e WhatsApp chegam com Enter e linha em branco como escritos
+- [Vale para todos os projetos](vale-para-todos-os-projetos.md) — ajuste feito no Pedro também vai para a Bia (dado/configuração), conferir os dois
+- [FullFunnel encerrado](fullfunnel-encerrado.md) — desde 12/11 tudo roda só no Up; anotações sobre o FullFunnel são só histórico
+- [Camila (recuperação de vendas)](camila-recuperacao.md) — uma só para todos os projetos; v1 carrinho abandonado; depois inscritos sem compra; abertura só com utility
+- [Custo da Meta no WhatsApp](up-custo-meta-whatsapp.md) — custo bloqueado ao parceiro; estimativa bate; rotina mensal: lançar cobranças reais em meta_payments (sem token por cliente)
+- [Páginas da Bia e o porteiro](bia-paginas-porteiro.md) — porteiro-up com rotas gerais no domínio dela (20/11): publicar no Up já põe no ar, igual ao Pedro
+- [Skills de Instagram (ig-*)](instagram-agent-skill.md) — instaladas 23/11, usadas nas rotinas de sugestões do Pedro e da Bia; dados na pasta instagram/ de cada projeto
+- [Rastreio sem GTM](rastreio-sem-gtm.md) — páginas do Up levam pixel, Dashfácil e UTM→checkout no HTML; o Up não injeta nada
