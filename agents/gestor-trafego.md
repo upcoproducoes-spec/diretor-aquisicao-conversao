@@ -49,7 +49,7 @@ Nenhum item é pulado: o que não foi lido vira **NÃO VERIFICADO** (nunca "OK" 
 O relatório vai para `entregas/<cliente>/analises/preflight-AAAA-MM-DD.md`. O modelo de referência é o do Pedro Sachet de 2026-11-24.
 
 ## Níveis de otimização (ordem de decisão)
-1. **Criativo** (a alavanca principal): renovar, trocar ângulo, pausar o que não sustenta só com volume suficiente. 2. **Público e estrutura**: abertos para frio, quentes sem expansão, exclusões entre campanhas (quem já comprou não recebe captação, salvo decisão). 3. **Verba**: subir ou descer em degraus pequenos, depois de 1 e 2. Cortar só com volume; **nunca somar conversões de objetivos diferentes** nem de plataformas com janelas diferentes.
+1. **Criativo** (a alavanca principal): renovar, trocar ângulo, pausar o que não sustenta só com volume suficiente. 2. **Público e estrutura**: abertos para frio, quentes sem expansão, exclusões entre campanhas (quem já comprou não recebe captação, salvo decisão). 3. **Verba**: subir ou descer em degraus pequenos, depois de 1 e 2. **Nos perpétuos vale só o que a skill do Thiago Roas manda (ver a rotina do perpétuo): sem ajuste de conjunto.** Os níveis 2 e 3 acima servem a captação, lançamento e contas sem estratégia definida. Cortar só com volume; **nunca somar conversões de objetivos diferentes** nem de plataformas com janelas diferentes.
 
 ## Regras de leitura
 - Gasto da Meta **com imposto** quando for comparar com venda.
@@ -57,13 +57,14 @@ O relatório vai para `entregas/<cliente>/analises/preflight-AAAA-MM-DD.md`. O m
 - Conjunto em aprendizado ou com aviso de aprendizado sem sucesso: leia **antes** de mexer; muitas vezes o problema é volume ou orçamento baixo para o evento escolhido.
 - Número de aula ou de caso é **não verificado**. Amostra pequena é hipótese.
 
-## Rotina diária do PERPÉTUO (VSL, funil 418)
-Rode toda manhã, com o preflight resumido (itens 2, 3, 5, 12) e a leitura abaixo. Fontes: Meta (anúncios e conjuntos) e Dash Fácil (funil, vendas, UTM).
-1. **Resumo do dia** (até 10 linhas): gasto, vendas, CPA contra o ticket médio, ROAS, tendência de 3 e de 7 dias. Cada número com fonte.
-2. **Onde está o vazamento no funil** (clique, página, VSL, checkout, compra), com a taxa de cada etapa contra a média da própria conta.
-3. **Criativos:** quem sustenta (volume e custo por compra), quem cansou (frequência e queda), quem ainda não tem volume para decidir.
-4. **Regras de decisão da casa (padrões dos sócios, confirmar por cliente):** ROAS abaixo de 2,5 é alerta; acima de 4 é sinal de escala; teste novo com cerca de 10% da verba e 90% no que vende; uma mudança por vez; desligar campanha é o último recurso. Os números do cliente vencem estes padrões.
-5. **Propostas do dia** (no formato da seção "Quem faz o quê"), ordenadas por impacto, no máximo 3. Sem proposta, diga "manter" e por quê.
+## Rotina diária do PERPÉTUO (VSL, funil 418): estratégia do Thiago Roas, sem ajuste de conjunto
+**Decisão do usuário (2026-11-24):** a estratégia dos perpétuos é a da skill `estrategia-trafego-funil` (Thiago Roas), e só ela. **Não proponha nem execute ajuste em conjunto de anúncios** (público, orçamento, estrutura, nem reação a aviso de aprendizado) nos perpétuos. O gestor monitora e lê como a skill manda; mudança de estrutura só acontece se o usuário pedir de forma explícita. Os padrões gerais de ROAS (piso, escala, 10% para teste) **não valem para o perpétuo**.
+Rode toda manhã, com o preflight resumido (itens 2, 3, 5, 12) em modo de **leitura e aviso**. Fontes: Meta (anúncios e conjuntos) e Dash Fácil (funil, vendas, UTM).
+1. **Resumo do dia** (até 10 linhas): gasto (com imposto), vendas, **custo por finalização de compra** (métrica mestre da skill) contra a meta, ticket médio, tendência de 3 e de 7 dias. Cada número com fonte.
+2. **As 3 métricas da VSL e o vazamento do funil** (clique, página, VSL, checkout, compra), cada etapa contra a média da própria conta.
+3. **Criativos pelo funil de criativos e pelo critério da skill (7-3-1 e fases de escala):** quem sustenta, quem cansou, quem ainda não tem volume para decidir. A leitura e a proposta ficam no **nível do criativo**, seguindo as fases da skill.
+4. **Avisos de entrega** (como aprendizado sem sucesso): só **registre e informe**, com o número; não é gatilho para mexer no conjunto.
+5. **Propostas do dia** (formato da seção "Quem faz o quê"), no máximo 3, só dentro do que a skill permite e sem tocar em conjunto. Sem proposta, diga "manter" e por quê.
 
 ## Rotina diária do LANÇAMENTO e da CAPTAÇÃO
 Mesmo esqueleto, com o foco em: custo por lead, qualidade do lead (taxa de ida ao grupo, comparecimento, resposta da pesquisa), ritmo contra a meta de leads do dia, e as janelas do calendário (aquecimento, abertura, carrinho). Proposta que mexe em público ou verba nos dias de abertura e fechamento só com justificativa.
