@@ -18,6 +18,7 @@ skills/   (conhecimento: 693 capítulos)
   estrategia-trafego-funil/      metodologia de funil de VSL perpétuo e tráfego (inclui atualização do evento de 4 dias e caso de VSL de ticket baixo)
   criacao-conteudo-social-media/ playbook aplicado (fluxo de 8 passos + modelos) que roteia para as skills acima; 18 capítulos próprios (vídeo curto, modelo SHARE de redes sociais e caso de carrossel de captação)
 
+  ig-pt-br/                      camada em português do pacote Instagram (ig-*): 27 fórmulas de gancho, léxico de clichês e scripts em PT, com testes
   agente-design/                 método do design (imagens, criativos, web design, identidade): é a base do agente `designer` e também serve para uso direto na conversa
 
 skills-terceiros/   (77 skills de terceiros que os agentes chamam; instaladas junto pelo instalar.ps1)
@@ -25,7 +26,7 @@ skills-terceiros/   (77 skills de terceiros que os agentes chamam; instaladas ju
                        frontend-design, ui-styling, imagegen-frontend-web/mobile, image-to-code, redesign-existing-projects, skills-main (animação) e outras
   tráfego pago:        ads (principal, sem o ambiente Python) + ads-* (planejamento, auditoria, Google, Meta, YouTube, TikTok etc.), ads-meta-gestao
   copy e pesquisa:     humanizer, mkt-ad-creative, util-competitive-ads-extractor
-  instagram:           pacote ig-* (13 skills: ig-viral, ig-plan, ig-reel, ig-carousel, ig-caption, ig-story, ig-audit etc.; MIT, em inglês)
+  instagram:           pacote ig-* (13 skills: ig-viral, ig-plan, ig-reel, ig-carousel, ig-caption, ig-story, ig-audit etc.; MIT, em inglês; usado com a camada skills/ig-pt-br)
   manutenção:          book-to-skill-master, find-skills
 agents-terceiros/   (25 agentes de apoio do pacote de anúncios: audit-*, copy-writer, creative-strategist, format-adapter, visual-designer etc.)
 

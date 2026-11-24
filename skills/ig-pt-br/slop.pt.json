@@ -1,0 +1,723 @@
+{
+  "version": "pt-1.0",
+  "note": "Léxico em português do Brasil para humanize_pt.py e detect_pt.py. As seções invisible e typographic são copiadas do pacote original (não dependem de idioma). Frases e palavras só trocam o que é seguro trocar (expressões fixas, sem gênero nem número); o resto vai em structures, que só SINALIZA. Cada frase tem versão com e sem acento. Pode e deve ser editado: se existe uma expressão que a pessoa sempre usa, tire do arquivo.",
+  "invisible": [
+    {
+      "cp": "U+200B",
+      "name": "ZERO WIDTH SPACE",
+      "action": "delete"
+    },
+    {
+      "cp": "U+200C",
+      "name": "ZERO WIDTH NON-JOINER",
+      "action": "delete"
+    },
+    {
+      "cp": "U+200D",
+      "name": "ZERO WIDTH JOINER",
+      "action": "delete"
+    },
+    {
+      "cp": "U+2060",
+      "name": "WORD JOINER",
+      "action": "delete"
+    },
+    {
+      "cp": "U+FEFF",
+      "name": "ZERO WIDTH NO-BREAK SPACE / BOM",
+      "action": "delete"
+    },
+    {
+      "cp": "U+00AD",
+      "name": "SOFT HYPHEN",
+      "action": "delete"
+    },
+    {
+      "cp": "U+180E",
+      "name": "MONGOLIAN VOWEL SEPARATOR",
+      "action": "delete"
+    },
+    {
+      "cp": "U+061C",
+      "name": "ARABIC LETTER MARK",
+      "action": "delete"
+    },
+    {
+      "cp": "U+200E",
+      "name": "LEFT-TO-RIGHT MARK",
+      "action": "delete"
+    },
+    {
+      "cp": "U+200F",
+      "name": "RIGHT-TO-LEFT MARK",
+      "action": "delete"
+    },
+    {
+      "cp": "U+E0000-U+E007F",
+      "name": "TAG CHARACTERS (invisible ASCII smuggling)",
+      "action": "delete"
+    },
+    {
+      "cp": "U+00A0",
+      "name": "NO-BREAK SPACE",
+      "action": "space"
+    },
+    {
+      "cp": "U+202F",
+      "name": "NARROW NO-BREAK SPACE",
+      "action": "space"
+    },
+    {
+      "cp": "U+2009",
+      "name": "THIN SPACE",
+      "action": "space"
+    },
+    {
+      "cp": "U+2007",
+      "name": "FIGURE SPACE",
+      "action": "space"
+    },
+    {
+      "cp": "U+2003",
+      "name": "EM SPACE",
+      "action": "space"
+    },
+    {
+      "cp": "U+2002",
+      "name": "EN SPACE",
+      "action": "space"
+    },
+    {
+      "cp": "U+2063",
+      "name": "INVISIBLE SEPARATOR",
+      "action": "delete"
+    }
+  ],
+  "typographic": [
+    {
+      "from": "—",
+      "name": "EM DASH",
+      "to": ", "
+    },
+    {
+      "from": "–",
+      "name": "EN DASH",
+      "to": "-"
+    },
+    {
+      "from": "‘",
+      "name": "LEFT SINGLE QUOTE",
+      "to": "'"
+    },
+    {
+      "from": "’",
+      "name": "RIGHT SINGLE QUOTE",
+      "to": "'"
+    },
+    {
+      "from": "“",
+      "name": "LEFT DOUBLE QUOTE",
+      "to": "\""
+    },
+    {
+      "from": "”",
+      "name": "RIGHT DOUBLE QUOTE",
+      "to": "\""
+    },
+    {
+      "from": "…",
+      "name": "HORIZONTAL ELLIPSIS",
+      "to": "..."
+    },
+    {
+      "from": "′",
+      "name": "PRIME",
+      "to": "'"
+    },
+    {
+      "from": "·",
+      "name": "MIDDLE DOT",
+      "to": "-"
+    },
+    {
+      "from": "•",
+      "name": "BULLET",
+      "to": "-"
+    },
+    {
+      "from": "→",
+      "name": "RIGHTWARDS ARROW",
+      "to": "->"
+    }
+  ],
+  "words": [
+    {
+      "find": "basicamente",
+      "replace": "",
+      "family": "enchimento"
+    },
+    {
+      "find": "literalmente",
+      "replace": "",
+      "family": "enchimento"
+    }
+  ],
+  "phrases": [
+    {
+      "find": "neste vídeo eu vou te mostrar",
+      "replace": "",
+      "family": "preâmbulo de vídeo"
+    },
+    {
+      "find": "neste video eu vou te mostrar",
+      "replace": "",
+      "family": "preâmbulo de vídeo"
+    },
+    {
+      "find": "neste vídeo vou te mostrar",
+      "replace": "",
+      "family": "preâmbulo de vídeo"
+    },
+    {
+      "find": "neste video vou te mostrar",
+      "replace": "",
+      "family": "preâmbulo de vídeo"
+    },
+    {
+      "find": "nesse vídeo eu vou te mostrar",
+      "replace": "",
+      "family": "preâmbulo de vídeo"
+    },
+    {
+      "find": "nesse video eu vou te mostrar",
+      "replace": "",
+      "family": "preâmbulo de vídeo"
+    },
+    {
+      "find": "no vídeo de hoje eu vou te mostrar",
+      "replace": "",
+      "family": "preâmbulo de vídeo"
+    },
+    {
+      "find": "no video de hoje eu vou te mostrar",
+      "replace": "",
+      "family": "preâmbulo de vídeo"
+    },
+    {
+      "find": "no vídeo de hoje eu vou",
+      "replace": "",
+      "family": "preâmbulo de vídeo"
+    },
+    {
+      "find": "no video de hoje eu vou",
+      "replace": "",
+      "family": "preâmbulo de vídeo"
+    },
+    {
+      "find": "no vídeo de hoje",
+      "replace": "",
+      "family": "preâmbulo de vídeo"
+    },
+    {
+      "find": "no video de hoje",
+      "replace": "",
+      "family": "preâmbulo de vídeo"
+    },
+    {
+      "find": "hoje eu vou te mostrar",
+      "replace": "",
+      "family": "preâmbulo de vídeo"
+    },
+    {
+      "find": "hoje eu vou falar sobre",
+      "replace": "",
+      "family": "preâmbulo de vídeo"
+    },
+    {
+      "find": "hoje eu vou te ensinar",
+      "replace": "",
+      "family": "preâmbulo de vídeo"
+    },
+    {
+      "find": "fala, pessoal",
+      "replace": "",
+      "family": "saudação"
+    },
+    {
+      "find": "fala pessoal",
+      "replace": "",
+      "family": "saudação"
+    },
+    {
+      "find": "oi, pessoal",
+      "replace": "",
+      "family": "saudação"
+    },
+    {
+      "find": "oi pessoal",
+      "replace": "",
+      "family": "saudação"
+    },
+    {
+      "find": "olá, pessoal",
+      "replace": "",
+      "family": "saudação"
+    },
+    {
+      "find": "ola, pessoal",
+      "replace": "",
+      "family": "saudação"
+    },
+    {
+      "find": "e aí, pessoal",
+      "replace": "",
+      "family": "saudação"
+    },
+    {
+      "find": "e ai, pessoal",
+      "replace": "",
+      "family": "saudação"
+    },
+    {
+      "find": "salve, galera",
+      "replace": "",
+      "family": "saudação"
+    },
+    {
+      "find": "fala, galera",
+      "replace": "",
+      "family": "saudação"
+    },
+    {
+      "find": "oi, gente",
+      "replace": "",
+      "family": "saudação"
+    },
+    {
+      "find": "oi gente",
+      "replace": "",
+      "family": "saudação"
+    },
+    {
+      "find": "fala, gente",
+      "replace": "",
+      "family": "saudação"
+    },
+    {
+      "find": "bom dia, pessoal",
+      "replace": "",
+      "family": "saudação"
+    },
+    {
+      "find": "se você chegou até aqui",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "se voce chegou ate aqui",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "marque alguém que precisa ver isso",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "marque alguem que precisa ver isso",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "marca alguém que precisa ver isso",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "marca alguem que precisa ver isso",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "marque aquele amigo que precisa ver isso",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "marca aquele amigo que precisa ver isso",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "siga para mais conteúdo",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "siga para mais conteudo",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "segue pra mais conteúdo",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "segue pra mais conteudo",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "siga para mais conteúdos como esse",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "siga para mais conteudos como esse",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "segue para mais conteúdo",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "segue para mais conteudo",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "me siga para mais",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "me segue pra mais",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "deixe seu like",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "deixa o seu like",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "deixa seu like",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "deixe o seu like",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "ative o sininho",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "ativa o sininho",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "não esqueça de seguir",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "nao esqueca de seguir",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "não esquece de seguir",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "nao esquece de seguir",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "compartilhe com alguém que precisa",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "compartilhe com alguem que precisa",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "compartilha com alguém que precisa",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "compartilha com alguem que precisa",
+      "replace": "",
+      "family": "isca de engajamento"
+    },
+    {
+      "find": "no mundo digital de hoje",
+      "replace": "hoje",
+      "family": "abertura corporativa"
+    },
+    {
+      "find": "no cenário atual",
+      "replace": "hoje",
+      "family": "abertura corporativa"
+    },
+    {
+      "find": "no cenario atual",
+      "replace": "hoje",
+      "family": "abertura corporativa"
+    },
+    {
+      "find": "na era digital",
+      "replace": "hoje",
+      "family": "abertura corporativa"
+    },
+    {
+      "find": "no mundo acelerado de hoje",
+      "replace": "hoje",
+      "family": "abertura corporativa"
+    },
+    {
+      "find": "em um mundo cada vez mais conectado",
+      "replace": "hoje",
+      "family": "abertura corporativa"
+    },
+    {
+      "find": "num mundo cada vez mais conectado",
+      "replace": "hoje",
+      "family": "abertura corporativa"
+    },
+    {
+      "find": "nos dias de hoje",
+      "replace": "hoje",
+      "family": "abertura corporativa"
+    },
+    {
+      "find": "é importante ressaltar que",
+      "replace": "",
+      "family": "muleta de IA"
+    },
+    {
+      "find": "e importante ressaltar que",
+      "replace": "",
+      "family": "muleta de IA"
+    },
+    {
+      "find": "vale ressaltar que",
+      "replace": "",
+      "family": "muleta de IA"
+    },
+    {
+      "find": "vale destacar que",
+      "replace": "",
+      "family": "muleta de IA"
+    },
+    {
+      "find": "é válido destacar que",
+      "replace": "",
+      "family": "muleta de IA"
+    },
+    {
+      "find": "e valido destacar que",
+      "replace": "",
+      "family": "muleta de IA"
+    },
+    {
+      "find": "é fundamental destacar que",
+      "replace": "",
+      "family": "muleta de IA"
+    },
+    {
+      "find": "e fundamental destacar que",
+      "replace": "",
+      "family": "muleta de IA"
+    },
+    {
+      "find": "cabe ressaltar que",
+      "replace": "",
+      "family": "muleta de IA"
+    },
+    {
+      "find": "é importante destacar que",
+      "replace": "",
+      "family": "muleta de IA"
+    },
+    {
+      "find": "e importante destacar que",
+      "replace": "",
+      "family": "muleta de IA"
+    },
+    {
+      "find": "é importante lembrar que",
+      "replace": "",
+      "family": "muleta de IA"
+    },
+    {
+      "find": "e importante lembrar que",
+      "replace": "",
+      "family": "muleta de IA"
+    },
+    {
+      "find": "é importante salientar que",
+      "replace": "",
+      "family": "muleta de IA"
+    },
+    {
+      "find": "e importante salientar que",
+      "replace": "",
+      "family": "muleta de IA"
+    },
+    {
+      "find": "vale a pena ressaltar que",
+      "replace": "",
+      "family": "muleta de IA"
+    },
+    {
+      "find": "diante do exposto",
+      "replace": "",
+      "family": "muleta de IA"
+    },
+    {
+      "find": "em conclusão",
+      "replace": "",
+      "family": "muleta de IA"
+    },
+    {
+      "find": "em conclusao",
+      "replace": "",
+      "family": "muleta de IA"
+    },
+    {
+      "find": "em suma",
+      "replace": "",
+      "family": "muleta de IA"
+    },
+    {
+      "find": "sem dúvida alguma",
+      "replace": "",
+      "family": "muleta de IA"
+    },
+    {
+      "find": "sem duvida alguma",
+      "replace": "",
+      "family": "muleta de IA"
+    },
+    {
+      "find": "vamos mergulhar fundo",
+      "replace": "vamos ver",
+      "family": "verbo de IA"
+    },
+    {
+      "find": "vamos mergulhar",
+      "replace": "vamos ver",
+      "family": "verbo de IA"
+    },
+    {
+      "find": "mergulhar fundo em",
+      "replace": "olhar",
+      "family": "verbo de IA"
+    }
+  ],
+  "structures": [
+    {
+      "id": "nao-so",
+      "regex": "(?i)\\bn[aã]o [eé] (?:s[oó]|apenas|somente) [^.!?\\n]{2,60}[,.] (?:[eé]|mas)\\b",
+      "name": "Estrutura \"não é só X, é Y\"",
+      "fix": "Diga a coisa que você realmente quer dizer. Apague a metade de preparação."
+    },
+    {
+      "id": "nao-apenas-mas",
+      "regex": "(?i)\\bn[aã]o apenas [^.!?\\n]{2,60}, mas tamb[eé]m\\b",
+      "name": "Estrutura \"não apenas X, mas também Y\"",
+      "fix": "Escolha o X ou o Y. Quem fala não monta frase de redação."
+    },
+    {
+      "id": "mais-do-que",
+      "regex": "(?i)\\bmais do que (?:apenas |s[oó] |somente )?[^.!?\\n]{2,50}, [eé] \\b",
+      "name": "Estrutura \"mais do que X, é Y\"",
+      "fix": "Vá direto ao Y."
+    },
+    {
+      "id": "preambulo",
+      "regex": "(?i)\\b(?:neste|nesse|no) v[ií]deo\\b|\\bv[ií]deo de hoje\\b|\\bhoje (?:eu )?(?:vou|vamos|quero)\\b",
+      "name": "Preâmbulo de vídeo",
+      "fix": "Apague e abra no ganho: o vídeo começa na frase do segundo seis."
+    },
+    {
+      "id": "saudacao",
+      "regex": "(?im)^\\s*(?:oi|ol[aá]|e a[ií]|fala|salve|bom dia|boa tarde|boa noite)\\b[^.!?\\n]{0,25}(?:pessoal|galera|gente|amigos?|queridos?)",
+      "name": "Saudação de abertura",
+      "fix": "Ninguém abriu o feed para ser cumprimentado."
+    },
+    {
+      "id": "isca-seguir",
+      "regex": "(?i)\\b(?:segue|siga|me segue|me siga)\\b[^.!?\\n]{0,30}\\b(?:mais|conte[uú]dos?|dicas)\\b",
+      "name": "Isca de seguir por reflexo",
+      "fix": "Peça uma coisa só, com motivo: salvar, comentar a palavra ou seguir porque haverá parte 2."
+    },
+    {
+      "id": "isca-marcar",
+      "regex": "(?i)\\bmarc(?:a|que|ar)\\b[^.!?\\n]{0,30}\\b(?:amigo|amiga|alguem|alguém|aquele|aquela|pessoa)\\b",
+      "name": "Isca de marcar alguém",
+      "fix": "Troque por um pedido que a pessoa faria sozinha."
+    },
+    {
+      "id": "sabia-que",
+      "regex": "(?im)^\\s*voc[eê] (?:j[aá] )?(?:sabia|percebeu|parou pra pensar)\\b",
+      "name": "Abertura \"você sabia que\"",
+      "fix": "Pergunta retórica no começo vira conversa de palestra. Diga o fato."
+    },
+    {
+      "id": "vocabulario-ia",
+      "regex": "(?i)\\b(?:alavanc\\w+|potencializ\\w+|transformador\\w*|revolucion\\w+|holistic\\w+|robust\\w+|sinergia|ecossistema|paradigma|resilient\\w+|disruptiv\\w+|desbloque\\w+|jornada)\\b",
+      "name": "Vocabulário típico de texto de IA",
+      "fix": "Troque por a palavra que você usaria no WhatsApp (sem trocar de forma automática: gênero e número mudam)."
+    },
+    {
+      "id": "mundo-cada-vez",
+      "regex": "(?i)\\bem um mundo (?:cada vez mais|onde)\\b",
+      "name": "Abertura de mundo cada vez mais...",
+      "fix": "Comece pelo assunto."
+    },
+    {
+      "id": "fecho-resumo",
+      "regex": "(?im)^\\s*(?:em (?:resumo|conclus[aã]o)|portanto|dessa forma)\\b",
+      "name": "Fecho de redação (em resumo, portanto)",
+      "fix": "Termine na ação ou no último fato, não numa recapitulação."
+    },
+    {
+      "id": "parede-hashtag",
+      "regex": "(?:#\\w+\\s+){6,}",
+      "name": "Parede de hashtags",
+      "fix": "Poucas e específicas, no fim da legenda."
+    },
+    {
+      "id": "emoji-lista",
+      "regex": "(?m)^\\s*[\\U0001F300-\\U0001FAFF✅❌➡✔👉]\\s",
+      "name": "Lista com emoji como marcador",
+      "fix": "Escreva em frases, como se falasse."
+    },
+    {
+      "id": "tres-gritadas",
+      "regex": "\\b[A-ZÁÉÍÓÚÂÊÔÃÕÇ]{3,}\\b(?:\\s+[A-ZÁÉÍÓÚÂÊÔÃÕÇ]{3,}\\b){2,}",
+      "name": "Três palavras gritadas em sequência",
+      "fix": "Na legenda, caixa alta em trecho longo vira ruído. Na tela do vídeo é outra conta."
+    }
+  ]
+}

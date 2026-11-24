@@ -109,6 +109,22 @@ Mensagem-base (SB7, one-liner, site): `copywriting-publicidade` ch223-ch227; fun
 
 **Pontos de divergência a registrar quando relevante:** esta série põe a oferta no **meio** do vídeo orgânico e o fechamento no direct/WhatsApp; o Roas trabalha anúncio pago com funil de VSL e o professor Filemon diz que conteúdo não é para vender (ch160 da copy). Escolha pelo objetivo e canal.
 
+## Instagram: pacote `ig-*` e camada em português (`ig-pt-br`)
+
+Para **executar no Instagram**, esta skill se apoia no pacote `instagram-agent-skill` (13 skills `ig-*`, licença MIT, em `~/.claude/skills/`) e na camada `ig-pt-br` (fórmulas, léxico e scripts em português; os originais erram em português). O pacote é o método de execução e não substitui o fluxo acima: aparece em cada passo assim.
+
+| Passo | O que o pacote acrescenta |
+|---|---|
+| 1. Entender o público | `ig-viral` (o que funciona no nicho, ranqueado pelo múltiplo sobre a mediana da conta, mensal), `ig-audit` (o que funcionou na própria conta), `ig-profile` (o perfil como tela de decisão); comentários e caixinhas de pergunta como fonte da linguagem do público (`ig-story`, `ig-reply`) |
+| 2. Estratégia e calendário | `ig-plan` (mistura de prova, ensino, opinião, história e oferta; rodada diária de engajamento), **amarrado ao calendário da oferta** (captação, live, carrinho: `marketing-digital-growth` ch117) |
+| 4. Formato | `ig-reel`, `ig-carousel`, `ig-story`, `ig-repurpose` (uma live ou aula vira uma semana) |
+| 5. Gancho | 26 fórmulas (27 em português) e `hookscore_pt`: barra gancho fraco, não escolhe vencedor |
+| 6. Corpo | `beats_pt` (tempo por batida, laço com o gancho) |
+| 7. CTA | `ig-caption` (primeira linha, um pedido), `ig-dm` e `ig-reply` (entrega da palavra-chave primeiro, só para quem agiu primeiro) |
+| 8. Teste e iteração | `log.md` por peça e `ig-audit` mensal: a conta do cliente é a única evidência de verdade |
+
+**Estado por cliente:** `<pasta do cliente>/instagram/voice.md`, `swipe.md`, `log.md`, `plan.md`. **Limites e como ler as notas:** `ig-pt-br/SKILL.md`. A pesquisa, a auditoria e o perfil dependem do navegador e dos insights do usuário e rodam na conversa principal, nunca dentro de um agente isolado. Nada é postado ou enviado pelo pacote.
+
 ## Entregáveis padrão
 Veja `templates.md` para os modelos de **calendário editorial**, **roteiro de vídeo curto**, **carrossel**, **sequência de stories**, **legenda**, **plano de teste** e **checklist de revisão**.
 
