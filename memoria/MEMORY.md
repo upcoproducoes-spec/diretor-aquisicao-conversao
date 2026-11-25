@@ -35,6 +35,6 @@
 - [Skills de Instagram (ig-*)](instagram-agent-skill.md) — instaladas 23/11, usadas nas rotinas de sugestões do Pedro e da Bia; dados na pasta instagram/ de cada projeto
 - [Rastreio sem GTM](rastreio-sem-gtm.md) — páginas do Up levam pixel, Dashfácil e UTM→checkout no HTML; o Up não injeta nada
 - [Prompt de novidades do Up](prompt-de-novidades-do-up.md) — ao fechar cada atualização do Up, entregar um prompt para colar nas outras sessões
-- [Decisões da aba Tráfego](up-aba-trafego-decisoes.md) — total da venda, CPA Black Pedro R$300, morfoguide 25-30% do ticket, presença = número do YouTube
+- [Decisões da aba Tráfego](up-aba-trafego-decisoes.md) — CPA Black R$300, morfoguide 25-30%; leva 2: rotina diária sugere, aceite na tela, rotina aplica pelo conector; Conectar com Facebook p/ números ao vivo
 - [Migração do Up é manual](up-migracao-manual.md) — o Render não aplica migrações: depois do push, npm run db:migrate e abrir a tela no ar
 - [Verificador de aluno](verificador-de-aluno.md) — 'Sou aluno' passa quem tem tag -compra-aprovada; 61 compradores antigos completados em 24/11 (source hotmart-historico)
