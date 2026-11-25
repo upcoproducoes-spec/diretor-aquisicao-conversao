@@ -5,7 +5,7 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: fbd7c86b-ed6c-4a5c-a793-88daa6198b6c
-  modified: 2026-11-24T20:04:31.792Z
+  modified: 2026-11-25T15:07:10.935Z
 ---
 
 Aba **Tráfego** do Up (leva 1, 24/11/2026), em Canais > Tráfego, só para o dono.
@@ -28,6 +28,11 @@ Aba **Tráfego** do Up (leva 1, 24/11/2026), em Canais > Tráfego, só para o do
   - `node up.cjs trafego` lista as frentes;
   - `node up.cjs trafego "<nome>" [1|3|7|fase]` gera o relatório.
 - **Situação em 24/11:** `trafego` deu "Erro 500" porque ainda faltava conectar o token do Meta e criar as frentes.
+- **Conversão de moeda (25/11):**
+  - vendas da Hotmart em outra moeda são convertidas para a moeda da frente (BRL) e entram em vendas, faturamento, ticket, CPA e alvo;
+  - fontes, em ordem: PTAX do dia (Banco Central), referência do Banco Central Europeu e, para moedas que os dois não têm (DOP, PEN, CRC, PAB...), a ExchangeRate-API;
+  - o relatório traz `totals.converted` (moeda, quantidade, valor original, fonte), e as notas explicam a conversão.
+  - **Funil ES:** as vendas chegam em várias moedas latino-americanas, não em dólar. Use os números convertidos do Up para CPA e alvo, e diga no resumo quantas vendas foram convertidas.
 - **Limite:** o Up só LÊ o Meta. Ligar, pausar, mudar verba ou excluir continua pelo Gerenciador ou pelo conector na conversa principal, com pedido ou aprovação do Anderson para aquela ação naquele dia.
 - **Leva 2 (ainda não feita):**
   - quebra por conjunto e anúncio;
