@@ -38,3 +38,4 @@
 - [Decisões da aba Tráfego](up-aba-trafego-decisoes.md) — CPA Black R$300, morfoguide 25-30%; leva 2: rotina diária sugere, aceite na tela, rotina aplica pelo conector; Conectar com Facebook p/ números ao vivo
 - [Migração do Up é manual](up-migracao-manual.md) — o Render não aplica migrações: depois do push, npm run db:migrate e abrir a tela no ar
 - [Verificador de aluno](verificador-de-aluno.md) — 'Sou aluno' passa quem tem tag -compra-aprovada; 61 compradores antigos completados em 24/11 (source hotmart-historico)
+- [Período personalizado sempre](periodo-personalizado-sempre.md) — toda tela com período tem 'Personalizado' (de / até); usar period-picker.js e date-window.ts
