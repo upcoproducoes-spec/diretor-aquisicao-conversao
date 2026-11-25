@@ -14,19 +14,20 @@ A rotina deve rodar sozinha, sem parar para perguntar: não peça confirmação 
 ## Modo ANÁLISE (só lê e sugere; nunca muda nada na conta)
 
 1. **Contexto:** leia o CLAUDE.md da pasta, a memória do projeto e os documentos de tráfego que a rotina listar (planos, registro de decisões, inclusive o que o Anderson mandou NÃO propor de novo).
-2. **Frentes:** `node up.cjs trafego` lista as frentes do projeto. Cada uma tem filtro de nome de campanha, produtos, moeda e CPA alvo (fixo ou % do ticket). Para os números do Up de uma janela: `node up.cjs trafego "<frente>" 7` (ou 1, 3, fase).
-3. **Ler (só leitura):**
+2. **O que já foi aceito:** rode `node up.cjs trafego-fila`. Itens aceitos que ainda não foram aplicados (o Anderson aceita a qualquer hora; a rotina de aplicar roda às 9h) valem como decididos: não sugira nada no mesmo objeto (nem repetido, nem o contrário) e cite no resumo da frente ("aceita em dd/mm, aplica às 9h").
+3. **Frentes:** `node up.cjs trafego` lista as frentes do projeto. Cada uma tem filtro de nome de campanha, produtos, moeda e CPA alvo (fixo ou % do ticket). Para os números do Up de uma janela: `node up.cjs trafego "<frente>" 7` (ou 1, 3, fase).
+4. **Ler (só leitura):**
    - **Meta Ads** (conector): campanhas, conjuntos e anúncios ativos da frente, com gasto, resultados, CPA, CTR, CPM, frequência, orçamento diário, aprendizado e entrega. Janelas: hoje, 3 e 7 dias.
    - **Dashfácil** (conector): vendas atribuídas por campanha e criativo e UTM no período.
    - **Hotmart**: vendas reais e reembolsos dos produtos da frente (o Up já soma isso no relatório da frente, convertendo outras moedas). Se o conector não enxergar os produtos, use o número do Up e diga isso.
    - **vturb** (conector), nos funis com VSL: play, retenção, quantos chegam ao pitch, cliques no botão.
    Compare as fontes, diga onde divergem e qual número usou. Nunca invente número; fonte que falhar, diga qual e siga.
-4. **Decidir** com a skill de método. Regras fixas, valem para qualquer método:
+5. **Decidir** com a skill de método. Regras fixas, valem para qualquer método:
    - Uma sugestão por objeto (campanha, conjunto ou anúncio), com o ID do Meta.
    - Ações que a rotina de aplicar executa: `pause`, `activate`, `budget` (orçamento diário novo, no máximo +20% por vez em quem está dentro do alvo). Qualquer outra coisa (criativo novo, público, página, VSL) vai como `outro` e fica para a conversa.
    - Com poucos dados (menos de 2× o CPA alvo gasto), não force sugestão: escreva "esperar" no resumo, com o motivo e a data em que volta a julgar.
    - Nunca proponha excluir. Não sugira mexer num objeto que teve mudança aplicada hoje. Não repita o que o Anderson já decidiu não fazer.
-5. **Publicar, uma vez por frente**, mesmo sem sugestões (o resumo aparece na aba e diz por que não há sugestão):
+6. **Publicar, uma vez por frente**, mesmo sem sugestões (o resumo aparece na aba e diz por que não há sugestão):
    - Escreva o JSON num arquivo na pasta temporária do sistema e rode `node up.cjs trafego-analise <arquivo.json>`.
    - Formato:
      ```json
@@ -37,7 +38,7 @@ A rotina deve rodar sozinha, sem parar para perguntar: não peça confirmação 
      ```
    - `resumo`: como o gestor entrega na conversa: gasto, vendas reais, faturamento, ticket, CPA real × alvo, MER; o que funciona e o que não; o gargalo; o plano para escalar. Se não houver sugestão, a última frase diz por quê ("Nenhuma sugestão hoje: …").
    - Publicar de novo a mesma frente substitui as sugestões pendentes dela (as antigas viram "expirada").
-6. No fim, uma linha por frente: CPA real × alvo e quantas sugestões publicou (a saída do `trafego-analise` diz quantas gravou).
+7. No fim, uma linha por frente: CPA real × alvo e quantas sugestões publicou (a saída do `trafego-analise` diz quantas gravou).
 
 ## Modo APLICAR (só o que o Anderson aceitou na aba)
 
@@ -45,7 +46,7 @@ O clique em "Aceitar" na aba Tráfego é a aprovação do Anderson para aquela a
 
 1. `node up.cjs trafego-fila`. Se disser "Nada a aplicar.", termine.
 2. Para cada item, na ordem:
-   a. **Validade do aceite:** vale o que a rotina indicar na linha "Validade do aceite". Item fora da validade: `node up.cjs trafego-resultado <id> failed "aceite fora da validade; a próxima análise sugere de novo se ainda fizer sentido"`.
+   a. **Validade do aceite:** o aceite vale a qualquer hora: tudo o que está na fila é aplicado nesta rodada (salvo se a rotina indicar outra regra na linha "Validade do aceite"). Quem protege contra aceite velho é a conferência do passo b.
    b. **Conferir antes** no conector do Meta, pelo ID (status e orçamento diário). Se não estiver como a sugestão supõe (já pausado, orçamento diferente do "orçamento atual", objeto não encontrado), não aplique: `failed` com o que encontrou.
    c. **Aplicar:** `pause` → PAUSED; `activate` → ACTIVE; `budget` → orçamento diário = orçamento novo (atenção à unidade que o conector pede, em geral centavos). Só esse campo, nesse objeto.
    d. **Desfazer** (itens DESFAZER): volta ao valor anterior (pause → ACTIVE; activate → PAUSED; budget → orçamento atual da sugestão), conferindo antes que o objeto ainda está com o valor que a rotina aplicou.
