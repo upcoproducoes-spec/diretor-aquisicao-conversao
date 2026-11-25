@@ -37,3 +37,4 @@
 - [Prompt de novidades do Up](prompt-de-novidades-do-up.md) — ao fechar cada atualização do Up, entregar um prompt para colar nas outras sessões
 - [Decisões da aba Tráfego](up-aba-trafego-decisoes.md) — total da venda, CPA Black Pedro R$300, morfoguide 25-30% do ticket, presença = número do YouTube
 - [Migração do Up é manual](up-migracao-manual.md) — o Render não aplica migrações: depois do push, npm run db:migrate e abrir a tela no ar
+- [Verificador de aluno](verificador-de-aluno.md) — 'Sou aluno' passa quem tem tag -compra-aprovada; 61 compradores antigos completados em 24/11 (source hotmart-historico)
