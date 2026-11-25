@@ -21,13 +21,13 @@ Aba **Tráfego** do Up (leva 1, 24/11/2026), em Canais > Tráfego, só para o do
 - **Decisões do Anderson (24/11):**
   - faturamento = total da venda, não a parte da coprodução;
   - **CPA alvo da Black do Pedro: R$ 300**;
-  - morfoguide BR e ES: CPA alvo de 25% do ticket, com alerta acima de 30%;
+  - morfoguide BR e ES: CPA alvo de 25% do ticket, com alerta acima de 30% (em 25/11 o alvo das regras de corte passou a 30% do ticket; ver [[feedback-limite-perda-rotacao]]);
   - presença na live = só o comparecimento do YouTube;
   - **Dash Fácil segue como conferência**.
 - **Comandos (só leitura):**
   - `node up.cjs trafego` lista as frentes;
   - `node up.cjs trafego "<nome>" [1|3|7|fase]` gera o relatório.
-- **Situação em 24/11:** `trafego` deu "Erro 500" porque ainda faltava conectar o token do Meta e criar as frentes.
+- **Situação:** em 24/11 `trafego` dava "Erro 500"; em 25/11 já funciona, com as frentes Black, Funil BR e Funil ES. Limite visto em 25/11: a ligação de vendas por src/sck veio 0 em todas as campanhas (o alerta "gasto sem venda" não vale), então a venda por anúncio vem da Dash. A análise diária é publicada com `trafego-analise` pela skill `up-trafego`.
 - **Conversão de moeda (25/11):**
   - vendas da Hotmart em outra moeda são convertidas para a moeda da frente (BRL) e entram em vendas, faturamento, ticket, CPA e alvo;
   - fontes, em ordem: PTAX do dia (Banco Central), referência do Banco Central Europeu e, para moedas que os dois não têm (DOP, PEN, CRC, PAB...), a ExchangeRate-API;
