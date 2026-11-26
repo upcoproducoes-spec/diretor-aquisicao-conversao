@@ -20,7 +20,7 @@ Aba **Tráfego** do Up (leva 1, 24/11/2026), em Canais > Tráfego, só para o do
   Mostra também metas, campanhas com venda ligada por src/sck, conferência Hotmart x pixel e alertas.
 - **Decisões do Anderson (24/11):**
   - faturamento = total da venda, não a parte da coprodução;
-  - **CPA alvo da Black do Pedro: R$ 300**;
+  - **CPA alvo da Black do Pedro: R$ 300** (em 26/11 confirmado também para a fase 2 do carrinho, no lugar dos R$ 499 do plano de 18/11);
   - morfoguide BR e ES: CPA alvo de 25% do ticket, com alerta acima de 30% (em 25/11 o alvo das regras de corte passou a 30% do ticket; ver [[feedback-limite-perda-rotacao]]);
   - presença na live = só o comparecimento do YouTube;
   - **Dash Fácil segue como conferência**.
