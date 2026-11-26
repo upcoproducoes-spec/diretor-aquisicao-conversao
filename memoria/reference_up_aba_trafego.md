@@ -33,6 +33,11 @@ Aba **Tráfego** do Up (leva 1, 24/11/2026), em Canais > Tráfego, só para o do
   - fontes, em ordem: PTAX do dia (Banco Central), referência do Banco Central Europeu e, para moedas que os dois não têm (DOP, PEN, CRC, PAB...), a ExchangeRate-API;
   - o relatório traz `totals.converted` (moeda, quantidade, valor original, fonte), e as notas explicam a conversão.
   - **Funil ES:** as vendas chegam em várias moedas latino-americanas, não em dólar. Use os números convertidos do Up para CPA e alvo, e diga no resumo quantas vendas foram convertidas.
+- **Leva 2 entregue (26/11):**
+  - a aba tem gráficos;
+  - **venda conta por comprador do produto principal** e o **gasto inclui o imposto**;
+  - cada frente precisa que o Anderson marque o **papel de cada produto** (principal, upsell, order bump...) e a **% de imposto**: pedir a ele quando faltar;
+  - no `trafego-analise`, mandar também o bloco `"vsl"` com os números do vturb por dia (e por versão do lead), no formato da skill `up-trafego`.
 - **Limite:** o Up só LÊ o Meta. Ligar, pausar, mudar verba ou excluir continua pelo Gerenciador ou pelo conector na conversa principal, com pedido ou aprovação do Anderson para aquela ação naquele dia.
 - **Leva 2 (ainda não feita):**
   - quebra por conjunto e anúncio;
