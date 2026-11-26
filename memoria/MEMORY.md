@@ -41,5 +41,6 @@
 - [Período personalizado sempre](periodo-personalizado-sempre.md) — toda tela com período tem 'Personalizado' (de / até); usar period-picker.js e date-window.ts
 - [Campanhas em Configurações](up-campanhas-configuracoes.md) — criar/excluir/ligar páginas em Configurações → Campanhas; topo só seleciona; agente não cria campanha sozinho
 - [Links curtos do Up](up-links-curtos.md) — 302 no domínio do expert, porteiro novo no Pedro e na Bia, 5 páginas do Pedro convertidas (26/11)
-- [Produção semanal de conteúdo e IA de comentários](up-producao-conteudo.md) — seg 10h/10h15 produz só o que foi escolhido em Quero produzir; IA de comentários por botão
+- [Produção de conteúdo e IA de comentários](up-producao-conteudo.md) — painel de produção no Up; rotina diária 10h/10h15 só com fila; IA de comentários por botão
 - [Neon no plano Launch](up-neon-plano.md) — gratuito pausou o banco em 26/11 (Up caiu); agora pago por uso ~US$15/mês
+- [Direção de design do Up](up-design-direcao.md) — estilo A (Apple refinado), 6 regras (tarefa começa e termina no mesmo lugar), aplicar aba por aba

@@ -1,6 +1,6 @@
 ---
 name: up-producao-conteudo
-description: Produção de conteúdo só do que foi escolhido em Quero produzir, segunda 10h (Pedro) e 10h15 (Bia); IA de comentários manual com opção automática
+description: Painel de produção no Up (Quero produzir → fila → revisar/ajustar/aprovar no mesmo painel); rotina diária 10h/10h15 só com fila; IA de comentários por botão
 metadata:
   node_type: memory
   type: project
@@ -9,7 +9,8 @@ metadata:
 ---
 
 Decidido em 26/11/2026 pelo Anderson:
-- **Criador de conteúdo não usa API do Claude no Up.** Produção = rotina local SEMANAL (`up-producao-conteudo-pedro` seg 10h, `up-producao-conteudo-bia` seg 10h15, 2h depois das sugestões das 8h/8h15). Só produz o que foi marcado em "Quero produzir" (lê `up fila content`): carrossel/estático/stories viram post pronto (HTML→PNG→JPG, imagem OpenAI medium só se precisar, máx 2/pedido) aguardando aprovação; reels viram roteiro final na conversa. Responde na conversa do Criador. Não pega sugestão sozinha (decisão de 26/11: rodar 3x/dia gastava demais).
+- **Criador de conteúdo não usa API do Claude no Up.** Produção = rotina local DIÁRIA (`up-producao-conteudo-pedro` 10h, `up-producao-conteudo-bia` 10h15; decisão A de 26/11: roda todo dia mas para na hora se a fila estiver vazia). Lê `up api GET v1/content-suggestions/queue` (kind new = pedido novo; kind changes = ajuste pedido no painel, com o texto do ajuste). Novo: cria post, `up sugestoes produzida <sug> <post>`, `up posts enviar`. Ajuste: PUT no post (agente pode editar changes_requested) e reenviar. Não usa mais a conversa.
+- **Painel de produção (26/11, commit 8e2a029):** "Quero produzir" (dono em Conteúdo, expert em Conteúdo > Sugestões) põe na fila e abre um painel lateral (js/production-sheet.js) com etapa, lâminas, legenda, histórico, Pedir ajustes e Aprovar e agendar. Lista "Em produção" no topo das sugestões. Princípio do Anderson: **a tarefa começa e termina no mesmo lugar**.
 - **API no Up fica só para responder comentários:** botão "Gerar resposta com IA" por comentário (rota /social/comments/:id/ai-draft); opção "Gerar respostas automaticamente" em Integrações (campo sdr_realtime) — padrão desligado. Pedro tem chave OpenAI; Bia ainda sem chave (Anderson cola).
 - Sugestão tem status `produced` + post_id (migração 0104).
 
