@@ -45,3 +45,4 @@
 - [Neon no plano Launch](up-neon-plano.md) — gratuito pausou o banco em 26/11 (Up caiu); agora pago por uso ~US$15/mês
 - [Direção de design do Up](up-design-direcao.md) — estilo A (Apple refinado), 6 regras (tarefa começa e termina no mesmo lugar), aplicar aba por aba
 - [App instalável e notificações](up-pwa-notificacoes.md) — PWA + Web Push desde 26/11; botões no sininho; notify() vira notificação; Sora desligada
+- [Aba Financeiro](up-financeiro.md) — mês a mês por expert, 25/25/50, fixo Bia R$ 2.000, compartilhados metade, sem imposto; recibos-mensais lança e organiza o Drive
