@@ -7,9 +7,15 @@ description: Processo da aba Tráfego do Up, usado pelas rotinas diárias de cad
 
 Esta skill é o **processo** (o que ler, como publicar no Up, como aplicar). O **método** de análise (como decidir o que pausar, escalar ou esperar) vem da skill de método que a rotina indicar na linha "Skill de método". Se a rotina não indicar, use o agente `gestor-trafego` (`C:\Users\User\.claude\agents\gestor-trafego.md`) com a skill `estrategia-trafego-funil`. A estratégia é a escolhida para o funil; não invente outra.
 
-Responda sempre em português do Brasil. Rode todos os comandos de dentro da pasta do projeto que a rotina indicar (é lá que ficam o `up.cjs` e o `.env`).
+Responda sempre em português do Brasil.
 
 A rotina deve rodar sozinha, sem parar para perguntar: não peça confirmação no meio, não faça perguntas ao Anderson, não espere resposta. Se algo falhar (fonte fora do ar, objeto não encontrado), registre e siga.
+
+**Comandos (para a rotina não travar pedindo permissão):**
+- Chame o `up.cjs` sempre direto, **um comando por vez**, com o caminho completo da pasta do projeto que a rotina indicar: `node "C:\Users\User\Documents\Claude\Pedro Sachet\up.cjs" trafego-fila` (na Bia, a pasta Full Concepty Academy). O `up.cjs` lê a chave do `.env` da própria pasta, então funciona de qualquer lugar. Onde esta skill diz `node up.cjs …`, use essa forma.
+- **Nunca** use `cd`, `&&`, `;`, `|`, heredoc (`<<`), `$(...)` nem `cat`/`echo > arquivo` no Bash. Comando composto só aceita "permitir uma vez" e trava a rotina em toda rodada; o comando simples aceita "sempre permitir".
+- O JSON da análise vai com a ferramenta **Write** para o **scratchpad da sessão** (a pasta temporária que o ambiente indica como scratchpad), que não pede permissão.
+- Para ler arquivos, use Read, Glob e Grep (não `cat`, `head` ou `grep` no Bash).
 
 ## Modo ANÁLISE (só lê e sugere; nunca muda nada na conta)
 
@@ -28,7 +34,7 @@ A rotina deve rodar sozinha, sem parar para perguntar: não peça confirmação 
    - Com poucos dados (menos de 2× o CPA alvo gasto), não force sugestão: escreva "esperar" no resumo, com o motivo e a data em que volta a julgar.
    - Nunca proponha excluir. Não sugira mexer num objeto que teve mudança aplicada hoje. Não repita o que o Anderson já decidiu não fazer.
 6. **Publicar, uma vez por frente**, mesmo sem sugestões (o resumo aparece na aba e diz por que não há sugestão):
-   - Escreva o JSON num arquivo na pasta temporária do sistema e rode `node up.cjs trafego-analise <arquivo.json>`.
+   - Grave o JSON com Write no scratchpad da sessão e rode `node "<pasta do projeto>\up.cjs" trafego-analise "<caminho do json>"`.
    - Formato:
      ```json
      {"frente":"Funil BR","periodo":"19/11 a 25/11 (foco: últimos 3 dias)","fontes":["meta","dashfacil","hotmart","vturb"],
