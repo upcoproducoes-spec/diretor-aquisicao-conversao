@@ -27,7 +27,7 @@ O que os sócios definem nas reuniões fica em `decisoes-de-reuniao.md`, com dat
 |---|---|---|---|---|
 | Pedro Sachet | Perpétuos (MORFOGUIDE-BR, MORFOGUIDE-ES e os demais) | `thiago-roas-perpetuo` | 2026-11-24 | Em uso hoje; reavaliar quando entrar estratégia nova |
 | Beatriz | Perpétuo | `thiago-roas-perpetuo` (a usar) | 2026-11-24 | Confirmar ao começar |
-| Pedro Sachet | Captação Black | A definir pelo usuário | | |
+| Pedro Sachet | Carrinho da Black (campanha 032.1, nov/26) | Plano próprio do carrinho: `projeto-black-morfologic/15-plano-trafego-carrinho-black.md` (na pasta do cliente), seções 2.3 e 7 | 2026-11-18 | Aprovado pelo Anderson (faixa B, ABO). Decide pela Dash Fácil (vendas e ROAS bruto por utm_content) comparada ao Meta; corte de peça, corte de conjunto e escala na seção 7; o quente não desliga antes do fechamento. CPA alvo da frente no Up: R$ 300 |
 
 ## Estratégia nova: modelo
 Crie `<codigo>.md` nesta pasta com: **o que ela é** (em palavras próprias, fonte e data), **para que funil vale**, **métrica mestre**, **estrutura**, **o que o gestor pode propor e executar**, **o que o gestor NÃO pode mexer**, **como lê o dia** (o que olhar e em que ordem), **critérios de decisão** (com a fonte; número de aula é "não verificado") e **o que ainda falta confirmar**. Material de terceiros licenciado não entra aqui: só ponteiro para a pasta do cliente.
