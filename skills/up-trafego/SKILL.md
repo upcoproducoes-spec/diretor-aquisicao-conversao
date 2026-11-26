@@ -16,6 +16,7 @@ A rotina deve rodar sozinha, sem parar para perguntar: não peça confirmação 
 - **Nunca** use `cd`, `&&`, `;`, `|`, heredoc (`<<`), `$(...)` nem `cat`/`echo > arquivo` no Bash. Comando composto só aceita "permitir uma vez" e trava a rotina em toda rodada; o comando simples aceita "sempre permitir".
 - O JSON da análise vai com a ferramenta **Write** para o **scratchpad da sessão** (a pasta temporária que o ambiente indica como scratchpad), que não pede permissão.
 - Para ler arquivos, use Read, Glob e Grep (não `cat`, `head` ou `grep` no Bash).
+- **Nunca use `--dono`** (a chave de dono do `.env`). A rotina usa só a chave de agente: ela publica análise e registra resultado, mas não aprova, não decide sugestão e não exclui nada no Up.
 
 ## Modo ANÁLISE (só lê e sugere; nunca muda nada na conta)
 
