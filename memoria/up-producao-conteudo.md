@@ -1,6 +1,6 @@
 ---
 name: up-producao-conteudo
-description: "Rotina diária de produção de conteúdo (Pedro 10h, Bia 10h15) e IA de comentários manual com opção automática"
+description: Produção de conteúdo só do que foi escolhido em Quero produzir, segunda 10h (Pedro) e 10h15 (Bia); IA de comentários manual com opção automática
 metadata:
   node_type: memory
   type: project
@@ -9,7 +9,7 @@ metadata:
 ---
 
 Decidido em 26/11/2026 pelo Anderson:
-- **Criador de conteúdo não usa API do Claude no Up.** Quem produz é a rotina local (tarefas agendadas `up-producao-conteudo-pedro` 10h e `up-producao-conteudo-bia` 10h15, modo Auto). Ela pega 1 sugestão/dia da lista da semana (só carrossel, estático, stories que NÃO dependem do expert gravar ou mandar foto), escreve texto (skills ig-*), monta arte em HTML→PNG (Chrome headless)→JPG (ffmpeg), imagem OpenAI só se precisar (medium, máx 2/dia, nunca rosto/mão), sobe no Up, `posts criar` + `posts enviar` (aguardando aprovação) e `sugestoes produzida`.
+- **Criador de conteúdo não usa API do Claude no Up.** Produção = rotina local SEMANAL (`up-producao-conteudo-pedro` seg 10h, `up-producao-conteudo-bia` seg 10h15, 2h depois das sugestões das 8h/8h15). Só produz o que foi marcado em "Quero produzir" (lê `up fila content`): carrossel/estático/stories viram post pronto (HTML→PNG→JPG, imagem OpenAI medium só se precisar, máx 2/pedido) aguardando aprovação; reels viram roteiro final na conversa. Responde na conversa do Criador. Não pega sugestão sozinha (decisão de 26/11: rodar 3x/dia gastava demais).
 - **API no Up fica só para responder comentários:** botão "Gerar resposta com IA" por comentário (rota /social/comments/:id/ai-draft); opção "Gerar respostas automaticamente" em Integrações (campo sdr_realtime) — padrão desligado. Pedro tem chave OpenAI; Bia ainda sem chave (Anderson cola).
 - Sugestão tem status `produced` + post_id (migração 0104).
 
