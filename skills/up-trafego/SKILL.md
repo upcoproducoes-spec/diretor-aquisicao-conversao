@@ -36,6 +36,9 @@ A rotina deve rodar sozinha, sem parar para perguntar: não peça confirmação 
       "sugestoes":[{"nivel":"adset","id":"1202...","nome":"[ESC] 029.2","acao":"budget","orcamento_atual":300,"orcamento_novo":360,
                     "titulo":"Subir a 029.2 em 20%","motivo":"CPA R$ 58 x alvo R$ 85 com 9 vendas em 3 dias","medir":"3 dias"}]}
      ```
+   - Nos funis com VSL, mande também `"vsl"`: uma linha por dia (e por versão do lead, se houver teste), lida no vturb. Formato:
+     `"vsl":[{"dia":"2026-11-25","versao":"lead A","plays":210,"play_rate":58,"ret_1min":52,"ret_preco":31,"ret_pos_preco":12,"cliques_botao":24}]`.
+     Os percentuais vão de 0 a 100 e o campo que o vturb não der fica de fora. A aba Tráfego desenha a evolução e o funil (página → play → preço → checkout → compra) com esses números.
    - `resumo`: como o gestor entrega na conversa: gasto, vendas reais, faturamento, ticket, CPA real × alvo, MER; o que funciona e o que não; o gargalo; o plano para escalar. Se não houver sugestão, a última frase diz por quê ("Nenhuma sugestão hoje: …").
    - Publicar de novo a mesma frente substitui as sugestões pendentes dela (as antigas viram "expirada").
 7. No fim, uma linha por frente: CPA real × alvo e quantas sugestões publicou (a saída do `trafego-analise` diz quantas gravou).

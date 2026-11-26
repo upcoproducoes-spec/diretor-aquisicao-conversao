@@ -40,3 +40,4 @@
 - [Verificador de aluno](verificador-de-aluno.md) — 'Sou aluno' passa quem tem tag -compra-aprovada; 61 compradores antigos completados em 24/11 (source hotmart-historico)
 - [Período personalizado sempre](periodo-personalizado-sempre.md) — toda tela com período tem 'Personalizado' (de / até); usar period-picker.js e date-window.ts
 - [Campanhas em Configurações](up-campanhas-configuracoes.md) — criar/excluir/ligar páginas em Configurações → Campanhas; topo só seleciona; agente não cria campanha sozinho
+- [Links curtos do Up](up-links-curtos.md) — 302 no domínio do expert, porteiro novo no Pedro e na Bia, 5 páginas do Pedro convertidas (26/11)
