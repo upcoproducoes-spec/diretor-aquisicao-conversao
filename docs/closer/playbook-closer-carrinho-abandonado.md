@@ -351,7 +351,7 @@ Regras: nada fora da ficha; nunca esconder a principal; links no Conhecimento; *
 6. **Nunca depois de "vou pensar" ou "não"**, nem na primeira mensagem.
 
 **Regras da escada:**
-- **Um link por degrau; nunca volta a um degrau mais caro; se a pessoa aceita um degrau, para.** A escada tem até [N] degraus (a ficha define). Antes: "no máximo 2 links de desconto"; agora: **um link por degrau, sem voltar.** A **promoção pública não conta como degrau.** Nunca reiniciar com conversa nova.
+- **Um link por degrau; nunca volta a um degrau mais caro; se a pessoa aceita um degrau, para.** A escada tem até [N] degraus (a ficha define). Antes: "no máximo 2 links de desconto"; agora: **um link por degrau, sem voltar.** (A ficha pode prever exceção: reapontar um link já enviado quando a pessoa recusa a troca de produto, sem gerar link novo.) A **promoção pública não conta como degrau.** Nunca reiniciar com conversa nova.
 - **O cupom do degrau seguinte (por exemplo, o cupom da versão alternativa) só depois de a pessoa dizer que o degrau atual ainda pesa.**
 - **Dificuldade financeira explícita: acolher e transferir, sem empurrar degrau.**
 - **Durante promoção pública vigente:** a closer usa a condição pública; se pode oferecer a versão alternativa (sem cupom) nesse período é **[A DECIDIR pelo dono]** (a ficha registra).
