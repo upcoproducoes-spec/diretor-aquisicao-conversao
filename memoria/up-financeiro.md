@@ -24,3 +24,4 @@ Atualizado em 26/11/2026:
 - **Painel do Up (projeto Up = painel do dono)**: o Financeiro mostra o consolidado da UP Coproduções (todos os projetos, total, parte do Anderson, acerto por projeto) via GET /v1/finance/hub/<mês>. Lançar e fechar continua dentro de cada projeto.
 - **Indicadores do mês** (aprovadas, reembolsos, chargebacks, disputas, canceladas por forma de pagamento, boletos/Pix expirados, carrinhos abandonados) vêm ao vivo dos eventos hotmart.* que o Up recebe; não mexem na divisão.
 - Vturb do Pedro é pago pelo Anderson (Ferramentas).
+- **Fixo da Bia (R$ 2.000) cobre** os custos do Up (Infraestrutura, inclusive e-mail), IA e as ferramentas atuais (Ferramentas: vturb, ManyChat): nessas categorias ela não divide; você e o Rodrigo dividem meio a meio (finance_settings.fee_covers). Ela divide tráfego, WhatsApp (disparos) e 'Ferramentas adicionais' (ferramentas novas).

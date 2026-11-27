@@ -45,6 +45,8 @@ Nunca digite senha nem faça login: se alguma conta pedir login, pule e avise no
    - Compartilhados, METADE em cada projeto, item com "(metade)": Render "infra:render", Neon "infra:neon", Cloudflare "infra:cloudflare", AWS "infra:aws", Resend "infra:resend" (category "Infraestrutura"); assinatura do Claude "ia:claude" (category "IA").
    - OpenAI: NÃO lance (a aba já mede a IA de dentro do Up); só salve a nota no Drive.
    - Ferramentas (category "Ferramentas", source "recibo"): vturb "ferramentas:vturb" e ManyChat "ferramentas:manychat". No Pedro, o vturb é pago pelo Anderson (paid_by "anderson"). Na Bia, vturb e ManyChat são pagos pelo Rodrigo (paid_by "rodrigo"). Se a mesma assinatura servir aos dois projetos, lance metade em cada um e avise.
+   - Ferramenta NOVA contratada daqui para frente (ex.: uma ferramenta a mais para os dois): category "Ferramentas adicionais" (é dividida também na Bia; o fixo dela não cobre).
+   - Na Bia, o fixo de R$ 2.000 cobre Infraestrutura, IA e Ferramentas atuais (vturb, ManyChat): lance normalmente nessas categorias; a aba tira a parte dela sozinha. Tráfego, WhatsApp (Comunicação) e Ferramentas adicionais ela divide.
    - Outros custos com nota (ferramenta nova etc.): category adequada, source "recibo", source_key "outro:<serviço>".
    Em "note", coloque o nome do arquivo salvo no Drive.
 5. Ligue a pasta do mês de cada projeto à aba: grave {"url":"https://drive.google.com/drive/folders/<id da pasta do mês>"} e rode `up api PUT v1/finance/months/<AAAA-MM>/drive <arquivo.json>`.
