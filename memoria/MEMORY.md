@@ -29,8 +29,7 @@
 - [Mensagem com quebra de linha](mensagem-com-quebra-de-linha.md) — direct e WhatsApp chegam com Enter e linha em branco como escritos
 - [Vale para todos os projetos](vale-para-todos-os-projetos.md) — ajuste feito no Pedro também vai para a Bia (dado/configuração), conferir os dois
 - [FullFunnel encerrado](fullfunnel-encerrado.md) — desde 12/11 tudo roda só no Up; anotações sobre o FullFunnel são só histórico
-- [Camila (recuperação de vendas)](camila-recuperacao.md) — uma só para todos os projetos; v1 carrinho abandonado; depois inscritos sem compra; abertura só com utility. Pedro, desde 27/11: prompt-base + ficha + copy do Sistema, escada por mês em automático (ver Sistema/RESULTADO-SESSAO-UP-2026-11-27.md)
-- [Distribuição de conteúdo do Pedro](project_distribuicao_conteudo.md) — R$10 Descoberta + R$10 Nutrição; 3 cortes/semana com ponte; sugestões metade de cada
+- [Camila (recuperação de vendas)](camila-recuperacao.md) — uma só para todos os projetos; v1 carrinho abandonado; depois inscritos sem compra; abertura só com utility
 - [Custo da Meta no WhatsApp](up-custo-meta-whatsapp.md) — custo bloqueado ao parceiro; estimativa bate; rotina mensal: lançar cobranças reais em meta_payments (sem token por cliente)
 - [Páginas da Bia e o porteiro](bia-paginas-porteiro.md) — porteiro-up com rotas gerais no domínio dela (20/11): publicar no Up já põe no ar, igual ao Pedro
 - [Skills de Instagram (ig-*)](instagram-agent-skill.md) — instaladas 23/11, usadas nas rotinas de sugestões do Pedro e da Bia; dados na pasta instagram/ de cada projeto
@@ -47,4 +46,4 @@
 - [Direção de design do Up](up-design-direcao.md) — estilo A (Apple refinado), 6 regras (tarefa começa e termina no mesmo lugar), aplicar aba por aba
 - [App instalável e notificações](up-pwa-notificacoes.md) — PWA + Web Push desde 26/11; botões no sininho; notify() vira notificação; Sora desligada
 - [Aba Financeiro](up-financeiro.md) — mês a mês por expert, 25/25/50, fixo Bia R$ 2.000, compartilhados metade, sem imposto; recibos-mensais lança e organiza o Drive
-- [Central de estratégia](central-estrategia-up.md) — Documents\Claude\Estrategia UP: playbook comum, Sirius liberada (inclusive GitHub), decisoes.md 'levar para o outro?'
+- [Central de estratégia](central-estrategia-up.md) — Estrategia UP é a sede: playbook, kit da Sirius, atalhos do diretor/agentes, Camila (a mover), fontes; projetos só com o que é deles
