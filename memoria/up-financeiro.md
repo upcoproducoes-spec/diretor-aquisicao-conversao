@@ -17,6 +17,6 @@ Decidido pelo Anderson em 26/11/2026 (commit cf0f942, migração 0107):
 
 Atualizado em 26/11/2026:
 - **Hotmart divide direto** (coprodução): Pedro 50% (PEDRO SACHET ENSINO ODONTOLOGICO LTDA), Rodrigo 25% (RODRIGO GALBIER ESTRATEGISTA DIGITAL LTDA), lado do Anderson 25% (em nome de Ana Paula Cechim da Costa). Vendas entram como "Hotmart dividiu direto" e não entram no acerto. Linhas por produto, taxa por taxa (source_key hotmart:<id>:faturamento|taxa|juros|imposto|frete).
-- **Custos de produção do Pedro** (pagos pelo Pedro): Morfo.Guide + = R$ 94,80 (apostila R$ 50 + modelo R$ 44,80); modelo avulso (morfo.Guide ou morfo.Logic) = R$ 44,80; morfo.Logic digital sem custo.
+- **Custos de produção do Pedro** (pagos pelo Pedro): Morfo.Guide + e Black da Lógica = R$ 94,80 por venda (apostila R$ 50 + modelo R$ 44,80); modelo avulso (morfo.Guide ou morfo.Logic) = R$ 44,80; morfo.Logic digital sem custo.
 - **Quem paga (acerto entre sócios)**: Pedro — tráfego e produção = Pedro; Up, Claude Code, WhatsApp, e-mail, IA, ferramentas = Anderson. Bia — tráfego, vturb, ManyChat = Rodrigo; Up, WhatsApp, e-mail, IA = Anderson. Rodrigo não adianta nada no Pedro. Aba mostra "Acerto entre sócios" (quem repassa para quem).
 - Produto "Black da Lógica" (8800525) é do Pedro. Produtos da Simioni & Casarolli (Black do Analógico ao Digital 8844243, Prótese Total Natural 7437149) são da Bia.
