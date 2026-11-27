@@ -14,3 +14,9 @@ Decidido pelo Anderson em 26/11/2026 (commit cf0f942, migração 0107):
 - Notas: Drive FINANCEIRO › <Projeto> (Pedro Sachet / Beatriz Vieira / Up (geral)) › AAAA › "MM - Mês". A maioria chega no Gmail da UP Coproduções; Meta (anúncios e WhatsApp) é baixada da central de cobrança. A rotina **recibos-mensais** (dia 1) levanta, pede OK para baixar, salva, lança as linhas (source_key fixos) e liga a pasta do mês (PUT finance/months/<mês>/drive).
 
 **How to apply:** valores novos de custo entram como linha com source_key estável (refazer atualiza). Quem fecha o mês é só o Anderson. Relacionado: [[up-custo-meta-whatsapp]], [[up-neon-plano]].
+
+Atualizado em 26/11/2026:
+- **Hotmart divide direto** (coprodução): Pedro 50% (PEDRO SACHET ENSINO ODONTOLOGICO LTDA), Rodrigo 25% (RODRIGO GALBIER ESTRATEGISTA DIGITAL LTDA), lado do Anderson 25% (em nome de Ana Paula Cechim da Costa). Vendas entram como "Hotmart dividiu direto" e não entram no acerto. Linhas por produto, taxa por taxa (source_key hotmart:<id>:faturamento|taxa|juros|imposto|frete).
+- **Custos de produção do Pedro** (pagos pelo Pedro): Morfo.Guide + = R$ 94,80 (apostila R$ 50 + modelo R$ 44,80); modelo avulso (morfo.Guide ou morfo.Logic) = R$ 44,80; morfo.Logic digital sem custo.
+- **Quem paga (acerto entre sócios)**: Pedro — tráfego e produção = Pedro; Up, Claude Code, WhatsApp, e-mail, IA, ferramentas = Anderson. Bia — tráfego, vturb, ManyChat = Rodrigo; Up, WhatsApp, e-mail, IA = Anderson. Rodrigo não adianta nada no Pedro. Aba mostra "Acerto entre sócios" (quem repassa para quem).
+- Produto "Black da Lógica" (8800525) é do Pedro. Produtos da Simioni & Casarolli (Black do Analógico ao Digital 8844243, Prótese Total Natural 7437149) são da Bia.
