@@ -20,3 +20,4 @@ Atualizado em 26/11/2026:
 - **Custos de produção do Pedro** (pagos pelo Pedro): Morfo.Guide + e Black da Lógica = R$ 94,80 por venda (apostila R$ 50 + modelo R$ 44,80); modelo avulso (morfo.Guide ou morfo.Logic) = R$ 44,80; morfo.Logic digital sem custo.
 - **Quem paga (acerto entre sócios)**: Pedro — tráfego e produção = Pedro; Up, Claude Code, WhatsApp, e-mail, IA, ferramentas = Anderson. Bia — tráfego, vturb, ManyChat = Rodrigo; Up, WhatsApp, e-mail, IA = Anderson. Rodrigo não adianta nada no Pedro. Aba mostra "Acerto entre sócios" (quem repassa para quem).
 - Produto "Black da Lógica" (8800525) é do Pedro. Produtos da Simioni & Casarolli (Black do Analógico ao Digital 8844243, Prótese Total Natural 7437149) são da Bia.
+- **Frete** das vendas com produto físico vai para o Pedro porque ele paga o envio: sai do faturamento antes da divisão (linha 'frete') e não se lança custo de envio.
