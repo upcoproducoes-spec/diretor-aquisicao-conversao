@@ -26,7 +26,7 @@ Tarefa: fechar o MÊS ANTERIOR (do dia 1 ao último dia) no financeiro: juntar a
    - Pedro: conta de mensagens do WhatsApp "Pedro Sachet - Anderson Vieira" (business_id 329214668338518; conta 1939404097037176) e a conta de anúncios do Pedro.
    - Bia: as contas de mensagens e de anúncios do portfólio da Bia, se houver pagamento no mês.
    - Use "Atividade de pagamento" do período para cada recibo.
-3. Hotmart (conector Hotmart, só leitura): faturamento e taxas do mês por produto. Produtos do Pedro: morfoguide, morfologic e os demais do Pedro; da Bia: Prótese Total Natural e os demais da Bia (confira pelo nome do produtor/produto; na dúvida, liste e pergunte).
+3. Hotmart (conector Hotmart, só leitura): faturamento e taxas do mês por produto. Produtos do Pedro: os de produtor PEDRO SACHET (morfoguide, morfologic, Black da Lógica...); da Bia: os de produtor SIMIONI & CASAROLLI (Prótese Total Natural, Black do Analógico ao Digital...); na dúvida, liste e pergunte.
 Nunca digite senha nem faça login: se alguma conta pedir login, pule e avise no final.
 
 ## Como fazer
@@ -37,7 +37,7 @@ Nunca digite senha nem faça login: se alguma conta pedir login, pule e avise no
    - Hotmart, POR PRODUTO (pedidos aprovados do mês, todos os produtos do expert, inclusive ofertas novas como "Black da Lógica"), com source "auto" e category "Vendas":
      - revenue "<Produto>: faturamento (N vendas)" = total pago pelos compradores, source_key "hotmart:<idProduto>:faturamento";
      - deduction "<Produto>: taxa da Hotmart" "hotmart:<id>:taxa"; "<Produto>: juros do parcelamento (ficam com a Hotmart)" "hotmart:<id>:juros"; "<Produto>: impostos do país do comprador (VAT)" "hotmart:<id>:imposto"; "<Produto>: frete (vai para o Pedro, que paga o envio)" "hotmart:<id>:frete" (diferença entre o preço e a soma das comissões + taxa, nas vendas com produto físico; o frete vai para o expert porque ele paga o envio, por isso fica fora da divisão e NÃO se lança custo de envio); reembolsos de pedidos de meses anteriores "<Produto>: reembolsos" "hotmart:<id>:reembolsos".
-     - Confira: faturamento − deduções = soma das comissões pagas pela Hotmart (Pedro 50%; Rodrigo Galbier 25%; Ana Paula Cechim, lado do Anderson, 25%). Se não fechar, avise.
+     - Confira: faturamento − deduções = soma das comissões pagas pela Hotmart (Pedro: Pedro 50%, Rodrigo Galbier = Rodrigo 25%, coprodutora do lado do Anderson = Anderson 25%. Bia: "Rodrigues e Vieira" = Bia 50%, SIMIONI & CASAROLLI = Rodrigo 25%, coprodutora do lado do Anderson = Anderson 25%; no resumo, chame sempre de Anderson). Se não fechar, avise.
      - Nunca use os nomes antigos "hotmart:faturamento"/"hotmart:taxa" (somariam em dobro).
    - Custo de produção do Pedro (category "Produção", source "auto"; quem paga é o Pedro): Morfo.Guide + = R$ 94,80 por venda (apostila R$ 50 + modelo R$ 44,80) "producao:morfoguide-plus"; modelo anatômico avulso (morfo.Guide ou morfo.Logic, inclusive order bump) = R$ 44,80 cada "producao:modelo-morfoguide" / "producao:modelo-morfologic"; Black da Lógica = R$ 94,80 por venda (1 modelo + 1 apostila) "producao:black-da-logica"; outra oferta nova com produto físico: liste e pergunte o que vai em cada venda. Cursos digitais (morfo.Logic, versões em espanhol/inglês) não têm custo de produção.
    - Anúncios da Meta: {"kind":"cost","category":"Tráfego","item":"Anúncios na Meta","source":"recibo","source_key":"meta:anuncios"}.
