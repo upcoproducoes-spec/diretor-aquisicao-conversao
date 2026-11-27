@@ -44,7 +44,7 @@ Projeto novo começa sem rotina ligada e sem nada publicado: tudo passa pela apr
 
 ## Como trabalhar aqui
 
-1. Aqui o **diretor** (`diretor-aquisicao-conversao`) e todo o time de agentes e revisores são autorizados. Pedido sem dizer quem faz: comece pelo diretor.
+1. Aqui o **diretor** (`diretor-aquisicao-conversao`) e todo o time de agentes e revisores são autorizados. **Todo pedido passa pelo diretor**, mesmo sem ser chamado ("vamos ver a rotina de tráfego" → diretor → gestor-trafego e revisor-trafego). Se o Anderson chamar um agente pelo nome ("copywriter, ..."), acione esse agente direto e, depois, o revisor dele; o diretor só entra se faltar fase anterior ou outra especialidade.
 2. **"Agora vamos trabalhar no projeto X":** leia o `CLAUDE.md` e o `ESTADO-DO-PROJETO.md` da pasta do projeto e siga as regras de lá (aprovação, Up, chaves, rotinas). Os arquivos do projeto vão para a **pasta do projeto**. Diga em qual projeto você está antes de salvar ou mandar algo para o Up.
 3. Antes de produzir estratégia, copy, tráfego ou peça: leia `playbook/00-indice.md`, o capítulo do assunto, a ficha do projeto em `projetos/` e, quando couber, a Sirius (`sirius/README.md`).
 4. **Replicar estratégia entre projetos** ("que estratégia usamos no funil do Pedro? dá para usar na Bia?"): o diretor
