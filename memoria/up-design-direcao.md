@@ -16,4 +16,4 @@ Regras para qualquer tela:
 6. Título da tela igual ao nome no menu.
 
 **Why:** o Anderson achou o Up desorganizado (ex.: botão "Desligar" grande em Campanhas; "Quero produzir" passava por 3 telas).
-**How to apply:** feito: painel de produção. Próximos: Campanhas (menu ⋯ no lugar do Desligar), depois aba por aba pelo mapa de fluxos quebrados. Relacionado: [[up-producao-conteudo]], [[up-campanhas-configuracoes]].
+**How to apply:** feito (26/11): painel de produção, Financeiro, Campanhas, Páginas (campanha trocada na própria página), Automações (criar em painel, ligar só pela chavinha). Componente reaproveitável: moreMenu() em ui.js e dialog.sheet. Próximos: Aprovações reunindo tudo, Criativos/Imagens/Peças, abas e filtros num jeito só. Relacionado: [[up-producao-conteudo]], [[up-campanhas-configuracoes]].
