@@ -47,3 +47,4 @@
 - [App instalável e notificações](up-pwa-notificacoes.md) — PWA + Web Push desde 26/11; botões no sininho; notify() vira notificação; Sora desligada
 - [Aba Financeiro](up-financeiro.md) — mês a mês por expert, 25/25/50, fixo Bia R$ 2.000, compartilhados metade, sem imposto; recibos-mensais lança e organiza o Drive
 - [Central de estratégia](central-estrategia-up.md) — Estrategia UP é a sede: playbook, kit da Sirius, atalhos do diretor/agentes, Camila (a mover), fontes; projetos só com o que é deles
+- [Comando com botão de play](comando-com-botao-de-play.md) — comando para o Anderson rodar sempre em uma linha num bloco powershell
