@@ -1,0 +1,91 @@
+{
+  "_leia_me": [
+    "Modelo do registro que o subir_campanha.py lê. Copie pra pasta do lançamento (lancamentos/<AAAA-MM-nome>/campanhas-google.json) e troque tudo: os dados daqui são fictícios.",
+    "Este arquivo é a INTENÇÃO. O estado real é o que se lê da plataforma. Campo que começa com _ é comentário: o script ignora.",
+    "Os textos dos anúncios saem do agente copy e do /humanizer, e os nomes seguem sirius-scale/frameworks/trafego/nomenclatura.md.",
+    "Caminho de arquivo é relativo à raiz da pasta do sistema. O script grava aqui os ids que nascem (campanha, logo, botão, vídeo) e o histórico."
+  ],
+  "lancamento": "LC-EXEMPLO",
+  "fase": "captacao",
+  "google": {
+    "_customer_id": "a conta de anúncios, como aparece no topo da tela do Google Ads",
+    "customer_id": "123-456-7890",
+    "_geo": "2076 é o Brasil",
+    "geo": 2076,
+    "_lance": "MAXIMIZE_CONVERSIONS ou MAXIMIZE_CLICKS, copiado da campanha irmã da mesma fase (§10 do google-criacao-tecnica.md). Sem tCPA na criação: quem mexe em lance é o dono da conta.",
+    "lance": "MAXIMIZE_CONVERSIONS",
+    "_metas_biddable": "[categoria, origem] de cada meta que otimiza a campanha. O resto o script desliga e lê de volta (§2).",
+    "metas_biddable": [["SUBMIT_LEAD_FORM", "WEBSITE"]],
+    "fim": "2031-03-15 23:59:59",
+    "_logo": "PNG quadrado de 128 px ou mais. O comando marca cria o asset e grava logo_asset aqui. Se a conta já tem, preencha logo_asset e cta_asset direto.",
+    "logo_arquivo": "lancamentos/2031-03-exemplo/google/logo-1200.png",
+    "_cta": "o botão do anúncio de vídeo: SIGN_UP é Inscreva-se, LEARN_MORE é Saiba mais",
+    "cta": "SIGN_UP",
+    "business_name": "Marca Exemplo",
+    "_youtube_canal": "opcional. Vazio, o comando videos sobe num canal gerenciado pelo Google, ligado à conta. Com o id do canal de vocês (UC..., 24 caracteres), sobe lá.",
+    "youtube_canal": null,
+    "_utm": "vai no sufixo do URL final, com as variáveis do próprio Google. Troque só o utm_id (§31 e nomenclatura.md §3.7).",
+    "final_url_suffix": "utm_id=lc-exemplo&utm_campaign={campaignid}&utm_source={network}&utm_medium=pago_google&utm_content={creative}&utm_term={adgroupid}",
+    "_listas_novas": "o comando listas cria estas listas por regra de URL: visitou QUALQUER um dos trechos, nos últimos N dias. _por_que vira a descrição da lista.",
+    "listas_novas": [
+      {
+        "nome": "[LC-EXEMPLO] Inscritos 60D",
+        "urls": ["obrigado-exemplo"],
+        "dias": 60,
+        "_por_que": "quem chegou na página de obrigado sai da captação e entra no aquecimento"
+      }
+    ],
+    "campanhas": [
+      {
+        "_nome": "uma campanha por grupo: Demand Gen não tem orçamento por grupo (§14). [PQ] no nome é público quente: a conferência exige a segmentação otimizada desligada.",
+        "nome": "[LC] [CURSO] [YT] [LC-EXEMPLO] [CAPTACAO] [ESCALA] [PQ]",
+        "orcamento_dia_brl": 50.0,
+        "pagina": "https://www.exemplo.com.br/inscricao/",
+        "grupo": {
+          "nome": "[PQ] SEGUIDORES E VISITANTES",
+          "audience_nome": "[LC-EXEMPLO] SEGUIDORES E VISITANTES",
+          "_incluir": "a chave é o NOME da lista na conta (ou o id, só com dígitos). O valor é só anotação. Se a lista ainda não existe, a prévia avisa e o --executar para.",
+          "incluir": {
+            "[YT] Visualizou Algum Vídeo 540D": null,
+            "[SITE] Qualquer página 90D": null
+          },
+          "_excluir": "mesma regra do incluir. Uma chave como [ALUNOS] exclui o incluir do grupo que tem [ALUNOS] no nome.",
+          "excluir": {
+            "[LC-EXEMPLO] Inscritos 60D": null
+          }
+        },
+        "anuncios": ["VD 01", "IMG 01"]
+      }
+    ]
+  },
+  "criativos": {
+    "VD 01": {
+      "tipo": "video",
+      "slug": "NOME-DO-CRIATIVO",
+      "_arquivo": "o vídeo no computador: vertical em arquivo, 16:9 em arquivo_169 (null se não existir). O comando videos sobe, não listado, e grava o id em youtube_id e youtube_id_169. Já está no YouTube? Ponha o id direto e deixe o arquivo em null. Sem id, o anúncio espera.",
+      "arquivo": "lancamentos/2031-03-exemplo/google/video-vertical.mp4",
+      "arquivo_169": null,
+      "youtube_id": null,
+      "youtube_id_169": null,
+      "google": {
+        "_limites": "headlines até 40 caracteres, long_headlines e descriptions até 90. Até 5 de cada.",
+        "headlines": ["Título curto do anúncio"],
+        "long_headlines": ["Título longo do anúncio, com a promessa que o copy escreveu"],
+        "descriptions": ["Descrição do anúncio, na voz da marca"]
+      }
+    },
+    "IMG 01": {
+      "tipo": "imagem",
+      "slug": "NOME-DO-ESTATICO",
+      "_arquivos": "PNG. feed (4:5) e story (9:16) são opcionais. paisagem (1,91:1) e quadrado (1:1) são obrigatórios: sem um deles o Google recusa (§19).",
+      "feed": "lancamentos/2031-03-exemplo/google/img01-feed.png",
+      "story": "lancamentos/2031-03-exemplo/google/img01-story.png",
+      "google": {
+        "paisagem": "lancamentos/2031-03-exemplo/google/img01-paisagem.png",
+        "quadrado": "lancamentos/2031-03-exemplo/google/img01-quadrado.png",
+        "headlines": ["Título curto do estático"],
+        "descriptions": ["Descrição do estático, na voz da marca"]
+      }
+    }
+  }
+}

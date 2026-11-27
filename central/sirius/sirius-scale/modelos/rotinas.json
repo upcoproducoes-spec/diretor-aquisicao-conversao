@@ -1,0 +1,15 @@
+{
+  "_leia_me": "Vai em lancamentos/<AAAA-MM-nome>/rotinas.json. É o interruptor da rotina de tráfego: fora das datas, ela ignora. Número aqui vem da decisão de vocês, com a fonte em _historico. Contas só com números, sem act_ e sem traço. Linha vazia (null) quer dizer que ninguém decidiu: a rotina mostra o número e não sugere subir nem cortar por ela.",
+  "lancamento": "AAAA-MM-nome",
+  "dash": {"subconta_id": 0, "lancamento_id": 0},
+  "contas": {"meta": "", "google": ""},
+  "fases": {
+    "captacao": {"inicio": "AAAA-MM-DD", "fim": "AAAA-MM-DD", "rotinas": ["trafego"]}
+  },
+  "verba_dia": {"_nota": "em reais, com o imposto da Meta", "piso": 0, "alvo": 0, "teto": 0},
+  "segmentos": {
+    "frio": {"filtro_no_nome": "[PF]", "linha_escala": null, "linha_corte": null, "custo_por_mql_ref": null},
+    "quente": {"filtro_no_nome": "[PQ]", "linha_escala": null, "linha_corte": null}
+  },
+  "_historico": []
+}

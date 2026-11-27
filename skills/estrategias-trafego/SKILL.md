@@ -17,7 +17,7 @@ description: Catálogo das estratégias de tráfego pago que o time usa. Cada es
 | Código | Estratégia | Vale para | Status |
 |---|---|---|---|
 | `thiago-roas-perpetuo` | Funil de VSL perpétuo (Thiago Roas) | Perpétuos de público frio com VSL | **Em uso** no perpétuo do Pedro; será usada no da Beatriz. Não é regra para todos os funis |
-| `sirius-lancamento` | Rotinas de lançamento da Sirius Scale | Só pastas de cliente que têm o kit instalado | Material licenciado: fica na pasta do cliente, nunca aqui |
+| `sirius-lancamento` | Rotinas de lançamento da Sirius Scale | Todos os projetos da UP | Kit na central de estratégia (sirius/) |
 
 ## Decisões de reunião (vivas, não são estratégia)
 O que os sócios definem nas reuniões fica em `decisoes-de-reuniao.md`, com data, e muda a cada reunião. O gestor trata a entrada mais recente como orientação do momento, sem contrariar a estratégia ativa do funil. Conflito: avisa e espera o usuário.

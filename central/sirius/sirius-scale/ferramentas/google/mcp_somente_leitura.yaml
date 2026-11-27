@@ -1,0 +1,9 @@
+# Quais ferramentas o servidor do Google Ads mostra pro Claude. Leitura sim, escrita não:
+# labels e assets são as duas famílias que escrevem na conta. Quem sobe campanha é o
+# subir_campanha.py, com prévia, confirmação, teto e leitura de volta.
+namespaces:
+  customers: true
+  search: true
+  metadata: true
+  labels: false
+  assets: false

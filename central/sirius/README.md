@@ -2,15 +2,16 @@
 
 A inteligência da Sirius é construída em conjunto pelo Anderson e pelo Rodrigo e vale para **todos os projetos** da UP e para todos os agentes, subagentes e revisores (decisão do Anderson, 27/11/2026). APIs e chaves são sempre as nossas.
 
-## Onde está hoje
-Instalação única (v0.6, 23/11/2026) na pasta do Pedro: `C:\Users\User\Documents\Claude\Pedro Sachet\`
-- `sirius-scale\`: REGRAS.md, COMECE-AQUI.md, O-QUE-MUDOU.md, modelos\, rotinas\trafego-diario.md, instalacao\, ferramentas\google\ e **frameworks\** (66 arquivos).
-- `sirius-scale-agentes\`: manuais dos 5 agentes da Sirius (copy, designer, webdesigner, gestor-trafego, video).
-- `.claude\skills\`: checagens /preflight, /revisar, /debriefing, /mapa-edicao, /pente-fino, /sirius-humanizer.
-- `ADAPTADOR-SIRIUS-SCALE.md` (como atualizar sem estragar nada; nunca rodar o atualizar.sh) e `sirius-scale-mapa.md`.
-Na Bia há só fontes de Blacks antigas em `frameworks\lancamentos\fontes\blacks-da-casa\`.
+## Onde está
+Desde 27/11/2026 o kit fica **aqui na central** (versão v0.6, de 23/11/2026):
+- `sirius-scale/`: REGRAS.md, COMECE-AQUI.md, O-QUE-MUDOU.md, LICENCA.md, modelos/, rotinas/trafego-diario.md, instalacao/, ferramentas/google/ e **frameworks/** (66 arquivos).
+- `sirius-scale-agentes/`: manuais dos 5 agentes da Sirius (copy, designer, webdesigner, gestor-trafego, video).
+- `checagens/`: /preflight, /revisar, /debriefing, /mapa-edicao, /pente-fino, /sirius-humanizer.
+- `ADAPTADOR-SIRIUS-SCALE.md`: como atualizar sem estragar nada (nunca rodar o atualizar.sh).
 
-Qualquer projeto lê o kit nesse caminho. Material novo do Rodrigo: atualizar seguindo o ADAPTADOR e registrar aqui o que mudou.
+Cada projeto (Pedro, Bia e a central) tem **atalhos** com os mesmos nomes: `sirius-scale/`, `sirius-scale-agentes/` e `.claude/skills/<checagem>`, além do próprio `sirius-scale-mapa.md` (onde moram expert, produtos, lançamentos, funis e entregas naquele projeto). Projeto novo: criar os atalhos e o mapa.
+
+Material novo do Rodrigo: trazer para a central, atualizar seguindo o ADAPTADOR e registrar aqui o que mudou (versão, data, arquivos). A `LICENCA.md` do kit ainda traz o texto restritivo antigo; vale a decisão do Anderson de 27/11/2026 (Sirius liberada para todos os projetos, agentes e GitHub).
 
 ## Equivalência de agentes
 copy → `copywriter` · designer e webdesigner → `designer` · gestor-trafego → `gestor-trafego` · video → `editor-video`. Ordem de prioridade: regra do projeto > playbook da central > Sirius > skills gerais.
