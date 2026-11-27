@@ -21,3 +21,7 @@ Atualizado em 26/11/2026:
 - **Quem paga (acerto entre sócios)**: Pedro — tráfego e produção = Pedro; Up, Claude Code, WhatsApp, e-mail, IA, ferramentas = Anderson. Bia — tráfego, vturb, ManyChat = Rodrigo; Up, WhatsApp, e-mail, IA = Anderson. Rodrigo não adianta nada no Pedro. Aba mostra "Acerto entre sócios" (quem repassa para quem).
 - Produto "Black da Lógica" (8800525) é do Pedro. Produtos da Simioni & Casarolli (Black do Analógico ao Digital 8844243, Prótese Total Natural 7437149) são da Bia.
 - **Frete** das vendas com produto físico vai para o Pedro porque ele paga o envio: sai do faturamento antes da divisão (linha 'frete') e não se lança custo de envio.
+- **Painel do Up (projeto Up = painel do dono)**: o Financeiro mostra o consolidado da UP Coproduções (todos os projetos, total, parte do Anderson, acerto por projeto) via GET /v1/finance/hub/<mês>. Lançar e fechar continua dentro de cada projeto.
+- **Indicadores do mês** (aprovadas, reembolsos, chargebacks, disputas, canceladas por forma de pagamento, boletos/Pix expirados, carrinhos abandonados) vêm ao vivo dos eventos hotmart.* que o Up recebe; não mexem na divisão.
+- Vturb do Pedro é pago pelo Anderson (Ferramentas).
+- Bia na Hotmart (nov/26): produtora SIMIONI & CASAROLLI 25%, "Rodrigues e Vieira cursos e treinamentos" 50%, Ana Paula Cechim 25% — confirmar com o Anderson quem é quem (a aba usa Anderson 25 / Rodrigo 25 / Bia 50).
