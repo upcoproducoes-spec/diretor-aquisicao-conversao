@@ -27,8 +27,6 @@
 - [Estáticos de venda da Black](project_estaticos_venda_black.md) — rodada 1 é a de anúncio; OFF/âncora/'para sempre' são decisão dele; V02, V09, V13 cortados em 24/11
 - [Aba Tráfego do Up](reference_up_aba_trafego.md) — frentes, MER, CPA real x alvo; desde 26/11 venda = comprador do produto principal, gasto com imposto, bloco "vsl" do vturb na análise; Anderson marca papel dos produtos e % de imposto; up.cjs trafego
 - [Análise manual não apaga a rotina](feedback_trafego_analise_manual_nao_apaga_rotina.md) — publicar frente de novo expira as sugestões da rotina; juntar antes
-- [Distribuição de conteúdo e sugestões por objetivo](project_distribuicao_conteudo.md) — R$10/dia: Descoberta (R$7, já) e Nutrição (R$3, de 01/12); sugestões semanais metade de cada
+- [Distribuição de conteúdo e sugestões por objetivo](project_distribuicao_conteudo.md) — R$10 Descoberta + R$10 Nutrição; conteúdo = 3 cortes/semana com ponte; sem citar morfologic; sugestões metade de cada
 - [Links curtos do Up](reference_up_links_curtos.md) — Páginas > Links curtos; up.cjs links/link criar/editar/ver; nunca página para redirecionar
 - [Criativo: aprovação no Up antes do Meta](feedback_ordem_criativos_aprovacao_antes_meta.md) — copy completa por item (com descrição) aprovada antes de montar anúncio; depois sobe pausado
-- [Playbook do closer (Camila)](project_closer_camila_playbook.md) — playbook geral, ficha de produto, prompt-base e ficha do Morfo.Guide; decisões do dono, fatos da Hotmart (frete à parte) e pendências
-- [Usar o time e os livros a fundo](feedback_time_e_livros_a_fundo.md) — passar tudo pelos agentes e revisores, reabrir capítulos, buscar mais conhecimento na dúvida
