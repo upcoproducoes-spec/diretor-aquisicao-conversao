@@ -1,4 +1,4 @@
-- [Bot Camila (morfo.Guide)](project_camila_bot.md) — estado, IDs, decisões do Pedro e pendências do bot de recuperação no Full Funnel
+- [Bot Camila (morfo.Guide)](project_camila_bot.md) — desde 27/11 no Up, em automático, com prompt-base + ficha + copy v4 do Sistema (docs "Camila: …"); combo da Black excluído; falta rodar os 32 testes
 - [Criativos: menos ajuste, mais passo a passo](project_criativos_posicionamento_ajuste.md) — orientação do Pedro (áudio 05/09) + IDs dos docs de criativos/VSL
 - [Black morfologic 2026](project_black_morfologic_2026.md) — captação paga a partir de nov/26 (campanha separada); UMA aula (ter 24/11), inscrição → grupo da Black, lista VIP sem grupo, escada de preço, fluxo com o Up (limite 5.000 caracteres), decisões do Anderson e pendências
 - [Dash Fácil vs Meta: sempre comparar](feedback_dashfacil_vs_meta_atribuicao.md) — regra: nunca otimizar campanha só com dado do Meta, comparar sempre com a Dash Fácil antes
