@@ -30,3 +30,5 @@
 - [Distribuição de conteúdo e sugestões por objetivo](project_distribuicao_conteudo.md) — R$10/dia: Descoberta (R$7, já) e Nutrição (R$3, de 01/12); sugestões semanais metade de cada
 - [Links curtos do Up](reference_up_links_curtos.md) — Páginas > Links curtos; up.cjs links/link criar/editar/ver; nunca página para redirecionar
 - [Criativo: aprovação no Up antes do Meta](feedback_ordem_criativos_aprovacao_antes_meta.md) — copy completa por item (com descrição) aprovada antes de montar anúncio; depois sobe pausado
+- [Playbook do closer (Camila)](project_closer_camila_playbook.md) — playbook geral, ficha de produto, prompt-base e ficha do Morfo.Guide; decisões do dono, fatos da Hotmart (frete à parte) e pendências
+- [Usar o time e os livros a fundo](feedback_time_e_livros_a_fundo.md) — passar tudo pelos agentes e revisores, reabrir capítulos, buscar mais conhecimento na dúvida
