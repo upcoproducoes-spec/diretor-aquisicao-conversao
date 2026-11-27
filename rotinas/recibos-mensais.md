@@ -21,7 +21,7 @@ Tarefa: fechar o MÊS ANTERIOR (do dia 1 ao último dia) no financeiro: juntar a
 - A pasta antiga "Notas e recibos" (id 1CFS05xIMkBTlG74RKrxFcIhxL6XCBP7D) fica como histórico; não mova nada dela.
 
 ## Onde estão as notas
-1. Gmail da UP Coproduções (conector do Gmail, só leitura): a maioria chega por e-mail. Procure no período: Claude/Anthropic, OpenAI, Render, Neon, Cloudflare, Amazon AWS, Resend, Hotmart (notas e comprovantes), Google. Anexos em PDF.
+1. Gmail da UP Coproduções (conector do Gmail, só leitura): a maioria chega por e-mail. Procure no período: Claude/Anthropic, OpenAI, Render, Neon, Cloudflare, Amazon AWS, Resend, vturb, ManyChat, Hotmart (notas e comprovantes), Google. Anexos em PDF.
 2. Meta (não chega por e-mail): no Chrome do Anderson (ferramentas claude-in-chrome), business.facebook.com › Cobrança e pagamentos:
    - Pedro: conta de mensagens do WhatsApp "Pedro Sachet - Anderson Vieira" (business_id 329214668338518; conta 1939404097037176) e a conta de anúncios do Pedro.
    - Bia: as contas de mensagens e de anúncios do portfólio da Bia, se houver pagamento no mês.
@@ -44,6 +44,7 @@ Nunca digite senha nem faça login: se alguma conta pedir login, pule e avise no
    - WhatsApp (valor REAL do recibo da Meta; substitui o estimado pelo Up): {"kind":"cost","category":"Comunicação","item":"WhatsApp (Meta)","source":"recibo","source_key":"up:whatsapp"}.
    - Compartilhados, METADE em cada projeto, item com "(metade)": Render "infra:render", Neon "infra:neon", Cloudflare "infra:cloudflare", AWS "infra:aws", Resend "infra:resend" (category "Infraestrutura"); assinatura do Claude "ia:claude" (category "IA").
    - OpenAI: NÃO lance (a aba já mede a IA de dentro do Up); só salve a nota no Drive.
+   - Ferramentas (category "Ferramentas", source "recibo"): vturb "ferramentas:vturb" e ManyChat "ferramentas:manychat". No Pedro, o vturb é pago pelo Anderson (paid_by "anderson"). Na Bia, vturb e ManyChat são pagos pelo Rodrigo (paid_by "rodrigo"). Se a mesma assinatura servir aos dois projetos, lance metade em cada um e avise.
    - Outros custos com nota (ferramenta nova etc.): category adequada, source "recibo", source_key "outro:<serviço>".
    Em "note", coloque o nome do arquivo salvo no Drive.
 5. Ligue a pasta do mês de cada projeto à aba: grave {"url":"https://drive.google.com/drive/folders/<id da pasta do mês>"} e rode `up api PUT v1/finance/months/<AAAA-MM>/drive <arquivo.json>`.
