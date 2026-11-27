@@ -8,13 +8,13 @@
 
 ## Aluno
 - **Aluno = quem comprou qualquer coisa do expert, em qualquer época.** A mesma régua vale para campanha, lista e preço de aluno. Aluno teve custo por venda bem menor (Bia: R$ 186 x R$ 334, não verificado). [Bia] *hipótese forte*
-- **Preço de aluno sem preço público:** verificador "Sou aluno" (e-mail com tag de compra aprovada) libera o checkout de aluno. [Pedro `01-estrategia-enxuta-black.md` §0] Na Bia o preço de aluno foi público. → ver `decisoes.md`.
+- **Preço de aluno sem preço público:** verificador "Sou aluno" (e-mail com tag de compra aprovada) libera o checkout de aluno. [Pedro `01-estrategia-enxuta-black.md` §0] Vale para todos os projetos a partir da próxima campanha (decisão de 27/11/2026, P1). *firme*
 - Campanha de aluno **separada** da de não aluno, com copy própria. [ambos]
 
 ## Escassez, carrinho e reabertura
 - **Escassez só real:** um degrau de preço com hora marcada; fechamento técnico na Hotmart; data interna nunca entra na copy; nada de "não reabre" se pode reabrir. [Pedro] *firme*
 - **Reabertura:** Bia fechou, avisou que fechou e reabriu 2-3 dias depois com a forma de pagamento que ficou de fora (método Sirius). Resultado fraco: uma venda, nenhum boleto parcelado pago. Pedro: reabertura só no grupo de inscritos. *hipótese*
-- **Pós-Black:** Pedro faz downsell separado no tempo (dias depois) para não canibalizar o combo; Bia não faz downsell para preservar o valor do combo e partiu para oferta por curso. Duas filosofias em teste → `decisoes.md`.
+- **Pós-Black:** Pedro faz downsell separado no tempo (dias depois) para não canibalizar o combo; Bia não faz downsell para preservar o valor do combo e partiu para oferta por curso. **Decisão de 27/11/2026 (C1): não unificar.** O pós-Black segue o catálogo: poucos produtos (Pedro) → downsell separado no tempo; muitos produtos (Bia) → oferta por curso. Comparar os resultados no debriefing.
 
 ## Oferta por curso (pós-Black da Bia)
 - Ângulo "ninguém fica de fora", página única com quiz "em qual etapa você trava?", um bloco e um checkout por curso; quem comprou o combo fica de fora. [Bia `plano-black-reabertura-e-oferta-por-curso-12nov26.md`]

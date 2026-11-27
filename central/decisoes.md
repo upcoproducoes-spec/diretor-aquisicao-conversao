@@ -1,48 +1,51 @@
 # Decisões: levar de um projeto para o outro?
 
 Cada linha: o quê, de onde → para onde, situação (a decidir / sim / não / esperar), motivo e, depois, o resultado.
-Itens levantados em 27/11/2026 na montagem da central. Situação inicial: **a decidir pelo Anderson**.
+"Sim" = virou regra no playbook e é pendência no projeto de destino; nada é executado no Up ou nas contas sem o OK do Anderson na hora.
 
-## Do Pedro para a Bia
-| # | O quê | Situação | Motivo / observação |
-|---|---|---|---|
-| P1 | Verificador "Sou aluno" e preço de aluno só no checkout (sem preço público) | a decidir | Na Bia o preço de aluno foi público |
-| P2 | Régua de e-mail de abandono de 7 dias, um tema por e-mail | a decidir | Bia só tem e-mails de compra/abandono do livro |
-| P3 | Banco de ângulos com proibidos e tabela de prova social permitida | a decidir | Evita as proibições de copy que se repetiram na Bia |
-| P4 | Avatar do comprador montado a partir das vendas, comparado com o do lead | a decidir | O avatar da Bia errou o comprador |
-| P5 | Página aberta ou fechada conforme o anúncio mostre o produto | a decidir | VSL do livro |
-| P6 | Remarketing sempre ligado e teste/escala/remarketing juntos | a decidir | |
-| P7 | Árvore de objeções em 5 passos por produto | a decidir | Base para Camila e agente da Hotmart |
-| P8 | Conteúdo metade Descoberta, metade Nutrição, com distribuição paga | a decidir | |
-| P9 | Camila (recuperação) também na Bia | a decidir | A Camila já é uma só para todos; falta ativar na Bia |
-| P10 | Julgar gancho de VSL por venda e play rate como primeiro gargalo | a decidir | |
+## Rodada de 27/11/2026 (montagem da central)
+Decisão do Anderson: **tudo como recomendado**.
 
-## Da Bia para o Pedro
-| # | O quê | Situação | Motivo / observação |
-|---|---|---|---|
-| B1 | Limites de marketing (3 por pessoa), lista de supressão e lotes com parada | a decidir | |
-| B2 | Regras de grupos de WhatsApp | a decidir | Se o Pedro usar grupos |
-| B3 | Convite a lead antigo em 6 toques com e-mail intercalado | a decidir | Base antiga do Pedro |
-| B4 | Boas práticas de e-mail (minúsculas, um link, decisão por clique e compra) | a decidir | |
-| B5 | Roteiros: corpo serve a gancho A e B, CTA por último, 2,5 palavras/s | a decidir | |
-| B6 | Cortes de live como anúncio, com CTA gravado à parte | a decidir | |
-| B7 | Identidade visual em 3 camadas (marca, produto, campanha) | a decidir | |
-| B8 | Estáticos com "por" em destaque e sem botão desenhado | a decidir | |
-| B9 | Editar anúncio só pela API (Gerenciador liga textos de IA) | a decidir | Vale para os dois; proposta: regra firme |
-| B10 | Proteção de preço avulso x combo | a decidir | Para quando o Pedro tiver combo e avulsos |
-| B11 | Captar base o ano inteiro para a Black seguinte | a decidir | |
-
-## Conflitos para unificar
-| # | Tema | Pedro | Bia | Situação |
+### Do Pedro para a Bia
+| # | O quê | Situação | Como aplicar / observação | Resultado |
 |---|---|---|---|---|
-| C1 | Pós-Black | downsell dias depois | sem downsell, reabertura e oferta por curso | a decidir |
-| C2 | Corte de criativo | 1×/1,5× o alvo; lote com 2× | sai ao gastar o CPA máximo sem venda | a decidir |
+| P1 | Verificador "Sou aluno" e preço de aluno só no checkout | **sim** | Na próxima campanha da Bia (na Black de nov/26 o preço de aluno foi público) | |
+| P2 | Régua de e-mail de abandono de 7 dias, um tema por e-mail | **sim, adaptando** | Começar pelo livro e pelo curso que mais vende; e-mails do livro seguem sem preço | |
+| P3 | Banco de ângulos com proibidos e tabela de prova social permitida | **sim** | Um por produto da Bia | |
+| P4 | Avatar do comprador a partir das vendas, comparado com o do lead | **sim** | Cruzar compradores (Hotmart) antes da próxima copy | |
+| P5 | Página aberta ou fechada conforme o anúncio mostre o produto | **sim, teste** | VSL do livro | |
+| P6 | Remarketing sempre ligado; teste, escala e remarketing juntos | **sim** | | |
+| P7 | Árvore de objeções em 5 passos por produto | **sim** | Livro e Dominando primeiro; base para Camila e agente da Hotmart | |
+| P8 | Conteúdo metade Descoberta, metade Nutrição, com distribuição paga | **sim** | Verba da distribuição paga a definir pelo Anderson | |
+| P9 | Camila na Bia | **esperar** | Depois das 2 rodadas dos 32 testes de aceitação no Pedro. Em 27/11 a tabela de resultados de `C:\Users\User\Documents\Claude\Sistema\camila-testes-aceitacao.md` estava em branco (testes não rodados), embora a Camila do Pedro já esteja em automático | |
+| P10 | Julgar gancho de VSL por venda; play rate como primeiro gargalo | **sim** | | |
 
-## Da Sirius para os dois
+### Da Bia para o Pedro
+| # | O quê | Situação | Como aplicar / observação | Resultado |
+|---|---|---|---|---|
+| B1 | Teto de 3 de marketing por pessoa, supressão, lotes com parada | **sim** | | |
+| B2 | Regras de grupos de WhatsApp | **esperar** | Só se o Pedro passar a usar grupos | |
+| B3 | Convite a lead antigo em 6 toques com e-mail intercalado | **sim** | Próxima campanha do Pedro | |
+| B4 | E-mail: minúsculas, um link, decisão por clique e compra | **sim** | | |
+| B5 | Roteiros: corpo serve a gancho A e B, CTA por último, 2,5 palavras/s | **sim** | | |
+| B6 | Cortes de live como anúncio, com CTA gravado à parte | **sim, teste** | | |
+| B7 | Identidade visual em 3 camadas (marca, produto, campanha) | **sim** | | |
+| B8 | Estáticos com "por" em destaque e sem botão desenhado | **sim** | | |
+| B9 | Editar anúncio só pela API | **sim, regra firme nos dois** | Playbook 04 | |
+| B10 | Preço avulso nunca abaixo do combo | **sim** | Quando o Pedro tiver combo e avulsos | |
+| B11 | Captar base o ano inteiro para a Black seguinte | **sim** | | |
+
+### Conflitos
+| # | Tema | Decisão |
+|---|---|---|
+| C1 | Pós-Black | **Não unificar:** poucos produtos (Pedro) → downsell separado no tempo; muitos produtos (Bia) → oferta por curso. Comparar no debriefing. Playbook 02. |
+| C2 | Corte de criativo | **Regra única:** 3 a 5 dias e gasto mínimo; sai com 1× o CPA máximo sem venda (ou 1,5× o alvo); lote troca com 2×; valores de CPA de cada projeto. Playbook 04. |
+
+### Da Sirius para os dois
 | # | O quê | Situação |
 |---|---|---|
-| S1 | Debriefing de cada campanha terminando em decisões ordenadas por valor em reais | a decidir |
-| S2 | Preflight de 12 itens antes de subir campanha | a decidir |
-| S3 | Regra da casa com força e alcance, registrada aqui no playbook ao fim de cada sessão (/pente-fino) | a decidir |
-| S4 | Pesquisa e avatar obrigatórios antes da copy | a decidir |
-| S5 | Camada da Sirius nos agentes que ainda não leem (estrategista, psicologia, persuasão, vendas, growth e revisores deles) | a decidir |
+| S1 | Debriefing de cada campanha terminando em decisões ordenadas por valor em reais | **sim** (playbook 04) |
+| S2 | Preflight de 12 itens antes de subir campanha | **sim** (playbook 04) |
+| S3 | Ao fim de cada sessão, o aprendido vira regra no playbook com força e origem | **sim** (CLAUDE.md da central, item 6) |
+| S4 | Pesquisa e avatar obrigatórios antes da copy | **sim** |
+| S5 | Camada da central e da Sirius nos agentes que não liam | **feito em 27/11** (estrategista, psicologia, persuasão, vendas e revisores de estratégia, psicologia, persuasão, vendas, growth e funil-VSL) |

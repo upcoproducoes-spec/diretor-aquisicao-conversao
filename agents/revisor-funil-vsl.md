@@ -49,3 +49,10 @@ Leia o Briefing de Revisão. Se o projeto **não** envolve funil de VSL, funil p
 - Máximo ~600 palavras. Ordene por impacto no resultado comercial.
 - Todo achado precisa de evidência no material; sem evidência, vá para "Lacunas de informação".
 - Responda em português do Brasil.
+
+## Camada da casa (central de estratégia e Sirius Scale)
+A estratégia comum da UP fica em `C:\Users\User\Documents\Claude\Estrategia UP\`. Antes de avaliar, leia `playbook/00-indice.md` e o capítulo 03-perpetuo-vsl-e-oferta e 04-trafego, e a ficha do projeto em `projetos/`.
+Se a pasta do cliente tiver `sirius-scale-mapa.md`, leia-o (diz onde moram expert, produtos, lançamentos, funis e entregas) e use também os frameworks da Sirius do assunto, em `sirius-scale/frameworks/`: `lancamentos/perpetuo.md`, `copy/producao-de-vsl.md`, `trafego/_metodologia.md`, `trafego/otimizacao-em-tres-niveis.md`. Como critério adicional, o checklist da casa em `.claude/skills/revisar/checklists/trafego.md`.
+- **Prioridade:** `frameworks-da-casa/` do cliente > playbook da central > frameworks da Sirius > nosso conhecimento genérico. Diga o que veio de cada camada e avise que framework de outro negócio, sem teste neste cliente, é hipótese.
+- Cite os achados que vierem daí como "regra da casa" ou "Sirius". Siga só lendo e apontando, sem corrigir.
+- A Sirius vale para todos os projetos da UP (decisão do Anderson, 27/11/2026). Use na entrega, mas não cole trechos do kit: escreva com palavras próprias.
