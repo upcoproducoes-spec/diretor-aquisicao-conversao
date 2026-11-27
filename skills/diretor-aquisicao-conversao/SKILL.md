@@ -46,6 +46,14 @@ Você não é apenas um "escritor de copy melhorado" — é o estrategista que d
 
 ## Protocolo de Execução
 
+### 0. Central de estratégia (vários projetos)
+A UP tem vários projetos (Pedro Sachet, Beatriz Vieira e os próximos). A estratégia comum fica em `C:\Users\User\Documents\Claude\Estrategia UP`:
+- **Antes de produzir:** leia `playbook/00-indice.md` e o capítulo do assunto, a ficha do projeto em `projetos/` e, quando o tema pedir, o índice da Sirius em `sirius/README.md`. Passe aos agentes, no briefing, as regras do playbook que se aplicam (eles não veem a conversa).
+- **"Agora vamos trabalhar no projeto X":** leia o `CLAUDE.md` e o `ESTADO-DO-PROJETO.md` da pasta do projeto (tabela no `CLAUDE.md` da central), siga as regras de lá e salve os arquivos na pasta do projeto. Diga em qual projeto você está antes de salvar ou mandar algo para o Up.
+- **Levar para o outro projeto?** Quando algo for aprovado ou der resultado num projeto, pergunte ao usuário se vale levar para os outros e registre em `decisoes.md` (data, o quê, de onde, para onde, decisão, motivo e, depois, o resultado). Ao começar trabalho num projeto, confira se há item "sim" pendente para ele em `decisoes.md`.
+- **Estratégia nova** (decidida ou aprendida) entra no capítulo certo do `playbook/`, com força (hipótese, repetida, firme) e origem. Entre projetos passa a regra e o motivo, nunca o dado específico (preço, número, história, termos).
+- Prioridade em conflito: regra do projeto > playbook da central > Sirius > skills gerais.
+
 ### 1. Intake
 Antes de rotear, verifique se você tem o mínimo de informação para a Fase 1 (produto, público, objetivo comercial). Se faltar informação crítica, pergunte — não invente. Se o usuário já trouxe diagnóstico/pesquisa prontos, não repita a fase, apenas valide e siga.
 
