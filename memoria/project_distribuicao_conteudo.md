@@ -5,7 +5,7 @@ metadata:
   node_type: memory
   type: project
   originSessionId: fbd7c86b-ed6c-4a5c-a793-88daa6198b6c
-  modified: 2026-11-27T01:54:52.197Z
+  modified: 2026-11-27T02:01:17.311Z
 ---
 
 Desde 26/11/2026 o Anderson quer distribuir os melhores posts de trabalho do Pedro com tráfego pago, cerca de R$ 10/dia no mês (nunca posts pessoais: aniversário, pet etc.).
@@ -16,6 +16,8 @@ Estrutura proposta (ainda não montada no Meta em 26/11):
 - **Conversão** não sai desta verba: é o perpétuo e o morno. Post de parceria (Kerr) só com permissão de conteúdo de marca.
 
 Atualização (26/11, fim do dia): a verba recomendada passou a R$ 10 + R$ 10. O público de Nutrição é quem salvou ou mandou mensagem em 30 dias, sem compradores e sem quem viu página, VSL ou checkout em 14 dias. O Pedro quase não publica, então o conteúdo são os **cortes de live, pelo menos 3 por semana** (2 de Descoberta e 1 de Nutrição, cada um com ponte). A prova é "mais de 800 alunos" e o público é só dentistas. Até existir a ascensão (teste em janeiro para quem comprou o morfoguide e não tem o curso), nenhum post cita o morfologic. A regra BLACK desliga em 01/12 (tarefa agendada pedro-desligar-regra-black). Os documentos da estratégia (growth e playbook de pontes) ainda esperavam correções C1 a C5 e decisão sobre os 6 posts antigos.
+
+Montado em 26/11, PAUSADO: campanha 031.1 Descoberta (campanha 120255119733460120, conjunto 120255119733640120, anúncio 120255119737830120). Ela impulsiona o Anatomia Primária com R$ 10/dia, visitas ao perfil, BR, só Instagram, sem seguidores, engajados 365d e compradores, até 26/12. O Anderson liga. O plano no Up é a tarefa 8e19dbe0. A rotina de tráfego não julga essa campanha pelo CPA.
 
 As sugestões semanais de conteúdo (rotina up-sugestoes-pedro e CLAUDE.md da pasta) agora nascem com objetivo: metade Descoberta, metade Nutrição, com o objetivo no começo do título.
 
