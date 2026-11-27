@@ -16,4 +16,4 @@ Regras para qualquer tela:
 6. Título da tela igual ao nome no menu.
 
 **Why:** o Anderson achou o Up desorganizado (ex.: botão "Desligar" grande em Campanhas; "Quero produzir" passava por 3 telas).
-**How to apply:** feito (26/11): painel de produção, Financeiro, Campanhas, Páginas (campanha trocada na própria página), Automações (criar em painel, ligar só pela chavinha). Componente reaproveitável: moreMenu() em ui.js e dialog.sheet. Próximos: Aprovações reunindo tudo, Criativos/Imagens/Peças, abas e filtros num jeito só. Relacionado: [[up-producao-conteudo]], [[up-campanhas-configuracoes]].
+**How to apply:** feito em 26-27/11 (estilo A em todo o app): painel de produção, Financeiro, Campanhas, Páginas, Automações, Aprovações reunindo tudo (posts, criativos, comentários, tráfego), Criativos/Imagens com menu ⋯, sem prompt() do navegador (askSheet), filtros e abas de situação em pílulas (.pills/.pill), liga/desliga sempre chavinha (toggleSwitch salva na hora; formSwitch em formulário), título do Início = menu. Peças reaproveitáveis em ui.js: moreMenu, askSheet, formSwitch, toggleSwitch; painel lateral = dialog.sheet. Tela nova: usar só essas peças.
