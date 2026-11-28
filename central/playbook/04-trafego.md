@@ -6,7 +6,8 @@
 - Duas janelas: a curta para alerta, o mês para decisão. [Sirius]
 
 ## CPA, cortes e escala
-- **CPA alvo pelo ticket médio do funil inteiro**, não pelo preço do front, e sobre o valor que o projeto realmente recebe (Bia paga mídia com ~50% do bruto; Pedro usa 30% do ticket). A lógica transfere; os valores são de cada projeto. [ambos] *firme*
+- **CPA alvo pelo ticket médio do funil inteiro**, não pelo preço do front. O que fica para os sócios é **faturamento menos tráfego** (Anderson, 28/11/2026; a premissa antiga de "Bia paga mídia com ~50% do bruto" caiu). Bia: alvo = ticket ÷ 2 (R$ 89 na Black com o livro a R$ 178, R$ 180 com o livro a R$ 297); Pedro: 30% do ticket. A régua muda junto com o preço do período. A lógica transfere; os valores são de cada projeto. [ambos] *firme*
+- **Julgar o funil inteiro por criativo** (Anderson, 28/11/2026): ROAS do funil = faturamento de front + bump + upsell + downsell que a Dash atribui ao anúncio ÷ gasto. Front caro que traz upsell e fecha o funil no alvo **fica** (exemplo: livro a R$ 178 com custo por venda de R$ 175, mas muito upsell = ok). Prejuízo é ROAS do funil abaixo de 1. Funil inteiro no prejuízo = mexer em página e oferta antes de anúncio. Conferir se o perpétuo da Dash tem todos os produtos do funil. [ambos] *hipótese*
 - **Corte de criativo (regra única, decisão do Anderson em 27/11/2026, C2):** julgar só depois de 3 a 5 dias e de um gasto mínimo. O criativo sai quando gasta **1× o CPA máximo sem venda** (ou **1,5× o CPA alvo**); o **lote troca com 2×** sem venda, sem pausar a campanha. Os valores de CPA são de cada projeto. [ambos] *firme*
 - **Escala:** 10 vendas **e** CPA/ROAS no alvo, as duas juntas; aumento máximo de 20% ao dia. [ambos, método Thiago Roas] *firme*
 - **Fadiga:** reduzir verba antes de desligar; evitar pausa longa (reinicia o aprendizado). [ambos] *firme*

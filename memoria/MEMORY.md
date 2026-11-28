@@ -49,3 +49,4 @@
 - [Central de estratégia](central-estrategia-up.md) — Estrategia UP é a sede: playbook, kit da Sirius, atalhos do diretor/agentes, Camila (a mover), fontes; projetos só com o que é deles
 - [Comando com botão de play](comando-com-botao-de-play.md) — comando para o Anderson rodar sempre em uma linha num bloco powershell
 - [Up: conjuntos, figurinha e agendamento em Criativos](up-criativos-conjuntos-agendamento.md) — stories/carrossel como asset-set, "Figurinha:" na observação
+- [Julgar o funil inteiro](julgar-funil-inteiro.md) — criativo pelo ROAS do funil (front + upsell + downsell − tráfego), Pedro e Bia

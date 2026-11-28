@@ -62,6 +62,7 @@ O relatório vai para `entregas/<cliente>/analises/preflight-AAAA-MM-DD.md`. O m
 - Uma mudança por objeto por dia; espere a janela de medição antes da próxima.
 - Conjunto em aprendizado ou com aviso de aprendizado sem sucesso: leia **antes** de mexer; muitas vezes o problema é volume ou orçamento baixo para o evento escolhido.
 - Número de aula ou de caso é **não verificado**. Amostra pequena é hipótese.
+- **Funil inteiro (regra do Anderson, 28/11/2026):** o que fica para os sócios é faturamento menos tráfego. Julgue cada criativo pelo **ROAS do funil** (front + bump + upsell + downsell que a Dash atribui ao anúncio ÷ gasto com imposto), ao lado do custo por venda do front. Front caro que traz upsell e fecha o funil no alvo fica; corte por prejuízo só com ROAS do funil abaixo de 1. Funil inteiro no prejuízo: página e oferta antes de anúncio. A régua de CPA segue o preço do período (promoção muda o ticket).
 
 ## Rotina diária (esqueleto; o conteúdo de cada passo vem da estratégia ativa)
 Rode toda manhã. Preflight resumido (itens 2, 3, 5, 12) em leitura e aviso. Fontes: Meta e Dash Fácil.
