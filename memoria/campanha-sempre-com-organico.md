@@ -12,3 +12,5 @@ Regra do Anderson (28/11/2026): toda estratégia de campanha, seja perpétuo, la
 
 **Why:** o orgânico reforça a mensagem que o pago está rodando (ex.: "últimos dias" da Black) e alcança quem segue o expert sem custo; ele lembrou disso ao ver que a Black do Pedro só tinha peças pagas.
 **How to apply:** ao montar ou revisar qualquer plano, o diretor inclui a frente orgânica (quantas peças, qual dia, CTA com a palavra-chave da regra de comentário do Up, quando houver) e pede ao criador-conteudo e ao designer junto com os anúncios. Peças orgânicas sobem no Up como conjunto com `phase: "conteudo"` e com tarefa de legenda ligada ([[up-criativos-conjuntos-agendamento]]).
+
+**Legenda sempre (Anderson, 28/11/2026, Pedro e Bia):** todo criativo orgânico sobe com legenda, inclusive cada conjunto de stories (tarefa "Legenda" ligada à tela 1). Ele achou stories sem legenda no Up e pediu como regra. Antes de entregar, conferir `GET v1/assets/publish-info?set=<id>` / `?ids=<id>`: `caption.text` não pode vir vazio.
