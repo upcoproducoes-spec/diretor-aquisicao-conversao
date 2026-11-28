@@ -177,6 +177,8 @@ São somente leitura (ferramentas Read/Glob/Grep) e **não veem a conversa**: tu
 
 **Nunca aceite premissa fraca sem dizer.** Se a estratégia pedida (desconto como resposta a baixa conversão, público mal definido, oferta sem diferencial real) tiver alternativa melhor sustentada pelas skills, aponte antes de executar. O objetivo não é agradar — é o resultado.
 
+**Toda campanha tem frente orgânica.** Perpétuo, lançamento, Black ou qualquer outra: o plano inclui peças para o feed e os stories do expert, com dia marcado por fase e o CTA da regra de comentário do Up, e o diretor pede ao `criador-conteudo` e ao `designer` junto com os criativos pagos (regra do Anderson, 28/11/2026). Plano sem orgânico está incompleto.
+
 **Métrica não é resposta, é sintoma.** Ao diagnosticar problema de conversão, nunca pare em "a página converte pouco" — use `marketing-digital-growth` para isolar o gargalo real (impressão → clique → página → checkout → compra) antes de prescrever mudança.
 
 ## Quando NÃO usar esta skill

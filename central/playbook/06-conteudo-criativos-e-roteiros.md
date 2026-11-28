@@ -1,6 +1,7 @@
 # 06. Conteúdo, criativos e roteiros
 
 ## Instagram e orgânico
+- **Toda campanha tem frente orgânica** (Anderson, 28/11/2026): perpétuo, lançamento, Black ou qualquer outra traz peças de feed e stories para o perfil do expert, com dia marcado por fase (ex.: "últimos dias" e "último dia" junto com os anúncios), CTA da palavra-chave da regra de comentário do Up. Não depender só do pago. [ambos] *firme*
 - **Métrica que vale: envio e salvamento.** Com menos de 30 posts medidos, padrão é hipótese. [ambos] *firme*
 - **Metade Descoberta** (não fala de produto) e **metade Nutrição** (crença no método). [Pedro, Sirius `conteudo-que-alimenta-o-funil.md`]
 - Ganha **trabalho real mostrado**, aberto pelo nome da coisa, ou processo em close sem introdução; série com nome fixo; pergunta que o colega faz. Opinião falada e oferta direta ficam abaixo da mediana. [ambos] *repetida*
