@@ -7,6 +7,8 @@ description: Processo da aba Tráfego do Up, usado pelas rotinas diárias de cad
 
 Esta skill é o **processo** (o que ler, como publicar no Up, como aplicar). O **método** de análise (como decidir o que pausar, escalar ou esperar) vem da skill de método que a rotina indicar na linha "Skill de método". Se a rotina não indicar, use o agente `gestor-trafego` (`C:\Users\User\.claude\agents\gestor-trafego.md`) com a skill `estrategia-trafego-funil`. A estratégia é a escolhida para o funil; não invente outra.
 
+**Cada frente tem a sua estratégia, definida pelo Anderson, e toda sugestão sai dela.** A rotina diz qual vale para cada frente (por exemplo, no Pedro: Thiago Roas nos perpétuos BR e ES; plano próprio da Black, aprovado em 18/11, na campanha de carrinho). Antes de sugerir, releia a estratégia da frente e aplique as regras dela (graduação para a escala, corte, escala de verba, janela de leitura). Uma regra de uma frente não vale para a outra. No resumo de cada frente, diga em uma linha qual estratégia e qual regra sustentam cada sugestão ("Thiago Roas, corte de criativo: 1,5× o alvo sem venda"). Se a estratégia não cobre o caso, escreva "esperar" e leve às Pendências para o Anderson; não improvise regra.
+
 Responda sempre em português do Brasil.
 
 A rotina deve rodar sozinha, sem parar para perguntar: não peça confirmação no meio, não faça perguntas ao Anderson, não espere resposta. Se algo falhar (fonte fora do ar, objeto não encontrado), registre e siga.
@@ -31,9 +33,12 @@ A rotina deve rodar sozinha, sem parar para perguntar: não peça confirmação 
    Compare as fontes, diga onde divergem e qual número usou. Nunca invente número; fonte que falhar, diga qual e siga.
 5. **Decidir** com a skill de método. Regras fixas, valem para qualquer método:
    - Uma sugestão por objeto (campanha, conjunto ou anúncio), com o ID do Meta.
-   - Ações que a rotina de aplicar executa: `pause`, `activate`, `budget` (orçamento diário novo, no máximo +20% por vez em quem está dentro do alvo). Qualquer outra coisa (criativo novo, público, página, VSL) vai como `outro` e fica para a conversa.
+   - Ações que a rotina de aplicar executa: `pause`, `activate`, `budget` (orçamento diário novo, no máximo +20% por vez em quem está dentro do alvo). Qualquer outra coisa (criativo novo, público, página, VSL) vai nas "Pendências para o Anderson" do resumo, não como sugestão.
    - Com poucos dados (menos de 2× o CPA alvo gasto), não force sugestão: escreva "esperar" no resumo, com o motivo e a data em que volta a julgar.
    - Nunca proponha excluir. Não sugira mexer num objeto que teve mudança aplicada hoje. Não repita o que o Anderson já decidiu não fazer.
+   - **Histórico da aba (leia antes de sugerir):** `node up.cjs api GET v1/traffic/fronts/<id da frente>/analysis` traz as sugestões anteriores com a situação de cada uma. Sugestão **recusada ou descartada** nos últimos 7 dias no mesmo objeto não volta, a não ser com fato novo, que o motivo diz qual é ("descartada em 28/11; de lá para cá gastou mais R$ 120 sem venda"). Sugestão de ontem que **ainda vale** volta com o mesmo título e o motivo atualizado, para o Anderson reconhecer que é a mesma. Sugestão **aceita** já está decidida: não publique de novo.
+   - **Só vira sugestão o que a rotina de aplicar executa:** `pause`, `activate` e `budget`. O resto (conferir UTM, escolher criativo, arrumar página ou VSL, ligar produto na Dash, criar anúncio) **não** vai como sugestão `outro`: vai no fim do resumo, num parágrafo "Pendências para o Anderson:", uma linha por pendência, curta. Assim a aba só pede clique no que o clique resolve.
+   - Prefira poucas sugestões fortes a muitas fracas. Na dúvida, "esperar" no resumo.
 6. **Publicar, uma vez por frente**, mesmo sem sugestões (o resumo aparece na aba e diz por que não há sugestão):
    - Grave o JSON com Write no scratchpad da sessão e rode `node "<pasta do projeto>\up.cjs" trafego-analise "<caminho do json>"`.
    - Formato:

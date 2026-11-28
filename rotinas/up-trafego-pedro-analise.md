@@ -1,0 +1,27 @@
+---
+name: up-trafego-pedro-analise
+description: Todo dia: lê Meta, Dashfácil, Hotmart e vturb e publica na aba Tráfego do Up a análise e as sugestões de cada frente (Funil BR, Funil ES, Black). Só lê e sugere.
+---
+
+Use a skill **up-trafego** no **modo ANÁLISE** e siga o processo dela do começo ao fim, sem parar para perguntar.
+
+- **Projeto:** Pedro Sachet. Pasta: C:\Users\User\Documents\Claude\Pedro Sachet (rode todos os comandos de dentro dela).
+- **Skill de método:** estratégia **Thiago Roas** para os perpétuos (Funil BR e Funil ES): leia `C:\Users\User\.claude\skills\estrategias-trafego\thiago-roas-perpetuo.md` e aplique a skill `estrategia-trafego-funil` (e `funil-vsl-thiago-roas` quando útil), com o agente gestor-trafego. Precedência em conflito: (1) decisões do Anderson abaixo e na memória; (2) metodologia do Thiago Roas; (3) heurísticas gerais. Black (carrinho, campanha 032.1): vale o plano aprovado pelo Anderson em 18/11, `projeto-black-morfologic\15-plano-trafego-carrinho-black.md`, seções 2.3 e 7 (decide pela Dash Fácil por utm_content comparada ao Meta; corte de peça, corte de conjunto com -30% de verba, escala +20% com ROAS bruto ≥ 3 e 3 vendas em 24 h; o quente não desliga antes do fechamento; decisões de manhã, nunca à noite). CPA alvo da fase 2: R$ 300 (decisão do Anderson em 26/11, vale sobre a seção 2.3). Pode sugerir pela aba seguindo essas regras.
+- **Regras do Thiago Roas que a análise TEM de cumprir (decisões do Anderson):**
+  - **Escala (graduação):** criativo só vai para a Escala 1 (029.2) com **ROAS ≥ 2 E pelo menos 10 vendas reais na Dash** (as duas juntas, desde 02/11). Com menos de 10 vendas, nunca sugerir levar para a escala, nem como "outro". Criativo vendendo bem e com pouca entrega fica no teste, em "sustentar", e o resumo diz quantas vendas faltam.
+  - **Orçamento:** no máximo +20% por vez, uma vez por dia, nunca dobrar; só em campanha dentro do alvo. Na semana da Black (até 30/11) não subir orçamento do perpétuo nem pausar campanha de perpétuo.
+  - **Leitura:** regra 7-3-1 (7 dias, 3 dias e hoje; nunca decidir por um dia só). Métrica mestre: custo por finalização de compra (checkout) e ticket médio, com as 3 métricas da VSL no vturb; ROAS e CTR isolados não decidem.
+  - **Corte de criativo:** as regras de corte da memória (`feedback_limite_perda_rotacao.md`), com o alvo de 30% do ticket. O ADV07 vende com pouca verba: não sugerir desligá-lo por baixa entrega. **Tolerância (Anderson, 25/11):** criativo que já vende e tem potencial (vendas recentes, custo por checkout bom, gancho e CTR que seguram, 3 dias melhor que 7) pode ter CPA de até R$ 250 na Dash (7 dias) sem sugestão de pausa; diga no resumo que está na tolerância. Acima de R$ 250, ou sem sinal de potencial, corte normal. Sem venda, valem 1× e 1,5× o alvo.
+  - **Histórico de decisões e o que já foi feito:** leia `C:\Users\User\.claude\scheduled-tasks\trafego-pedro-relatorio-diario\SKILL.md` (seções "Estrutura" e "Feito em ...") antes de sugerir.
+- **Conta de anúncios:** CA01 - PEDRO SACHET (507486585521313). O Funil ES está na mesma conta (campanhas com MORFOGUIDE-ES no nome).
+- **Frentes:** Funil BR, Funil ES e Black (veja `node up.cjs trafego`). CPA alvo: Black R$ 300; morfoguide BR e ES 30% do valor vendido (decisão do Anderson em 25/11; vale para as regras de corte da memória; o Up também mostra 30% desde 28/11). Na semana da Black (até 30/11), não sugerir subir orçamento do perpétuo nem pausar campanha de perpétuo. Para a venda por anúncio, use a Dash (no Up a ligação src/sck vem 0).
+- **Estratégia de cada frente (obrigatória; uma não vale para a outra):**
+  - **Funil BR e Funil ES:** estratégia Thiago Roas de perpétuo (regras acima: graduação ROAS ≥ 2 e 10 vendas, +20% por vez, 7-3-1, corte da memória com tolerância de R$ 250).
+  - **Black (032.1):** o plano da Black aprovado em 18/11 (`15-plano-trafego-carrinho-black.md`, seções 2.3 e 7) com o alvo de R$ 300; não use regra do perpétuo aqui. O conjunto quente não desliga antes do fechamento; anúncio pode ser pausado dentro dele.
+  - Cada sugestão diz no motivo qual estratégia e qual regra a sustenta.
+- **Funil ES, atribuição (decisão do Anderson em 28/11):** as vendas ES chegam na Hotmart sem UTM ou com a UTM da campanha antiga 015, e a Dash mostra 0 venda dos anúncios atuais mesmo com venda real (a UTM dos anúncios da 030.1 foi conferida e está certa). Enquanto isso durar, julgue o ES pelo total da frente (Hotmart pelo Up) contra o alvo: se o CPA da frente estiver dentro do alvo, não sugira pausar criativo só porque a Dash mostra 0 venda dele; diga "esperar" e quantas vendas a frente fez. Corte de criativo ES só com o CPA da frente acima do alvo.
+- **Black, leitura por peça:** se o lançamento BLACK-DA-LOGICA (2249) continuar sem produto ligado na Dash, diga isso uma vez nas Pendências para o Anderson e julgue pelos conjuntos no Meta e pelo total da Hotmart.
+- **Feito na conversa em 28/11 (não sugerir o contrário sem fato novo):** pausados o ADV88 (029.1) e o ADV-V01-F2-GA só no [F2][Q] da Black (para os anúncios de fechamento entregarem). Registro: `outputs\pedro-sachet\analises\registro-acoes-trafego-2026-11-28.md` (leia os registros de ações dessa pasta).
+- **Documentos de tráfego a ler:** projeto-black-morfologic\15-plano-trafego-carrinho-black.md e 18-subida-carrinho-black.md (quando existirem), além do CLAUDE.md e da memória da pasta.
+
+Responda em português do Brasil. No fim, uma linha por frente: CPA real × alvo e quantas sugestões publicou.
